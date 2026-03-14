@@ -77,7 +77,6 @@ async def fetch_doulist_pages(session, theater):
                         raw_title = title_elem.text.strip()
                         clean_title = clean_douban_title(raw_title)
                         
-                        # 从 meta 中提取精确的首播年份，例如 "2023-05-01" 提取 "2023"
                         year = None
                         if meta_elem:
                             meta_text = meta_elem.text.strip()
@@ -90,7 +89,7 @@ async def fetch_doulist_pages(session, theater):
                 if len(items) < page_size:
                     break
                 start += page_size
-                await asyncio.sleep(0.5) # 防止豆瓣风控
+                await asyncio.sleep(0.5) 
         except Exception as e:
             print(f"获取 {theater['name']} 第 {page_count} 页出错: {e}")
             break
@@ -122,12 +121,16 @@ async def search_tmdb(session, item, cache):
                 data = await resp.json()
                 results = data.get("results", [])
                 
+                # 获取当天的北京时间，用于拦截未开播的剧
+                tz_bj = datetime.timezone(datetime.timedelta(hours=8))
+                today_str = datetime.datetime.now(tz_bj).strftime("%Y-%m-%d")
+                
                 for res in results:
                     tmdb_name = (res.get("name") or "").strip().lower()
                     query_name = title.strip().lower()
                     
-                    # 严格的名称和年份匹配，防止同名剧覆盖
-                    is_title_match = (tmdb_name == query_name)
+                    # 宽松一点包含匹配，兼容部分副标题
+                    is_title_match = (query_name in tmdb_name or tmdb_name in query_name)
                     is_year_match = True
                     first_air = res.get("first_air_date")
                     
@@ -135,11 +138,25 @@ async def search_tmdb(session, item, cache):
                         is_year_match = first_air.startswith(year)
                         
                     if is_title_match and is_year_match:
+                        # 🔴 核心拦截逻辑 1：检查是否缺失ID和海报
+                        tmdb_id = res.get("id")
+                        poster_path = res.get("poster_path")
+                        backdrop_path = res.get("backdrop_path")
+                        
+                        if not tmdb_id or not poster_path or not backdrop_path:
+                            # 数据不全，看 TMDB 返回的下一个搜索结果
+                            continue
+                            
+                        # 🔴 核心拦截逻辑 2：检查是否未开播
+                        if not first_air or first_air > today_str:
+                            # 未到开播时间，或者 TMDB 根本没写开播时间，直接跳过
+                            continue
+
                         genre_ids = res.get("genre_ids", [])
                         genre_names = ",".join([GENRE_MAP.get(gid) for gid in genre_ids if GENRE_MAP.get(gid)])
                         
                         info = {
-                            "id": str(res["id"]),
+                            "id": str(tmdb_id),
                             "type": "tmdb",
                             "title": res.get("name"),
                             "description": res.get("overview"),
@@ -147,8 +164,8 @@ async def search_tmdb(session, item, cache):
                             "voteCount": res.get("vote_count"),
                             "popularity": res.get("popularity"),
                             "releaseDate": first_air,
-                            "posterPath": res.get("poster_path"),
-                            "backdropPath": res.get("backdrop_path"),
+                            "posterPath": poster_path,
+                            "backdropPath": backdrop_path,
                             "mediaType": "tv",
                             "genreTitle": genre_names
                         }
@@ -172,27 +189,19 @@ async def process_theater(session, theater, cache):
                 shows.append(tmdb_info)
         await asyncio.sleep(0.2)
 
-    now = datetime.datetime.now().strftime("%Y-%m-%d")
-    aired = []
+    # 经过 search_tmdb 过滤，能留下的 100% 都是已开播的数据，所以 upcoming 恒定为空数组即可
+    aired = shows
     upcoming = []
-
-    # 分离已开播和未开播
-    for show in shows:
-        release_date = show.get("releaseDate")
-        if release_date and release_date <= now:
-            aired.append(show)
-        else:
-            upcoming.append(show)
             
     # 已开播按时间倒序排列 (最新的在前面)
     aired.sort(key=lambda x: x.get("releaseDate") or "0000-00-00", reverse=True)
     
-    print(f"✅ [{theater['name']}] 处理完成: 共发现 {len(items)} 部，成功匹配 {len(shows)} 部 (已播 {len(aired)}，待播 {len(upcoming)})")
+    print(f"✅ [{theater['name']}] 处理完成: 共发现 {len(items)} 部，完美匹配 {len(shows)} 部 (全部为已播双图精品)")
     
     return {
         theater["name"]: {
             "aired": aired,
-            "upcoming": upcoming,
+            "upcoming": upcoming, # 保持结构兼容前端，即使为空
             "totalItems": len(items),
             "totalPages": douban_data["page_count"]
         }
@@ -219,7 +228,7 @@ async def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
         
-    print(f"\n🎉 伟大工程完成！所有剧场数据已保存至 {OUTPUT_FILE}")
+    print(f"\n🎉 伟大工程完成！所有洁净版剧场数据已保存至 {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     asyncio.run(main())
