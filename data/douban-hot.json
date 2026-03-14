@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14 19:07:58",
+  "last_updated": "2026-03-14 20:20:54",
   "tv": [
     {
       "id": "279388",
@@ -342,8 +342,8 @@
       "type": "tmdb",
       "title": "青年夏洛克",
       "description": "这部玩世不恭、动作场面精彩的推理影集由盖瑞奇执导，讲述夏洛克福尔摩斯的传奇起源，描绘这位著名侦探最早期的冒险故事。",
-      "rating": 8.1,
-      "vote_count": 94,
+      "rating": 8.108,
+      "vote_count": 97,
       "popularity": 93.6516,
       "releaseDate": "2026-03-04",
       "posterPath": "/beWoUmSdD8BHGmtodOoxVYQO6lG.jpg",
@@ -468,8 +468,8 @@
       "type": "tmdb",
       "title": "她的盛焰",
       "description": "三年前，数学天才饶雨瓷被闺蜜兼创业合伙人白靓靓设计构陷，因“药物成瘾”袭击母亲，被家人强制送进了心康治疗中心接受治疗，而白靓靓靠卖掉两人创办的公司，成为历森集团的高管。亲情、友情、爱情、事业悉数从她的人生退场。天才坠落的同时，也死死记住了推她进深渊的脸。 三年后，饶雨瓷病愈出院，她精心计划，誓要揭下白靓靓的伪善面具，让她的恶行在阳光之下无所遁形……",
-      "rating": 9.0,
-      "vote_count": 1,
+      "rating": 8.5,
+      "vote_count": 2,
       "popularity": 4.0475,
       "releaseDate": "2026-03-13",
       "posterPath": "/zyHpEpZmzwMPvB8cJrFpc0FOmFW.jpg",
@@ -958,8 +958,8 @@
       "type": "tmdb",
       "title": "雄鸡生活",
       "description": "本喜剧以大学校园为背景，讲述一位作家与他女儿之间复杂的关系。",
-      "rating": 7.143,
-      "vote_count": 14,
+      "rating": 7.2,
+      "vote_count": 15,
       "popularity": 59.2874,
       "releaseDate": "2026-03-08",
       "posterPath": "/9lBVaIrzi4jqXlRfmD19GuG1TO3.jpg",
@@ -1532,7 +1532,7 @@
       "type": "tmdb",
       "title": "恋爱恐惧症",
       "description": "讲述了感性满分（100%）的言情小说家韩善浩（金贤镇 饰），与毫无感性（0%）的AI配对程序It’s You的代表尹菲雅（妍雨 饰），两人相遇后逐渐理解彼此、寻获真爱的故事。",
-      "rating": 8.0,
+      "rating": 8.5,
       "vote_count": 2,
       "popularity": 9.7257,
       "releaseDate": "2026-02-19",
@@ -1624,20 +1624,6 @@
       "backdropPath": "/kXGdrgIkKttrAvKFMCrM8P3wSE4.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,科幻奇幻"
-    },
-    {
-      "id": "311844",
-      "type": "tmdb",
-      "title": "乞救之噬，覆食殆尽",
-      "description": "新人偶像南濑天在团体中长期遭受排挤与欺凌。某天，她意外获得机会，在人气演员宝生千秋主演的电视剧中担任替身，从而与他相遇。起初，千秋只是接受朋友的赌约，抱着玩笑的心态接近天，却渐渐被她的单纯与坚强吸引。随着感情加深，他的爱开始失控，从温柔守护变成强烈占有。爱与执念的界线逐渐崩塌，一场危险而扭曲的恋情悄然展开。",
-      "rating": 0.0,
-      "vote_count": 0,
-      "popularity": 0.3103,
-      "releaseDate": "2026-02-12",
-      "posterPath": "/8nPGMEjFFqyuT3NZZfKsVxJ0q2b.jpg",
-      "backdropPath": null,
-      "mediaType": "tv",
-      "genreTitle": ""
     },
     {
       "id": "255064",
@@ -2130,20 +2116,6 @@
       "genreTitle": "动画,喜剧"
     },
     {
-      "id": "307013",
-      "type": "tmdb",
-      "title": "原以为大家不以貌取人",
-      "description": "从中学到大学都专注于棒球、外表平平、靠个性取胜的年轻人石黑大和（菅生新树 饰）在入职出版社后，原本想成为体育杂志编辑，却被分配到时尚杂志部门。面对全新的环境和注重外表的同事，他逐渐意识到外貌的重要性，同时反思自己一直坚持“原以为大家不以貌取人”的想法。通过在职场和生活中的磨砺，他开始重新理解人与人之间的关系，以及内在与外在的平衡与成长。",
-      "rating": 0.0,
-      "vote_count": 0,
-      "popularity": 0.7633,
-      "releaseDate": "2026-01-08",
-      "posterPath": "/a17NLD53cGTqNMdlqe63eLPuPo8.jpg",
-      "backdropPath": null,
-      "mediaType": "tv",
-      "genreTitle": "剧情"
-    },
-    {
       "id": "281161",
       "type": "tmdb",
       "title": "贵族转生 ～得天眷顾一出生就获得最强力量～",
@@ -2198,20 +2170,6 @@
       "backdropPath": "/yvEPuVdVbGbkvxuXFDu0PyTkG99.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪"
-    },
-    {
-      "id": "305837",
-      "type": "tmdb",
-      "title": "雪烟追逐",
-      "description": "「要有不在场证明，就只能找到那位在滑雪场邂逅的神秘女性单板滑雪者！」\n\n某天，一名被指控犯下谋杀案并遭到警方追捕的“大学生”，凭借他唯一的线索，与朋友一同来到滑雪场寻找那位女性单板滑雪者。\n\n与此同时，一名被卷入地方警局与警视厅总部的权力斗争的“地方警局刑警”，被指派秘密调查此案。\n\n在前滑雪选手的居酒屋老板娘的帮助下，他逐渐逼近真相……\n\n本作的追逐战将以日本最大级别的滑雪场为舞台，白雪皑皑的世界中，被冤枉的大学生 VS 地方刑警 VS 警视厅总部，一场无法预测的较量即将展开。",
-      "rating": 0.0,
-      "vote_count": 0,
-      "popularity": 0.5043,
-      "releaseDate": "2026-01-02",
-      "posterPath": "/vi1uarD0zRCFSaafkg2YSPSih04.jpg",
-      "backdropPath": null,
-      "mediaType": "tv",
-      "genreTitle": ""
     }
   ],
   "tv_domestic": [
@@ -2528,8 +2486,8 @@
       "type": "tmdb",
       "title": "她的盛焰",
       "description": "三年前，数学天才饶雨瓷被闺蜜兼创业合伙人白靓靓设计构陷，因“药物成瘾”袭击母亲，被家人强制送进了心康治疗中心接受治疗，而白靓靓靠卖掉两人创办的公司，成为历森集团的高管。亲情、友情、爱情、事业悉数从她的人生退场。天才坠落的同时，也死死记住了推她进深渊的脸。 三年后，饶雨瓷病愈出院，她精心计划，誓要揭下白靓靓的伪善面具，让她的恶行在阳光之下无所遁形……",
-      "rating": 9.0,
-      "vote_count": 1,
+      "rating": 8.5,
+      "vote_count": 2,
       "popularity": 4.0475,
       "releaseDate": "2026-03-13",
       "posterPath": "/zyHpEpZmzwMPvB8cJrFpc0FOmFW.jpg",
@@ -2894,8 +2852,8 @@
       "type": "tmdb",
       "title": "青年夏洛克",
       "description": "这部玩世不恭、动作场面精彩的推理影集由盖瑞奇执导，讲述夏洛克福尔摩斯的传奇起源，描绘这位著名侦探最早期的冒险故事。",
-      "rating": 8.1,
-      "vote_count": 94,
+      "rating": 8.108,
+      "vote_count": 97,
       "popularity": 93.6516,
       "releaseDate": "2026-03-04",
       "posterPath": "/beWoUmSdD8BHGmtodOoxVYQO6lG.jpg",
@@ -2978,8 +2936,8 @@
       "type": "tmdb",
       "title": "雄鸡生活",
       "description": "本喜剧以大学校园为背景，讲述一位作家与他女儿之间复杂的关系。",
-      "rating": 7.143,
-      "vote_count": 14,
+      "rating": 7.2,
+      "vote_count": 15,
       "popularity": 59.2874,
       "releaseDate": "2026-03-08",
       "posterPath": "/9lBVaIrzi4jqXlRfmD19GuG1TO3.jpg",
@@ -3396,20 +3354,6 @@
       "genreTitle": "剧情"
     },
     {
-      "id": "311844",
-      "type": "tmdb",
-      "title": "乞救之噬，覆食殆尽",
-      "description": "新人偶像南濑天在团体中长期遭受排挤与欺凌。某天，她意外获得机会，在人气演员宝生千秋主演的电视剧中担任替身，从而与他相遇。起初，千秋只是接受朋友的赌约，抱着玩笑的心态接近天，却渐渐被她的单纯与坚强吸引。随着感情加深，他的爱开始失控，从温柔守护变成强烈占有。爱与执念的界线逐渐崩塌，一场危险而扭曲的恋情悄然展开。",
-      "rating": 0.0,
-      "vote_count": 0,
-      "popularity": 0.3103,
-      "releaseDate": "2026-02-12",
-      "posterPath": "/8nPGMEjFFqyuT3NZZfKsVxJ0q2b.jpg",
-      "backdropPath": null,
-      "mediaType": "tv",
-      "genreTitle": ""
-    },
-    {
       "id": "304928",
       "type": "tmdb",
       "title": "未来的儿子",
@@ -3508,20 +3452,6 @@
       "genreTitle": "剧情,悬疑,犯罪"
     },
     {
-      "id": "307013",
-      "type": "tmdb",
-      "title": "原以为大家不以貌取人",
-      "description": "从中学到大学都专注于棒球、外表平平、靠个性取胜的年轻人石黑大和（菅生新树 饰）在入职出版社后，原本想成为体育杂志编辑，却被分配到时尚杂志部门。面对全新的环境和注重外表的同事，他逐渐意识到外貌的重要性，同时反思自己一直坚持“原以为大家不以貌取人”的想法。通过在职场和生活中的磨砺，他开始重新理解人与人之间的关系，以及内在与外在的平衡与成长。",
-      "rating": 0.0,
-      "vote_count": 0,
-      "popularity": 0.7633,
-      "releaseDate": "2026-01-08",
-      "posterPath": "/a17NLD53cGTqNMdlqe63eLPuPo8.jpg",
-      "backdropPath": null,
-      "mediaType": "tv",
-      "genreTitle": "剧情"
-    },
-    {
       "id": "303315",
       "type": "tmdb",
       "title": "火星女王",
@@ -3534,20 +3464,6 @@
       "backdropPath": "/oRojicdeqfW0NPnIpV8npVypdjr.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,科幻奇幻"
-    },
-    {
-      "id": "305837",
-      "type": "tmdb",
-      "title": "雪烟追逐",
-      "description": "「要有不在场证明，就只能找到那位在滑雪场邂逅的神秘女性单板滑雪者！」\n\n某天，一名被指控犯下谋杀案并遭到警方追捕的“大学生”，凭借他唯一的线索，与朋友一同来到滑雪场寻找那位女性单板滑雪者。\n\n与此同时，一名被卷入地方警局与警视厅总部的权力斗争的“地方警局刑警”，被指派秘密调查此案。\n\n在前滑雪选手的居酒屋老板娘的帮助下，他逐渐逼近真相……\n\n本作的追逐战将以日本最大级别的滑雪场为舞台，白雪皑皑的世界中，被冤枉的大学生 VS 地方刑警 VS 警视厅总部，一场无法预测的较量即将展开。",
-      "rating": 0.0,
-      "vote_count": 0,
-      "popularity": 0.5043,
-      "releaseDate": "2026-01-02",
-      "posterPath": "/vi1uarD0zRCFSaafkg2YSPSih04.jpg",
-      "backdropPath": null,
-      "mediaType": "tv",
-      "genreTitle": ""
     }
   ],
   "tv_korean": [
@@ -3822,7 +3738,7 @@
       "type": "tmdb",
       "title": "恋爱恐惧症",
       "description": "讲述了感性满分（100%）的言情小说家韩善浩（金贤镇 饰），与毫无感性（0%）的AI配对程序It’s You的代表尹菲雅（妍雨 饰），两人相遇后逐渐理解彼此、寻获真爱的故事。",
-      "rating": 8.0,
+      "rating": 8.5,
       "vote_count": 2,
       "popularity": 9.7257,
       "releaseDate": "2026-02-19",
@@ -4186,34 +4102,6 @@
       "genreTitle": "纪录片"
     },
     {
-      "id": "308968",
-      "type": "tmdb",
-      "title": "四海中医",
-      "description": "寻访亚洲、欧洲、美洲等地区，讲述中医药文化海内外传播的故事。凤凰卫视主持人杨舒、万俊、黄橙子、田桐、田川去往不同的地区和国度，用脚步丈量草木的故乡，用镜头记录人类共通的疗愈之道。《四海中医》，用一场跨越山海的旅程，讲述东方智慧的当代表达。",
-      "rating": 0.0,
-      "vote_count": 0,
-      "popularity": 0.0821,
-      "releaseDate": "2025-11-01",
-      "posterPath": "/tA69wzMSpigU9MEHirGL8enZYsr.jpg",
-      "backdropPath": null,
-      "mediaType": "tv",
-      "genreTitle": "纪录片"
-    },
-    {
-      "id": "310810",
-      "type": "tmdb",
-      "title": "一步不停歇，半步不退让",
-      "description": "由中央纪委国家监委宣传部与中央广播电视总台央视联合摄制的电视专题片《一步不停歇 半步不退让》，将于1月11日至14日在中央广播电视总台央视综合频道晚8点档播出，央视新闻新媒体平台同步播发。\n\n　　反腐败是最彻底的自我革命。新时代新征程，以习近平同志为核心的党中央以自我革命的高度自觉，以“得罪千百人、不负十四亿”的使命担当，推进全面从严治党和反腐败斗争。专题片充分展现纪检监察机关始终保持永远在路上的坚韧执着，坚守以人民为中心的价值取向，持续推进党风廉政建设和反腐败斗争，坚持风腐同查同治，深化整治群众身边不正之风和腐败问题，严惩政商勾连腐败，坚决清除“围猎”这一政治生态污染源，以科技赋能正风反腐，着力铲除腐败滋生的土壤和条件，不断推动纪检监察工作高质量发展取得新进展、新成效。\n\n　　专题片选取了12个案例，共四集，分别为《纠风治乱为民》《严惩政商勾连腐败》《清理“围猎”污染源》《科技赋能反腐》，深刻反映纪检监察机关一步不停歇、半步不退让，一体推进不敢腐、不能腐、不想腐，坚决打好反腐败斗争攻坚战、持久战、总体战。",
-      "rating": 0.0,
-      "vote_count": 0,
-      "popularity": 0.0214,
-      "releaseDate": "2026-01-11",
-      "posterPath": "/sbV7ERzcemvJdfwYbNtsz70UgY8.jpg",
-      "backdropPath": null,
-      "mediaType": "tv",
-      "genreTitle": "纪录片"
-    },
-    {
       "id": "230936",
       "type": "tmdb",
       "title": "生而狂野",
@@ -4342,20 +4230,6 @@
       "genreTitle": "真人秀"
     },
     {
-      "id": "314523",
-      "type": "tmdb",
-      "title": "今夜喜友秀",
-      "description": "节目由大张伟、付航领衔，庞博、王建国、周奇墨、小鹿、嘻哈、房主任等一众喜剧人齐聚，融合单口喜剧、Sketch、幽默访谈与音乐喜剧等多种喜剧形式，每期深入一个年轻人热议话题，打造真正适合年轻人精神状态的多元喜剧节目。",
-      "rating": 0.0,
-      "vote_count": 0,
-      "popularity": 1.0883,
-      "releaseDate": "2026-02-20",
-      "posterPath": "/23d0Q5w4hAeAVlEvthUIGLgPaE3.jpg",
-      "backdropPath": null,
-      "mediaType": "tv",
-      "genreTitle": "脱口秀,真人秀"
-    },
-    {
       "id": "309015",
       "type": "tmdb",
       "title": "日落时分说爱你",
@@ -4368,34 +4242,6 @@
       "backdropPath": "/HgzdLlH4HAZ41OBwPENsy62F0O.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
-    },
-    {
-      "id": "315597",
-      "type": "tmdb",
-      "title": "我家那小子2026",
-      "description": "《我家那小子2026》是双平台王鹏飞团队制作，一档真实刻画青年群体面临当下各人生状态和成长挑战的生活记录真人秀，关注各界有影响力的小子们独自生活的点滴。节目将引发观众对“自我价值”与“生活意义”的深度思考，既呼应青年对多元人生的向往，也彰显新时代男性青年“温柔而坚定、松弛而有力量”的精神面貌，传递温暖向上的社会正能量。",
-      "rating": 0.0,
-      "vote_count": 0,
-      "popularity": 1.0251,
-      "releaseDate": "2026-02-22",
-      "posterPath": null,
-      "backdropPath": null,
-      "mediaType": "tv",
-      "genreTitle": ""
-    },
-    {
-      "id": "310310",
-      "type": "tmdb",
-      "title": "八仙子团建日",
-      "description": "《八仙子团建日》（Baxianzi Team Build） 是2026年小红书独播的沉浸式友情互动综艺，以“一次录制、分篇呈现”形式，记录“八仙子”团体无剧本线下团建。蒋易、李黑、牛爷爷等成员主导主题环节，即兴游戏与热血互动交织，尽显老友真挚情谊与喜剧张力。",
-      "rating": 10.0,
-      "vote_count": 1,
-      "popularity": 2.6655,
-      "releaseDate": "2026-01-03",
-      "posterPath": "/68eg6fQQ9VyPsICn2VxYRPhBC8S.jpg",
-      "backdropPath": null,
-      "mediaType": "tv",
-      "genreTitle": "真人秀,喜剧"
     },
     {
       "id": "308871",
