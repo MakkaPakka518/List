@@ -106,11 +106,20 @@ async def fetch_tmdb_detail(session, item, cache):
                     is_year_ok = first_air.startswith(db_year)
                 
                 if is_title_ok and is_year_ok:
+                    # 🔴 核心修改：检查是否有 ID、竖版海报 和 横版海报
+                    tmdb_id = res.get("id")
+                    poster_path = res.get("poster_path")
+                    backdrop_path = res.get("backdrop_path")
+                    
+                    if not tmdb_id or not poster_path or not backdrop_path:
+                        # 任意一项缺失，则跳过这个 TMDB 匹配结果，尝试看下一个结果是否满足
+                        continue
+
                     genre_ids = res.get("genre_ids", [])
                     genre_names = ",".join([GENRE_MAP.get(gid) for gid in genre_ids if GENRE_MAP.get(gid)])
 
                     info = {
-                        "id": str(res["id"]),
+                        "id": str(tmdb_id),
                         "type": "tmdb",
                         "title": res.get("name"),
                         "description": res.get("overview"),
@@ -118,8 +127,8 @@ async def fetch_tmdb_detail(session, item, cache):
                         "vote_count": res.get("vote_count"),
                         "popularity": res.get("popularity"),
                         "releaseDate": first_air,
-                        "posterPath": res.get("poster_path"),
-                        "backdropPath": res.get("backdrop_path"),
+                        "posterPath": poster_path,
+                        "backdropPath": backdrop_path,
                         "mediaType": "tv",
                         "genreTitle": genre_names
                     }
