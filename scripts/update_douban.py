@@ -164,10 +164,10 @@ async def main():
             final_result[region["value"]] = matched
 
     # 记录最后更新时间 (北京时间)
-    import datetime, timezone
+    import datetime
     tz_bj = datetime.timezone(datetime.timedelta(hours=8))
     final_result["last_updated"] = datetime.datetime.now(tz_bj).strftime("%Y-%m-%d %H:%M:%S")
-
+    
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_result, f, ensure_ascii=False, indent=2)
     print(f"✅ 所有豆瓣热榜数据已成功保存至 {OUTPUT_FILE}")
