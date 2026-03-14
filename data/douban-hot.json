@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14 20:20:54",
+  "last_updated": "2026-03-14 20:37:06",
   "tv": [
     {
       "id": "279388",
@@ -398,7 +398,7 @@
       "type": "tmdb",
       "title": "给你宇宙",
       "description": "讲述一对男女之间跌宕起伏的育儿同居恋曲。他们原本是姻亲，却突然发现自己要共同抚养20个月大的侄子「宇宙」。既不像陌生人那样疏远、也未必能真正成为家人的他们，在孩子闯入生活后，逐渐学会成长与靠近，故事温暖又疗愈。",
-      "rating": 8.259,
+      "rating": 8.3,
       "vote_count": 29,
       "popularity": 26.8565,
       "releaseDate": "2026-02-04",
@@ -3528,7 +3528,7 @@
       "type": "tmdb",
       "title": "给你宇宙",
       "description": "讲述一对男女之间跌宕起伏的育儿同居恋曲。他们原本是姻亲，却突然发现自己要共同抚养20个月大的侄子「宇宙」。既不像陌生人那样疏远、也未必能真正成为家人的他们，在孩子闯入生活后，逐渐学会成长与靠近，故事温暖又疗愈。",
-      "rating": 8.259,
+      "rating": 8.3,
       "vote_count": 29,
       "popularity": 26.8565,
       "releaseDate": "2026-02-04",
@@ -4074,18 +4074,18 @@
       "genreTitle": "纪录片"
     },
     {
-      "id": "300999",
+      "id": "230936",
       "type": "tmdb",
-      "title": "鬼屋实录",
-      "description": "通过身临其境的场景重现与当代访谈，本片从亲历者视角详细记录了超自然遭遇的真实经历。",
-      "rating": 6.2,
-      "vote_count": 24,
-      "popularity": 3.3869,
-      "releaseDate": "2025-10-07",
-      "posterPath": "/8XK4kBkP7QVIPnl6dFfdPSCICs6.jpg",
-      "backdropPath": "/oS4ZzG1c4xZtZRrJipNqXs1b17Z.jpg",
+      "title": "生而狂野",
+      "description": "这部历时数年、跨越三大洲拍摄的六集纪录片，追踪六只濒危幼崽在人类世界成长却终将回归自然的历程。从初生襁褓到踏上荒野征程，聚焦这些生命在生存挑战中展现的坚韧与胜利，既刻画动物自身的生存之道，也展现守护它们的非凡人类。",
+      "rating": 8.3,
+      "vote_count": 7,
+      "popularity": 1.7192,
+      "releaseDate": "2025-12-19",
+      "posterPath": "/izwQMwqZUV8xkusgemAkAeDyW6H.jpg",
+      "backdropPath": "/89WJ9Nih8F3cuS9gY7TtPns9AUG.jpg",
       "mediaType": "tv",
-      "genreTitle": "纪录片,悬疑"
+      "genreTitle": "纪录片"
     },
     {
       "id": "309531",
@@ -4102,32 +4102,18 @@
       "genreTitle": "纪录片"
     },
     {
-      "id": "230936",
+      "id": "300999",
       "type": "tmdb",
-      "title": "生而狂野",
-      "description": "这部历时数年、跨越三大洲拍摄的六集纪录片，追踪六只濒危幼崽在人类世界成长却终将回归自然的历程。从初生襁褓到踏上荒野征程，聚焦这些生命在生存挑战中展现的坚韧与胜利，既刻画动物自身的生存之道，也展现守护它们的非凡人类。",
-      "rating": 8.3,
-      "vote_count": 7,
-      "popularity": 1.7192,
-      "releaseDate": "2025-12-19",
-      "posterPath": "/izwQMwqZUV8xkusgemAkAeDyW6H.jpg",
-      "backdropPath": "/89WJ9Nih8F3cuS9gY7TtPns9AUG.jpg",
+      "title": "鬼屋实录",
+      "description": "通过身临其境的场景重现与当代访谈，本片从亲历者视角详细记录了超自然遭遇的真实经历。",
+      "rating": 6.2,
+      "vote_count": 24,
+      "popularity": 3.3869,
+      "releaseDate": "2025-10-07",
+      "posterPath": "/8XK4kBkP7QVIPnl6dFfdPSCICs6.jpg",
+      "backdropPath": "/oS4ZzG1c4xZtZRrJipNqXs1b17Z.jpg",
       "mediaType": "tv",
-      "genreTitle": "纪录片"
-    },
-    {
-      "id": "298234",
-      "type": "tmdb",
-      "title": "查理·辛的演艺人生",
-      "description": "在这部分由两部分组成的真实纪录片中，演员查理·辛讲述自己的故事，回顾了在好莱坞声名鹊起、绯闻缠身的事业下滑以及康复治疗的经历。",
-      "rating": 7.52,
-      "vote_count": 50,
-      "popularity": 3.305,
-      "releaseDate": "2025-09-10",
-      "posterPath": "/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
-      "backdropPath": "/qSxabAdLMiJWIJUb7hbSVvwMm4s.jpg",
-      "mediaType": "tv",
-      "genreTitle": "纪录片"
+      "genreTitle": "纪录片,悬疑"
     },
     {
       "id": "303109",
@@ -4140,6 +4126,20 @@
       "releaseDate": "2025-11-07",
       "posterPath": "/63hWjrNMZgQDGNFKCiO4dbwvtKq.jpg",
       "backdropPath": "/nZKcaSSV7NaGfuPeE6N4Xt5St7E.jpg",
+      "mediaType": "tv",
+      "genreTitle": "纪录片"
+    },
+    {
+      "id": "262281",
+      "type": "tmdb",
+      "title": "维多利亚·贝克汉姆",
+      "description": "走进维多利亚·贝克汉姆的伦敦工作室，跟随这位辣妹出身的实力派设计师为巴黎时装周做准备，听她讲述自己的生活。",
+      "rating": 6.7,
+      "vote_count": 10,
+      "popularity": 2.9828,
+      "releaseDate": "2025-10-09",
+      "posterPath": "/dJjWMwWk86zMGPQlMvAsptVEDYm.jpg",
+      "backdropPath": "/8yy8zWNVESHVcs0azqfDH4sLqk6.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片"
     },
@@ -4172,16 +4172,16 @@
       "genreTitle": "纪录片"
     },
     {
-      "id": "262281",
+      "id": "298234",
       "type": "tmdb",
-      "title": "维多利亚·贝克汉姆",
-      "description": "走进维多利亚·贝克汉姆的伦敦工作室，跟随这位辣妹出身的实力派设计师为巴黎时装周做准备，听她讲述自己的生活。",
-      "rating": 6.7,
-      "vote_count": 10,
-      "popularity": 2.9828,
-      "releaseDate": "2025-10-09",
-      "posterPath": "/dJjWMwWk86zMGPQlMvAsptVEDYm.jpg",
-      "backdropPath": "/8yy8zWNVESHVcs0azqfDH4sLqk6.jpg",
+      "title": "查理·辛的演艺人生",
+      "description": "在这部分由两部分组成的真实纪录片中，演员查理·辛讲述自己的故事，回顾了在好莱坞声名鹊起、绯闻缠身的事业下滑以及康复治疗的经历。",
+      "rating": 7.52,
+      "vote_count": 50,
+      "popularity": 3.305,
+      "releaseDate": "2025-09-10",
+      "posterPath": "/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
+      "backdropPath": "/qSxabAdLMiJWIJUb7hbSVvwMm4s.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片"
     }
@@ -4200,6 +4200,20 @@
       "backdropPath": "/qVOEDQRtXkZJtxXEw1KiQoBzhnp.jpg",
       "mediaType": "tv",
       "genreTitle": "脱口秀"
+    },
+    {
+      "id": "315850",
+      "type": "tmdb",
+      "title": "魔力歌先生",
+      "description": "魔性上头的歌，快乐发疯的舞台，魔力歌先生来了！",
+      "rating": 0.0,
+      "vote_count": 0,
+      "popularity": 0.8084,
+      "releaseDate": "2026-03-13",
+      "posterPath": "/ytkYAJYVtygOsedENRZrEeRVRfd.jpg",
+      "backdropPath": "/dlDrgLFfH0ABsUfAn4UTq2JXufL.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
     },
     {
       "id": "312878",
@@ -4442,20 +4456,6 @@
       "genreTitle": "真人秀"
     },
     {
-      "id": "305928",
-      "type": "tmdb",
-      "title": "南极厨师",
-      "description": "白种元亲自为来自30多个国家的数千名南极科研人员提供温暖饭菜的治愈项目。",
-      "rating": 7.0,
-      "vote_count": 1,
-      "popularity": 1.5197,
-      "releaseDate": "2025-11-17",
-      "posterPath": "/e3Og7e9hOS8qb5RMI4oQkt6AIbR.jpg",
-      "backdropPath": "/tacYNbD7b5vn0jflL0Lzp3epBAz.jpg",
-      "mediaType": "tv",
-      "genreTitle": "纪录片,动作冒险,喜剧"
-    },
-    {
       "id": "302173",
       "type": "tmdb",
       "title": "对我来说太刻薄的经纪人 - 秘书镇",
@@ -4468,6 +4468,20 @@
       "backdropPath": "/mpLTg1XfCKMZBdh0wECjPAm5P73.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀,喜剧,脱口秀"
+    },
+    {
+      "id": "305928",
+      "type": "tmdb",
+      "title": "南极厨师",
+      "description": "白种元亲自为来自30多个国家的数千名南极科研人员提供温暖饭菜的治愈项目。",
+      "rating": 7.0,
+      "vote_count": 1,
+      "popularity": 1.5197,
+      "releaseDate": "2025-11-17",
+      "posterPath": "/e3Og7e9hOS8qb5RMI4oQkt6AIbR.jpg",
+      "backdropPath": "/tacYNbD7b5vn0jflL0Lzp3epBAz.jpg",
+      "mediaType": "tv",
+      "genreTitle": "纪录片,动作冒险,喜剧"
     }
   ]
 }
