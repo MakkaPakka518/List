@@ -145,6 +145,20 @@ async def search_tmdb(session, anime, cache):
     tmdb_title = best_match.get("name") or best_match.get("title")
     release_date = best_match.get("first_air_date") or best_match.get("release_date") or ""
     score = best_match.get("vote_average", 0)
+
+    # 🌟 新增黑科技：拦截未开播的数据
+    # 获取当前的北京时间 (格式: YYYY-MM-DD)
+    tz_bj = datetime.timezone(datetime.timedelta(hours=8))
+    today_str = datetime.datetime.now(tz_bj).strftime("%Y-%m-%d")
+    
+    # 如果首播日期大于今天，说明还没开播，直接丢弃
+    if release_date and release_date > today_str:
+        print(f"❌ 丢弃: [{raw_title}] -> 尚未开播 (预定日期: {release_date})")
+        return None
+    # 针对 TMDB 完全没有写日期的极端情况也进行过滤
+    elif not release_date:
+        print(f"❌ 丢弃: [{raw_title}] -> TMDB 未提供开播日期，视为未开播")
+        return None
     
     # 转换地区 (TMDB 返回的 origin_country 是个数组，例如 ["JP"])
     raw_countries = best_match.get("origin_country", [])
@@ -167,7 +181,6 @@ async def search_tmdb(session, anime, cache):
         "backdropPath": best_match.get("backdrop_path"),
         "rating": round(float(score), 1),
         "description": f"{release_date[:4]} · ⭐ {round(float(score), 1)} · {country_str}\n{best_match.get('overview') or '暂无简介'}",
-        # 为将来的 Widget 高级筛选铺路 👇
         "genreTitle": genre_str,
         "regionTitle": country_str,
         "rawGenres": raw_genres,
