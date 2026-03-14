@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14 19:45:15",
+  "last_updated": "2026-03-14 20:24:11",
   "迷雾剧场": {
     "aired": [
       {
@@ -409,22 +409,7 @@
         "genreTitle": "悬疑,剧情"
       }
     ],
-    "upcoming": [
-      {
-        "id": "272432",
-        "type": "tmdb",
-        "title": "擒贼记",
-        "description": "脱离一线刑侦几年的警察张一昂（王骁 饰），因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣（王传君 饰）团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 1.8282,
-        "releaseDate": "2026-03-22",
-        "posterPath": "/egOAcZCXECsQV1c4mhg5vEYzveV.jpg",
-        "backdropPath": null,
-        "mediaType": "tv",
-        "genreTitle": "剧情,悬疑,犯罪"
-      }
-    ],
+    "upcoming": [],
     "totalItems": 30,
     "totalPages": 2
   },
@@ -597,66 +582,23 @@
         "backdropPath": "/9h8H5KJw3thVseDncppTianstOK.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情,悬疑"
+      },
+      {
+        "id": "2171",
+        "type": "tmdb",
+        "title": "铁证悬案",
+        "description": "Cold Case不同于CSI把犯罪调查过程象记录片似的呈现在观众眼前，也没有众多当今尖端科技的支持，在该剧中，几乎没有任何和CSI类似的关于用高科技分析尸体来寻找线索的场面，Lilly Rush，作为费城凶杀调查科的唯一女探员，构成了这部以调查陈年旧案为主题的电视剧的绝对核心人物。她的沉着冷静，机警敏锐，还有她那张纤细苍白的脸庞，给观众留下了难以磨灭的印象，这部剧的独特魅力在于，凭着Lilly坚韧的性格，她和她的搭档们总是千方百计的寻找那些至今还健在的当事人，让那些活在过去阴影中的人们在亦欣慰或痛苦的挣扎中去回忆当年发生的惨剧，把观众带到几十年前那个不同的世界，让真正的凶手在各当事人的不同回忆和口供的差异中一点点的凸现出来。而每一次的真相被揭露时，观众都会发现一个难以置信的结局，或悲惨，或愤怒，或无奈。但是无论当年发生的罪案如何难以置信，时间的流逝终究会抚平人们的一些悲伤。Cold Case全剧弥漫着浓厚的怀旧色彩和淡淡的忧伤，或者说是一种女性的温情，让你被每一个故事渐渐的感动，从而在心底留下一些触动。全剧最让人感动的地方就在结尾处，当真正的凶手被绳之以法后，Lilly总能看见当年死去的人们站在对面的街角，向她露出微笑，仿佛实在感谢她使冤案得以昭雪。那一刻，再坚硬的心，也会被深深打动的。",
+        "rating": 7.759,
+        "voteCount": 426,
+        "popularity": 47.9458,
+        "releaseDate": "2003-09-28",
+        "posterPath": "/5dmiNE8UdAqIyjjwZZWsjMhhV0b.jpg",
+        "backdropPath": "/oMeCp8jXpSyI41vHsjMkFfIJReh.jpg",
+        "mediaType": "tv",
+        "genreTitle": "犯罪,剧情,悬疑"
       }
     ],
-    "upcoming": [
-      {
-        "id": "265211",
-        "type": "tmdb",
-        "title": "旷野之境",
-        "description": "警察萧旷被诈骗分子诬陷，又因母亲的学生被诈骗猝死，使他意识到了反诈的重要性，因此义无反顾的投入到了反诈事业中去；而另一边李想与妻子被骗到国外做电诈，可妻子孕期惨死，李想意识到两人被骗的线索从国内起，于是逃出去后回到国内，化名舒野以牙还牙地展开了自己的复仇事业。萧旷和李想也注定了要围绕着电信诈骗来展开斗争……",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 0.8011,
-        "releaseDate": "",
-        "posterPath": "/uJPubslQ1x7TSwhh4Vcuegawy82.jpg",
-        "backdropPath": null,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": "273114",
-        "type": "tmdb",
-        "title": "悬案",
-        "description": "一桩悬案一个单元，两个单元一季悬案。《悬案》首季锁定《珠宝行连环劫案》《卞记旅馆灭门案》两个单元，在反其道而行的时间裂缝中解构罪恶对人的再塑造，也书写信念对人的再救赎。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 0.908,
-        "releaseDate": "",
-        "posterPath": "/bIcWRncjaMCagrbrA4oXl78ffnx.jpg",
-        "backdropPath": null,
-        "mediaType": "tv",
-        "genreTitle": "悬疑"
-      },
-      {
-        "id": "254498",
-        "type": "tmdb",
-        "title": "黑夜告白",
-        "description": "1997年，一桩电梯失踪案，将刑警何远航（潘粤明 饰）、冉方旭（王鹤棣 饰）卷入迷雾。经历波折，两人也曾陷入迷茫与怀疑，最终揭开真相。岁月流转，治愈人生迷惘，坚守正义，以乐观坚韧化解磨难。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 1.517,
-        "releaseDate": "",
-        "posterPath": "/qUhPr2XpczJpnQnXIqJjYaCxOli.jpg",
-        "backdropPath": "/fPQljDQuMsFO4BkcGb4s0459Lbr.jpg",
-        "mediaType": "tv",
-        "genreTitle": "犯罪"
-      },
-      {
-        "id": "270844",
-        "type": "tmdb",
-        "title": "势在必行",
-        "description": "本剧讲述了2000年，古城监狱新来的狱警罗维民无意间发现，正在服刑的重刑犯王国炎身负数起命案疑点。立功心切的他与同事赵中和想进一步调查此案时，却落入埋伏，身边的人也不明不白死去。一时之间，监狱内外，风云搅动，一场横跨十几年的追查就此展开。本剧是由中央政法委重点指导的国内首部监狱刑侦题材剧，改编自张平小说《十面埋伏》。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 1.0227,
-        "releaseDate": "",
-        "posterPath": "/kTnDQGqjDU4WTQ5Aax01FkR6xjw.jpg",
-        "backdropPath": null,
-        "mediaType": "tv",
-        "genreTitle": "剧情,悬疑,犯罪"
-      }
-    ],
+    "upcoming": [],
     "totalItems": 17,
     "totalPages": 1
   },
@@ -759,24 +701,23 @@
         "backdropPath": "/rCm6BJkkPukfHYWNNx7WkGpCdZH.jpg",
         "mediaType": "tv",
         "genreTitle": "犯罪,剧情,悬疑"
-      }
-    ],
-    "upcoming": [
+      },
       {
-        "id": "273119",
+        "id": "2260",
         "type": "tmdb",
-        "title": "人鱼",
-        "description": "一场少女失踪案，让三个命运迥异的女孩面临人生抉择，平凡家庭的悲喜尽显无余；地上城市与地下管道明暗交织，少女踽踽独行于其中，历经苦难，揭开背后的真相，完成自我救赎，走向希望。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 0.7368,
-        "releaseDate": "",
-        "posterPath": null,
-        "backdropPath": null,
+        "title": "美少女人鱼",
+        "description": "《美人鱼》是06年在澳大利亚开播的一部青春奇幻剧，故事讲述三个平凡的女孩无意间闯入 一个古老的洞穴然后身体发生了奇异的变化变成了三条美人鱼，该剧已经在全世界一百多个国家播出。",
+        "rating": 7.811,
+        "voteCount": 694,
+        "popularity": 10.4427,
+        "releaseDate": "2006-07-07",
+        "posterPath": "/kHWkoxEarJjIXUenEnJFr0i2Drp.jpg",
+        "backdropPath": "/waQxGw44tKEsKcLOkAWJsxyz7Bf.jpg",
         "mediaType": "tv",
-        "genreTitle": "悬疑,剧情"
+        "genreTitle": "剧情,家庭,科幻奇幻"
       }
     ],
+    "upcoming": [],
     "totalItems": 9,
     "totalPages": 1
   },
@@ -1182,50 +1123,7 @@
         "genreTitle": "剧情"
       }
     ],
-    "upcoming": [
-      {
-        "id": "261315",
-        "type": "tmdb",
-        "title": "十万狂花入梦来",
-        "description": "狂花照影，魑魅浮生。爱恨如织，一朝入梦。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 1.3084,
-        "releaseDate": "",
-        "posterPath": "/kfKYSbPqXoI9EZxT4y99A5j7LGx.jpg",
-        "backdropPath": "/22cHQeCOvzJPTXRV6pMr7X3gEaH.jpg",
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": "251600",
-        "type": "tmdb",
-        "title": "千香",
-        "description": "海陨至，建木现，得建木之实者，可御万物，仙、妖、魔三族为之陷入血战…… 百年后，雷修远为救相依为命的大哥，有意接近青丘孤女小棒槌，因缘际会下两人一同进入雏凤书院修习。书院以命相护的小伙伴给了小棒槌最初的友情，也埋下情动的念想。与雷修远也从好友到互相倾慕，最终进入同一门派，就在两颗心越靠越近之时，身世之谜也逐步揭开，小棒槌也不断脱胎换骨成了冰雪之姿的姜黎非。这闻所未闻的资质，令有心之人追查她的身世和来历。雷修远一路生死相随，在众人对异族秘辛的追逐里，走入雾一般的迷阵。相遇并非偶然，同为异类的二人为人们不容。身世背景的设定又让他们相爱而不得。最终，二人勇敢对抗宿命，炼化自身换回三界的太平。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 3.0451,
-        "releaseDate": "",
-        "posterPath": "/EqN7JbR6ECSgQ3eLbl2e6U7CrP.jpg",
-        "backdropPath": "/xiSoATbDWJ7F3fajLDD1PcKwDbB.jpg",
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": "252323",
-        "type": "tmdb",
-        "title": "烽影燃梅香",
-        "description": "具有双魂的古怪少女—安久（梅久）经过一番浴血奋战，从平凡少女成长为皇家女特工，一路闯关遇见了少年将军楚定江、翩翩公子华容简以及各具特色的特工小伙伴们，在家仇国恨与儿女情长中共同成长蜕变。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 2.9217,
-        "releaseDate": "",
-        "posterPath": "/qWpvwIHAg3S912P2QAshk8nrTmm.jpg",
-        "backdropPath": "/vGilLlhXjJDu0Nr2OtfCJKyfMto.jpg",
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      }
-    ],
+    "upcoming": [],
     "totalItems": 24,
     "totalPages": 1
   },
@@ -1316,27 +1214,26 @@
         "genreTitle": "剧情"
       }
     ],
-    "upcoming": [
-      {
-        "id": "289659",
-        "type": "tmdb",
-        "title": "平原客",
-        "description": "在大时代的历史变迁下，三位青年从梅陵小镇而来，历经商、政、警界的一生，怀揣着各自的秘密，最终他们又将归向何处？",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 0.6902,
-        "releaseDate": "",
-        "posterPath": null,
-        "backdropPath": null,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      }
-    ],
+    "upcoming": [],
     "totalItems": 11,
     "totalPages": 1
   },
   "小逗剧场": {
     "aired": [
+      {
+        "id": "261391",
+        "type": "tmdb",
+        "title": "喜剧之王单口季",
+        "description": "今年夏天举平台之力打造的S+级全新喜剧IP。周星驰将作为节目发起人，激励喜剧演员勇敢逐梦。常驻嘉宾携手行业OG带队，推荐来自全国各地俱乐部的宝藏喜剧演员，演员们将在这个全新顶级单口喜剧竞演舞台上互相比拼，从喜剧小人物一路成长为喜剧之王! 幽默--爆梗频出，快乐拉满 反卷--全新模式，热血团魂 多元一-五湖四海俱乐部，各具特色新演员 新生一-超多隐藏黑马，更新行业面貌 全新爆款喜剧节目，让你体验全新快乐",
+        "rating": 8.2,
+        "voteCount": 6,
+        "popularity": 8.0701,
+        "releaseDate": "2024-08-16",
+        "posterPath": "/o6XPcUGl2BBo8BEexwnURXJTp4x.jpg",
+        "backdropPath": "/bFPei9ftLD47MByE978MOBioYp5.jpg",
+        "mediaType": "tv",
+        "genreTitle": "真人秀,脱口秀,喜剧"
+      },
       {
         "id": "233962",
         "type": "tmdb",
@@ -1422,22 +1319,7 @@
         "genreTitle": "剧情,喜剧"
       }
     ],
-    "upcoming": [
-      {
-        "id": "277910",
-        "type": "tmdb",
-        "title": "喜剧之王",
-        "description": "根据1999年周星驰同名电影《喜剧之王》改编",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 0.7291,
-        "releaseDate": "",
-        "posterPath": "/tlj9CC9Do2tBmDT4yfe6TLfe9r1.jpg",
-        "backdropPath": null,
-        "mediaType": "tv",
-        "genreTitle": "喜剧"
-      }
-    ],
+    "upcoming": [],
     "totalItems": 9,
     "totalPages": 1
   },
@@ -1540,20 +1422,6 @@
         "backdropPath": "/r3PYXg9a6CxuLxQ3aaSkX2B56xs.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": "247401",
-        "type": "tmdb",
-        "title": "师傅",
-        "description": "警校最优秀毕业生小王，在旁人的惋惜声、惊叹声中，毅然选择加入最危险的警种：缉毒警。在“冷面骂将”师傅老王的教导下，小王很快踏上缉毒正轨，在曲折、挫败中不断成长，捣毁某贩卖第三代新型毒品贩毒组织。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 1.5092,
-        "releaseDate": "2024-02-29",
-        "posterPath": "/5RjR3eYHLoyrDGf5m1kWjEcGQlL.jpg",
-        "backdropPath": null,
-        "mediaType": "tv",
-        "genreTitle": "剧情,犯罪,动作冒险"
       },
       {
         "id": "245749",
@@ -1708,20 +1576,6 @@
         "backdropPath": "/uumYmd7dRibOAw6EQOelRVUleUO.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情,悬疑,喜剧"
-      },
-      {
-        "id": "218259",
-        "type": "tmdb",
-        "title": "夏日不宜入爱河",
-        "description": "时宜和夏禾原本是青梅竹马，两人双双穿越回到2008年后，竟然发现对方是为了自己而来，就在彼此享受这双向奔赴的美好爱情时，时宜未来的家暴丈夫和夏禾未来的出轨妻子也穿越了过来,被命运所羁绊的四人展开了一场关于爱恨情仇的较量。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 0.6921,
-        "releaseDate": "2023-01-11",
-        "posterPath": "/86eTSD3izEO9uBoWROrjdFrR3bw.jpg",
-        "backdropPath": null,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       },
       {
         "id": "218560",
@@ -1983,22 +1837,7 @@
         "genreTitle": "喜剧,剧情"
       }
     ],
-    "upcoming": [
-      {
-        "id": "275297",
-        "type": "tmdb",
-        "title": "走马上任",
-        "description": "该剧讲述了在民国时期，本是兽医的王老五意外成为伏虎县县长，上任后状况不断一路披荆斩棘的荒诞诙谐故事。剧中以小人物为主角，向观众展现了在民国时期小人物铸就的大时代。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 0.7764,
-        "releaseDate": "",
-        "posterPath": "/nNUX4tTY44Nzadb9PiQLXPRCM0d.jpg",
-        "backdropPath": null,
-        "mediaType": "tv",
-        "genreTitle": "剧情,喜剧"
-      }
-    ],
+    "upcoming": [],
     "totalItems": 13,
     "totalPages": 1
   },
@@ -2460,18 +2299,18 @@
         "genreTitle": "剧情"
       },
       {
-        "id": "130274",
+        "id": "93258",
         "type": "tmdb",
-        "title": "我们正年轻",
-        "description": "　　《我们正年轻》由江苏省广播电视总台纪录片创作中心操刀制作。纪录片将镜头对准了伴随着改革开放成长起来的普通人，呈现中国奇迹背后每一个个体的艰辛与付出、荣光与梦想，致敬改革开放以来各行各业的探索者、拓荒者、先行者，致敬改革开放40年来的历史性变革，追寻改革创新的时代精神。",
+        "title": "那些年，我们正年轻",
+        "description": "上世纪六十年代，在“黑云压城城欲摧”的国际形势下，毛主席一声号令：好人好马上三线！ 军人后代张利军、农民的儿子马朝阳、“资本家千金”陆若文和留苏归来的向晴等这些充满斗志和激情的年轻人，来到了大西南的崇山峻岭，用生命和青春实践自己的理想同时，又演绎着牵肠挂肚的爱情角逐。  张利军一直爱慕陆若文，但陆若文因为战友加闺蜜向晴非张利军不嫁，便与殷勤周到、但城府颇深的梁玉强结婚了。就在张利军慢慢接受向晴并准备结婚时，向晴却在爆炸事故中牺牲了。梁玉强和“出身不好”的陆若文离了婚，张利军和陆若文在经过无数坎坷经历后，终于举行了婚礼。改革开放后，张利军任军工厂长，马朝阳任航天科技研究院院长。高占武被查出胃癌，但仍然驻守在设计室和车间。  陆若文、马朝阳、张利军、向晴、高占武他们在一片荒山野地，写下了中国国防工业建设辉煌的篇章。他们是斗士，把青春、爱情、终身以及他们的子孙...",
         "rating": 0.0,
         "voteCount": 0,
-        "popularity": 0.0071,
-        "releaseDate": "2018-09-21",
-        "posterPath": "/cetnMi0XCFI8I30mXzcuDs8KCYq.jpg",
-        "backdropPath": null,
+        "popularity": 2.7953,
+        "releaseDate": "2018-08-15",
+        "posterPath": "/xYh1xkKiJZKrW4rQEej5gxLWx4x.jpg",
+        "backdropPath": "/l3pk452FvykEVe92HEAv2lTP9LZ.jpg",
         "mediaType": "tv",
-        "genreTitle": ""
+        "genreTitle": "剧情"
       },
       {
         "id": "285136",
@@ -2628,36 +2467,7 @@
         "genreTitle": "家庭,剧情"
       }
     ],
-    "upcoming": [
-      {
-        "id": "254486",
-        "type": "tmdb",
-        "title": "雨霖铃",
-        "description": "已身居御前四品带刀护卫的展昭，在收到故友留下的悬案证据后只身探寻线索，却遭遇各方势力袭杀，并在途中结识了才貌双全、天性不屈的玲珑山庄大小姐霍玲珑，以及满腔热血、以暴制恶的“锦毛鼠”白玉堂。志同道合的三人一路搜寻线索，行侠仗义，捉拿罪犯，撕破襄阳王多年来编织的遍布朝野和江湖的势力网，最终挫败了襄阳王的阴谋，还百姓安宁。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 2.3098,
-        "releaseDate": "",
-        "posterPath": "/wBvTSV8WOk46gUrnn1GfrISvxz7.jpg",
-        "backdropPath": null,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": "285096",
-        "type": "tmdb",
-        "title": "谍报上不封顶",
-        "description": "1948年，潜伏在国防部的地下党员任少白因联系人牺牲而被迫蛰伏多年。随着乔鸣羽身份暴露，任少白挺身而出，重启行动并借调查贪污案深入敌方核心，展开一场惊险的隐秘斗争。",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 1.2624,
-        "releaseDate": "",
-        "posterPath": "/wSp26pa0DILVGpT0fkiA1h3MPKP.jpg",
-        "backdropPath": "/bd4VjF1Dwms5hWpbnOoEhAxdAyi.jpg",
-        "mediaType": "tv",
-        "genreTitle": "战争政治,剧情"
-      }
-    ],
+    "upcoming": [],
     "totalItems": 38,
     "totalPages": 2
   },
@@ -3357,22 +3167,7 @@
         "genreTitle": "悬疑"
       }
     ],
-    "upcoming": [
-      {
-        "id": "265211",
-        "type": "tmdb",
-        "title": "旷野之境",
-        "description": "警察萧旷被诈骗分子诬陷，又因母亲的学生被诈骗猝死，使他意识到了反诈的重要性，因此义无反顾的投入到了反诈事业中去；而另一边李想与妻子被骗到国外做电诈，可妻子孕期惨死，李想意识到两人被骗的线索从国内起，于是逃出去后回到国内，化名舒野以牙还牙地展开了自己的复仇事业。萧旷和李想也注定了要围绕着电信诈骗来展开斗争……",
-        "rating": 0.0,
-        "voteCount": 0,
-        "popularity": 0.8011,
-        "releaseDate": "",
-        "posterPath": "/uJPubslQ1x7TSwhh4Vcuegawy82.jpg",
-        "backdropPath": null,
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      }
-    ],
+    "upcoming": [],
     "totalItems": 24,
     "totalPages": 1
   },
