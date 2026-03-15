@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15 11:45:49",
+  "last_updated": "2026-03-15 21:38:59",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1475,28 +1475,6 @@
       ]
     },
     {
-      "id": "50325",
-      "tmdbId": 50325,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "樱花庄的宠物女孩",
-      "releaseDate": "2012-10-09",
-      "posterPath": "/xSiC0lURjL7UrCGRN8HADAvnGBn.jpg",
-      "backdropPath": "/8nP3PqJ4Fu8jfsXCjejmgPuKLUO.jpg",
-      "rating": 7.6,
-      "description": "2012 · ⭐ 7.6 · 日本\n水明艺术大学附属高中额外独立宿舍，通称“樱花庄”是群聚了一群充满各式问题学生入住的特殊公寓，被一般人作为“怪人的巢穴”看待。因无法抛弃弃猫而被赶出一般宿舍的主人公神田空太也是其中的一份子。本来应该以“脱出樱花庄”为目标的空太，却由于天才画家椎名真白的入住，导因于其连穿衣服都无法完全自行处理的“超”字辈等级的生活白痴水准，空太莫名奇妙的肩负起有如宠物般的“饲主”责任，开始了照顾真白和被其耍弄的哭笑不得的日子。",
-      "genreTitle": "喜剧 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "45790",
       "tmdbId": 45790,
       "type": "tmdb",
@@ -1513,6 +1491,28 @@
         16,
         10759,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "50325",
+      "tmdbId": 50325,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "樱花庄的宠物女孩",
+      "releaseDate": "2012-10-09",
+      "posterPath": "/xSiC0lURjL7UrCGRN8HADAvnGBn.jpg",
+      "backdropPath": "/8nP3PqJ4Fu8jfsXCjejmgPuKLUO.jpg",
+      "rating": 7.6,
+      "description": "2012 · ⭐ 7.6 · 日本\n水明艺术大学附属高中额外独立宿舍，通称“樱花庄”是群聚了一群充满各式问题学生入住的特殊公寓，被一般人作为“怪人的巢穴”看待。因无法抛弃弃猫而被赶出一般宿舍的主人公神田空太也是其中的一份子。本来应该以“脱出樱花庄”为目标的空太，却由于天才画家椎名真白的入住，导因于其连穿衣服都无法完全自行处理的“超”字辈等级的生活白痴水准，空太莫名奇妙的肩负起有如宠物般的“饲主”责任，开始了照顾真白和被其耍弄的哭笑不得的日子。",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
       ],
       "rawCountries": [
         "JP"
@@ -1799,23 +1799,22 @@
       ]
     },
     {
-      "id": "114410",
-      "tmdbId": 114410,
+      "id": "299555",
+      "tmdbId": 299555,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "チェンソーマン",
-      "releaseDate": "2022-10-12",
-      "posterPath": "/t8aw0a0JU3OoIFauVVCYn9H1i3e.jpg",
-      "backdropPath": "/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
-      "rating": 8.5,
-      "description": "2022 · ⭐ 8.5 · 日本\n电次是一位年轻的恶魔猎人，为了偿还父亲在黑帮处的债务，他与“电锯恶魔”波奇塔一起斩杀低阶恶魔谋生，每天过着贫困的生活。遭遇黑帮债主背叛被杀后，电次在恍惚中与波奇塔缔结契约，拥有了恶魔的心脏，变身成为“电锯人”重生于世。",
-      "genreTitle": "动作冒险 / 科幻奇幻 / 喜剧",
+      "title": "链锯人 总集篇",
+      "releaseDate": "2025-09-06",
+      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
+      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
+      "rating": 8.7,
+      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
         16,
         10759,
-        10765,
-        35
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -2171,26 +2170,6 @@
       ]
     },
     {
-      "id": "257475",
-      "tmdbId": 257475,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "玉子爱情故事",
-      "releaseDate": "2014-04-26",
-      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
-      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
-      "rating": 7.2,
-      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
-      "genreTitle": "爱情 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        10749,
-        16,
-        35
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "67676",
       "tmdbId": 67676,
       "type": "tmdb",
@@ -2211,6 +2190,26 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "257475",
+      "tmdbId": 257475,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "玉子爱情故事",
+      "releaseDate": "2014-04-26",
+      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
+      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
+      "rating": 7.2,
+      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
+      "genreTitle": "爱情 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        10749,
+        16,
+        35
+      ],
+      "rawCountries": []
     },
     {
       "id": "30980",
