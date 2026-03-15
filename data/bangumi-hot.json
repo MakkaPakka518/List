@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14 21:38:22",
+  "last_updated": "2026-03-15 11:45:49",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -834,6 +834,28 @@
       ]
     },
     {
+      "id": "85937",
+      "tmdbId": 85937,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "鬼灭之刃",
+      "releaseDate": "2019-04-06",
+      "posterPath": "/tZ0yGfG4EIox7bYJTxAtqUhoOmR.jpg",
+      "backdropPath": "/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
+      "rating": 8.6,
+      "description": "2019 · ⭐ 8.6 · 日本\n时值日本大正时期。\n\n传说太阳下山后，有恶鬼出没吃人。亦有猎鬼人斩杀恶鬼、保护人们。\n\n卖炭少年炭治郎，他那平凡而幸福的日常生活，在家人遭到恶鬼袭击的那一天发生了剧变。母亲与四个弟弟妹妹惨遭杀害，而与他一起生还的妹妹祢豆子亦异变成凶暴的鬼。\n\n在猎鬼人的指引下，立志成为猎鬼人的炭治郎与变成鬼却尚存理智的祢豆子踏上了旅程。通过艰苦的剑术修行与赌命试炼，炭治郎成为了猎鬼人组织“鬼杀队”的一员。\n\n为了让妹妹祢豆子变回人类，为了讨伐杀害家人的恶鬼，为了斩断悲伤的连锁，少年与鬼的战斗不曾停歇。\n\n幸福被破坏之时，总是弥漫着鲜血的味道。纵然我身俱灭，定将恶鬼斩杀！血风剑戟冒险谭，开幕！",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "42942",
       "tmdbId": 42942,
       "type": "tmdb",
@@ -852,28 +874,6 @@
         18,
         10765,
         10759
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "85937",
-      "tmdbId": 85937,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "鬼灭之刃",
-      "releaseDate": "2019-04-06",
-      "posterPath": "/tZ0yGfG4EIox7bYJTxAtqUhoOmR.jpg",
-      "backdropPath": "/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
-      "rating": 8.6,
-      "description": "2019 · ⭐ 8.6 · 日本\n时值日本大正时期。\n\n传说太阳下山后，有恶鬼出没吃人。亦有猎鬼人斩杀恶鬼、保护人们。\n\n卖炭少年炭治郎，他那平凡而幸福的日常生活，在家人遭到恶鬼袭击的那一天发生了剧变。母亲与四个弟弟妹妹惨遭杀害，而与他一起生还的妹妹祢豆子亦异变成凶暴的鬼。\n\n在猎鬼人的指引下，立志成为猎鬼人的炭治郎与变成鬼却尚存理智的祢豆子踏上了旅程。通过艰苦的剑术修行与赌命试炼，炭治郎成为了猎鬼人组织“鬼杀队”的一员。\n\n为了让妹妹祢豆子变回人类，为了讨伐杀害家人的恶鬼，为了斩断悲伤的连锁，少年与鬼的战斗不曾停歇。\n\n幸福被破坏之时，总是弥漫着鲜血的味道。纵然我身俱灭，定将恶鬼斩杀！血风剑戟冒险谭，开幕！",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
       ],
       "rawCountries": [
         "JP"
@@ -2171,6 +2171,26 @@
       ]
     },
     {
+      "id": "257475",
+      "tmdbId": 257475,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "玉子爱情故事",
+      "releaseDate": "2014-04-26",
+      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
+      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
+      "rating": 7.2,
+      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
+      "genreTitle": "爱情 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        10749,
+        16,
+        35
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "67676",
       "tmdbId": 67676,
       "type": "tmdb",
@@ -2191,26 +2211,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "257475",
-      "tmdbId": 257475,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "玉子爱情故事",
-      "releaseDate": "2014-04-26",
-      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
-      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
-      "rating": 7.2,
-      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
-      "genreTitle": "爱情 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        10749,
-        16,
-        35
-      ],
-      "rawCountries": []
     },
     {
       "id": "30980",
