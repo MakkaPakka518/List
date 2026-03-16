@@ -39,11 +39,22 @@ THEATERS = [
 ]
 
 def clean_douban_title(raw_title):
-    """去除标题中可能的括号和年份后缀"""
+    """去除標題中可能的括號、年份後綴，以及季數 (第X季/Season X)"""
+    # 1. 先去除結尾的年份，例如 (2022)
     match = re.match(r'^(.*?)(?:\((\d{4})\))?$', raw_title)
     if match:
-        return match.group(1).strip()
-    return raw_title.strip()
+        title = match.group(1).strip()
+    else:
+        title = raw_title.strip()
+        
+    # 2. 正則剔除 "第一季"、"第1季"、"Season 1"、"season1" 等字眼 (忽略大小寫)
+    title = re.sub(r'第[一二三四五六七八九十百\d]+季', '', title)
+    title = re.sub(r'(?i)Season\s*\d+', '', title)
+    
+    # 3. 清理剔除後可能殘留的多餘空格 (例如 "巴瑞   Barry " 變成 "巴瑞 Barry")
+    title = re.sub(r'\s+', ' ', title).strip()
+    
+    return title
 
 async def fetch_doulist_pages(session, theater):
     """翻页抓取豆瓣片单里的所有剧集"""
