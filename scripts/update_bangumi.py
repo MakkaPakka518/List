@@ -26,11 +26,15 @@ COUNTRY_MAP = {
 }
 
 def clean_anime_title(title):
-    """黑科技：清理标题中的季数，极大提高 TMDB 匹配命中率"""
-    title = re.sub(r'第[一二三四五六七八九十\d]+[季期章].*', '', title, flags=re.IGNORECASE)
-    title = re.sub(r'(?i)Season \d+.*', '', title)
+    """黑科技：精准清理标题中的季数，且不误伤副标题，极大提高 TMDB 匹配命中率"""
+    title = title.strip()
+    # 🔴 优化：去掉了 .* 避免把后面的副标题也删掉。例如《鬼灭之刃 第二季 游郭篇》 -> 《鬼灭之刃  游郭篇》
+    title = re.sub(r'第[一二三四五六七八九十百\d]+[季期部章]', '', title, flags=re.IGNORECASE)
+    title = re.sub(r'(?i)Season\s*\d+', '', title)
     title = re.sub(r' \d{4}$', '', title) # 去除结尾可能附带的年份
-    return title.strip()
+    # 压缩多余空格
+    title = re.sub(r'\s+', ' ', title).strip()
+    return title
 
 async def fetch_bangumi_hot(session):
     """获取 Bangumi 的近期热门动漫排行"""
@@ -89,9 +93,6 @@ async def search_tmdb(session, anime, cache):
     headers = {"accept": "application/json"}
     if TMDB_API_KEY.startswith("eyJ"):
         headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
-    else:
-        # 如果不是Token，则放在params里
-        pass
 
     async def do_search(query_title, is_movie=False):
         endpoint = "/search/movie" if is_movie else "/search/tv"
@@ -142,41 +143,57 @@ async def search_tmdb(session, anime, cache):
 
     # === 构建保留类型和地区的终极数据 ===
     media_type = "movie" if "title" in best_match else "tv"
+    tmdb_id = best_match["id"]
     tmdb_title = best_match.get("name") or best_match.get("title")
     release_date = best_match.get("first_air_date") or best_match.get("release_date") or ""
     score = best_match.get("vote_average", 0)
 
     # 🌟 新增黑科技：拦截未开播的数据
-    # 获取当前的北京时间 (格式: YYYY-MM-DD)
     tz_bj = datetime.timezone(datetime.timedelta(hours=8))
     today_str = datetime.datetime.now(tz_bj).strftime("%Y-%m-%d")
     
-    # 如果首播日期大于今天，说明还没开播，直接丢弃
     if release_date and release_date > today_str:
         print(f"❌ 丢弃: [{raw_title}] -> 尚未开播 (预定日期: {release_date})")
         return None
-    # 针对 TMDB 完全没有写日期的极端情况也进行过滤
     elif not release_date:
         print(f"❌ 丢弃: [{raw_title}] -> TMDB 未提供开播日期，视为未开播")
         return None
-    
-    # 转换地区 (TMDB 返回的 origin_country 是个数组，例如 ["JP"])
+
+    # 🔴 核心新增：拿着 id 去请求详情，获取动漫最新更新日期 (last_air_date)
+    last_update_date = release_date # 默认用首播日期兜底，如果是电影或者请求失败就用这个
+    if media_type == "tv":
+        detail_url = f"https://api.themoviedb.org/3/tv/{tmdb_id}"
+        detail_params = {"language": "zh-CN"}
+        if not TMDB_API_KEY.startswith("eyJ"):
+            detail_params["api_key"] = TMDB_API_KEY
+            
+        try:
+            async with session.get(detail_url, params=detail_params, headers=headers) as d_resp:
+                if d_resp.status == 200:
+                    d_data = await d_resp.json()
+                    # 获取最新播出日期
+                    last_update_date = d_data.get("last_air_date") or release_date
+        except Exception as e:
+            pass # 详情获取失败不影响主体逻辑
+
+    # 转换地区
     raw_countries = best_match.get("origin_country", [])
     country_names = [COUNTRY_MAP.get(c, c) for c in raw_countries]
     country_str = "/".join(country_names) if country_names else "未知地区"
 
-    # 转换类型 (剔除 16 动画本身，留下剧情、奇幻等具体流派)
+    # 转换类型
     raw_genres = best_match.get("genre_ids", [])
     genre_names = [GENRE_MAP.get(g) for g in raw_genres if g != 16 and GENRE_MAP.get(g)]
     genre_str = " / ".join(genre_names[:3]) if genre_names else "动画"
 
     info = {
-        "id": str(best_match["id"]),
-        "tmdbId": best_match["id"],
+        "id": str(tmdb_id),
+        "tmdbId": tmdb_id,
         "type": "tmdb",
         "mediaType": media_type,
         "title": tmdb_title,
         "releaseDate": release_date,
+        "lastUpdateDate": last_update_date, # 🔴 喂给前端的最新更新时间
         "posterPath": best_match.get("poster_path"),
         "backdropPath": best_match.get("backdrop_path"),
         "rating": round(float(score), 1),
@@ -188,7 +205,7 @@ async def search_tmdb(session, anime, cache):
     }
     
     cache[cache_key] = info
-    print(f"✅ 成功匹配: [{raw_title}] -> {tmdb_title} (类型: {genre_str} | 地区: {country_str})")
+    print(f"✅ 成功匹配: [{raw_title}] -> {tmdb_title} (更新: {last_update_date} | 类型: {genre_str})")
     return info
 
 async def batch_process_tmdb(session, anime_list, size, cache):
@@ -198,7 +215,7 @@ async def batch_process_tmdb(session, anime_list, size, cache):
         tasks = [search_tmdb(session, item, cache) for item in chunk]
         chunk_results = await asyncio.gather(*tasks)
         results.extend([r for r in chunk_results if r is not None])
-        await asyncio.sleep(0.3) # 防止被封
+        await asyncio.sleep(0.3) # ⚠️ 稍微降低并发速度，防 TMDB 封禁
     return results
 
 async def main():
