@@ -3,6 +3,7 @@ import aiohttp
 import json
 import os
 import datetime
+import re  # 🔴 必须引入正则模块来清洗标题
 
 # --- 配置区 ---
 TMDB_API_KEY = os.environ.get('TMDB_API_KEY')
@@ -34,6 +35,16 @@ REGIONS = [
     { "title": "国外综艺", "value": "show_foreign", "limit": 150 }
 ]
 
+def clean_douban_title(raw_title):
+    """🔴 核心清洗逻辑：去除标题中可能的季数后缀，提高 TMDB 匹配率"""
+    title = raw_title.strip()
+    # 正则剔除 "第一季"、"第1季"、"Season 1"、"season1" 等字眼 (忽略大小写)
+    title = re.sub(r'第[一二三四五六七八九十百\d]+季', '', title)
+    title = re.sub(r'(?i)Season\s*\d+', '', title)
+    # 压缩多余空格
+    title = re.sub(r'\s+', ' ', title).strip()
+    return title
+
 async def fetch_douban_list(session, region):
     """请求豆瓣隐藏API，获取基础列表"""
     params = {"start": 0, "limit": region["limit"], "type": region["value"]}
@@ -54,7 +65,9 @@ async def fetch_douban_list(session, region):
 
 async def fetch_tmdb_detail(session, item, cache):
     """使用 TMDB API 洗出标准的高清海报和详情"""
-    db_title = item.get("title", "").strip()
+    raw_title = item.get("title", "").strip()
+    # 🔴 在这里调用清洗函数，把 "嗜血法医 第一季 Dexter Season 1" 洗成 "嗜血法医 Dexter"
+    db_title = clean_douban_title(raw_title)
     subtitle = item.get("card_subtitle", "")
     
     # 尝试从副标题提取年份，例如 "2024 / 中国大陆 / 剧情"
@@ -114,7 +127,7 @@ async def fetch_tmdb_detail(session, item, cache):
                     if not tmdb_id or not poster_path or not backdrop_path:
                         continue
 
-                    # 🔴 核心新增：拿着 id 去请求详情，获取最新更新日期 (last_air_date)
+                    # 🔴 拿着 id 去请求详情，获取最新更新日期 (last_air_date)
                     detail_url = f"https://api.themoviedb.org/3/tv/{tmdb_id}"
                     detail_params = {"language": "zh-CN"}
                     if not TMDB_API_KEY.startswith("eyJ"):
@@ -142,7 +155,7 @@ async def fetch_tmdb_detail(session, item, cache):
                         "vote_count": res.get("vote_count"),
                         "popularity": res.get("popularity"),
                         "releaseDate": first_air,
-                        "lastUpdateDate": last_update_date, # 🔴 新增：这里保存给前端排序用
+                        "lastUpdateDate": last_update_date, # 🔴 这里保存给前端排序用
                         "posterPath": poster_path,
                         "backdropPath": backdrop_path,
                         "mediaType": "tv",
@@ -161,7 +174,7 @@ async def batch_process(session, items, size, cache):
         tasks = [fetch_tmdb_detail(session, item, cache) for item in chunk]
         chunk_results = await asyncio.gather(*tasks)
         results.extend([r for r in chunk_results if r is not None])
-        await asyncio.sleep(0.3) # ⚠️ 稍微调慢了一点点，因为现在每个剧最多要请求两次 TMDB，防风控
+        await asyncio.sleep(0.3) 
     return results
 
 async def main():
