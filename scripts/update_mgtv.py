@@ -23,7 +23,6 @@ GENRE_MAP = {
 }
 
 # 自定义你的芒果抓取区域
-# 将你提供的链接 https://www.mgtv.com/lib/2?kind=a1&area=a1&year=all&sort=c1 的参数提取到了这里
 REGIONS = [
     { 
         "title": "全部剧集 (热播榜)", 
@@ -48,11 +47,11 @@ REGIONS = [
 def clean_mgtv_title(raw_title):
     """清洗芒果TV的标题，去除季数、后缀等，提高TMDB匹配率"""
     title = raw_title.strip()
-    # 剔除 "第一季"、"Season 1"
-    title = re.sub(r'第[一二三四五六七八九十百\d]+季', '', title)
+    # 🔴 升级：剔除 "第一季"、"Season 1"、"第2部"、"第3期" 等
+    title = re.sub(r'第[一二三四五六七八九十百\d]+[季期部章]', '', title)
     title = re.sub(r'(?i)Season\s*\d+', '', title)
-    # 剔除常见的芒果特殊后缀，如 " (会员版)", " 纯享版" 等括号内容
-    title = re.sub(r'\(.*?\)|（.*?）', '', title)
+    # 🔴 升级：剔除常见的芒果特殊后缀，涵盖圆括号和方括号
+    title = re.sub(r'\(.*?\)|（.*?）|\[.*?\]|【.*?】', '', title)
     # 压缩多余空格
     title = re.sub(r'\s+', ' ', title).strip()
     return title
@@ -179,6 +178,22 @@ async def fetch_tmdb_detail(session, item, cache):
                     
                     if not tmdb_id or not poster_path or not backdrop_path:
                         continue
+                        
+                    # 🔴 核心新增：拿着 id 去请求详情，获取最新更新日期 (last_air_date)
+                    detail_url = f"https://api.themoviedb.org/3/tv/{tmdb_id}"
+                    detail_params = {"language": "zh-CN"}
+                    if not TMDB_API_KEY.startswith("eyJ"):
+                        detail_params["api_key"] = TMDB_API_KEY
+                        
+                    last_update_date = first_air # 默认用首播日期兜底
+                    try:
+                        async with session.get(detail_url, params=detail_params, headers=headers) as d_resp:
+                            if d_resp.status == 200:
+                                d_data = await d_resp.json()
+                                # 获取最新播出日期，如果没有则退回到首播日期
+                                last_update_date = d_data.get("last_air_date") or first_air
+                    except Exception as e:
+                        pass # 详情获取失败不影响主体逻辑
 
                     genre_ids = res.get("genre_ids", [])
                     genre_names = ",".join([GENRE_MAP.get(gid) for gid in genre_ids if GENRE_MAP.get(gid)])
@@ -192,6 +207,7 @@ async def fetch_tmdb_detail(session, item, cache):
                         "voteCount": res.get("vote_count"),
                         "popularity": res.get("popularity"),
                         "releaseDate": first_air,
+                        "lastUpdateDate": last_update_date, # 🔴 新增：这里保存给前端排序用
                         "posterPath": poster_path,
                         "backdropPath": backdrop_path,
                         "mediaType": "tv",
@@ -210,7 +226,7 @@ async def batch_process(session, items, size, cache):
         tasks = [fetch_tmdb_detail(session, item, cache) for item in chunk]
         chunk_results = await asyncio.gather(*tasks)
         results.extend([r for r in chunk_results if r is not None])
-        await asyncio.sleep(0.2)
+        await asyncio.sleep(0.3) # ⚠️ 稍微调慢了一点点防风控
     return results
 
 async def main():
