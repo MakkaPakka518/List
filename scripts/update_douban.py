@@ -2,6 +2,7 @@ import asyncio
 import aiohttp
 import json
 import os
+import datetime
 
 # --- 配置区 ---
 TMDB_API_KEY = os.environ.get('TMDB_API_KEY')
@@ -106,14 +107,28 @@ async def fetch_tmdb_detail(session, item, cache):
                     is_year_ok = first_air.startswith(db_year)
                 
                 if is_title_ok and is_year_ok:
-                    # 🔴 核心修改：检查是否有 ID、竖版海报 和 横版海报
                     tmdb_id = res.get("id")
                     poster_path = res.get("poster_path")
                     backdrop_path = res.get("backdrop_path")
                     
                     if not tmdb_id or not poster_path or not backdrop_path:
-                        # 任意一项缺失，则跳过这个 TMDB 匹配结果，尝试看下一个结果是否满足
                         continue
+
+                    # 🔴 核心新增：拿着 id 去请求详情，获取最新更新日期 (last_air_date)
+                    detail_url = f"https://api.themoviedb.org/3/tv/{tmdb_id}"
+                    detail_params = {"language": "zh-CN"}
+                    if not TMDB_API_KEY.startswith("eyJ"):
+                        detail_params["api_key"] = TMDB_API_KEY
+                        
+                    last_update_date = first_air # 默认用首播日期兜底
+                    try:
+                        async with session.get(detail_url, params=detail_params, headers=headers) as d_resp:
+                            if d_resp.status == 200:
+                                d_data = await d_resp.json()
+                                # 获取最新播出日期，如果没有则退回到首播日期
+                                last_update_date = d_data.get("last_air_date") or first_air
+                    except Exception as e:
+                        pass # 详情获取失败不影响主体逻辑
 
                     genre_ids = res.get("genre_ids", [])
                     genre_names = ",".join([GENRE_MAP.get(gid) for gid in genre_ids if GENRE_MAP.get(gid)])
@@ -127,6 +142,7 @@ async def fetch_tmdb_detail(session, item, cache):
                         "vote_count": res.get("vote_count"),
                         "popularity": res.get("popularity"),
                         "releaseDate": first_air,
+                        "lastUpdateDate": last_update_date, # 🔴 新增：这里保存给前端排序用
                         "posterPath": poster_path,
                         "backdropPath": backdrop_path,
                         "mediaType": "tv",
@@ -145,7 +161,7 @@ async def batch_process(session, items, size, cache):
         tasks = [fetch_tmdb_detail(session, item, cache) for item in chunk]
         chunk_results = await asyncio.gather(*tasks)
         results.extend([r for r in chunk_results if r is not None])
-        await asyncio.sleep(0.2) # 稍微喘口气
+        await asyncio.sleep(0.3) # ⚠️ 稍微调慢了一点点，因为现在每个剧最多要请求两次 TMDB，防风控
     return results
 
 async def main():
@@ -159,7 +175,7 @@ async def main():
         final_result = {
             "last_updated": ""
         }
-        cache = {} # 全局缓存，避免重复请求相同的剧集
+        cache = {} 
         
         for region in REGIONS:
             print(f"🚀 正在抓取: {region['title']} ({region['limit']}部)")
@@ -169,11 +185,9 @@ async def main():
             matched = await batch_process(session, items, 10, cache)
             print(f"   => 成功匹配到 {len(matched)} 条 TMDB 数据！\n")
             
-            # 使用 REGIONS 里的 value 值作为 JSON 的键值
             final_result[region["value"]] = matched
 
     # 记录最后更新时间 (北京时间)
-    import datetime
     tz_bj = datetime.timezone(datetime.timedelta(hours=8))
     final_result["last_updated"] = datetime.datetime.now(tz_bj).strftime("%Y-%m-%d %H:%M:%S")
     
