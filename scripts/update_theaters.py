@@ -40,19 +40,19 @@ THEATERS = [
 ]
 
 def clean_douban_title(raw_title):
-    """去除標題中可能的括號、年份後綴，以及季數 (第X季/Season X)"""
-    # 1. 先去除結尾的年份，例如 (2022)
+    """去除标题中可能的括号、年份后缀，以及季数 (第X季/Season X)"""
+    # 1. 先去除结尾的年份，例如 (2022)
     match = re.match(r'^(.*?)(?:\((\d{4})\))?$', raw_title)
     if match:
         title = match.group(1).strip()
     else:
         title = raw_title.strip()
         
-    # 2. 正則剔除 "第一季"、"第1季"、"Season 1"、"season1" 等字眼 (忽略大小寫)
+    # 2. 正则剔除 "第一季"、"第1季"、"Season 1"、"season1" 等字眼 (忽略大小写)
     title = re.sub(r'第[一二三四五六七八九十百\d]+季', '', title)
     title = re.sub(r'(?i)Season\s*\d+', '', title)
     
-    # 3. 清理剔除後可能殘留的多餘空格 (例如 "巴瑞   Barry " 變成 "巴瑞 Barry")
+    # 3. 清理剔除后可能残留的多余空格 (例如 "巴瑞   Barry " 变成 "巴瑞 Barry")
     title = re.sub(r'\s+', ' ', title).strip()
     
     return title
@@ -164,6 +164,21 @@ async def search_tmdb(session, item, cache):
                             # 未到开播时间，或者 TMDB 根本没写开播时间，直接跳过
                             continue
 
+                        # 🔴 新增：拿着 id 去请求详情，获取最新更新日期 (last_air_date)
+                        detail_url = f"https://api.themoviedb.org/3/tv/{tmdb_id}"
+                        detail_params = {"language": "zh-CN"}
+                        if not TMDB_API_KEY.startswith("eyJ"):
+                            detail_params["api_key"] = TMDB_API_KEY
+                            
+                        last_update_date = first_air # 默认用首播日期兜底
+                        try:
+                            async with session.get(detail_url, params=detail_params, headers=headers) as d_resp:
+                                if d_resp.status == 200:
+                                    d_data = await d_resp.json()
+                                    last_update_date = d_data.get("last_air_date") or first_air
+                        except Exception as e:
+                            pass # 详情获取失败不影响主体逻辑
+
                         genre_ids = res.get("genre_ids", [])
                         genre_names = ",".join([GENRE_MAP.get(gid) for gid in genre_ids if GENRE_MAP.get(gid)])
                         
@@ -176,6 +191,7 @@ async def search_tmdb(session, item, cache):
                             "voteCount": res.get("vote_count"),
                             "popularity": res.get("popularity"),
                             "releaseDate": first_air,
+                            "lastUpdateDate": last_update_date, # 🔴 新增：这里保存给前端排序用
                             "posterPath": poster_path,
                             "backdropPath": backdrop_path,
                             "mediaType": "tv",
@@ -199,7 +215,7 @@ async def process_theater(session, theater, cache):
         for tmdb_info in results:
             if tmdb_info:
                 shows.append(tmdb_info)
-        await asyncio.sleep(0.2)
+        await asyncio.sleep(0.3) # ⚠️ 稍微放慢一点点，因为多了二次详情请求
 
     # 经过 search_tmdb 过滤，能留下的 100% 都是已开播的数据，所以 upcoming 恒定为空数组即可
     aired = shows
