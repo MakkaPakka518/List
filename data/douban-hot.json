@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16 23:10:18",
+  "last_updated": "2026-03-16 23:17:12",
   "tv": [
     {
       "id": "279388",
@@ -137,6 +137,21 @@
       "genreTitle": "犯罪,悬疑,剧情"
     },
     {
+      "id": "224372",
+      "type": "tmdb",
+      "title": "七王国的骑士",
+      "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+      "rating": 8.458,
+      "vote_count": 668,
+      "popularity": 91.9797,
+      "releaseDate": "2026-01-18",
+      "lastUpdateDate": "2026-02-22",
+      "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
+      "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情,科幻奇幻,动作冒险"
+    },
+    {
       "id": "281016",
       "type": "tmdb",
       "title": "订阅男友",
@@ -225,6 +240,21 @@
       "backdropPath": "/emfrogWyGQNdQdnemu5dDnK7tIL.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情"
+    },
+    {
+      "id": "240740",
+      "type": "tmdb",
+      "title": "首席女法医",
+      "description": "著名法医病理学家凯·斯卡佩塔博士重返弗吉尼亚州担任首席法医，调查一起令人毛骨悚然的谋杀案。这起案件的诡异细节不断唤起她数十年前首起重大案件的记忆。在1998年，斯卡佩塔曾与警探皮特·马里诺及联邦调查局探员本顿·韦斯利联手，调查一系列残忍的勒颈命案。本剧改编自帕特里夏·康威尔的畅销小说。",
+      "rating": 6.2,
+      "vote_count": 39,
+      "popularity": 133.2831,
+      "releaseDate": "2026-03-11",
+      "lastUpdateDate": "2026-03-11",
+      "posterPath": "/ihbtGf1CEIJkUc5oJHsmVQBc1sB.jpg",
+      "backdropPath": "/oHnlulBoE3XbI3HIYWY0dZfh5RH.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情,犯罪,悬疑"
     },
     {
       "id": "282904",
@@ -917,6 +947,21 @@
       "genreTitle": "纪录片"
     },
     {
+      "id": "225891",
+      "type": "tmdb",
+      "title": "麦迪逊河谷",
+      "description": "该剧是《黄石》宇宙的第一部现代背景衍生剧，故事聚焦一个纽约家庭在蒙大拿州中部麦迪逊河谷地的生活，将对悲伤和人际关系进行真诚的研究和审视。",
+      "rating": 8.962,
+      "vote_count": 13,
+      "popularity": 58.4371,
+      "releaseDate": "2026-03-14",
+      "lastUpdateDate": "2026-03-14",
+      "posterPath": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+      "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情,西部"
+    },
+    {
       "id": "278927",
       "type": "tmdb",
       "title": "逍遥",
@@ -1187,6 +1232,21 @@
       "genreTitle": "喜剧"
     },
     {
+      "id": "311021",
+      "type": "tmdb",
+      "title": "夜班经理",
+      "description": "酒店夜班经理陈通隐藏着一段不为人知的黑暗过往。一次意外，他被中国香港廉政公署总调查主任霍敏儿招揽，成功打进黑商郭礼儒的团伙。随着陈通逐步进入犯罪世界的核心，他与郭礼儒女伴张雪的情感牵绊也越趋复杂。在叛背与效忠之间，陈通必须直视自己的人性黑暗面，为善良和正义作出正确的选择。",
+      "rating": 0.0,
+      "vote_count": 0,
+      "popularity": 0.2714,
+      "releaseDate": "",
+      "lastUpdateDate": "",
+      "posterPath": "/x7v1vBtsrZS8lxTkoIoyipTAnHL.jpg",
+      "backdropPath": "/cOfwhvRNOCJlVswW6VWJVMTu94y.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情,悬疑,犯罪"
+    },
+    {
       "id": "301886",
       "type": "tmdb",
       "title": "恩爱的盗贼大人",
@@ -1367,6 +1427,21 @@
       "genreTitle": "剧情,犯罪,悬疑"
     },
     {
+      "id": "241576",
+      "type": "tmdb",
+      "title": "如果我不曾见过太阳",
+      "description": "　　年仅25岁的李壬曜自首并坦承自己就是媒体口中冷血杀害昔日高中同窗的“暴雨杀人魔”。入狱后，他首度答应接受纪录片企划周品瑜的采访，没想到周品瑜却因此在梦里与李壬曜陷入暧昧缠绵，并逐渐被一名身穿高中制服的神秘少女纠缠。梦境与现实的界线逐渐模糊，埋藏在校园岁月里的爱与恨、罪与救赎，也一步步浮现眼前。",
+      "rating": 7.955,
+      "vote_count": 23,
+      "popularity": 9.6649,
+      "releaseDate": "2025-11-13",
+      "lastUpdateDate": "2025-12-11",
+      "posterPath": "/luJqJM18LgxISIKJj55cA84NogP.jpg",
+      "backdropPath": "/b9nrdh1VaspBckmaDwftW4mcOyC.jpg",
+      "mediaType": "tv",
+      "genreTitle": "犯罪,剧情,悬疑"
+    },
+    {
       "id": "246473",
       "type": "tmdb",
       "title": "韩国制造",
@@ -1440,6 +1515,21 @@
       "backdropPath": "/1M8uW8o6fdDaa3zqmBD2UUKu0VZ.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,动作冒险"
+    },
+    {
+      "id": "290856",
+      "type": "tmdb",
+      "title": "法警小队",
+      "description": "前海豹突击队员凯西·达顿离开黄石牧场，加入美国法警队，利用他的牛仔和军事技能在蒙大拿州打击犯罪，同时还要处理家庭关系和执法工作带来的精神压力。",
+      "rating": 7.4,
+      "vote_count": 73,
+      "popularity": 86.3883,
+      "releaseDate": "2026-03-01",
+      "lastUpdateDate": "2026-03-08",
+      "posterPath": "/AqbqHlfjq3kT7ecf5zlk0FcMzV6.jpg",
+      "backdropPath": "/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情"
     },
     {
       "id": "278157",
@@ -1817,6 +1907,21 @@
       "genreTitle": "悬疑,剧情,犯罪"
     },
     {
+      "id": "312423",
+      "type": "tmdb",
+      "title": "真相直击：深入全美超模大赛",
+      "description": "聚焦《超级名模生死斗》，绝对不容错过。节目最初只是提供给模特儿新秀的亮丽跳板，后来却逐渐演变成重量级流行文化现象，充斥着戏剧化纠葛、公然失态，以及种种至今仍持续在网络上引发话题的争议。《真相直击》揭露节目留下的种种复杂影响，并问出一个尖锐的问题：为了娱乐，我们愿意做到什么程度？",
+      "rating": 7.577,
+      "vote_count": 13,
+      "popularity": 3.2085,
+      "releaseDate": "2026-02-16",
+      "lastUpdateDate": "2026-02-16",
+      "posterPath": "/lxlsvsgvEYlf2wrSV9qUipHRAuk.jpg",
+      "backdropPath": "/fRiAJB6VxyG0QcjSXW4BoHIGsnu.jpg",
+      "mediaType": "tv",
+      "genreTitle": "纪录片"
+    },
+    {
       "id": "307422",
       "type": "tmdb",
       "title": "米之女：国税局资料调查课·杂国室",
@@ -2117,6 +2222,21 @@
       "genreTitle": "犯罪,悬疑"
     },
     {
+      "id": "262793",
+      "type": "tmdb",
+      "title": "凡妇俗女",
+      "description": "1970年代末的莫斯科，两名美国大使馆秘书在丈夫遇害后为中情局效力，揭发悲剧事件背后天大的冷战阴谋。",
+      "rating": 7.155,
+      "vote_count": 55,
+      "popularity": 11.8167,
+      "releaseDate": "2026-01-15",
+      "lastUpdateDate": "2026-01-15",
+      "posterPath": "/hV29h9XRCJOPtIIiJ1vkEY1xMV3.jpg",
+      "backdropPath": "/Ak7AdQpvmZpSe9WYBd5KrgjSsSX.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情,犯罪"
+    },
+    {
       "id": "296523",
       "type": "tmdb",
       "title": "失窃的女孩",
@@ -2190,6 +2310,21 @@
       "backdropPath": "/r1DUI1JmjfiuOmYvE5LnHX6atGN.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情"
+    },
+    {
+      "id": "291084",
+      "type": "tmdb",
+      "title": "良药苦口",
+      "description": "",
+      "rating": 7.4,
+      "vote_count": 16,
+      "popularity": 8.1213,
+      "releaseDate": "2026-01-04",
+      "lastUpdateDate": "2026-03-03",
+      "posterPath": "/q7SCSZfDaNDRPL3Xt4TiGSZQQht.jpg",
+      "backdropPath": "/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+      "mediaType": "tv",
+      "genreTitle": "喜剧,剧情"
     },
     {
       "id": "281401",
@@ -3049,6 +3184,21 @@
       "genreTitle": "剧情,悬疑"
     },
     {
+      "id": "241576",
+      "type": "tmdb",
+      "title": "如果我不曾见过太阳",
+      "description": "　　年仅25岁的李壬曜自首并坦承自己就是媒体口中冷血杀害昔日高中同窗的“暴雨杀人魔”。入狱后，他首度答应接受纪录片企划周品瑜的采访，没想到周品瑜却因此在梦里与李壬曜陷入暧昧缠绵，并逐渐被一名身穿高中制服的神秘少女纠缠。梦境与现实的界线逐渐模糊，埋藏在校园岁月里的爱与恨、罪与救赎，也一步步浮现眼前。",
+      "rating": 7.955,
+      "vote_count": 23,
+      "popularity": 9.6649,
+      "releaseDate": "2025-11-13",
+      "lastUpdateDate": "2025-12-11",
+      "posterPath": "/luJqJM18LgxISIKJj55cA84NogP.jpg",
+      "backdropPath": "/b9nrdh1VaspBckmaDwftW4mcOyC.jpg",
+      "mediaType": "tv",
+      "genreTitle": "犯罪,剧情,悬疑"
+    },
+    {
       "id": "313930",
       "type": "tmdb",
       "title": "卧底娇娃",
@@ -3080,6 +3230,36 @@
     }
   ],
   "tv_american": [
+    {
+      "id": "224372",
+      "type": "tmdb",
+      "title": "七王国的骑士",
+      "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+      "rating": 8.458,
+      "vote_count": 668,
+      "popularity": 91.9797,
+      "releaseDate": "2026-01-18",
+      "lastUpdateDate": "2026-02-22",
+      "posterPath": "/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
+      "backdropPath": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情,科幻奇幻,动作冒险"
+    },
+    {
+      "id": "240740",
+      "type": "tmdb",
+      "title": "首席女法医",
+      "description": "著名法医病理学家凯·斯卡佩塔博士重返弗吉尼亚州担任首席法医，调查一起令人毛骨悚然的谋杀案。这起案件的诡异细节不断唤起她数十年前首起重大案件的记忆。在1998年，斯卡佩塔曾与警探皮特·马里诺及联邦调查局探员本顿·韦斯利联手，调查一系列残忍的勒颈命案。本剧改编自帕特里夏·康威尔的畅销小说。",
+      "rating": 6.2,
+      "vote_count": 39,
+      "popularity": 133.2831,
+      "releaseDate": "2026-03-11",
+      "lastUpdateDate": "2026-03-11",
+      "posterPath": "/ihbtGf1CEIJkUc5oJHsmVQBc1sB.jpg",
+      "backdropPath": "/oHnlulBoE3XbI3HIYWY0dZfh5RH.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情,犯罪,悬疑"
+    },
     {
       "id": "273160",
       "type": "tmdb",
@@ -3169,6 +3349,21 @@
       "backdropPath": "/drWappLrpSgPuQ3wcY9LbvIwgH7.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片"
+    },
+    {
+      "id": "225891",
+      "type": "tmdb",
+      "title": "麦迪逊河谷",
+      "description": "该剧是《黄石》宇宙的第一部现代背景衍生剧，故事聚焦一个纽约家庭在蒙大拿州中部麦迪逊河谷地的生活，将对悲伤和人际关系进行真诚的研究和审视。",
+      "rating": 8.962,
+      "vote_count": 13,
+      "popularity": 58.4371,
+      "releaseDate": "2026-03-14",
+      "lastUpdateDate": "2026-03-14",
+      "posterPath": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+      "backdropPath": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情,西部"
     },
     {
       "id": "313298",
@@ -3276,6 +3471,21 @@
       "genreTitle": "喜剧"
     },
     {
+      "id": "311021",
+      "type": "tmdb",
+      "title": "夜班经理",
+      "description": "酒店夜班经理陈通隐藏着一段不为人知的黑暗过往。一次意外，他被中国香港廉政公署总调查主任霍敏儿招揽，成功打进黑商郭礼儒的团伙。随着陈通逐步进入犯罪世界的核心，他与郭礼儒女伴张雪的情感牵绊也越趋复杂。在叛背与效忠之间，陈通必须直视自己的人性黑暗面，为善良和正义作出正确的选择。",
+      "rating": 0.0,
+      "vote_count": 0,
+      "popularity": 0.2714,
+      "releaseDate": "",
+      "lastUpdateDate": "",
+      "posterPath": "/x7v1vBtsrZS8lxTkoIoyipTAnHL.jpg",
+      "backdropPath": "/cOfwhvRNOCJlVswW6VWJVMTu94y.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情,悬疑,犯罪"
+    },
+    {
       "id": "310239",
       "type": "tmdb",
       "title": "纯真博物馆",
@@ -3287,6 +3497,21 @@
       "lastUpdateDate": "2026-02-13",
       "posterPath": "/5onDIkOXk9AmPkFHcNRery1Ogy5.jpg",
       "backdropPath": "/kpEjZVusnBo9JcSTnfZtQlgbxu3.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情"
+    },
+    {
+      "id": "290856",
+      "type": "tmdb",
+      "title": "法警小队",
+      "description": "前海豹突击队员凯西·达顿离开黄石牧场，加入美国法警队，利用他的牛仔和军事技能在蒙大拿州打击犯罪，同时还要处理家庭关系和执法工作带来的精神压力。",
+      "rating": 7.4,
+      "vote_count": 73,
+      "popularity": 86.3883,
+      "releaseDate": "2026-03-01",
+      "lastUpdateDate": "2026-03-08",
+      "posterPath": "/AqbqHlfjq3kT7ecf5zlk0FcMzV6.jpg",
+      "backdropPath": "/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情"
     },
@@ -3394,6 +3619,21 @@
       "backdropPath": "/mRVPTh5JpzvXNtgNXppKROOdrzd.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,科幻奇幻,悬疑"
+    },
+    {
+      "id": "312423",
+      "type": "tmdb",
+      "title": "真相直击：深入全美超模大赛",
+      "description": "聚焦《超级名模生死斗》，绝对不容错过。节目最初只是提供给模特儿新秀的亮丽跳板，后来却逐渐演变成重量级流行文化现象，充斥着戏剧化纠葛、公然失态，以及种种至今仍持续在网络上引发话题的争议。《真相直击》揭露节目留下的种种复杂影响，并问出一个尖锐的问题：为了娱乐，我们愿意做到什么程度？",
+      "rating": 7.577,
+      "vote_count": 13,
+      "popularity": 3.2085,
+      "releaseDate": "2026-02-16",
+      "lastUpdateDate": "2026-02-16",
+      "posterPath": "/lxlsvsgvEYlf2wrSV9qUipHRAuk.jpg",
+      "backdropPath": "/fRiAJB6VxyG0QcjSXW4BoHIGsnu.jpg",
+      "mediaType": "tv",
+      "genreTitle": "纪录片"
     },
     {
       "id": "274776",
@@ -4394,6 +4634,21 @@
       "genreTitle": "剧情"
     },
     {
+      "id": "312423",
+      "type": "tmdb",
+      "title": "真相直击：深入全美超模大赛",
+      "description": "聚焦《超级名模生死斗》，绝对不容错过。节目最初只是提供给模特儿新秀的亮丽跳板，后来却逐渐演变成重量级流行文化现象，充斥着戏剧化纠葛、公然失态，以及种种至今仍持续在网络上引发话题的争议。《真相直击》揭露节目留下的种种复杂影响，并问出一个尖锐的问题：为了娱乐，我们愿意做到什么程度？",
+      "rating": 7.577,
+      "vote_count": 13,
+      "popularity": 3.2085,
+      "releaseDate": "2026-02-16",
+      "lastUpdateDate": "2026-02-16",
+      "posterPath": "/lxlsvsgvEYlf2wrSV9qUipHRAuk.jpg",
+      "backdropPath": "/fRiAJB6VxyG0QcjSXW4BoHIGsnu.jpg",
+      "mediaType": "tv",
+      "genreTitle": "纪录片"
+    },
+    {
       "id": "301380",
       "type": "tmdb",
       "title": "老馆正浪",
@@ -4638,6 +4893,21 @@
       "genreTitle": "悬疑,真人秀"
     },
     {
+      "id": "313995",
+      "type": "tmdb",
+      "title": "单身即地狱：重逢特辑",
+      "description": "Season 5 全体选手回归，聊节目幕后、现实近况、情侣关系等更新",
+      "rating": 7.7,
+      "vote_count": 10,
+      "popularity": 0.5778,
+      "releaseDate": "2026-02-14",
+      "lastUpdateDate": "2026-02-14",
+      "posterPath": "/xgM5WOEzr0Y7MUK0EnuozBw3CKZ.jpg",
+      "backdropPath": "/4qceofXVeBtJqJun3CZtkPs4m4I.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
       "id": "313670",
       "type": "tmdb",
       "title": "四个愿望",
@@ -4724,6 +4994,21 @@
       "lastUpdateDate": "2025-12-02",
       "posterPath": "/v67yptLLoKhDe0apSoGv9op4yG7.jpg",
       "backdropPath": "/hisigWf5HWftTSFXyvS8o50Geuc.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
+      "id": "282672",
+      "type": "tmdb",
+      "title": "换乘恋爱：另一个开始",
+      "description": "真人约会节目《换乘恋爱》以番外篇《换乘恋爱：另一个开始》再次回归。经过交流与磨合，成员们都得到了进一步的成长。这次再次相聚，展开新的开始。本节目聚集了第一季、第二季和第三季中的一些参演者一起旅行，并产生新化学反应。他们将会形成什么样的关系呢？他们是否能够与新的人开始新的生活？",
+      "rating": 0.0,
+      "vote_count": 0,
+      "popularity": 1.8049,
+      "releaseDate": "2025-01-22",
+      "lastUpdateDate": "2025-03-12",
+      "posterPath": "/8zooDkhfow7oO45qD5FcRJA1xKu.jpg",
+      "backdropPath": "/dQwHcmdPnhlqBKMPBhw3itJiyrk.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
