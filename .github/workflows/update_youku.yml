@@ -1,0 +1,43 @@
+name: 🔵 Update Youku Hot TV
+
+on:
+  schedule:
+    # 每天北京时间 早上 8:15 和 晚上 20:15 自动更新
+    # 完美错开豆瓣和芒果TV的运行时间
+    - cron: '15 0,12 * * *'
+  workflow_dispatch: # 允许你随时在网页手动点击测试
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    
+    steps:
+      - name: 📥 检出代码
+        uses: actions/checkout@v4
+
+      - name: 🐍 设置 Python 环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 📦 安装依赖库
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp
+
+      - name: 🚀 运行优酷抓取脚本
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          python scripts/update_youku.py
+
+      - name: 📤 提交并推送到 GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          # 注意：提交优酷的数据文件
+          git add data/youku-hot.json
+          # 如果有新内容则提交，无变动则跳过
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 自动更新优酷热榜数据 🔵" && git push)
