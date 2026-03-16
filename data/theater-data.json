@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16 23:23:44",
+  "last_updated": "2026-03-17 00:25:27",
   "迷雾剧场": {
     "aired": [
       {
@@ -774,12 +774,42 @@
   "玛卡巴卡的悬疑剧": {
     "aired": [
       {
+        "id": "305986",
+        "type": "tmdb",
+        "title": "钟表馆事件",
+        "description": "改编自绫辻行人创作的同名畅销小说，讲述了编辑江南孝明（奥智哉 饰）与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案。同时，推理作家鹿谷门实（青木崇高 饰）也介入调查，共同揭开宅邸与过去惨剧的真相。",
+        "rating": 8.5,
+        "voteCount": 2,
+        "popularity": 3.1335,
+        "releaseDate": "2026-02-27",
+        "lastUpdateDate": "2026-02-27",
+        "posterPath": "/5oWf1afgT21KVi2B5vhBlTxR9vv.jpg",
+        "backdropPath": "/8H0UU19gWdlumau0CsajTuMcroN.jpg",
+        "mediaType": "tv",
+        "genreTitle": ""
+      },
+      {
+        "id": "254071",
+        "type": "tmdb",
+        "title": "强制窃贼",
+        "description": "这部惊心动魄、张力十足的惊悚影集，故事围绕著一场世纪抢案。洛克米尔投信平凡无奇的上班日，因武装抢匪闯入而天翻地覆，他们胁迫萨拉（苏菲特纳饰演）和她的好友路克（亚契马德维饰演）执行他们的命令。抢案过后，满腹疑问的瑞斯总警督（雅各弗钦洛伊德饰演）必须与时间赛跑，查出是谁抢走人民四十亿英镑退休金，幕后主使是谁，动机又为何。",
+        "rating": 7.398,
+        "voteCount": 108,
+        "popularity": 15.1022,
+        "releaseDate": "2026-01-21",
+        "lastUpdateDate": "2026-01-21",
+        "posterPath": "/qFOgwQtUEcKPVafbIl5ImKtB8Vz.jpg",
+        "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,犯罪,悬疑"
+      },
+      {
         "id": "259731",
         "type": "tmdb",
         "title": "他和她的谎",
         "description": "这对关系疏远的夫妻一方是警探，另一方则是新闻记者。他们争相要抢先对方破解一桩凶案，也都深信对方就是主嫌。",
         "rating": 7.287,
-        "voteCount": 342,
+        "voteCount": 343,
         "popularity": 18.9677,
         "releaseDate": "2026-01-08",
         "lastUpdateDate": "2026-01-08",
@@ -787,6 +817,21 @@
         "backdropPath": "/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情,犯罪,悬疑"
+      },
+      {
+        "id": "252135",
+        "type": "tmdb",
+        "title": "回魂计",
+        "description": "以一宗诈骗绑架案为引线，两位失去女儿的母亲因仇恨结盟，在神秘力量的协助下，竟将凶手复活、施以酷刑，只为亲手惩罚。她们在复仇与救赎之间愈陷愈深，不仅对抗谎言与操控的危险世界，更被迫面对友谊与道德的撕裂。当真相逐步揭开，复仇究竟能带来慰藉，还是吞噬她们最后的希望？",
+        "rating": 7.613,
+        "voteCount": 31,
+        "popularity": 4.0965,
+        "releaseDate": "2025-10-09",
+        "lastUpdateDate": "2025-10-09",
+        "posterPath": "/ukoPA4WnfIlApNtc7AF5TTLhouy.jpg",
+        "backdropPath": "/h8sF926rL0b7zdMSWjo9rYiy3Lk.jpg",
+        "mediaType": "tv",
+        "genreTitle": "犯罪,剧情,悬疑"
       },
       {
         "id": "259909",
@@ -819,6 +864,36 @@
         "genreTitle": "犯罪,剧情"
       },
       {
+        "id": "241609",
+        "type": "tmdb",
+        "title": "掩耳盗邻",
+        "description": "一名金融巨擘突然痛失婚姻与事业，他开始抢劫富有的邻居来维生。在自己的社交圈中行窃，让他感到莫名的兴奋，但他也逐渐陷入一张错综复杂的致命之网中。",
+        "rating": 7.403,
+        "voteCount": 175,
+        "popularity": 13.7203,
+        "releaseDate": "2025-04-10",
+        "lastUpdateDate": "2025-05-29",
+        "posterPath": "/1DyX36iWgZa8lr5NcTNaVJQ7935.jpg",
+        "backdropPath": "/8NX2kBLHS6vSrl8Lg3Y2JAqzmy9.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,犯罪"
+      },
+      {
+        "id": "259288",
+        "type": "tmdb",
+        "title": "善意的竞争",
+        "description": "在这所精英学校里，两位年轻学生面对无情的竞争、严苛的期望与虚假的承诺，进而建立了一段复杂而微妙的关系。",
+        "rating": 8.6,
+        "voteCount": 90,
+        "popularity": 8.1288,
+        "releaseDate": "2025-02-10",
+        "lastUpdateDate": "2025-03-06",
+        "posterPath": "/5pNE863SK1vU40ljFqUOq8v1FQ4.jpg",
+        "backdropPath": "/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
+        "mediaType": "tv",
+        "genreTitle": "悬疑,剧情"
+      },
+      {
         "id": "219937",
         "type": "tmdb",
         "title": "嗜血法医：源罪",
@@ -832,6 +907,21 @@
         "backdropPath": "/7f2bZ9TdBOlnKpdiir8xWDv6yOi.jpg",
         "mediaType": "tv",
         "genreTitle": "犯罪,剧情,悬疑"
+      },
+      {
+        "id": "222766",
+        "type": "tmdb",
+        "title": "豺狼的日子",
+        "description": "“豺狼”（埃迪·雷德梅恩饰）是一名独来独往，行踪难以捉摸的顶尖杀手，以酬金最高的暗杀行动为生。然而，在他最近一次执行刺杀任务之后，他遇到了自己的对手—一位锲而不舍的英国情报官员碧安卡·普尔曼（拉什纳·林奇饰），这位情报官员开始追踪“豺狼”，在欧洲展开了一场惊心动魄的猫鼠追逐战，并留下了一连串破坏的痕迹。",
+        "rating": 8.155,
+        "voteCount": 993,
+        "popularity": 26.8147,
+        "releaseDate": "2024-11-07",
+        "lastUpdateDate": "2024-12-12",
+        "posterPath": "/wSiVDqXSsC8diRgw1IgmVkWng8j.jpg",
+        "backdropPath": "/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,动作冒险,悬疑"
       },
       {
         "id": "252372",
@@ -864,6 +954,21 @@
         "genreTitle": "剧情,悬疑"
       },
       {
+        "id": "125988",
+        "type": "tmdb",
+        "title": "末日地堡",
+        "description": "该剧基于休·豪伊所著同名畅销科幻系列小说改编，在一个满目疮痍、有毒物质遍布的未来世界中，成千上万的人居住在深埋在地下的巨大筒仓里。在警长违反了一项基本规则以及有些居民神秘死亡后，工程师朱丽叶开始揭开惊人的秘密和筒仓的真相。",
+        "rating": 8.124,
+        "voteCount": 1934,
+        "popularity": 33.5437,
+        "releaseDate": "2023-05-04",
+        "lastUpdateDate": "2025-01-16",
+        "posterPath": "/xoM3lntYJzZwOBJJs5O1ix0jyfe.jpg",
+        "backdropPath": "/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+        "mediaType": "tv",
+        "genreTitle": "科幻奇幻,剧情"
+      },
+      {
         "id": "158876",
         "type": "tmdb",
         "title": "模仿犯",
@@ -877,6 +982,21 @@
         "backdropPath": "/qGILaGrR0Oc9d3lVpwZ6M7yWq5z.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情,悬疑,犯罪"
+      },
+      {
+        "id": "136283",
+        "type": "tmdb",
+        "title": "黑暗荣耀",
+        "description": "一名女子上高中时遭受过可怕的虐待。时隔多年，她将精心制定的复仇计划付诸实施，要让施害者为自己的罪行付出代价。",
+        "rating": 8.5,
+        "voteCount": 868,
+        "popularity": 12.8196,
+        "releaseDate": "2022-12-30",
+        "lastUpdateDate": "2023-03-10",
+        "posterPath": "/4ANJBZETwHOmtofE5D0QjpCWB9w.jpg",
+        "backdropPath": "/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       },
       {
         "id": "112837",
@@ -909,6 +1029,36 @@
         "genreTitle": "剧情,悬疑"
       },
       {
+        "id": "130766",
+        "type": "tmdb",
+        "title": "喜鹊谋杀案",
+        "description": "故事围绕编辑Susan Ryeland展开，她拿到了作家Alan Conway最新小说未完成的手稿，毫不知情这将改变她的生活。这是一次对侦探小说的真正颠覆；一场阿加莎•克里斯蒂式的谋杀盛宴；一首神秘童谣，幻化成一曲夺命交响；两个互为镜像的平行世界，衍生出双倍的邪恶；是书中混乱的字符跃进了现实？还是现实早已写好宿命的剧本？",
+        "rating": 7.0,
+        "voteCount": 64,
+        "popularity": 8.1607,
+        "releaseDate": "2022-02-10",
+        "lastUpdateDate": "2022-02-10",
+        "posterPath": "/4EwJWGsmcyj3Ka0N2bskaxtzBTG.jpg",
+        "backdropPath": "/jNSCKKQEv0rnQ5tTicKnQY8e0PP.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,悬疑,犯罪"
+      },
+      {
+        "id": "130330",
+        "type": "tmdb",
+        "title": "华灯初上",
+        "description": "在 20 世纪 80 年代的台北红灯区，热门日式酒店的小姐们努力应对着嫉妒、心碎、友谊、爱情与背叛。",
+        "rating": 8.182,
+        "voteCount": 55,
+        "popularity": 6.9363,
+        "releaseDate": "2021-11-27",
+        "lastUpdateDate": "2022-03-18",
+        "posterPath": "/fTkkEpFU2e4Rz14CkS5P9V1U2Hy.jpg",
+        "backdropPath": "/t4GMQwUfJHlMjpSKvg73NWgs5LV.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,悬疑,犯罪"
+      },
+      {
         "id": "131927",
         "type": "tmdb",
         "title": "嗜血法医：杀魔新生",
@@ -939,6 +1089,51 @@
         "genreTitle": "犯罪,悬疑,科幻奇幻"
       },
       {
+        "id": "101146",
+        "type": "tmdb",
+        "title": "谁是被害者",
+        "description": "一名患有自闭症的法医侦探发现他疏远已久的女儿与一起神秘谋杀案有关，于是不顾一切代价查明案件真相。",
+        "rating": 7.702,
+        "voteCount": 52,
+        "popularity": 3.9243,
+        "releaseDate": "2020-04-30",
+        "lastUpdateDate": "2024-06-21",
+        "posterPath": "/u6VnTkJWn6T24Gwqg3xvrUdqAjw.jpg",
+        "backdropPath": "/iQteAlRlRi84mL4wiFD3va75fyT.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,犯罪,悬疑"
+      },
+      {
+        "id": "93166",
+        "type": "tmdb",
+        "title": "真相捕捉",
+        "description": "当士兵肖恩埃默里在阿富汗谋杀的罪名被推翻，因为有缺陷的视频证据，他作为一个自由人和他的小女儿返回生活。但当伦敦一个夜晚的闭路电视镜头曝光时，肖恩的生活发生了令人震惊的转折，他必须很快再次为自由而战。随着新晋升的迪雷切尔凯里起草调查肖恩的案件，她很快了解到，真相有时可能是一个角度的问题。她应该信任肖恩·埃默里吗？",
+        "rating": 7.733,
+        "voteCount": 281,
+        "popularity": 41.1496,
+        "releaseDate": "2019-09-03",
+        "lastUpdateDate": "2026-03-08",
+        "posterPath": "/8kwI8HHSbrzBSho1Wb5SAFo67mb.jpg",
+        "backdropPath": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
+        "mediaType": "tv",
+        "genreTitle": "犯罪,剧情,悬疑"
+      },
+      {
+        "id": "88236",
+        "type": "tmdb",
+        "title": "如何在网上卖迷幻药",
+        "description": "如何把女友校园毒贩那里赢回来？对于莫瑞兹来说，答案显而易见：卖更棒的迷幻药。在卧室里，莫瑞兹与好友伦尼一起在网上开始贩毒，并出人意料地大获成功。不久后，意外成为毒贩的他们遇到了毒品行当最常见的问题：满足市场需求、品质控制，最重要的是不被抓到。《如何在网上卖迷幻药》是一个现代故事，讲述了失恋、友情的起起落落以及成长过程中所面临的阻碍。",
+        "rating": 7.909,
+        "voteCount": 920,
+        "popularity": 6.288,
+        "releaseDate": "2019-05-31",
+        "lastUpdateDate": "2025-04-08",
+        "posterPath": "/1yandaaXoaOw6A3wrsjk9uHigiR.jpg",
+        "backdropPath": "/k5LOQVkVhwq8qybNjwSdWpGghM7.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,喜剧,犯罪"
+      },
+      {
         "id": "88570",
         "type": "tmdb",
         "title": "轮到你了",
@@ -952,6 +1147,21 @@
         "backdropPath": "/lAk2ndbX9KT6dTTuaDNPsAniJZw.jpg",
         "mediaType": "tv",
         "genreTitle": "悬疑,剧情"
+      },
+      {
+        "id": "76669",
+        "type": "tmdb",
+        "title": "名校风暴",
+        "description": "就读一所西班牙贵族私立学校后，三名工薪阶层青少年与富裕学生之间的冲突引起了一场谋杀。",
+        "rating": 8.011,
+        "voteCount": 9335,
+        "popularity": 64.6265,
+        "releaseDate": "2018-10-05",
+        "lastUpdateDate": "2024-07-26",
+        "posterPath": "/xIeDSNRJG3hbcTJCEWj9l8swmxp.jpg",
+        "backdropPath": "/uU6YW3N11qECNfz18LNGAGg3Uir.jpg",
+        "mediaType": "tv",
+        "genreTitle": "犯罪,悬疑,剧情"
       },
       {
         "id": "78191",
@@ -984,6 +1194,36 @@
         "genreTitle": "喜剧,犯罪,剧情"
       },
       {
+        "id": "73982",
+        "type": "tmdb",
+        "title": "白夜追凶",
+        "description": "一场灭门惨案，让原本逍遥浪荡的关宏宇成了在逃的通缉嫌犯。身为刑侦支队队长的双胞胎哥哥关宏峰，誓要查出真相，但出于亲属回避的原则，警队禁止关宏峰参与灭门案的调查工作，关宏峰义愤辞职。调任了代支队长的周巡处于破案压力，也为了追寻关宏宇的下落，他设计让离职的关宏峰以“编外顾问”的身份继续参与各大重案要案的调查，而警队所有人都被隐瞒了。由于罹患“黑暗恐惧症”，白天和黑夜出现在警队的“顾问关宏峰”，其实是由孪生兄弟二人白夜分饰，性格迥异的兄弟两人在警队中马脚不断，背负着随时被周巡及各路人马发现的危险，一路侦破了各种大案要案，目的只是想伺机调阅灭门案的案卷查出真相，以还清白。",
+        "rating": 8.268,
+        "voteCount": 56,
+        "popularity": 6.3925,
+        "releaseDate": "2017-08-30",
+        "lastUpdateDate": "2024-12-06",
+        "posterPath": "/cMUymzvJL0MeXR7OuuBmR0KGaxZ.jpg",
+        "backdropPath": "/fBClDP2SLBn4NlqYSMkZwky3VEp.jpg",
+        "mediaType": "tv",
+        "genreTitle": "犯罪,剧情,悬疑"
+      },
+      {
+        "id": "60059",
+        "type": "tmdb",
+        "title": "风骚律师",
+        "description": "名不见经传的律师吉米·麦吉尔是如何转变成备受道德谴责的大律师索尔·古德曼的？",
+        "rating": 8.705,
+        "voteCount": 6268,
+        "popularity": 96.6682,
+        "releaseDate": "2015-02-08",
+        "lastUpdateDate": "2022-08-15",
+        "posterPath": "/pQApBo9VfXQzABmZQ3TQqSzsCCL.jpg",
+        "backdropPath": "/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg",
+        "mediaType": "tv",
+        "genreTitle": "犯罪,剧情"
+      },
+      {
         "id": "40008",
         "type": "tmdb",
         "title": "汉尼拔",
@@ -1012,11 +1252,41 @@
         "backdropPath": "/s3pypVJf05ELPCUA6jSW381nLwm.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情,犯罪,悬疑"
+      },
+      {
+        "id": "42009",
+        "type": "tmdb",
+        "title": "黑镜",
+        "description": "《黑镜》（英语：Black Mirror）是一部由查理·布鲁克创作的英国独立单元剧，该剧展现现代社会发展，特别是对新技术利用的副作用，其中的每一集是独立的，背景通常设置在架空的现实或不久的将来，并以黑暗和讽刺的语气和或轻或重的实验感来表现剧情。",
+        "rating": 8.282,
+        "voteCount": 6038,
+        "popularity": 75.1589,
+        "releaseDate": "2011-12-04",
+        "lastUpdateDate": "2025-04-10",
+        "posterPath": "/cF9V4PXhgRztl7g7nOJqFHvgeHT.jpg",
+        "backdropPath": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+        "mediaType": "tv",
+        "genreTitle": "科幻奇幻,剧情,悬疑"
+      },
+      {
+        "id": "1396",
+        "type": "tmdb",
+        "title": "绝命毒师",
+        "description": "新墨西哥州的高中化学老师沃尔特·H·怀特是拮据家庭的唯一经济来源。他大半生安分守己，兢兢业业，却在50岁生日之际突然得知自己罹患肺癌晚期的噩耗，原本便不甚顺意的人生顿时雪上加霜。为了保障怀孕的妻子斯凯勒和残疾的儿子小沃特能在自己死后衣食无忧，沃尔特决意铤而走险。他主动找到曾经的学生、而今的毒贩小混混杰西·平克曼谈合作，并运用娴熟高超的化学技术提炼出高纯度冰毒交给后者贩售。孰料事态的发展却在平克曼带回毒品供销商疯狂小八及其表弟后急转直下，沃尔特的人生也由此彻底步向失控。他被迫开始了教书与制毒的双重生活，逐渐坠落至万劫不复的深渊。",
+        "rating": 8.939,
+        "voteCount": 17291,
+        "popularity": 141.1135,
+        "releaseDate": "2008-01-20",
+        "lastUpdateDate": "2013-09-29",
+        "posterPath": "/rqliuvX7NdknSHu5qaSDfESplQi.jpg",
+        "backdropPath": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,犯罪"
       }
     ],
     "upcoming": [],
-    "totalItems": 17,
-    "totalPages": 1
+    "totalItems": 40,
+    "totalPages": 2
   },
   "横屏短剧": {
     "aired": [
