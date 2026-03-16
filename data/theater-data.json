@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16 20:41:16",
+  "last_updated": "2026-03-16 20:48:24",
   "迷雾剧场": {
     "aired": [
       {
@@ -738,6 +738,20 @@
         "genreTitle": "剧情,犯罪,悬疑"
       },
       {
+        "id": "259909",
+        "type": "tmdb",
+        "title": "嗜血法医：杀魔复生",
+        "description": "　　德克斯特·摩根从昏迷中醒来，发现哈里森不知所踪。意识到自己对儿子造成的伤害，德克斯特启程前往纽约，决心找到哈里森，弥补过失。但最终的结局并非易事。迈阿密地铁的安吉尔·巴蒂斯塔带着疑问前来，德克斯特意识到自己的过去正迅速地追上自己。父子俩在这座不夜城里摸索着各自的黑暗，很快发现自己陷入了比想象中更深的困境——而唯一的出路就是携手共进。",
+        "rating": 8.537,
+        "voteCount": 443,
+        "popularity": 19.367,
+        "releaseDate": "2025-07-13",
+        "posterPath": "/poj4MwpZtNAX0k2Zugt15SMw4lR.jpg",
+        "backdropPath": "/8J0SjKToFBbg8dKpocVOCsrC77C.jpg",
+        "mediaType": "tv",
+        "genreTitle": "犯罪,剧情,悬疑"
+      },
+      {
         "id": "241883",
         "type": "tmdb",
         "title": "园丁",
@@ -750,6 +764,34 @@
         "backdropPath": "/mhRhipgo5ACKcoHMCOaD6a7h8gs.jpg",
         "mediaType": "tv",
         "genreTitle": "犯罪,剧情"
+      },
+      {
+        "id": "219937",
+        "type": "tmdb",
+        "title": "嗜血法医：源罪",
+        "description": "1991年，在迈阿密这座城市里，一个叫德克斯特·摩根的年轻人从普通学生变成了一个心怀复仇的连环杀手。随着内心的杀戮欲望越来越强烈，他不得不想办法控制这股黑暗的冲动。还好有他爸爸哈利的帮助，教会了他一套特殊的\"行事准则\"——专门找那些该死的坏人下手，还得避开警察的注意。对德克斯特来说，这可不是件容易事，尤其是在他刚开始在迈阿密警察局当法医实习生的时候。",
+        "rating": 8.178,
+        "voteCount": 381,
+        "popularity": 19.3319,
+        "releaseDate": "2024-12-15",
+        "posterPath": "/oTO5mUi63MlSfoS0orF5dRo2WPW.jpg",
+        "backdropPath": "/7f2bZ9TdBOlnKpdiir8xWDv6yOi.jpg",
+        "mediaType": "tv",
+        "genreTitle": "犯罪,剧情,悬疑"
+      },
+      {
+        "id": "252372",
+        "type": "tmdb",
+        "title": "正念谋杀",
+        "description": "黑手党律师比约恩参加正念课程，以更好地平衡工作和生活，结果意外发现了新的应对之道 — 其中包括谋杀。",
+        "rating": 7.632,
+        "voteCount": 148,
+        "popularity": 9.1191,
+        "releaseDate": "2024-10-31",
+        "posterPath": "/arv0jI2KZDLRremCKIKzG3HUYW1.jpg",
+        "backdropPath": "/rsLZK4xAw1Oun0T5UWfG213qalP.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,喜剧,犯罪"
       },
       {
         "id": "236617",
@@ -794,6 +836,20 @@
         "genreTitle": "剧情,犯罪,悬疑"
       },
       {
+        "id": "210232",
+        "type": "tmdb",
+        "title": "窥视者",
+        "description": "不祥的信件，奇怪的邻居，险恶的威胁... 一家人搬进了郊区的理想住宅，却发现等待他们的是一场噩梦。",
+        "rating": 7.082,
+        "voteCount": 736,
+        "popularity": 12.5508,
+        "releaseDate": "2022-10-13",
+        "posterPath": "/6OnxjptAqwmruKkzZqSFy2RQYtC.jpg",
+        "backdropPath": "/bebZzFw1mBzF9UwCO3ocW0PIIby.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,悬疑"
+      },
+      {
         "id": "131927",
         "type": "tmdb",
         "title": "嗜血法医：杀魔新生",
@@ -834,6 +890,62 @@
         "backdropPath": "/lAk2ndbX9KT6dTTuaDNPsAniJZw.jpg",
         "mediaType": "tv",
         "genreTitle": "悬疑,剧情"
+      },
+      {
+        "id": "78191",
+        "type": "tmdb",
+        "title": "你",
+        "description": "乔伊·戈栢是个聪明但执著的纽约书店经理，迷上一位新人作家后，利用现代科技去夺取贝可的芳心。他不但由变态跟踪狂变为其男友，同时还要清除两人恋爱路上的 各种障碍—就连杀人也在所不惜。故事设定在当下 24 小时都有网路连线的世界，该剧探讨了现实生活中我们面对网路偷窥和控制的无助感。",
+        "rating": 8.0,
+        "voteCount": 3834,
+        "popularity": 65.6915,
+        "releaseDate": "2018-09-09",
+        "posterPath": "/azSwlcLkPLLs0I7REr2dABRcJVG.jpg",
+        "backdropPath": "/gzOIymABxmetAECXtazEYCpMmfb.jpg",
+        "mediaType": "tv",
+        "genreTitle": "悬疑,犯罪,剧情"
+      },
+      {
+        "id": "73107",
+        "type": "tmdb",
+        "title": "巴瑞",
+        "description": "Barry（Bill Hader饰演）是一个前海军陆战队成员，在退役后于中西部地区成了个廉价的雇佣杀手。他对自己的生活很不满意，有次他得前往洛杉矶去暗杀某人，但最终他在住着一群希望在洛杉矶戏剧舞台上大红大紫的演员社区中找到自己的归宿。",
+        "rating": 7.9,
+        "voteCount": 1101,
+        "popularity": 18.1246,
+        "releaseDate": "2018-03-25",
+        "posterPath": "/bhO6HIPv5f3TEudlER4cbvtNdtP.jpg",
+        "backdropPath": "/cj0zZiJfFj3xn9p0K3kx8qHSyng.jpg",
+        "mediaType": "tv",
+        "genreTitle": "喜剧,犯罪,剧情"
+      },
+      {
+        "id": "40008",
+        "type": "tmdb",
+        "title": "汉尼拔",
+        "description": "《汉尼拔（Hannibal）》是由美国NBC电视台根据自托马斯·哈里斯经典小说《红龙》改编。由布莱恩·福勒主创，麦德斯·米科尔森、休·丹西主演。该剧讲述了FBI特别探员威尔·格雷厄姆以及表面上是优雅心理医生，实际上是食人魔连环杀人犯的汉尼拔·莱科特博士的故事。他们的关系从一开始的亲近到后来的微妙、疏离，着实令人胆寒。",
+        "rating": 8.2,
+        "voteCount": 2824,
+        "popularity": 24.5403,
+        "releaseDate": "2013-04-04",
+        "posterPath": "/oXSc0N61Dp4RJXU6esekuCy3aNx.jpg",
+        "backdropPath": "/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,犯罪"
+      },
+      {
+        "id": "46786",
+        "type": "tmdb",
+        "title": "贝茨旅馆",
+        "description": "在诺曼·贝茨的父亲去世后，诺曼的母亲诺玛购买了位于俄勒冈州沿海小镇的一家汽车旅馆，以便她和诺曼能够开始新的生活。",
+        "rating": 8.05,
+        "voteCount": 1733,
+        "popularity": 29.6254,
+        "releaseDate": "2013-03-18",
+        "posterPath": "/xXKcfZE7ulYxgjjYv51s0zDG69s.jpg",
+        "backdropPath": "/s3pypVJf05ELPCUA6jSW381nLwm.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,犯罪,悬疑"
       }
     ],
     "upcoming": [],
@@ -1660,6 +1772,34 @@
         "backdropPath": "/jNkfWGvKNOZLx0lazTVpMtDYX5X.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情,动作冒险"
+      },
+      {
+        "id": "155052",
+        "type": "tmdb",
+        "title": "拜托了！别宠我",
+        "description": "　　讲述了女主颜一一因意外穿越进自己写的小说后，为了回到现实中，想尽办法成为“失宠专业户”，却让一直不近女色的皇帝秦御产生莫大兴趣的故事。",
+        "rating": 10.0,
+        "voteCount": 1,
+        "popularity": 3.4583,
+        "releaseDate": "2022-01-07",
+        "posterPath": "/ypeQ9aLPAGsF5KwGsfbtXHJ5Lzt.jpg",
+        "backdropPath": "/vBAgHDem60xMbShigCMAABflUMp.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": "155052",
+        "type": "tmdb",
+        "title": "拜托了！别宠我",
+        "description": "　　讲述了女主颜一一因意外穿越进自己写的小说后，为了回到现实中，想尽办法成为“失宠专业户”，却让一直不近女色的皇帝秦御产生莫大兴趣的故事。",
+        "rating": 10.0,
+        "voteCount": 1,
+        "popularity": 3.4583,
+        "releaseDate": "2022-01-07",
+        "posterPath": "/ypeQ9aLPAGsF5KwGsfbtXHJ5Lzt.jpg",
+        "backdropPath": "/vBAgHDem60xMbShigCMAABflUMp.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       },
       {
         "id": "155052",
@@ -3165,6 +3305,20 @@
         "backdropPath": "/obVvn2atJXcnZOKUkPvT7Xj2Fjs.jpg",
         "mediaType": "tv",
         "genreTitle": ""
+      },
+      {
+        "id": "105962",
+        "type": "tmdb",
+        "title": "重启之极海听雷",
+        "description": "该剧讲述了吴邪、王胖子、张起灵铁三角在十年之约结束、退隐雨村之后，重新为了亲情、友情，踏上了一段冒险之旅，在经历生死危机的考验后，他们揭开重重迷雾，获得新生的故事 。",
+        "rating": 7.818,
+        "voteCount": 11,
+        "popularity": 5.8423,
+        "releaseDate": "2020-07-15",
+        "posterPath": "/q0eijnpfbPFbv1Xoxkn034oH4pu.jpg",
+        "backdropPath": "/iDmWh0rGmOipTq4vvpgfNtYv10n.jpg",
+        "mediaType": "tv",
+        "genreTitle": "悬疑,动作冒险"
       },
       {
         "id": "104374",
