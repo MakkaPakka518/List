@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16 11:50:04",
+  "last_updated": "2026-03-16 22:13:03",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1077,28 +1077,6 @@
       "rawCountries": []
     },
     {
-      "id": "75214",
-      "tmdbId": 75214,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "紫罗兰永恒花园",
-      "releaseDate": "2018-01-11",
-      "posterPath": "/55Psg9yxczJ0l5xgF3AVT8oidmq.jpg",
-      "backdropPath": "/2e2AEk7Jmn8CztM62hoUyEEWw0B.jpg",
-      "rating": 8.5,
-      "description": "2018 · ⭐ 8.5 · 日本\n某个大陆的、某个时代。大陆南北分割的战争结束了，世界走向了和平。在战争中作为军人的薇尔莉特•伊芙加登，怀抱着对她来说无比重要之人留下的“话语”，离开军队来到了大港口城市。踊跃的人群在排列着煤气灯的街道马路上来来往往地穿梭着。薇尔莉特在街道上找到了“代写书信”的工作。那是根据委托人的想法来组织出相应语言的工作。她直面委托人、触碰着他们内心深处的坦率感情。与此同时，薇尔莉特在记录书信时，渐渐明白那“话语”的含义。",
-      "genreTitle": "剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "241928",
       "tmdbId": 241928,
       "type": "tmdb",
@@ -1115,6 +1093,28 @@
         16,
         18,
         35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "75214",
+      "tmdbId": 75214,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "紫罗兰永恒花园",
+      "releaseDate": "2018-01-11",
+      "posterPath": "/55Psg9yxczJ0l5xgF3AVT8oidmq.jpg",
+      "backdropPath": "/2e2AEk7Jmn8CztM62hoUyEEWw0B.jpg",
+      "rating": 8.5,
+      "description": "2018 · ⭐ 8.5 · 日本\n某个大陆的、某个时代。大陆南北分割的战争结束了，世界走向了和平。在战争中作为军人的薇尔莉特•伊芙加登，怀抱着对她来说无比重要之人留下的“话语”，离开军队来到了大港口城市。踊跃的人群在排列着煤气灯的街道马路上来来往往地穿梭着。薇尔莉特在街道上找到了“代写书信”的工作。那是根据委托人的想法来组织出相应语言的工作。她直面委托人、触碰着他们内心深处的坦率感情。与此同时，薇尔莉特在记录书信时，渐渐明白那“话语”的含义。",
+      "genreTitle": "剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -2170,6 +2170,26 @@
       ]
     },
     {
+      "id": "257475",
+      "tmdbId": 257475,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "玉子爱情故事",
+      "releaseDate": "2014-04-26",
+      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
+      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
+      "rating": 7.2,
+      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
+      "genreTitle": "爱情 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        10749,
+        16,
+        35
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "67676",
       "tmdbId": 67676,
       "type": "tmdb",
@@ -2190,26 +2210,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "257475",
-      "tmdbId": 257475,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "玉子爱情故事",
-      "releaseDate": "2014-04-26",
-      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
-      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
-      "rating": 7.2,
-      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
-      "genreTitle": "爱情 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        10749,
-        16,
-        35
-      ],
-      "rawCountries": []
     },
     {
       "id": "30980",
