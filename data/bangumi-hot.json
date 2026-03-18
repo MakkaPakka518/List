@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 22:11:51",
+  "last_updated": "2026-03-18 11:34:51",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1126,29 +1126,6 @@
       "rawCountries": []
     },
     {
-      "id": "241928",
-      "tmdbId": 241928,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "少女乐队的呐喊",
-      "releaseDate": "2024-04-06",
-      "lastUpdateDate": "2024-06-29",
-      "posterPath": "/uwRUN2GAyJCYUTBSdQ8gt7NTehB.jpg",
-      "backdropPath": "/tkDAHXPO4mqlcq8GgqJAJ9w1Ecf.jpg",
-      "rating": 8.1,
-      "description": "2024 · ⭐ 8.1 · 日本\n“愤怒、喜悦、悲伤，全部都释放出来吧。”\n\n一个高中二年级的主人公，辍学了，独自一人前往东京追求大学梦想。\n\n一个被朋友背叛不知所措的少女。\n\n一个被父母抛弃，在大都会里靠着一份工作勉强糊口的女孩。\n\n这个世界总是背叛我们。\n\n什么事情都不如意。\n\n但是，因为我们想要喜欢某些事物。\n\n因为我们相信自己总会有一个归属之处。\n\n所以，唱吧。",
-      "genreTitle": "剧情 / 喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "75214",
       "tmdbId": 75214,
       "type": "tmdb",
@@ -1166,6 +1143,29 @@
         16,
         18,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "241928",
+      "tmdbId": 241928,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "少女乐队的呐喊",
+      "releaseDate": "2024-04-06",
+      "lastUpdateDate": "2024-06-29",
+      "posterPath": "/uwRUN2GAyJCYUTBSdQ8gt7NTehB.jpg",
+      "backdropPath": "/tkDAHXPO4mqlcq8GgqJAJ9w1Ecf.jpg",
+      "rating": 8.1,
+      "description": "2024 · ⭐ 8.1 · 日本\n“愤怒、喜悦、悲伤，全部都释放出来吧。”\n\n一个高中二年级的主人公，辍学了，独自一人前往东京追求大学梦想。\n\n一个被朋友背叛不知所措的少女。\n\n一个被父母抛弃，在大都会里靠着一份工作勉强糊口的女孩。\n\n这个世界总是背叛我们。\n\n什么事情都不如意。\n\n但是，因为我们想要喜欢某些事物。\n\n因为我们相信自己总会有一个归属之处。\n\n所以，唱吧。",
+      "genreTitle": "剧情 / 喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        35
       ],
       "rawCountries": [
         "JP"
@@ -1904,6 +1904,28 @@
       ]
     },
     {
+      "id": "198152",
+      "tmdbId": 198152,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "别当欧尼酱了！",
+      "releaseDate": "2023-01-05",
+      "lastUpdateDate": "2023-03-23",
+      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
+      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+      "rating": 7.4,
+      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "94693",
       "tmdbId": 94693,
       "type": "tmdb",
@@ -1921,28 +1943,6 @@
         16,
         10759,
         10765,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "198152",
-      "tmdbId": 198152,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "别当欧尼酱了！",
-      "releaseDate": "2023-01-05",
-      "lastUpdateDate": "2023-03-23",
-      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
-      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
-      "rating": 7.4,
-      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
         35
       ],
       "rawCountries": [
