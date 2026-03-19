@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18 22:14:08",
+  "last_updated": "2026-03-19 11:34:55",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1126,29 +1126,6 @@
       "rawCountries": []
     },
     {
-      "id": "75214",
-      "tmdbId": 75214,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "紫罗兰永恒花园",
-      "releaseDate": "2018-01-11",
-      "lastUpdateDate": "2018-04-05",
-      "posterPath": "/55Psg9yxczJ0l5xgF3AVT8oidmq.jpg",
-      "backdropPath": "/2e2AEk7Jmn8CztM62hoUyEEWw0B.jpg",
-      "rating": 8.5,
-      "description": "2018 · ⭐ 8.5 · 日本\n某个大陆的、某个时代。大陆南北分割的战争结束了，世界走向了和平。在战争中作为军人的薇尔莉特•伊芙加登，怀抱着对她来说无比重要之人留下的“话语”，离开军队来到了大港口城市。踊跃的人群在排列着煤气灯的街道马路上来来往往地穿梭着。薇尔莉特在街道上找到了“代写书信”的工作。那是根据委托人的想法来组织出相应语言的工作。她直面委托人、触碰着他们内心深处的坦率感情。与此同时，薇尔莉特在记录书信时，渐渐明白那“话语”的含义。",
-      "genreTitle": "剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "241928",
       "tmdbId": 241928,
       "type": "tmdb",
@@ -1166,6 +1143,29 @@
         16,
         18,
         35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "75214",
+      "tmdbId": 75214,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "紫罗兰永恒花园",
+      "releaseDate": "2018-01-11",
+      "lastUpdateDate": "2018-04-05",
+      "posterPath": "/55Psg9yxczJ0l5xgF3AVT8oidmq.jpg",
+      "backdropPath": "/2e2AEk7Jmn8CztM62hoUyEEWw0B.jpg",
+      "rating": 8.5,
+      "description": "2018 · ⭐ 8.5 · 日本\n某个大陆的、某个时代。大陆南北分割的战争结束了，世界走向了和平。在战争中作为军人的薇尔莉特•伊芙加登，怀抱着对她来说无比重要之人留下的“话语”，离开军队来到了大港口城市。踊跃的人群在排列着煤气灯的街道马路上来来往往地穿梭着。薇尔莉特在街道上找到了“代写书信”的工作。那是根据委托人的想法来组织出相应语言的工作。她直面委托人、触碰着他们内心深处的坦率感情。与此同时，薇尔莉特在记录书信时，渐渐明白那“话语”的含义。",
+      "genreTitle": "剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10765
       ],
       "rawCountries": [
         "JP"
