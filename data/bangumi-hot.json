@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 22:01:15",
+  "last_updated": "2026-03-20 11:25:18",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1126,29 +1126,6 @@
       "rawCountries": []
     },
     {
-      "id": "241928",
-      "tmdbId": 241928,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "少女乐队的呐喊",
-      "releaseDate": "2024-04-06",
-      "lastUpdateDate": "2024-06-29",
-      "posterPath": "/uwRUN2GAyJCYUTBSdQ8gt7NTehB.jpg",
-      "backdropPath": "/tkDAHXPO4mqlcq8GgqJAJ9w1Ecf.jpg",
-      "rating": 8.1,
-      "description": "2024 · ⭐ 8.1 · 日本\n“愤怒、喜悦、悲伤，全部都释放出来吧。”\n\n一个高中二年级的主人公，辍学了，独自一人前往东京追求大学梦想。\n\n一个被朋友背叛不知所措的少女。\n\n一个被父母抛弃，在大都会里靠着一份工作勉强糊口的女孩。\n\n这个世界总是背叛我们。\n\n什么事情都不如意。\n\n但是，因为我们想要喜欢某些事物。\n\n因为我们相信自己总会有一个归属之处。\n\n所以，唱吧。",
-      "genreTitle": "剧情 / 喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "75214",
       "tmdbId": 75214,
       "type": "tmdb",
@@ -1166,6 +1143,29 @@
         16,
         18,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "241928",
+      "tmdbId": 241928,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "少女乐队的呐喊",
+      "releaseDate": "2024-04-06",
+      "lastUpdateDate": "2024-06-29",
+      "posterPath": "/uwRUN2GAyJCYUTBSdQ8gt7NTehB.jpg",
+      "backdropPath": "/tkDAHXPO4mqlcq8GgqJAJ9w1Ecf.jpg",
+      "rating": 8.1,
+      "description": "2024 · ⭐ 8.1 · 日本\n“愤怒、喜悦、悲伤，全部都释放出来吧。”\n\n一个高中二年级的主人公，辍学了，独自一人前往东京追求大学梦想。\n\n一个被朋友背叛不知所措的少女。\n\n一个被父母抛弃，在大都会里靠着一份工作勉强糊口的女孩。\n\n这个世界总是背叛我们。\n\n什么事情都不如意。\n\n但是，因为我们想要喜欢某些事物。\n\n因为我们相信自己总会有一个归属之处。\n\n所以，唱吧。",
+      "genreTitle": "剧情 / 喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        35
       ],
       "rawCountries": [
         "JP"
@@ -1409,7 +1409,7 @@
       "mediaType": "tv",
       "title": "JOJO的奇妙冒险",
       "releaseDate": "2012-10-06",
-      "lastUpdateDate": "2023-04-08",
+      "lastUpdateDate": "2026-03-19",
       "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
       "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
       "rating": 8.5,
@@ -1548,9 +1548,9 @@
       "mediaType": "tv",
       "title": "JOJO的奇妙冒险",
       "releaseDate": "2012-10-06",
-      "lastUpdateDate": "2023-04-08",
+      "lastUpdateDate": "2026-03-19",
       "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
-      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+      "backdropPath": "/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
       "rating": 8.5,
       "description": "2012 · ⭐ 8.5 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
       "genreTitle": "动作冒险 / 科幻奇幻",
@@ -2252,7 +2252,7 @@
       "mediaType": "tv",
       "title": "JOJO的奇妙冒险",
       "releaseDate": "2012-10-06",
-      "lastUpdateDate": "2023-04-08",
+      "lastUpdateDate": "2026-03-19",
       "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
       "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
       "rating": 8.5,
@@ -2262,6 +2262,29 @@
       "rawGenres": [
         16,
         10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "67676",
+      "tmdbId": 67676,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "齐木楠雄的灾难",
+      "releaseDate": "2016-07-11",
+      "lastUpdateDate": "2018-06-27",
+      "posterPath": "/atG4B4SgUUC1VQENQV4Y1TwiNE2.jpg",
+      "backdropPath": "/hI76O9slOz3vPkhQWWQoN36WyhG.jpg",
+      "rating": 8.3,
+      "description": "2016 · ⭐ 8.3 · 日本\n高中生·齐木楠雄是超能力者。心灵感应、念动力、透视、预知、瞬间移动、千里眼等，不论任何事情都自由自在。但这任谁都羡慕不已的最强能力，实际上对于本人而言是引来灾难的不幸元凶。因此，他在别人面前封印了超能力，以不起眼、不和他人有所牵扯为信条，默默无闻地过日子。但不知为何，他的身边总是聚集着不可思议的人类（生物），风暴般的灾难接连不断地降临！",
+      "genreTitle": "喜剧 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
         10765
       ],
       "rawCountries": [
@@ -2288,29 +2311,6 @@
         35
       ],
       "rawCountries": []
-    },
-    {
-      "id": "67676",
-      "tmdbId": 67676,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "齐木楠雄的灾难",
-      "releaseDate": "2016-07-11",
-      "lastUpdateDate": "2018-06-27",
-      "posterPath": "/atG4B4SgUUC1VQENQV4Y1TwiNE2.jpg",
-      "backdropPath": "/hI76O9slOz3vPkhQWWQoN36WyhG.jpg",
-      "rating": 8.3,
-      "description": "2016 · ⭐ 8.3 · 日本\n高中生·齐木楠雄是超能力者。心灵感应、念动力、透视、预知、瞬间移动、千里眼等，不论任何事情都自由自在。但这任谁都羡慕不已的最强能力，实际上对于本人而言是引来灾难的不幸元凶。因此，他在别人面前封印了超能力，以不起眼、不和他人有所牵扯为信条，默默无闻地过日子。但不知为何，他的身边总是聚集着不可思议的人类（生物），风暴般的灾难接连不断地降临！",
-      "genreTitle": "喜剧 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
     },
     {
       "id": "30980",
@@ -2343,9 +2343,9 @@
       "mediaType": "tv",
       "title": "JOJO的奇妙冒险",
       "releaseDate": "2012-10-06",
-      "lastUpdateDate": "2023-04-08",
+      "lastUpdateDate": "2026-03-19",
       "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
-      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+      "backdropPath": "/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
       "rating": 8.5,
       "description": "2012 · ⭐ 8.5 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
       "genreTitle": "动作冒险 / 科幻奇幻",
