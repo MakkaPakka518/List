@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 11:13:42",
+  "last_updated": "2026-03-21 21:35:24",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1126,29 +1126,6 @@
       "rawCountries": []
     },
     {
-      "id": "75214",
-      "tmdbId": 75214,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "紫罗兰永恒花园",
-      "releaseDate": "2018-01-11",
-      "lastUpdateDate": "2018-04-05",
-      "posterPath": "/55Psg9yxczJ0l5xgF3AVT8oidmq.jpg",
-      "backdropPath": "/2e2AEk7Jmn8CztM62hoUyEEWw0B.jpg",
-      "rating": 8.5,
-      "description": "2018 · ⭐ 8.5 · 日本\n某个大陆的、某个时代。大陆南北分割的战争结束了，世界走向了和平。在战争中作为军人的薇尔莉特•伊芙加登，怀抱着对她来说无比重要之人留下的“话语”，离开军队来到了大港口城市。踊跃的人群在排列着煤气灯的街道马路上来来往往地穿梭着。薇尔莉特在街道上找到了“代写书信”的工作。那是根据委托人的想法来组织出相应语言的工作。她直面委托人、触碰着他们内心深处的坦率感情。与此同时，薇尔莉特在记录书信时，渐渐明白那“话语”的含义。",
-      "genreTitle": "剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "241928",
       "tmdbId": 241928,
       "type": "tmdb",
@@ -1166,6 +1143,29 @@
         16,
         18,
         35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "75214",
+      "tmdbId": 75214,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "紫罗兰永恒花园",
+      "releaseDate": "2018-01-11",
+      "lastUpdateDate": "2018-04-05",
+      "posterPath": "/55Psg9yxczJ0l5xgF3AVT8oidmq.jpg",
+      "backdropPath": "/2e2AEk7Jmn8CztM62hoUyEEWw0B.jpg",
+      "rating": 8.5,
+      "description": "2018 · ⭐ 8.5 · 日本\n某个大陆的、某个时代。大陆南北分割的战争结束了，世界走向了和平。在战争中作为军人的薇尔莉特•伊芙加登，怀抱着对她来说无比重要之人留下的“话语”，离开军队来到了大港口城市。踊跃的人群在排列着煤气灯的街道马路上来来往往地穿梭着。薇尔莉特在街道上找到了“代写书信”的工作。那是根据委托人的想法来组织出相应语言的工作。她直面委托人、触碰着他们内心深处的坦率感情。与此同时，薇尔莉特在记录书信时，渐渐明白那“话语”的含义。",
+      "genreTitle": "剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -1881,28 +1881,6 @@
       ]
     },
     {
-      "id": "198152",
-      "tmdbId": 198152,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "别当欧尼酱了！",
-      "releaseDate": "2023-01-05",
-      "lastUpdateDate": "2023-03-23",
-      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
-      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
-      "rating": 7.4,
-      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "299555",
       "tmdbId": 299555,
       "type": "tmdb",
@@ -1920,6 +1898,28 @@
         16,
         10759,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "198152",
+      "tmdbId": 198152,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "别当欧尼酱了！",
+      "releaseDate": "2023-01-05",
+      "lastUpdateDate": "2023-03-23",
+      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
+      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+      "rating": 7.4,
+      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
       ],
       "rawCountries": [
         "JP"
@@ -2313,6 +2313,29 @@
       ]
     },
     {
+      "id": "45790",
+      "tmdbId": 45790,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "JOJO的奇妙冒险",
+      "releaseDate": "2012-10-06",
+      "lastUpdateDate": "2026-03-19",
+      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
+      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+      "rating": 8.5,
+      "description": "2012 · ⭐ 8.5 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "30980",
       "tmdbId": 30980,
       "type": "tmdb",
@@ -2331,29 +2354,6 @@
         10765,
         35,
         9648
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "45790",
-      "tmdbId": 45790,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "JOJO的奇妙冒险",
-      "releaseDate": "2012-10-06",
-      "lastUpdateDate": "2026-03-19",
-      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
-      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
-      "rating": 8.5,
-      "description": "2012 · ⭐ 8.5 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
       ],
       "rawCountries": [
         "JP"
@@ -2405,29 +2405,6 @@
       ]
     },
     {
-      "id": "72517",
-      "tmdbId": 72517,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "欢迎来到实力至上主义的教室",
-      "releaseDate": "2017-07-12",
-      "lastUpdateDate": "2024-03-27",
-      "posterPath": "/dplBfCP7UwqA0gjvxB1vR77OwiV.jpg",
-      "backdropPath": "/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
-      "rating": 8.4,
-      "description": "2017 · ⭐ 8.4 · 日本\n这个社会是否平等呢。真正的“实力”是什么——。东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
-      "genreTitle": "剧情 / 悬疑",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        9648
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "60728",
       "tmdbId": 60728,
       "type": "tmdb",
@@ -2446,6 +2423,29 @@
         16,
         35,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "72517",
+      "tmdbId": 72517,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "欢迎来到实力至上主义的教室",
+      "releaseDate": "2017-07-12",
+      "lastUpdateDate": "2024-03-27",
+      "posterPath": "/dplBfCP7UwqA0gjvxB1vR77OwiV.jpg",
+      "backdropPath": "/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
+      "rating": 8.4,
+      "description": "2017 · ⭐ 8.4 · 日本\n这个社会是否平等呢。真正的“实力”是什么——。东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
+      "genreTitle": "剧情 / 悬疑",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        9648
       ],
       "rawCountries": [
         "JP"
@@ -2632,6 +2632,28 @@
       ]
     },
     {
+      "id": "1575337",
+      "tmdbId": 1575337,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "超时空辉夜姬！",
+      "releaseDate": "2026-01-22",
+      "lastUpdateDate": "2026-01-22",
+      "posterPath": "/3qQbeI3kTbOTVo5gvX14khFgRzw.jpg",
+      "backdropPath": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
+      "rating": 8.3,
+      "description": "2026 · ⭐ 8.3 · 未知地区\n在梦想与希望汇聚的虚拟空间“月读”，少女们相遇，以及离别的舞台，就此拉开帷幕——  在不远的未来，就读于东京都内重点高中的17岁少女酒寄彩叶，过着兼顾打工与学业的超忙碌生活。月见八千代是互联网虚拟空间“月读”的管理员兼超人气主播，彩叶平日透过观看她的直播放松身心。在这个任何人都能创造自己的分身，自由进行创作活动的“月读”里，彩叶一边支持着自己的偶像八千代，一边靠对战游戏零零散散赚点零用钱。  某天放学回家的路上，彩叶发现了一根闪烁着七彩光芒的电线杆，从里面钻出来的，竟是个极其可爱的婴儿。放心不下的彩叶将其带回了家，没想到对方转眼间长大，长成了与彩叶年纪相仿的少女。  「你……该不会是辉夜姬吧？」长大后的辉夜姬十分任性。在她那任性的请求下，彩叶开始帮她在月读开展主播活动。彩叶作为制作人创作音乐，而辉夜则作为主播负责演唱，两人也在合作中一点点拉近了距离。然而她们并不知道，一道不祥的阴影，为将辉夜带回月球，已悄然逼近——  这是一个，还从未有人见过的「辉夜姬」的故事。",
+      "genreTitle": "奇幻 / 音乐 / 科幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        14,
+        10402,
+        878
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "207784",
       "tmdbId": 207784,
       "type": "tmdb",
@@ -2654,28 +2676,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "1575337",
-      "tmdbId": 1575337,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "超时空辉夜姬！",
-      "releaseDate": "2026-01-22",
-      "lastUpdateDate": "2026-01-22",
-      "posterPath": "/xXgzlzZCqH87VbfmNBHmbV7hLV0.jpg",
-      "backdropPath": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
-      "rating": 8.3,
-      "description": "2026 · ⭐ 8.3 · 未知地区\n在梦想与希望汇聚的虚拟空间“月读”，少女们相遇，以及离别的舞台，就此拉开帷幕——  在不远的未来，就读于东京都内重点高中的17岁少女酒寄彩叶，过着兼顾打工与学业的超忙碌生活。月见八千代是互联网虚拟空间“月读”的管理员兼超人气主播，彩叶平日透过观看她的直播放松身心。在这个任何人都能创造自己的分身，自由进行创作活动的“月读”里，彩叶一边支持着自己的偶像八千代，一边靠对战游戏零零散散赚点零用钱。  某天放学回家的路上，彩叶发现了一根闪烁着七彩光芒的电线杆，从里面钻出来的，竟是个极其可爱的婴儿。放心不下的彩叶将其带回了家，没想到对方转眼间长大，长成了与彩叶年纪相仿的少女。  「你……该不会是辉夜姬吧？」长大后的辉夜姬十分任性。在她那任性的请求下，彩叶开始帮她在月读开展主播活动。彩叶作为制作人创作音乐，而辉夜则作为主播负责演唱，两人也在合作中一点点拉近了距离。然而她们并不知道，一道不祥的阴影，为将辉夜带回月球，已悄然逼近——  这是一个，还从未有人见过的「辉夜姬」的故事。",
-      "genreTitle": "奇幻 / 音乐 / 科幻",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        14,
-        10402,
-        878
-      ],
-      "rawCountries": []
     }
   ]
 }
