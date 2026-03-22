@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 11:34:07",
+  "last_updated": "2026-03-22 21:36:49",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -2222,6 +2222,29 @@
       "rawCountries": []
     },
     {
+      "id": "45790",
+      "tmdbId": 45790,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "JOJO的奇妙冒险",
+      "releaseDate": "2012-10-06",
+      "lastUpdateDate": "2026-03-19",
+      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
+      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+      "rating": 8.5,
+      "description": "2012 · ⭐ 8.5 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "65942",
       "tmdbId": 65942,
       "type": "tmdb",
@@ -2238,29 +2261,6 @@
       "rawGenres": [
         16,
         35,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "45790",
-      "tmdbId": 45790,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "JOJO的奇妙冒险",
-      "releaseDate": "2012-10-06",
-      "lastUpdateDate": "2026-03-19",
-      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
-      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
-      "rating": 8.5,
-      "description": "2012 · ⭐ 8.5 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
         10759,
         10765
       ],
