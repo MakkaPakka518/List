@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 21:35:24",
+  "last_updated": "2026-03-22 11:34:07",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -145,7 +145,7 @@
       "mediaType": "tv",
       "title": "葬送的芙莉莲",
       "releaseDate": "2023-09-29",
-      "lastUpdateDate": "2026-03-13",
+      "lastUpdateDate": "2026-03-20",
       "posterPath": "/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
       "backdropPath": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
       "rating": 8.8,
@@ -1881,6 +1881,28 @@
       ]
     },
     {
+      "id": "198152",
+      "tmdbId": 198152,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "别当欧尼酱了！",
+      "releaseDate": "2023-01-05",
+      "lastUpdateDate": "2023-03-23",
+      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
+      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+      "rating": 7.4,
+      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "299555",
       "tmdbId": 299555,
       "type": "tmdb",
@@ -1898,28 +1920,6 @@
         16,
         10759,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "198152",
-      "tmdbId": 198152,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "别当欧尼酱了！",
-      "releaseDate": "2023-01-05",
-      "lastUpdateDate": "2023-03-23",
-      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
-      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
-      "rating": 7.4,
-      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
       ],
       "rawCountries": [
         "JP"
@@ -2049,7 +2049,7 @@
       "mediaType": "tv",
       "title": "咒术回战",
       "releaseDate": "2020-10-03",
-      "lastUpdateDate": "2026-03-13",
+      "lastUpdateDate": "2026-03-20",
       "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
       "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
       "rating": 8.6,
@@ -2405,6 +2405,29 @@
       ]
     },
     {
+      "id": "72517",
+      "tmdbId": 72517,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "欢迎来到实力至上主义的教室",
+      "releaseDate": "2017-07-12",
+      "lastUpdateDate": "2024-03-27",
+      "posterPath": "/dplBfCP7UwqA0gjvxB1vR77OwiV.jpg",
+      "backdropPath": "/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
+      "rating": 8.4,
+      "description": "2017 · ⭐ 8.4 · 日本\n这个社会是否平等呢。真正的“实力”是什么——。东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
+      "genreTitle": "剧情 / 悬疑",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        9648
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "60728",
       "tmdbId": 60728,
       "type": "tmdb",
@@ -2423,29 +2446,6 @@
         16,
         35,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "72517",
-      "tmdbId": 72517,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "欢迎来到实力至上主义的教室",
-      "releaseDate": "2017-07-12",
-      "lastUpdateDate": "2024-03-27",
-      "posterPath": "/dplBfCP7UwqA0gjvxB1vR77OwiV.jpg",
-      "backdropPath": "/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
-      "rating": 8.4,
-      "description": "2017 · ⭐ 8.4 · 日本\n这个社会是否平等呢。真正的“实力”是什么——。东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
-      "genreTitle": "剧情 / 悬疑",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        9648
       ],
       "rawCountries": [
         "JP"
@@ -2610,28 +2610,6 @@
       ]
     },
     {
-      "id": "68005",
-      "tmdbId": 68005,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "缘之空",
-      "releaseDate": "2010-10-04",
-      "lastUpdateDate": "2010-12-20",
-      "posterPath": "/9Hfm8u6lUggaIJB04RLbkssb1A3.jpg",
-      "backdropPath": "/5nPRHOeP8D3O4bfgCICu218H1OI.jpg",
-      "rating": 6.9,
-      "description": "2010 · ⭐ 6.9 · 日本\n主角春日野悠和他的双胞胎妹妹穹在父母死于事故之后，来到了位于名叫奥木染的小村的祖父的家中，在那里开始新的生活。一边和不习惯的家务事奋战，一边还要照顾平时足不出户、什么事情都不会的妹妹穹，悠的生活变得异常艰辛。\n\n在与昔日到访奥木染时认识的天女目瑛和依媛奈绪重遇、认识了新的朋友、和以前一样几乎没有变的城镇和人们。这令人怀念的回忆和温馨的环境，治愈着悠心中的伤痕。在这样的过程中，慢慢地发生了一些变化。儿时定下的只属于两个人的秘密约定以及所失去的重要东西的下落。还有，定下了这个地方的真正理由。很快悠注意到了对自己来说谁是重要的存在……\n\n面对伤痕累累，一路蹒跚走过的她，悠要如何面对呢？在阳光灿烂的初夏天空下，故事，就这样开始了……",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "1575337",
       "tmdbId": 1575337,
       "type": "tmdb",
@@ -2652,6 +2630,28 @@
         878
       ],
       "rawCountries": []
+    },
+    {
+      "id": "68005",
+      "tmdbId": 68005,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "缘之空",
+      "releaseDate": "2010-10-04",
+      "lastUpdateDate": "2010-12-20",
+      "posterPath": "/9Hfm8u6lUggaIJB04RLbkssb1A3.jpg",
+      "backdropPath": "/5nPRHOeP8D3O4bfgCICu218H1OI.jpg",
+      "rating": 6.9,
+      "description": "2010 · ⭐ 6.9 · 日本\n主角春日野悠和他的双胞胎妹妹穹在父母死于事故之后，来到了位于名叫奥木染的小村的祖父的家中，在那里开始新的生活。一边和不习惯的家务事奋战，一边还要照顾平时足不出户、什么事情都不会的妹妹穹，悠的生活变得异常艰辛。\n\n在与昔日到访奥木染时认识的天女目瑛和依媛奈绪重遇、认识了新的朋友、和以前一样几乎没有变的城镇和人们。这令人怀念的回忆和温馨的环境，治愈着悠心中的伤痕。在这样的过程中，慢慢地发生了一些变化。儿时定下的只属于两个人的秘密约定以及所失去的重要东西的下落。还有，定下了这个地方的真正理由。很快悠注意到了对自己来说谁是重要的存在……\n\n面对伤痕累累，一路蹒跚走过的她，悠要如何面对呢？在阳光灿烂的初夏天空下，故事，就这样开始了……",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "207784",
