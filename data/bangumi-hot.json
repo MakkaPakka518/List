@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25 22:09:23",
+  "last_updated": "2026-03-26 11:42:31",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1664,8 +1664,8 @@
       "lastUpdateDate": "2023-03-08",
       "posterPath": "/zjqbKvHosMADYUCjRQRd8qDzOWY.jpg",
       "backdropPath": "/piMRImsn3ZQerFmPdAoXgmOpc7R.jpg",
-      "rating": 7.4,
-      "description": "2022 · ⭐ 7.4 · 日本\n2017年秋天――17岁时被卡车撞到，并在此后17年间昏睡不醒的舅舅醒了。前往病房探望的外甥敬文看到的是，口中嘟囔着莫名其妙的话语，从奇幻世界「格兰巴哈马尔」回到现实世界的舅舅。……舅舅的脑子不太对劲。见到此状敬文无言以对，但舅舅说要展示去过奇幻世界的证据并用出了魔法。敬文打算靠舅舅的力量换取钱财来过日子，便收留了无家可归的舅舅开始了合租生活。在与舅舅共度的生活中，舅舅不断说着在奇幻世界的冒险故事和对世嘉满溢而出的热爱。舅舅这半辈子充满了孤独和残酷，听得敬文时而开心时而痛心。这是努力做视频的两个年龄相差悬殊的男人，在廉租房区的一角展开的，崭新异世界喜剧！",
+      "rating": 7.5,
+      "description": "2022 · ⭐ 7.5 · 日本\n2017年秋天――17岁时被卡车撞到，并在此后17年间昏睡不醒的舅舅醒了。前往病房探望的外甥敬文看到的是，口中嘟囔着莫名其妙的话语，从奇幻世界「格兰巴哈马尔」回到现实世界的舅舅。……舅舅的脑子不太对劲。见到此状敬文无言以对，但舅舅说要展示去过奇幻世界的证据并用出了魔法。敬文打算靠舅舅的力量换取钱财来过日子，便收留了无家可归的舅舅开始了合租生活。在与舅舅共度的生活中，舅舅不断说着在奇幻世界的冒险故事和对世嘉满溢而出的热爱。舅舅这半辈子充满了孤独和残酷，听得敬文时而开心时而痛心。这是努力做视频的两个年龄相差悬殊的男人，在廉租房区的一角展开的，崭新异世界喜剧！",
       "genreTitle": "喜剧 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
@@ -1881,6 +1881,29 @@
       ]
     },
     {
+      "id": "299555",
+      "tmdbId": 299555,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "链锯人 总集篇",
+      "releaseDate": "2025-09-06",
+      "lastUpdateDate": "2025-09-06",
+      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
+      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
+      "rating": 8.7,
+      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "94693",
       "tmdbId": 94693,
       "type": "tmdb",
@@ -1899,29 +1922,6 @@
         10759,
         10765,
         35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "299555",
-      "tmdbId": 299555,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "链锯人 总集篇",
-      "releaseDate": "2025-09-06",
-      "lastUpdateDate": "2025-09-06",
-      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
-      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
-      "rating": 8.7,
-      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
       ],
       "rawCountries": [
         "JP"
