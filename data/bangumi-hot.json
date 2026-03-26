@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 11:42:31",
+  "last_updated": "2026-03-26 22:19:13",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1881,29 +1881,6 @@
       ]
     },
     {
-      "id": "299555",
-      "tmdbId": 299555,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "链锯人 总集篇",
-      "releaseDate": "2025-09-06",
-      "lastUpdateDate": "2025-09-06",
-      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
-      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
-      "rating": 8.7,
-      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "94693",
       "tmdbId": 94693,
       "type": "tmdb",
@@ -1922,6 +1899,29 @@
         10759,
         10765,
         35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "299555",
+      "tmdbId": 299555,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "链锯人 总集篇",
+      "releaseDate": "2025-09-06",
+      "lastUpdateDate": "2025-09-06",
+      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
+      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
+      "rating": 8.7,
+      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -2544,28 +2544,6 @@
       ]
     },
     {
-      "id": "69367",
-      "tmdbId": 69367,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "路人女主的养成方法",
-      "releaseDate": "2015-01-16",
-      "lastUpdateDate": "2017-06-23",
-      "posterPath": "/jtZ3WQ6ZW6BcmHgeSeet22YGQVc.jpg",
-      "backdropPath": "/3HvXeJzSztADlAua3l4gjawVhPC.jpg",
-      "rating": 6.8,
-      "description": "2015 · ⭐ 6.8 · 日本\n春假时，为了购买动画蓝光片而打工的御宅族安艺伦也，在开满樱花的坡道上邂逅一位少女，帮她捡一顶被风吹走的帽子。于是有了以该少女为女主角制作同人游戏的构想。一个月后，才知道该少女是他的同班同学，名叫加藤惠。为了制作游戏，安艺伦也还要说服同年级美术部的绘画高手泽村·史宾瑟·英梨梨，以及优等生学姐霞之丘诗羽和加藤惠共组同人游戏社团，开始同人游戏的制作。之后又有波岛出海及擅长音乐的冰堂美智留等人的加入。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "1575337",
       "tmdbId": 1575337,
       "type": "tmdb",
@@ -2586,6 +2564,28 @@
         878
       ],
       "rawCountries": []
+    },
+    {
+      "id": "69367",
+      "tmdbId": 69367,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "路人女主的养成方法",
+      "releaseDate": "2015-01-16",
+      "lastUpdateDate": "2017-06-23",
+      "posterPath": "/jtZ3WQ6ZW6BcmHgeSeet22YGQVc.jpg",
+      "backdropPath": "/3HvXeJzSztADlAua3l4gjawVhPC.jpg",
+      "rating": 6.8,
+      "description": "2015 · ⭐ 6.8 · 日本\n春假时，为了购买动画蓝光片而打工的御宅族安艺伦也，在开满樱花的坡道上邂逅一位少女，帮她捡一顶被风吹走的帽子。于是有了以该少女为女主角制作同人游戏的构想。一个月后，才知道该少女是他的同班同学，名叫加藤惠。为了制作游戏，安艺伦也还要说服同年级美术部的绘画高手泽村·史宾瑟·英梨梨，以及优等生学姐霞之丘诗羽和加藤惠共组同人游戏社团，开始同人游戏的制作。之后又有波岛出海及擅长音乐的冰堂美智留等人的加入。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "64196",
