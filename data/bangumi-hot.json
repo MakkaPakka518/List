@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 22:19:13",
+  "last_updated": "2026-03-27 11:44:43",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -650,14 +650,13 @@
       "releaseDate": "2016-04-04",
       "lastUpdateDate": "2025-03-26",
       "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
-      "backdropPath": "/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
+      "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
       "rating": 7.8,
       "description": "2016 · ⭐ 7.8 · 日本\n在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
-      "genreTitle": "喜剧 / 动作冒险 / 科幻奇幻",
+      "genreTitle": "动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
         16,
-        35,
         10759,
         10765
       ],
@@ -967,17 +966,17 @@
       ]
     },
     {
-      "id": "46195",
-      "tmdbId": 46195,
+      "id": "300822",
+      "tmdbId": 300822,
       "type": "tmdb",
       "mediaType": "tv",
       "title": "物语系列",
       "releaseDate": "2009-07-03",
       "lastUpdateDate": "2024-10-19",
-      "posterPath": "/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
-      "backdropPath": "/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
-      "rating": 8.1,
-      "description": "2009 · ⭐ 8.1 · 日本\n所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
+      "posterPath": "/mKSqsUYoHLJXTCUo0ojAJJ29DFj.jpg",
+      "backdropPath": "/rVB1vnYsh0T8GRv72a0n5BnsIc7.jpg",
+      "rating": 9.8,
+      "description": "2009 · ⭐ 9.8 · 日本\n所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
       "genreTitle": "喜剧 / 剧情 / 悬疑",
       "regionTitle": "日本",
       "rawGenres": [
@@ -1997,6 +1996,29 @@
       ]
     },
     {
+      "id": "95479",
+      "tmdbId": 95479,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "咒术回战",
+      "releaseDate": "2020-10-03",
+      "lastUpdateDate": "2026-03-20",
+      "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
+      "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+      "rating": 8.6,
+      "description": "2020 · ⭐ 8.6 · 日本\n少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "46004",
       "tmdbId": 46004,
       "type": "tmdb",
@@ -2015,29 +2037,6 @@
         10765,
         35,
         10759
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "95479",
-      "tmdbId": 95479,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "咒术回战",
-      "releaseDate": "2020-10-03",
-      "lastUpdateDate": "2026-03-20",
-      "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
-      "rating": 8.6,
-      "description": "2020 · ⭐ 8.6 · 日本\n少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
       ],
       "rawCountries": [
         "JP"
@@ -2230,14 +2229,13 @@
       "releaseDate": "2016-04-04",
       "lastUpdateDate": "2025-03-26",
       "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
-      "backdropPath": "/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
+      "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
       "rating": 7.8,
       "description": "2016 · ⭐ 7.8 · 日本\n在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
-      "genreTitle": "喜剧 / 动作冒险 / 科幻奇幻",
+      "genreTitle": "动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
         16,
-        35,
         10759,
         10765
       ],
