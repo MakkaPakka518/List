@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 22:02:58",
+  "last_updated": "2026-03-28 11:32:05",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1609,28 +1609,6 @@
       ]
     },
     {
-      "id": "568160",
-      "tmdbId": 568160,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "天气之子",
-      "releaseDate": "2019-07-19",
-      "lastUpdateDate": "2019-07-19",
-      "posterPath": "/hxWmedDh6CNcqsROxiZZmVAbWe8.jpg",
-      "backdropPath": "/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
-      "rating": 8.0,
-      "description": "2019 · ⭐ 8.0 · 未知地区\n影片发生在天气错乱、阴雨连绵的时代。离家出走、独自上京闯荡的少年森岛帆高，遇到了同样生存艰难的少女天野阳菜。两人在大城市中相互依赖，并萌生情愫。拥有超能力的“100%晴天女孩”阳菜，为了重现晴天而离奇失踪。但对于帆高而言，哪怕与世界为敌，他也一定要找回阳菜。",
-      "genreTitle": "剧情 / 奇幻 / 爱情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        18,
-        14,
-        10749
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "117933",
       "tmdbId": 117933,
       "type": "tmdb",
@@ -1652,6 +1630,28 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "568160",
+      "tmdbId": 568160,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "天气之子",
+      "releaseDate": "2019-07-19",
+      "lastUpdateDate": "2019-07-19",
+      "posterPath": "/hxWmedDh6CNcqsROxiZZmVAbWe8.jpg",
+      "backdropPath": "/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
+      "rating": 8.0,
+      "description": "2019 · ⭐ 8.0 · 未知地区\n影片发生在天气错乱、阴雨连绵的时代。离家出走、独自上京闯荡的少年森岛帆高，遇到了同样生存艰难的少女天野阳菜。两人在大城市中相互依赖，并萌生情愫。拥有超能力的“100%晴天女孩”阳菜，为了重现晴天而离奇失踪。但对于帆高而言，哪怕与世界为敌，他也一定要找回阳菜。",
+      "genreTitle": "剧情 / 奇幻 / 爱情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        14,
+        10749
+      ],
+      "rawCountries": []
     },
     {
       "id": "127714",
@@ -1858,28 +1858,6 @@
       ]
     },
     {
-      "id": "198152",
-      "tmdbId": 198152,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "别当欧尼酱了！",
-      "releaseDate": "2023-01-05",
-      "lastUpdateDate": "2023-03-23",
-      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
-      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
-      "rating": 7.4,
-      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "94693",
       "tmdbId": 94693,
       "type": "tmdb",
@@ -1897,6 +1875,28 @@
         16,
         10759,
         10765,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "198152",
+      "tmdbId": 198152,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "别当欧尼酱了！",
+      "releaseDate": "2023-01-05",
+      "lastUpdateDate": "2023-03-23",
+      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
+      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+      "rating": 7.4,
+      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
         35
       ],
       "rawCountries": [
@@ -2004,7 +2004,7 @@
       "releaseDate": "2020-10-03",
       "lastUpdateDate": "2026-03-20",
       "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+      "backdropPath": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
       "rating": 8.6,
       "description": "2020 · ⭐ 8.6 · 日本\n少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
       "genreTitle": "动作冒险 / 科幻奇幻",
@@ -2140,7 +2140,7 @@
       "releaseDate": "2007-09-01",
       "lastUpdateDate": "2007-09-01",
       "posterPath": "/hEu9QLy1a7ieHydN1LNvAEkYAgS.jpg",
-      "backdropPath": "/ktzhr2m6y98PtwOdfOtTA0X232m.jpg",
+      "backdropPath": "/tmXP9R43XlYTmVD7XLnakFbf2ax.jpg",
       "rating": 7.6,
       "description": "2007 · ⭐ 7.6 · 未知地区\n突袭世界的大灾难“第二次冲击”后，世界在废墟之上重建，14岁的少年碇真嗣被父亲碇元渡叫到第三新东京市。本以为能见到父亲迎接的他，却见到名为“使徒”的巨大生物与军队交火。危急之下，NERV的葛成美里将真嗣救下，并将其带往碇元渡所统领的NERV总部。但迎接真嗣的，却是是父亲冷酷地命令：驾驶称为“EVA”的巨大人型机器人与使徒战斗。本已表示拒绝的真嗣，看到重伤的替补驾驶员绫波丽后，决定遵从父亲的命令。就这样，从未受过作战训练的真嗣，准备驾驶EVA初号机迎战使徒。世界的命运托付在了一位年仅14岁的少年身上，而“第二次冲击”所隐藏的“人类补完计划”似乎也开始了行动。掌握一切答案的碇元渡，却只是不动生色地观察，仿佛一切早已写入剧本。",
       "genreTitle": "科幻 / 动作 / 剧情",
@@ -2520,28 +2520,6 @@
       ]
     },
     {
-      "id": "70880",
-      "tmdbId": 70880,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "月色真美",
-      "releaseDate": "2017-04-07",
-      "lastUpdateDate": "2017-06-30",
-      "posterPath": "/p4JX0giDEfztXsRPfbxla4RSt5Y.jpg",
-      "backdropPath": "/eqH0zSwNvgsysfGrEaBODoPpDHd.jpg",
-      "rating": 8.0,
-      "description": "2017 · ⭐ 8.0 · 日本\n茜与小太郎。\n\n初三时第一次被分到同班，相识的两人。\n\n同班同学、社团伙伴、教师、父母…\n\n与周围的关联，自己的成长。\n\n在那个一边被变化与不安追着，一边慌慌张张地向前飞奔的季节之中，\n\n稚嫩而又令人眩目的青春期之恋。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "1575337",
       "tmdbId": 1575337,
       "type": "tmdb",
@@ -2562,6 +2540,28 @@
         878
       ],
       "rawCountries": []
+    },
+    {
+      "id": "70880",
+      "tmdbId": 70880,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "月色真美",
+      "releaseDate": "2017-04-07",
+      "lastUpdateDate": "2017-06-30",
+      "posterPath": "/p4JX0giDEfztXsRPfbxla4RSt5Y.jpg",
+      "backdropPath": "/eqH0zSwNvgsysfGrEaBODoPpDHd.jpg",
+      "rating": 8.0,
+      "description": "2017 · ⭐ 8.0 · 日本\n茜与小太郎。\n\n初三时第一次被分到同班，相识的两人。\n\n同班同学、社团伙伴、教师、父母…\n\n与周围的关联，自己的成长。\n\n在那个一边被变化与不安追着，一边慌慌张张地向前飞奔的季节之中，\n\n稚嫩而又令人眩目的青春期之恋。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "69367",
