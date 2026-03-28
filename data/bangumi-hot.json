@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28 11:32:05",
+  "last_updated": "2026-03-28 21:42:15",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -122,7 +122,7 @@
       "mediaType": "tv",
       "title": "葬送的芙莉莲",
       "releaseDate": "2023-09-29",
-      "lastUpdateDate": "2026-03-20",
+      "lastUpdateDate": "2026-03-27",
       "posterPath": "/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
       "backdropPath": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
       "rating": 8.8,
@@ -1473,6 +1473,28 @@
       ]
     },
     {
+      "id": "203737",
+      "tmdbId": 203737,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "【我推的孩子】",
+      "releaseDate": "2023-04-12",
+      "lastUpdateDate": "2026-03-25",
+      "posterPath": "/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
+      "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
+      "rating": 8.3,
+      "description": "2023 · ⭐ 8.3 · 日本\n「在演艺圈（这个世界）里，谎言就是武器。」在地方都市的妇产科当医生的「五郎」过着与演艺圈无缘的每一天。另一边，他所推崇的偶像「B小町」的「星野爱（小爱）」则在明星之路上飞黄腾达。某一天，他所推的偶像小爱突然出现在他眼前。她身上还藏着个禁断的秘密。这样的两人在「最糟」的情况下相遇，他们的命运开始转动……！？",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "95710",
       "tmdbId": 95710,
       "type": "tmdb",
@@ -1489,28 +1511,6 @@
       "rawGenres": [
         16,
         35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "203737",
-      "tmdbId": 203737,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "【我推的孩子】",
-      "releaseDate": "2023-04-12",
-      "lastUpdateDate": "2026-03-18",
-      "posterPath": "/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
-      "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
-      "rating": 8.3,
-      "description": "2023 · ⭐ 8.3 · 日本\n「在演艺圈（这个世界）里，谎言就是武器。」在地方都市的妇产科当医生的「五郎」过着与演艺圈无缘的每一天。另一边，他所推崇的偶像「B小町」的「星野爱（小爱）」则在明星之路上飞黄腾达。某一天，他所推的偶像小爱突然出现在他眼前。她身上还藏着个禁断的秘密。这样的两人在「最糟」的情况下相遇，他们的命运开始转动……！？",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
       ],
       "rawCountries": [
         "JP"
@@ -1858,6 +1858,28 @@
       ]
     },
     {
+      "id": "198152",
+      "tmdbId": 198152,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "别当欧尼酱了！",
+      "releaseDate": "2023-01-05",
+      "lastUpdateDate": "2023-03-23",
+      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
+      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+      "rating": 7.4,
+      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "94693",
       "tmdbId": 94693,
       "type": "tmdb",
@@ -1875,28 +1897,6 @@
         16,
         10759,
         10765,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "198152",
-      "tmdbId": 198152,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "别当欧尼酱了！",
-      "releaseDate": "2023-01-05",
-      "lastUpdateDate": "2023-03-23",
-      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
-      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
-      "rating": 7.4,
-      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
         35
       ],
       "rawCountries": [
@@ -2002,9 +2002,9 @@
       "mediaType": "tv",
       "title": "咒术回战",
       "releaseDate": "2020-10-03",
-      "lastUpdateDate": "2026-03-20",
+      "lastUpdateDate": "2026-03-27",
       "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "backdropPath": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
+      "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
       "rating": 8.6,
       "description": "2020 · ⭐ 8.6 · 日本\n少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
       "genreTitle": "动作冒险 / 科幻奇幻",
