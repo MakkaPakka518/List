@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31 22:21:53",
+  "last_updated": "2026-04-01 11:56:52",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -307,7 +307,7 @@
       "releaseDate": "2001-07-20",
       "lastUpdateDate": "2001-07-20",
       "posterPath": "/9oZmkkNlI4Ktx6NTkdpeU525qSc.jpg",
-      "backdropPath": "/hXd2cgvvVh1EzSxuyNysiLErjVM.jpg",
+      "backdropPath": "/bVggfCvAPnFalIctxgpaCRTF97z.jpg",
       "rating": 8.5,
       "description": "2001 · ⭐ 8.5 · 未知地区\n小女孩千寻被困在一个陌生的精灵世界。当她的父母发生神秘变化后，她必须鼓起自己从未发现的勇气，才能解救自己，并将家人带回外面的世界。",
       "genreTitle": "家庭 / 奇幻",
@@ -1858,6 +1858,29 @@
       ]
     },
     {
+      "id": "299555",
+      "tmdbId": 299555,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "链锯人 总集篇",
+      "releaseDate": "2025-09-06",
+      "lastUpdateDate": "2025-09-06",
+      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
+      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
+      "rating": 8.7,
+      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "94693",
       "tmdbId": 94693,
       "type": "tmdb",
@@ -1898,29 +1921,6 @@
       "rawGenres": [
         16,
         35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "299555",
-      "tmdbId": 299555,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "链锯人 总集篇",
-      "releaseDate": "2025-09-06",
-      "lastUpdateDate": "2025-09-06",
-      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
-      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
-      "rating": 8.7,
-      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
       ],
       "rawCountries": [
         "JP"
