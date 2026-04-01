@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01 11:56:52",
+  "last_updated": "2026-04-01 22:23:53",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -803,6 +803,28 @@
       ]
     },
     {
+      "id": "83121",
+      "tmdbId": 83121,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "辉夜大小姐想让我告白",
+      "releaseDate": "2019-01-12",
+      "lastUpdateDate": "2022-06-25",
+      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
+      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+      "rating": 8.5,
+      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        35,
+        16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "1429",
       "tmdbId": 1429,
       "type": "tmdb",
@@ -820,28 +842,6 @@
         16,
         10765,
         10759
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "83121",
-      "tmdbId": 83121,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "辉夜大小姐想让我告白",
-      "releaseDate": "2019-01-12",
-      "lastUpdateDate": "2022-06-25",
-      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
-      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
-      "rating": 8.5,
-      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        35,
-        16
       ],
       "rawCountries": [
         "JP"
@@ -1721,28 +1721,6 @@
       "rawCountries": []
     },
     {
-      "id": "22843",
-      "tmdbId": 22843,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "福音战士新剧场版：破",
-      "releaseDate": "2009-06-26",
-      "lastUpdateDate": "2009-06-26",
-      "posterPath": "/i0Nu8GF1XTwkbTI3g2k5ZBgsPiO.jpg",
-      "backdropPath": "/pzsVGcufDdBLmvagKyLFKaeA4O5.jpg",
-      "rating": 7.8,
-      "description": "2009 · ⭐ 7.8 · 未知地区\n在参拜母亲坟墓的回程途中，真嗣和葛城美里遭遇了第七使徒的攻击，关键时刻2号机势如破竹挫败对手，真嗣也由此结识了2号机的操纵者式波·明日香·兰格蕾。与沉默寡言的绫波丽不同，明日香自信张扬，甚至有些自大，在和真嗣相处的日子里，彼此闹出不少的笑话。他们三人分别驾驶着零号机、初号机和2号机，抵抗了第八使徒猛烈的攻击，在这一过程中，淡淡的情愫悄然在这三个青年男女的心中萌生。不久后，第九、十使徒相继降临，真嗣他们面临着生与死的残酷考验。",
-      "genreTitle": "科幻 / 动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        878,
-        28,
-        18
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "154494",
       "tmdbId": 154494,
       "type": "tmdb",
@@ -1764,6 +1742,28 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "22843",
+      "tmdbId": 22843,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "福音战士新剧场版：破",
+      "releaseDate": "2009-06-26",
+      "lastUpdateDate": "2009-06-26",
+      "posterPath": "/i0Nu8GF1XTwkbTI3g2k5ZBgsPiO.jpg",
+      "backdropPath": "/pzsVGcufDdBLmvagKyLFKaeA4O5.jpg",
+      "rating": 7.8,
+      "description": "2009 · ⭐ 7.8 · 未知地区\n在参拜母亲坟墓的回程途中，真嗣和葛城美里遭遇了第七使徒的攻击，关键时刻2号机势如破竹挫败对手，真嗣也由此结识了2号机的操纵者式波·明日香·兰格蕾。与沉默寡言的绫波丽不同，明日香自信张扬，甚至有些自大，在和真嗣相处的日子里，彼此闹出不少的笑话。他们三人分别驾驶着零号机、初号机和2号机，抵抗了第八使徒猛烈的攻击，在这一过程中，淡淡的情愫悄然在这三个青年男女的心中萌生。不久后，第九、十使徒相继降临，真嗣他们面临着生与死的残酷考验。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        28,
+        18
+      ],
+      "rawCountries": []
     },
     {
       "id": "67126",
@@ -2074,8 +2074,8 @@
       "lastUpdateDate": "2023-12-28",
       "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
       "backdropPath": "/fp9odSdJDtOSuerFgHLKao3ajxS.jpg",
-      "rating": 8.2,
-      "description": "2018 · ⭐ 8.2 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
+      "rating": 8.1,
+      "description": "2018 · ⭐ 8.1 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
       "genreTitle": "喜剧 / 剧情",
       "regionTitle": "日本",
       "rawGenres": [
@@ -2221,17 +2221,17 @@
       ]
     },
     {
-      "id": "65942",
-      "tmdbId": 65942,
+      "id": "45790",
+      "tmdbId": 45790,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "Re：从零开始的异世界生活",
-      "releaseDate": "2016-04-04",
-      "lastUpdateDate": "2025-03-26",
-      "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
-      "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
-      "rating": 7.8,
-      "description": "2016 · ⭐ 7.8 · 日本\n在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
+      "title": "JOJO的奇妙冒险",
+      "releaseDate": "2012-10-06",
+      "lastUpdateDate": "2026-03-19",
+      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
+      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+      "rating": 8.6,
+      "description": "2012 · ⭐ 8.6 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
       "genreTitle": "动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
@@ -2244,17 +2244,17 @@
       ]
     },
     {
-      "id": "45790",
-      "tmdbId": 45790,
+      "id": "65942",
+      "tmdbId": 65942,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "JOJO的奇妙冒险",
-      "releaseDate": "2012-10-06",
-      "lastUpdateDate": "2026-03-19",
-      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
-      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
-      "rating": 8.6,
-      "description": "2012 · ⭐ 8.6 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
+      "title": "Re：从零开始的异世界生活",
+      "releaseDate": "2016-04-04",
+      "lastUpdateDate": "2025-03-26",
+      "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
+      "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
+      "rating": 7.8,
+      "description": "2016 · ⭐ 7.8 · 日本\n在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
       "genreTitle": "动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
@@ -2380,6 +2380,28 @@
       ]
     },
     {
+      "id": "1575337",
+      "tmdbId": 1575337,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "超时空辉夜姬！",
+      "releaseDate": "2026-01-22",
+      "lastUpdateDate": "2026-01-22",
+      "posterPath": "/3qQbeI3kTbOTVo5gvX14khFgRzw.jpg",
+      "backdropPath": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
+      "rating": 8.4,
+      "description": "2026 · ⭐ 8.4 · 未知地区\n在梦想与希望汇聚的虚拟空间“月读”，少女们相遇，以及离别的舞台，就此拉开帷幕——  在不远的未来，就读于东京都内重点高中的17岁少女酒寄彩叶，过着兼顾打工与学业的超忙碌生活。月见八千代是互联网虚拟空间“月读”的管理员兼超人气主播，彩叶平日透过观看她的直播放松身心。在这个任何人都能创造自己的分身，自由进行创作活动的“月读”里，彩叶一边支持着自己的偶像八千代，一边靠对战游戏零零散散赚点零用钱。  某天放学回家的路上，彩叶发现了一根闪烁着七彩光芒的电线杆，从里面钻出来的，竟是个极其可爱的婴儿。放心不下的彩叶将其带回了家，没想到对方转眼间长大，长成了与彩叶年纪相仿的少女。  「你……该不会是辉夜姬吧？」长大后的辉夜姬十分任性。在她那任性的请求下，彩叶开始帮她在月读开展主播活动。彩叶作为制作人创作音乐，而辉夜则作为主播负责演唱，两人也在合作中一点点拉近了距离。然而她们并不知道，一道不祥的阴影，为将辉夜带回月球，已悄然逼近——  这是一个，还从未有人见过的「辉夜姬」的故事。",
+      "genreTitle": "奇幻 / 音乐 / 科幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        14,
+        10402,
+        878
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "43125",
       "tmdbId": 43125,
       "type": "tmdb",
@@ -2401,28 +2423,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "1575337",
-      "tmdbId": 1575337,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "超时空辉夜姬！",
-      "releaseDate": "2026-01-22",
-      "lastUpdateDate": "2026-01-22",
-      "posterPath": "/3qQbeI3kTbOTVo5gvX14khFgRzw.jpg",
-      "backdropPath": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
-      "rating": 8.4,
-      "description": "2026 · ⭐ 8.4 · 未知地区\n在梦想与希望汇聚的虚拟空间“月读”，少女们相遇，以及离别的舞台，就此拉开帷幕——  在不远的未来，就读于东京都内重点高中的17岁少女酒寄彩叶，过着兼顾打工与学业的超忙碌生活。月见八千代是互联网虚拟空间“月读”的管理员兼超人气主播，彩叶平日透过观看她的直播放松身心。在这个任何人都能创造自己的分身，自由进行创作活动的“月读”里，彩叶一边支持着自己的偶像八千代，一边靠对战游戏零零散散赚点零用钱。  某天放学回家的路上，彩叶发现了一根闪烁着七彩光芒的电线杆，从里面钻出来的，竟是个极其可爱的婴儿。放心不下的彩叶将其带回了家，没想到对方转眼间长大，长成了与彩叶年纪相仿的少女。  「你……该不会是辉夜姬吧？」长大后的辉夜姬十分任性。在她那任性的请求下，彩叶开始帮她在月读开展主播活动。彩叶作为制作人创作音乐，而辉夜则作为主播负责演唱，两人也在合作中一点点拉近了距离。然而她们并不知道，一道不祥的阴影，为将辉夜带回月球，已悄然逼近——  这是一个，还从未有人见过的「辉夜姬」的故事。",
-      "genreTitle": "奇幻 / 音乐 / 科幻",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        14,
-        10402,
-        878
-      ],
-      "rawCountries": []
     },
     {
       "id": "72517",
