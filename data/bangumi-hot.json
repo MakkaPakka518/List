@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01 22:23:53",
+  "last_updated": "2026-04-02 11:37:58",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -803,28 +803,6 @@
       ]
     },
     {
-      "id": "83121",
-      "tmdbId": 83121,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "辉夜大小姐想让我告白",
-      "releaseDate": "2019-01-12",
-      "lastUpdateDate": "2022-06-25",
-      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
-      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
-      "rating": 8.5,
-      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        35,
-        16
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "1429",
       "tmdbId": 1429,
       "type": "tmdb",
@@ -842,6 +820,28 @@
         16,
         10765,
         10759
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "83121",
+      "tmdbId": 83121,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "辉夜大小姐想让我告白",
+      "releaseDate": "2019-01-12",
+      "lastUpdateDate": "2022-06-25",
+      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
+      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+      "rating": 8.5,
+      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        35,
+        16
       ],
       "rawCountries": [
         "JP"
@@ -1541,6 +1541,28 @@
       ]
     },
     {
+      "id": "79166",
+      "tmdbId": 79166,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "碧蓝之海",
+      "releaseDate": "2018-07-14",
+      "lastUpdateDate": "2025-09-23",
+      "posterPath": "/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
+      "backdropPath": "/gitV0eHjJfuC0aW61QodENeXsWf.jpg",
+      "rating": 7.8,
+      "description": "2018 · ⭐ 7.8 · 日本\n北原伊织升入大学后，开始寄住在伊豆的叔父所经营的潜水用具店“Grand Blue”。传入耳中的波涛声、炽烈照射的太阳、开始一起生活的可爱表姐妹……青春的大学生活！\n\n这样的伊织所面临的却是——除了野球拳以外的猜拳一概不知的强壮男人们！！\n\n刚一入学就被大学潜水社团“Peek a Boo”所盯上了的伊织，在会长时·田信治和三年级学生·寿龙次郎的怂恿下，不知不觉已经身为社团的一员加入了他们的愚蠢喧嚣中。在大学中认识的虽然长得帅但性格却很遗憾的宅男——今村耕平也加入其中，他们的青春向着越来越奇怪的方向转进。\n\n明明在寄住的地方有着可爱的表姐妹——古手川姐妹，但自己却被妹妹千纱当成垃圾看待，而姐姐奈奈华又是重度妹控，根本无法成为对象。\n\n在可爱的全裸笨蛋们的包围之下，伊织的大学生活究竟会变得如何……。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "45790",
       "tmdbId": 45790,
       "type": "tmdb",
@@ -1564,22 +1586,23 @@
       ]
     },
     {
-      "id": "79166",
-      "tmdbId": 79166,
+      "id": "117933",
+      "tmdbId": 117933,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "碧蓝之海",
-      "releaseDate": "2018-07-14",
-      "lastUpdateDate": "2025-09-23",
-      "posterPath": "/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
-      "backdropPath": "/gitV0eHjJfuC0aW61QodENeXsWf.jpg",
-      "rating": 7.8,
-      "description": "2018 · ⭐ 7.8 · 日本\n北原伊织升入大学后，开始寄住在伊豆的叔父所经营的潜水用具店“Grand Blue”。传入耳中的波涛声、炽烈照射的太阳、开始一起生活的可爱表姐妹……青春的大学生活！\n\n这样的伊织所面临的却是——除了野球拳以外的猜拳一概不知的强壮男人们！！\n\n刚一入学就被大学潜水社团“Peek a Boo”所盯上了的伊织，在会长时·田信治和三年级学生·寿龙次郎的怂恿下，不知不觉已经身为社团的一员加入了他们的愚蠢喧嚣中。在大学中认识的虽然长得帅但性格却很遗憾的宅男——今村耕平也加入其中，他们的青春向着越来越奇怪的方向转进。\n\n明明在寄住的地方有着可爱的表姐妹——古手川姐妹，但自己却被妹妹千纱当成垃圾看待，而姐姐奈奈华又是重度妹控，根本无法成为对象。\n\n在可爱的全裸笨蛋们的包围之下，伊织的大学生活究竟会变得如何……。",
-      "genreTitle": "喜剧",
+      "title": "夏日重现",
+      "releaseDate": "2022-04-15",
+      "lastUpdateDate": "2022-09-30",
+      "posterPath": "/llEfmcMmO3TuvGf3BUR3foQO7W1.jpg",
+      "backdropPath": "/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",
+      "rating": 8.1,
+      "description": "2022 · ⭐ 8.1 · 日本\n听闻自己的青梅竹马——小舟潮的死讯后，网代慎平回到了阔别两年的故乡，和歌山市的日都岛。出席葬礼时，慎平的挚友菱形窗向他吐露：“潮的死有他杀的可能性。”甚至连潮的妹妹泠也说，潮是被杀害的。在日都岛上流传着这样一个传说：看到与自己一样的“影子”的人就会死去。而在潮死去之前，泠说她曾看到过潮的“影子”……",
+      "genreTitle": "剧情 / 悬疑",
       "regionTitle": "日本",
       "rawGenres": [
         16,
-        35
+        18,
+        9648
       ],
       "rawCountries": [
         "JP"
@@ -1603,29 +1626,6 @@
         16,
         35,
         18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "117933",
-      "tmdbId": 117933,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "夏日重现",
-      "releaseDate": "2022-04-15",
-      "lastUpdateDate": "2022-09-30",
-      "posterPath": "/llEfmcMmO3TuvGf3BUR3foQO7W1.jpg",
-      "backdropPath": "/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",
-      "rating": 8.1,
-      "description": "2022 · ⭐ 8.1 · 日本\n听闻自己的青梅竹马——小舟潮的死讯后，网代慎平回到了阔别两年的故乡，和歌山市的日都岛。出席葬礼时，慎平的挚友菱形窗向他吐露：“潮的死有他杀的可能性。”甚至连潮的妹妹泠也说，潮是被杀害的。在日都岛上流传着这样一个传说：看到与自己一样的“影子”的人就会死去。而在潮死去之前，泠说她曾看到过潮的“影子”……",
-      "genreTitle": "剧情 / 悬疑",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        9648
       ],
       "rawCountries": [
         "JP"
@@ -2448,6 +2448,28 @@
       ]
     },
     {
+      "id": "76075",
+      "tmdbId": 76075,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "摇曳露营△",
+      "releaseDate": "2018-01-04",
+      "lastUpdateDate": "2024-06-20",
+      "posterPath": "/cDWn009t5VTNBXAliflpm1RdNLO.jpg",
+      "backdropPath": "/cm3lmKnEAYLs2eJmn4AcFIu18X4.jpg",
+      "rating": 8.1,
+      "description": "2018 · ⭐ 8.1 · 日本\n这是，某个冬日的故事。从静冈搬家到山梨的女高中生·抚子，为了观赏“在千圆纸币上都有图案的富士山”而骑着自行车来到本栖湖，但不巧天气是阴天。没能看到富士山，十分疲倦的抚子当场进入了梦乡。当她醒来的时候，时间已是深夜。在这初来乍到的地方，连回去的路都不知道。拯救了不安而害怕的抚子的是，一位爱好露营的女孩子·凛。为了让寒冷的身体取暖而点燃篝火的两人。噼啪噼啪的柴火爆音，沁入湖畔的静寂之中。围着篝火，一边啜着咖喱面一边对话的抚子和凛。终于，两人期盼已久的瞬间到来。“看到了……富士山……”抚子与凛，从这两人的相遇开始的户外系Girls Story。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "60728",
       "tmdbId": 60728,
       "type": "tmdb",
@@ -2466,28 +2488,6 @@
         16,
         35,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "76075",
-      "tmdbId": 76075,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "摇曳露营△",
-      "releaseDate": "2018-01-04",
-      "lastUpdateDate": "2024-06-20",
-      "posterPath": "/cDWn009t5VTNBXAliflpm1RdNLO.jpg",
-      "backdropPath": "/cm3lmKnEAYLs2eJmn4AcFIu18X4.jpg",
-      "rating": 8.2,
-      "description": "2018 · ⭐ 8.2 · 日本\n这是，某个冬日的故事。从静冈搬家到山梨的女高中生·抚子，为了观赏“在千圆纸币上都有图案的富士山”而骑着自行车来到本栖湖，但不巧天气是阴天。没能看到富士山，十分疲倦的抚子当场进入了梦乡。当她醒来的时候，时间已是深夜。在这初来乍到的地方，连回去的路都不知道。拯救了不安而害怕的抚子的是，一位爱好露营的女孩子·凛。为了让寒冷的身体取暖而点燃篝火的两人。噼啪噼啪的柴火爆音，沁入湖畔的静寂之中。围着篝火，一边啜着咖喱面一边对话的抚子和凛。终于，两人期盼已久的瞬间到来。“看到了……富士山……”抚子与凛，从这两人的相遇开始的户外系Girls Story。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
       ],
       "rawCountries": [
         "JP"
