@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 11:40:10",
+  "last_updated": "2026-04-03 21:54:58",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -803,6 +803,28 @@
       ]
     },
     {
+      "id": "83121",
+      "tmdbId": 83121,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "辉夜大小姐想让我告白",
+      "releaseDate": "2019-01-12",
+      "lastUpdateDate": "2022-06-25",
+      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
+      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+      "rating": 8.5,
+      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        35,
+        16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "1429",
       "tmdbId": 1429,
       "type": "tmdb",
@@ -820,28 +842,6 @@
         16,
         10765,
         10759
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "83121",
-      "tmdbId": 83121,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "辉夜大小姐想让我告白",
-      "releaseDate": "2019-01-12",
-      "lastUpdateDate": "2022-06-25",
-      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
-      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
-      "rating": 8.5,
-      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        35,
-        16
       ],
       "rawCountries": [
         "JP"
@@ -1973,29 +1973,6 @@
       ]
     },
     {
-      "id": "123249",
-      "tmdbId": 123249,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "更衣人偶坠入爱河",
-      "releaseDate": "2022-01-09",
-      "lastUpdateDate": "2025-09-21",
-      "posterPath": "/4MewGfQu5Cxq04TiWyTdZDQeZEI.jpg",
-      "backdropPath": "/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg",
-      "rating": 8.4,
-      "description": "2022 · ⭐ 8.4 · 日本\n男高中生五条新菜梦想着成为制作雏人形面部的「头师」。全身心地投入到制作雏人形后，他离同龄人的流行话题越来越远，以至于迟迟无法融入班级。对于这样的新菜来说，一直是班级中心人物的喜多川海梦简直像是生活在完全不同世界的人。然而有一天，一件意想不到的事情让他与海梦拥有了共同的秘密……！？两人原本毫无交集的世界因此产生了联系！",
-      "genreTitle": "喜剧 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "95479",
       "tmdbId": 95479,
       "type": "tmdb",
@@ -2013,6 +1990,29 @@
         16,
         10759,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "123249",
+      "tmdbId": 123249,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "更衣人偶坠入爱河",
+      "releaseDate": "2022-01-09",
+      "lastUpdateDate": "2025-09-21",
+      "posterPath": "/4MewGfQu5Cxq04TiWyTdZDQeZEI.jpg",
+      "backdropPath": "/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg",
+      "rating": 8.4,
+      "description": "2022 · ⭐ 8.4 · 日本\n男高中生五条新菜梦想着成为制作雏人形面部的「头师」。全身心地投入到制作雏人形后，他离同龄人的流行话题越来越远，以至于迟迟无法融入班级。对于这样的新菜来说，一直是班级中心人物的喜多川海梦简直像是生活在完全不同世界的人。然而有一天，一件意想不到的事情让他与海梦拥有了共同的秘密……！？两人原本毫无交集的世界因此产生了联系！",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
       ],
       "rawCountries": [
         "JP"
@@ -2616,10 +2616,10 @@
       "title": "进击的巨人 最终季 完结篇（前篇）",
       "releaseDate": "2023-03-04",
       "lastUpdateDate": "2023-03-04",
-      "posterPath": "/vrthphmBwngmmRFwnCe6ez4p5cI.jpg",
+      "posterPath": "/2ZJDbP90aeHvcPwjznHgzCGBnjy.jpg",
       "backdropPath": null,
       "rating": 0.0,
-      "description": "2023 · ⭐ 0.0 · 日本\n《进击的巨人》系列的超长特别篇，承接最终季 Part.2 的剧情，讲述调查兵团与艾伦・耶格尔的最终对峙，揭露世界真相与巨人起源的核心篇章，为全系列结局铺垫关键剧情。",
+      "description": "2023 · ⭐ 0.0 · 日本\n《进击的巨人》系列的超长特别篇，承接最终季 Part.2 的剧情，艾连发动「地鸣」意图毁灭世界。无数的巨人们开始进击，所到之处皆被夷为平地。米卡莎、阿尔敏、约翰、柯尼、汉吉、莱纳、亚妮、皮可和身负重伤濒临死亡的里维…… 残存下来的战士们为了阻止艾连挺身而出，迎接最终的战役。",
       "genreTitle": "动画",
       "regionTitle": "日本",
       "rawGenres": [
