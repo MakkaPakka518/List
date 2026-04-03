@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 22:14:55",
+  "last_updated": "2026-04-03 11:40:10",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1541,6 +1541,28 @@
       ]
     },
     {
+      "id": "79166",
+      "tmdbId": 79166,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "碧蓝之海",
+      "releaseDate": "2018-07-14",
+      "lastUpdateDate": "2025-09-23",
+      "posterPath": "/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
+      "backdropPath": "/gitV0eHjJfuC0aW61QodENeXsWf.jpg",
+      "rating": 7.8,
+      "description": "2018 · ⭐ 7.8 · 日本\n北原伊织升入大学后，开始寄住在伊豆的叔父所经营的潜水用具店“Grand Blue”。传入耳中的波涛声、炽烈照射的太阳、开始一起生活的可爱表姐妹……青春的大学生活！\n\n这样的伊织所面临的却是——除了野球拳以外的猜拳一概不知的强壮男人们！！\n\n刚一入学就被大学潜水社团“Peek a Boo”所盯上了的伊织，在会长时·田信治和三年级学生·寿龙次郎的怂恿下，不知不觉已经身为社团的一员加入了他们的愚蠢喧嚣中。在大学中认识的虽然长得帅但性格却很遗憾的宅男——今村耕平也加入其中，他们的青春向着越来越奇怪的方向转进。\n\n明明在寄住的地方有着可爱的表姐妹——古手川姐妹，但自己却被妹妹千纱当成垃圾看待，而姐姐奈奈华又是重度妹控，根本无法成为对象。\n\n在可爱的全裸笨蛋们的包围之下，伊织的大学生活究竟会变得如何……。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "45790",
       "tmdbId": 45790,
       "type": "tmdb",
@@ -1558,28 +1580,6 @@
         16,
         10759,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "79166",
-      "tmdbId": 79166,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "碧蓝之海",
-      "releaseDate": "2018-07-14",
-      "lastUpdateDate": "2025-09-23",
-      "posterPath": "/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
-      "backdropPath": "/gitV0eHjJfuC0aW61QodENeXsWf.jpg",
-      "rating": 7.8,
-      "description": "2018 · ⭐ 7.8 · 日本\n北原伊织升入大学后，开始寄住在伊豆的叔父所经营的潜水用具店“Grand Blue”。传入耳中的波涛声、炽烈照射的太阳、开始一起生活的可爱表姐妹……青春的大学生活！\n\n这样的伊织所面临的却是——除了野球拳以外的猜拳一概不知的强壮男人们！！\n\n刚一入学就被大学潜水社团“Peek a Boo”所盯上了的伊织，在会长时·田信治和三年级学生·寿龙次郎的怂恿下，不知不觉已经身为社团的一员加入了他们的愚蠢喧嚣中。在大学中认识的虽然长得帅但性格却很遗憾的宅男——今村耕平也加入其中，他们的青春向着越来越奇怪的方向转进。\n\n明明在寄住的地方有着可爱的表姐妹——古手川姐妹，但自己却被妹妹千纱当成垃圾看待，而姐姐奈奈华又是重度妹控，根本无法成为对象。\n\n在可爱的全裸笨蛋们的包围之下，伊织的大学生活究竟会变得如何……。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
       ],
       "rawCountries": [
         "JP"
@@ -2221,17 +2221,17 @@
       ]
     },
     {
-      "id": "45790",
-      "tmdbId": 45790,
+      "id": "65942",
+      "tmdbId": 65942,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "JOJO的奇妙冒险",
-      "releaseDate": "2012-10-06",
-      "lastUpdateDate": "2026-03-19",
-      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
-      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
-      "rating": 8.6,
-      "description": "2012 · ⭐ 8.6 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
+      "title": "Re：从零开始的异世界生活",
+      "releaseDate": "2016-04-04",
+      "lastUpdateDate": "2025-03-26",
+      "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
+      "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
+      "rating": 7.8,
+      "description": "2016 · ⭐ 7.8 · 日本\n在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
       "genreTitle": "动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
@@ -2244,17 +2244,17 @@
       ]
     },
     {
-      "id": "65942",
-      "tmdbId": 65942,
+      "id": "45790",
+      "tmdbId": 45790,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "Re：从零开始的异世界生活",
-      "releaseDate": "2016-04-04",
-      "lastUpdateDate": "2025-03-26",
-      "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
-      "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
-      "rating": 7.8,
-      "description": "2016 · ⭐ 7.8 · 日本\n在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
+      "title": "JOJO的奇妙冒险",
+      "releaseDate": "2012-10-06",
+      "lastUpdateDate": "2026-03-19",
+      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
+      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+      "rating": 8.6,
+      "description": "2012 · ⭐ 8.6 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
       "genreTitle": "动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
@@ -2432,10 +2432,10 @@
       "title": "欢迎来到实力至上主义的教室",
       "releaseDate": "2017-07-12",
       "lastUpdateDate": "2026-04-01",
-      "posterPath": "/dplBfCP7UwqA0gjvxB1vR77OwiV.jpg",
+      "posterPath": "/pQf2CYvrZBVFEFD1OfDMm9m4ndf.jpg",
       "backdropPath": "/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
       "rating": 8.4,
-      "description": "2017 · ⭐ 8.4 · 日本\n这个社会是否平等呢。真正的“实力”是什么——。东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
+      "description": "2017 · ⭐ 8.4 · 日本\n这个社会是否平等呢。真正的“实力”是什么？东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
       "genreTitle": "剧情 / 悬疑",
       "regionTitle": "日本",
       "rawGenres": [
