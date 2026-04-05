@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 11:50:03",
+  "last_updated": "2026-04-05 21:45:36",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1216,28 +1216,6 @@
       ]
     },
     {
-      "id": "69367",
-      "tmdbId": 69367,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "路人女主的养成方法",
-      "releaseDate": "2015-01-16",
-      "lastUpdateDate": "2017-06-23",
-      "posterPath": "/jtZ3WQ6ZW6BcmHgeSeet22YGQVc.jpg",
-      "backdropPath": "/3HvXeJzSztADlAua3l4gjawVhPC.jpg",
-      "rating": 6.8,
-      "description": "2015 · ⭐ 6.8 · 日本\n春假时，为了购买动画蓝光片而打工的御宅族安艺伦也，在开满樱花的坡道上邂逅一位少女，帮她捡一顶被风吹走的帽子。于是有了以该少女为女主角制作同人游戏的构想。一个月后，才知道该少女是他的同班同学，名叫加藤惠。为了制作游戏，安艺伦也还要说服同年级美术部的绘画高手泽村·史宾瑟·英梨梨，以及优等生学姐霞之丘诗羽和加藤惠共组同人游戏社团，开始同人游戏的制作。之后又有波岛出海及擅长音乐的冰堂美智留等人的加入。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "70878",
       "tmdbId": 70878,
       "type": "tmdb",
@@ -1255,6 +1233,28 @@
         16,
         35,
         18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "69367",
+      "tmdbId": 69367,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "路人女主的养成方法",
+      "releaseDate": "2015-01-16",
+      "lastUpdateDate": "2017-06-23",
+      "posterPath": "/jtZ3WQ6ZW6BcmHgeSeet22YGQVc.jpg",
+      "backdropPath": "/3HvXeJzSztADlAua3l4gjawVhPC.jpg",
+      "rating": 6.8,
+      "description": "2015 · ⭐ 6.8 · 日本\n春假时，为了购买动画蓝光片而打工的御宅族安艺伦也，在开满樱花的坡道上邂逅一位少女，帮她捡一顶被风吹走的帽子。于是有了以该少女为女主角制作同人游戏的构想。一个月后，才知道该少女是他的同班同学，名叫加藤惠。为了制作游戏，安艺伦也还要说服同年级美术部的绘画高手泽村·史宾瑟·英梨梨，以及优等生学姐霞之丘诗羽和加藤惠共组同人游戏社团，开始同人游戏的制作。之后又有波岛出海及擅长音乐的冰堂美智留等人的加入。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
       ],
       "rawCountries": [
         "JP"
@@ -1856,6 +1856,29 @@
       ]
     },
     {
+      "id": "299555",
+      "tmdbId": 299555,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "链锯人 总集篇",
+      "releaseDate": "2025-09-06",
+      "lastUpdateDate": "2025-09-06",
+      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
+      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
+      "rating": 8.7,
+      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "31724",
       "tmdbId": 31724,
       "type": "tmdb",
@@ -1874,29 +1897,6 @@
         10765,
         10759,
         18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "299555",
-      "tmdbId": 299555,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "链锯人 总集篇",
-      "releaseDate": "2025-09-06",
-      "lastUpdateDate": "2025-09-06",
-      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
-      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
-      "rating": 8.7,
-      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
       ],
       "rawCountries": [
         "JP"
@@ -2176,27 +2176,6 @@
       ]
     },
     {
-      "id": "378064",
-      "tmdbId": 378064,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "声之形",
-      "releaseDate": "2016-09-17",
-      "lastUpdateDate": "2016-09-17",
-      "posterPath": "/xmd1MrC2JI3rkZP2sQ1C3ECTKIT.jpg",
-      "backdropPath": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
-      "rating": 8.4,
-      "description": "2016 · ⭐ 8.4 · 未知地区\n西宫硝子（早见沙织 配音）生来患有听觉障碍，要依靠助听器和外界交流，口语发音也因此格外的古怪。小学时，硝子转入了一所新的学校，特殊的生理缺陷让她成为了班上引人注目的独特存在，她因此收获了坚实的友情，却也遭到了以男生石田将也（入野自由 配音）为首的小团体的孤立和排挤。随着时 间的推移，无心或有意的恶作剧渐渐升级，最终演变成为了无法挽回的伤害，硝子永远的消失在了众人的眼前。排挤硝子的事情曝光后，将也成为了下一个被欺负的对象，孤独痛苦的他终于理解了硝子的隐忍和温柔，只是他再也没有机会跟硝子道歉了。一次偶然中，将也同硝子重逢了，命运的齿轮重新开始了转动。",
-      "genreTitle": "剧情 / 爱情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        18,
-        10749
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "65942",
       "tmdbId": 65942,
       "type": "tmdb",
@@ -2218,6 +2197,49 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "378064",
+      "tmdbId": 378064,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "声之形",
+      "releaseDate": "2016-09-17",
+      "lastUpdateDate": "2016-09-17",
+      "posterPath": "/xmd1MrC2JI3rkZP2sQ1C3ECTKIT.jpg",
+      "backdropPath": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+      "rating": 8.4,
+      "description": "2016 · ⭐ 8.4 · 未知地区\n西宫硝子（早见沙织 配音）生来患有听觉障碍，要依靠助听器和外界交流，口语发音也因此格外的古怪。小学时，硝子转入了一所新的学校，特殊的生理缺陷让她成为了班上引人注目的独特存在，她因此收获了坚实的友情，却也遭到了以男生石田将也（入野自由 配音）为首的小团体的孤立和排挤。随着时 间的推移，无心或有意的恶作剧渐渐升级，最终演变成为了无法挽回的伤害，硝子永远的消失在了众人的眼前。排挤硝子的事情曝光后，将也成为了下一个被欺负的对象，孤独痛苦的他终于理解了硝子的隐忍和温柔，只是他再也没有机会跟硝子道歉了。一次偶然中，将也同硝子重逢了，命运的齿轮重新开始了转动。",
+      "genreTitle": "剧情 / 爱情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        10749
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "1575337",
+      "tmdbId": 1575337,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "超时空辉夜姬！",
+      "releaseDate": "2026-01-22",
+      "lastUpdateDate": "2026-01-22",
+      "posterPath": "/3qQbeI3kTbOTVo5gvX14khFgRzw.jpg",
+      "backdropPath": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
+      "rating": 8.4,
+      "description": "2026 · ⭐ 8.4 · 未知地区\n在梦想与希望汇聚的虚拟空间“月读”，少女们相遇，以及离别的舞台，就此拉开帷幕——  在不远的未来，就读于东京都内重点高中的17岁少女酒寄彩叶，过着兼顾打工与学业的超忙碌生活。月见八千代是互联网虚拟空间“月读”的管理员兼超人气主播，彩叶平日透过观看她的直播放松身心。在这个任何人都能创造自己的分身，自由进行创作活动的“月读”里，彩叶一边支持着自己的偶像八千代，一边靠对战游戏零零散散赚点零用钱。  某天放学回家的路上，彩叶发现了一根闪烁着七彩光芒的电线杆，从里面钻出来的，竟是个极其可爱的婴儿。放心不下的彩叶将其带回了家，没想到对方转眼间长大，长成了与彩叶年纪相仿的少女。  「你……该不会是辉夜姬吧？」长大后的辉夜姬十分任性。在她那任性的请求下，彩叶开始帮她在月读开展主播活动。彩叶作为制作人创作音乐，而辉夜则作为主播负责演唱，两人也在合作中一点点拉近了距离。然而她们并不知道，一道不祥的阴影，为将辉夜带回月球，已悄然逼近——  这是一个，还从未有人见过的「辉夜姬」的故事。",
+      "genreTitle": "奇幻 / 音乐 / 科幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        14,
+        10402,
+        878
+      ],
+      "rawCountries": []
     },
     {
       "id": "62564",
@@ -2282,28 +2304,6 @@
         10749,
         16,
         35
-      ],
-      "rawCountries": []
-    },
-    {
-      "id": "1575337",
-      "tmdbId": 1575337,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "超时空辉夜姬！",
-      "releaseDate": "2026-01-22",
-      "lastUpdateDate": "2026-01-22",
-      "posterPath": "/3qQbeI3kTbOTVo5gvX14khFgRzw.jpg",
-      "backdropPath": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
-      "rating": 8.4,
-      "description": "2026 · ⭐ 8.4 · 未知地区\n在梦想与希望汇聚的虚拟空间“月读”，少女们相遇，以及离别的舞台，就此拉开帷幕——  在不远的未来，就读于东京都内重点高中的17岁少女酒寄彩叶，过着兼顾打工与学业的超忙碌生活。月见八千代是互联网虚拟空间“月读”的管理员兼超人气主播，彩叶平日透过观看她的直播放松身心。在这个任何人都能创造自己的分身，自由进行创作活动的“月读”里，彩叶一边支持着自己的偶像八千代，一边靠对战游戏零零散散赚点零用钱。  某天放学回家的路上，彩叶发现了一根闪烁着七彩光芒的电线杆，从里面钻出来的，竟是个极其可爱的婴儿。放心不下的彩叶将其带回了家，没想到对方转眼间长大，长成了与彩叶年纪相仿的少女。  「你……该不会是辉夜姬吧？」长大后的辉夜姬十分任性。在她那任性的请求下，彩叶开始帮她在月读开展主播活动。彩叶作为制作人创作音乐，而辉夜则作为主播负责演唱，两人也在合作中一点点拉近了距离。然而她们并不知道，一道不祥的阴影，为将辉夜带回月球，已悄然逼近——  这是一个，还从未有人见过的「辉夜姬」的故事。",
-      "genreTitle": "奇幻 / 音乐 / 科幻",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        14,
-        10402,
-        878
       ],
       "rawCountries": []
     },
