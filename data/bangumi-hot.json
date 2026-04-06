@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06 11:53:26",
+  "last_updated": "2026-04-06 22:03:56",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -144,7 +144,7 @@
       "tmdbId": 65329,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "冰菓",
+      "title": "冰果",
       "releaseDate": "2012-04-23",
       "lastUpdateDate": "2012-09-17",
       "posterPath": "/jLqFI9DNx5omo3SCUlvtHyhfhYa.jpg",
@@ -1123,29 +1123,6 @@
       "rawCountries": []
     },
     {
-      "id": "75214",
-      "tmdbId": 75214,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "紫罗兰永恒花园",
-      "releaseDate": "2018-01-11",
-      "lastUpdateDate": "2018-04-05",
-      "posterPath": "/55Psg9yxczJ0l5xgF3AVT8oidmq.jpg",
-      "backdropPath": "/2e2AEk7Jmn8CztM62hoUyEEWw0B.jpg",
-      "rating": 8.5,
-      "description": "2018 · ⭐ 8.5 · 日本\n某个大陆的、某个时代。大陆南北分割的战争结束了，世界走向了和平。在战争中作为军人的薇尔莉特•伊芙加登，怀抱着对她来说无比重要之人留下的“话语”，离开军队来到了大港口城市。踊跃的人群在排列着煤气灯的街道马路上来来往往地穿梭着。薇尔莉特在街道上找到了“代写书信”的工作。那是根据委托人的想法来组织出相应语言的工作。她直面委托人、触碰着他们内心深处的坦率感情。与此同时，薇尔莉特在记录书信时，渐渐明白那“话语”的含义。",
-      "genreTitle": "剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "241928",
       "tmdbId": 241928,
       "type": "tmdb",
@@ -1163,6 +1140,29 @@
         16,
         18,
         35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "75214",
+      "tmdbId": 75214,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "紫罗兰永恒花园",
+      "releaseDate": "2018-01-11",
+      "lastUpdateDate": "2018-04-05",
+      "posterPath": "/55Psg9yxczJ0l5xgF3AVT8oidmq.jpg",
+      "backdropPath": "/2e2AEk7Jmn8CztM62hoUyEEWw0B.jpg",
+      "rating": 8.5,
+      "description": "2018 · ⭐ 8.5 · 日本\n某个大陆的、某个时代。大陆南北分割的战争结束了，世界走向了和平。在战争中作为军人的薇尔莉特•伊芙加登，怀抱着对她来说无比重要之人留下的“话语”，离开军队来到了大港口城市。踊跃的人群在排列着煤气灯的街道马路上来来往往地穿梭着。薇尔莉特在街道上找到了“代写书信”的工作。那是根据委托人的想法来组织出相应语言的工作。她直面委托人、触碰着他们内心深处的坦率感情。与此同时，薇尔莉特在记录书信时，渐渐明白那“话语”的含义。",
+      "genreTitle": "剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -1515,6 +1515,28 @@
       ]
     },
     {
+      "id": "79166",
+      "tmdbId": 79166,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "碧蓝之海",
+      "releaseDate": "2018-07-14",
+      "lastUpdateDate": "2025-09-23",
+      "posterPath": "/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
+      "backdropPath": "/gitV0eHjJfuC0aW61QodENeXsWf.jpg",
+      "rating": 7.8,
+      "description": "2018 · ⭐ 7.8 · 日本\n北原伊织升入大学后，开始寄住在伊豆的叔父所经营的潜水用具店“Grand Blue”。传入耳中的波涛声、炽烈照射的太阳、开始一起生活的可爱表姐妹……青春的大学生活！\n\n这样的伊织所面临的却是——除了野球拳以外的猜拳一概不知的强壮男人们！！\n\n刚一入学就被大学潜水社团“Peek a Boo”所盯上了的伊织，在会长时·田信治和三年级学生·寿龙次郎的怂恿下，不知不觉已经身为社团的一员加入了他们的愚蠢喧嚣中。在大学中认识的虽然长得帅但性格却很遗憾的宅男——今村耕平也加入其中，他们的青春向着越来越奇怪的方向转进。\n\n明明在寄住的地方有着可爱的表姐妹——古手川姐妹，但自己却被妹妹千纱当成垃圾看待，而姐姐奈奈华又是重度妹控，根本无法成为对象。\n\n在可爱的全裸笨蛋们的包围之下，伊织的大学生活究竟会变得如何……。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "30977",
       "tmdbId": 30977,
       "type": "tmdb",
@@ -1533,28 +1555,6 @@
         10759,
         35,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "79166",
-      "tmdbId": 79166,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "碧蓝之海",
-      "releaseDate": "2018-07-14",
-      "lastUpdateDate": "2025-09-23",
-      "posterPath": "/9OW05tBAeyMWeEVtvTnn6S8LH4z.jpg",
-      "backdropPath": "/gitV0eHjJfuC0aW61QodENeXsWf.jpg",
-      "rating": 7.8,
-      "description": "2018 · ⭐ 7.8 · 日本\n北原伊织升入大学后，开始寄住在伊豆的叔父所经营的潜水用具店“Grand Blue”。传入耳中的波涛声、炽烈照射的太阳、开始一起生活的可爱表姐妹……青春的大学生活！\n\n这样的伊织所面临的却是——除了野球拳以外的猜拳一概不知的强壮男人们！！\n\n刚一入学就被大学潜水社团“Peek a Boo”所盯上了的伊织，在会长时·田信治和三年级学生·寿龙次郎的怂恿下，不知不觉已经身为社团的一员加入了他们的愚蠢喧嚣中。在大学中认识的虽然长得帅但性格却很遗憾的宅男——今村耕平也加入其中，他们的青春向着越来越奇怪的方向转进。\n\n明明在寄住的地方有着可爱的表姐妹——古手川姐妹，但自己却被妹妹千纱当成垃圾看待，而姐姐奈奈华又是重度妹控，根本无法成为对象。\n\n在可爱的全裸笨蛋们的包围之下，伊织的大学生活究竟会变得如何……。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
       ],
       "rawCountries": [
         "JP"
@@ -1764,6 +1764,28 @@
       "rawCountries": []
     },
     {
+      "id": "67126",
+      "tmdbId": 67126,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "干物妹！小埋",
+      "releaseDate": "2015-07-09",
+      "lastUpdateDate": "2017-12-24",
+      "posterPath": "/iqVjN361kn5mgwFUQRegeCTMXnv.jpg",
+      "backdropPath": "/pfvlAC6kIRJ6987jVo4MW44b3Ex.jpg",
+      "rating": 8.2,
+      "description": "2015 · ⭐ 8.2 · 日本\n土间埋，校园中女神一般的存在，成绩优异体育万能，个性温柔正直善良，然而，只有她的哥哥太平知道，众人眼中光芒万丈的小埋，在进入家门的那一刹那，就会瞬间变成披着仓鼠斗篷，满地打滚，除了吃就是睡和玩的超级干物女。海老名菜菜是小埋的好友，两人住在同一间公寓中，常常和太平以及小埋一同吃饭。本场切绘在无意之中捡到了小埋的学生证，于是一路找到了小埋家。橘将在学校中视小埋为最强劲的对手，却在没有认出小埋的情况下和她成为了好友。最终，这些女孩子们是否会发现小埋的真实身份呢？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "72636",
       "tmdbId": 72636,
       "type": "tmdb",
@@ -1782,28 +1804,6 @@
         18,
         10759,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "67126",
-      "tmdbId": 67126,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "干物妹！小埋",
-      "releaseDate": "2015-07-09",
-      "lastUpdateDate": "2017-12-24",
-      "posterPath": "/iqVjN361kn5mgwFUQRegeCTMXnv.jpg",
-      "backdropPath": "/pfvlAC6kIRJ6987jVo4MW44b3Ex.jpg",
-      "rating": 8.2,
-      "description": "2015 · ⭐ 8.2 · 日本\n土间埋，校园中女神一般的存在，成绩优异体育万能，个性温柔正直善良，然而，只有她的哥哥太平知道，众人眼中光芒万丈的小埋，在进入家门的那一刹那，就会瞬间变成披着仓鼠斗篷，满地打滚，除了吃就是睡和玩的超级干物女。海老名菜菜是小埋的好友，两人住在同一间公寓中，常常和太平以及小埋一同吃饭。本场切绘在无意之中捡到了小埋的学生证，于是一路找到了小埋家。橘将在学校中视小埋为最强劲的对手，却在没有认出小埋的情况下和她成为了好友。最终，这些女孩子们是否会发现小埋的真实身份呢？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
       ],
       "rawCountries": [
         "JP"
@@ -1861,7 +1861,7 @@
       "type": "tmdb",
       "mediaType": "tv",
       "title": "链锯人 总集篇",
-      "releaseDate": "2025-09-06",
+      "releaseDate": "2025-09-05",
       "lastUpdateDate": "2025-09-06",
       "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
       "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
@@ -2591,7 +2591,7 @@
       "title": "OVERLORD",
       "releaseDate": "2015-07-07",
       "lastUpdateDate": "2022-09-27",
-      "posterPath": "/wwblGcJWowz6aIhR0PoqIDTuyKq.jpg",
+      "posterPath": "/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
       "backdropPath": "/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
       "rating": 8.5,
       "description": "2015 · ⭐ 8.5 · 日本\n作品主要讲述了某天，一款曾经掀起过大热潮的VRMMORPG「YGGDRASIL」停止了运营。游戏原本会停止一切服务，但过了结束时间后，玩家们却发现不能退出，NPC也产生了各自的思想。现实世界中喜爱电玩的主人公铃木悟（真名）在等待系统强制登出时，与“安兹·乌尔·恭”公会的成员一起意外穿越到了异世界，并且变成了拥有骷髅外表的最强魔法师——“飞鼠”。就这样，真正的奇幻传说正式拉开了帷幕。",
