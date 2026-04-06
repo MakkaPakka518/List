@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 21:45:36",
+  "last_updated": "2026-04-06 11:53:26",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1764,28 +1764,6 @@
       "rawCountries": []
     },
     {
-      "id": "67126",
-      "tmdbId": 67126,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "干物妹！小埋",
-      "releaseDate": "2015-07-09",
-      "lastUpdateDate": "2017-12-24",
-      "posterPath": "/iqVjN361kn5mgwFUQRegeCTMXnv.jpg",
-      "backdropPath": "/pfvlAC6kIRJ6987jVo4MW44b3Ex.jpg",
-      "rating": 8.2,
-      "description": "2015 · ⭐ 8.2 · 日本\n土间埋，校园中女神一般的存在，成绩优异体育万能，个性温柔正直善良，然而，只有她的哥哥太平知道，众人眼中光芒万丈的小埋，在进入家门的那一刹那，就会瞬间变成披着仓鼠斗篷，满地打滚，除了吃就是睡和玩的超级干物女。海老名菜菜是小埋的好友，两人住在同一间公寓中，常常和太平以及小埋一同吃饭。本场切绘在无意之中捡到了小埋的学生证，于是一路找到了小埋家。橘将在学校中视小埋为最强劲的对手，却在没有认出小埋的情况下和她成为了好友。最终，这些女孩子们是否会发现小埋的真实身份呢？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "72636",
       "tmdbId": 72636,
       "type": "tmdb",
@@ -1804,6 +1782,28 @@
         18,
         10759,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "67126",
+      "tmdbId": 67126,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "干物妹！小埋",
+      "releaseDate": "2015-07-09",
+      "lastUpdateDate": "2017-12-24",
+      "posterPath": "/iqVjN361kn5mgwFUQRegeCTMXnv.jpg",
+      "backdropPath": "/pfvlAC6kIRJ6987jVo4MW44b3Ex.jpg",
+      "rating": 8.2,
+      "description": "2015 · ⭐ 8.2 · 日本\n土间埋，校园中女神一般的存在，成绩优异体育万能，个性温柔正直善良，然而，只有她的哥哥太平知道，众人眼中光芒万丈的小埋，在进入家门的那一刹那，就会瞬间变成披着仓鼠斗篷，满地打滚，除了吃就是睡和玩的超级干物女。海老名菜菜是小埋的好友，两人住在同一间公寓中，常常和太平以及小埋一同吃饭。本场切绘在无意之中捡到了小埋的学生证，于是一路找到了小埋家。橘将在学校中视小埋为最强劲的对手，却在没有认出小埋的情况下和她成为了好友。最终，这些女孩子们是否会发现小埋的真实身份呢？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
       ],
       "rawCountries": [
         "JP"
@@ -1979,7 +1979,7 @@
       "releaseDate": "2020-10-03",
       "lastUpdateDate": "2026-03-27",
       "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+      "backdropPath": "/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
       "rating": 8.6,
       "description": "2020 · ⭐ 8.6 · 日本\n少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
       "genreTitle": "动作冒险 / 科幻奇幻",
@@ -2176,6 +2176,28 @@
       ]
     },
     {
+      "id": "1575337",
+      "tmdbId": 1575337,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "超时空辉夜姬！",
+      "releaseDate": "2026-01-22",
+      "lastUpdateDate": "2026-01-22",
+      "posterPath": "/3qQbeI3kTbOTVo5gvX14khFgRzw.jpg",
+      "backdropPath": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
+      "rating": 8.4,
+      "description": "2026 · ⭐ 8.4 · 未知地区\n在梦想与希望汇聚的虚拟空间“月读”，少女们相遇，以及离别的舞台，就此拉开帷幕——  在不远的未来，就读于东京都内重点高中的17岁少女酒寄彩叶，过着兼顾打工与学业的超忙碌生活。月见八千代是互联网虚拟空间“月读”的管理员兼超人气主播，彩叶平日透过观看她的直播放松身心。在这个任何人都能创造自己的分身，自由进行创作活动的“月读”里，彩叶一边支持着自己的偶像八千代，一边靠对战游戏零零散散赚点零用钱。  某天放学回家的路上，彩叶发现了一根闪烁着七彩光芒的电线杆，从里面钻出来的，竟是个极其可爱的婴儿。放心不下的彩叶将其带回了家，没想到对方转眼间长大，长成了与彩叶年纪相仿的少女。  「你……该不会是辉夜姬吧？」长大后的辉夜姬十分任性。在她那任性的请求下，彩叶开始帮她在月读开展主播活动。彩叶作为制作人创作音乐，而辉夜则作为主播负责演唱，两人也在合作中一点点拉近了距离。然而她们并不知道，一道不祥的阴影，为将辉夜带回月球，已悄然逼近——  这是一个，还从未有人见过的「辉夜姬」的故事。",
+      "genreTitle": "奇幻 / 音乐 / 科幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        14,
+        10402,
+        878
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "65942",
       "tmdbId": 65942,
       "type": "tmdb",
@@ -2220,26 +2242,27 @@
       "rawCountries": []
     },
     {
-      "id": "1575337",
-      "tmdbId": 1575337,
+      "id": "45790",
+      "tmdbId": 45790,
       "type": "tmdb",
-      "mediaType": "movie",
-      "title": "超时空辉夜姬！",
-      "releaseDate": "2026-01-22",
-      "lastUpdateDate": "2026-01-22",
-      "posterPath": "/3qQbeI3kTbOTVo5gvX14khFgRzw.jpg",
-      "backdropPath": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
-      "rating": 8.4,
-      "description": "2026 · ⭐ 8.4 · 未知地区\n在梦想与希望汇聚的虚拟空间“月读”，少女们相遇，以及离别的舞台，就此拉开帷幕——  在不远的未来，就读于东京都内重点高中的17岁少女酒寄彩叶，过着兼顾打工与学业的超忙碌生活。月见八千代是互联网虚拟空间“月读”的管理员兼超人气主播，彩叶平日透过观看她的直播放松身心。在这个任何人都能创造自己的分身，自由进行创作活动的“月读”里，彩叶一边支持着自己的偶像八千代，一边靠对战游戏零零散散赚点零用钱。  某天放学回家的路上，彩叶发现了一根闪烁着七彩光芒的电线杆，从里面钻出来的，竟是个极其可爱的婴儿。放心不下的彩叶将其带回了家，没想到对方转眼间长大，长成了与彩叶年纪相仿的少女。  「你……该不会是辉夜姬吧？」长大后的辉夜姬十分任性。在她那任性的请求下，彩叶开始帮她在月读开展主播活动。彩叶作为制作人创作音乐，而辉夜则作为主播负责演唱，两人也在合作中一点点拉近了距离。然而她们并不知道，一道不祥的阴影，为将辉夜带回月球，已悄然逼近——  这是一个，还从未有人见过的「辉夜姬」的故事。",
-      "genreTitle": "奇幻 / 音乐 / 科幻",
-      "regionTitle": "未知地区",
+      "mediaType": "tv",
+      "title": "JOJO的奇妙冒险",
+      "releaseDate": "2012-10-06",
+      "lastUpdateDate": "2026-03-19",
+      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
+      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+      "rating": 8.6,
+      "description": "2012 · ⭐ 8.6 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
       "rawGenres": [
         16,
-        14,
-        10402,
-        878
+        10759,
+        10765
       ],
-      "rawCountries": []
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "62564",
@@ -2258,29 +2281,6 @@
       "rawGenres": [
         16,
         18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "45790",
-      "tmdbId": 45790,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "JOJO的奇妙冒险",
-      "releaseDate": "2012-10-06",
-      "lastUpdateDate": "2026-03-19",
-      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
-      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
-      "rating": 8.6,
-      "description": "2012 · ⭐ 8.6 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
       ],
       "rawCountries": [
         "JP"
@@ -2408,7 +2408,7 @@
       "releaseDate": "2017-07-12",
       "lastUpdateDate": "2026-04-01",
       "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
-      "backdropPath": "/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
+      "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
       "rating": 8.4,
       "description": "2017 · ⭐ 8.4 · 日本\n这个社会是否平等呢。真正的“实力”是什么？东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
       "genreTitle": "剧情 / 悬疑",
