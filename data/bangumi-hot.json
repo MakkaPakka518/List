@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 11:46:15",
+  "last_updated": "2026-04-08 22:27:23",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -307,7 +307,7 @@
       "releaseDate": "2001-07-20",
       "lastUpdateDate": "2001-07-20",
       "posterPath": "/9oZmkkNlI4Ktx6NTkdpeU525qSc.jpg",
-      "backdropPath": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+      "backdropPath": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
       "rating": 8.5,
       "description": "2001 · ⭐ 8.5 · 未知地区\n小女孩千寻被困在一个陌生的精灵世界。当她的父母发生神秘变化后，她必须鼓起自己从未发现的勇气，才能解救自己，并将家人带回外面的世界。",
       "genreTitle": "家庭 / 奇幻",
@@ -1537,6 +1537,29 @@
       ]
     },
     {
+      "id": "45790",
+      "tmdbId": 45790,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "JOJO的奇妙冒险",
+      "releaseDate": "2012-10-06",
+      "lastUpdateDate": "2026-03-19",
+      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
+      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+      "rating": 8.6,
+      "description": "2012 · ⭐ 8.6 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "30977",
       "tmdbId": 30977,
       "type": "tmdb",
@@ -1554,29 +1577,6 @@
         16,
         10759,
         35,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "45790",
-      "tmdbId": 45790,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "JOJO的奇妙冒险",
-      "releaseDate": "2012-10-06",
-      "lastUpdateDate": "2026-03-19",
-      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
-      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
-      "rating": 8.6,
-      "description": "2012 · ⭐ 8.6 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
         10765
       ],
       "rawCountries": [
@@ -2109,27 +2109,6 @@
       "rawCountries": []
     },
     {
-      "id": "198375",
-      "tmdbId": 198375,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "言叶之庭",
-      "releaseDate": "2013-05-31",
-      "lastUpdateDate": "2013-05-31",
-      "posterPath": "/jSzlY2RAEGGmnNK8h0VckMivHRP.jpg",
-      "backdropPath": "/8iB9CMlwRJRWDwM9P9ZtD8Erry.jpg",
-      "rating": 7.6,
-      "description": "2013 · ⭐ 7.6 · 未知地区\n年方15岁的高中生秋月孝雄（入野自由 配音），专心学业的过程中不得不为了生计打工赚钱。母亲离家出走，他与哥哥过着看不到前方的生活。入梅之日，孝雄逃课来到日本庭园。在一座安静的小亭子里，27岁的职场女性雪野百香里（花泽香菜 配音）边吃巧克力边饮啤酒的样子引起了孝雄的注意。似曾相识的二人，仿佛约定好了一般，每到落雨之日便从世俗的烦恼中逃脱出来，相会于这座钢筋铁骨都市丛林中宛若世外桃源的幽静角落。在梅雨季节的日子里，他们的心渐渐向彼此靠拢。志愿成为手工鞋匠的秋月，决心以雪野为模特做一双鞋。  　　雨过天晴，艳阳高照，庭园中久久不见秋月和雪野的身影，相会无期亦有期……",
-      "genreTitle": "剧情 / 爱情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        18,
-        10749
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "1575337",
       "tmdbId": 1575337,
       "type": "tmdb",
@@ -2148,6 +2127,27 @@
         14,
         10402,
         878
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "198375",
+      "tmdbId": 198375,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "言叶之庭",
+      "releaseDate": "2013-05-31",
+      "lastUpdateDate": "2013-05-31",
+      "posterPath": "/jSzlY2RAEGGmnNK8h0VckMivHRP.jpg",
+      "backdropPath": "/8iB9CMlwRJRWDwM9P9ZtD8Erry.jpg",
+      "rating": 7.6,
+      "description": "2013 · ⭐ 7.6 · 未知地区\n年方15岁的高中生秋月孝雄（入野自由 配音），专心学业的过程中不得不为了生计打工赚钱。母亲离家出走，他与哥哥过着看不到前方的生活。入梅之日，孝雄逃课来到日本庭园。在一座安静的小亭子里，27岁的职场女性雪野百香里（花泽香菜 配音）边吃巧克力边饮啤酒的样子引起了孝雄的注意。似曾相识的二人，仿佛约定好了一般，每到落雨之日便从世俗的烦恼中逃脱出来，相会于这座钢筋铁骨都市丛林中宛若世外桃源的幽静角落。在梅雨季节的日子里，他们的心渐渐向彼此靠拢。志愿成为手工鞋匠的秋月，决心以雪野为模特做一双鞋。  　　雨过天晴，艳阳高照，庭园中久久不见秋月和雪野的身影，相会无期亦有期……",
+      "genreTitle": "剧情 / 爱情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        10749
       ],
       "rawCountries": []
     },
