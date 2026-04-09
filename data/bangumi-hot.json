@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09 11:41:34",
+  "last_updated": "2026-04-09 22:48:35",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -648,17 +648,18 @@
       "mediaType": "tv",
       "title": "Re：从零开始的异世界生活",
       "releaseDate": "2016-04-04",
-      "lastUpdateDate": "2025-03-26",
+      "lastUpdateDate": "2026-04-08",
       "posterPath": "/zTAJk1ERMticlZeXaKTq6UozgxC.jpg",
       "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
       "rating": 7.8,
       "description": "2016 · ⭐ 7.8 · 日本\n在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
-      "genreTitle": "动作冒险 / 科幻奇幻",
+      "genreTitle": "动作冒险 / 科幻奇幻 / 悬疑",
       "regionTitle": "日本",
       "rawGenres": [
         16,
         10759,
-        10765
+        10765,
+        9648
       ],
       "rawCountries": [
         "JP"
@@ -1537,6 +1538,29 @@
       ]
     },
     {
+      "id": "45790",
+      "tmdbId": 45790,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "JOJO的奇妙冒险",
+      "releaseDate": "2012-10-06",
+      "lastUpdateDate": "2026-03-19",
+      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
+      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+      "rating": 8.6,
+      "description": "2012 · ⭐ 8.6 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "30977",
       "tmdbId": 30977,
       "type": "tmdb",
@@ -1554,29 +1578,6 @@
         16,
         10759,
         35,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "45790",
-      "tmdbId": 45790,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "JOJO的奇妙冒险",
-      "releaseDate": "2012-10-06",
-      "lastUpdateDate": "2026-03-19",
-      "posterPath": "/v3tg5I7DkyXjSVgV0MINbNaeR12.jpg",
-      "backdropPath": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
-      "rating": 8.6,
-      "description": "2012 · ⭐ 8.6 · 日本\n乔斯达家族的数代人都有一个相同的绰号“JOJO”，他们在不同的时代与各种拥有超自然力量的反派战斗不休。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
         10765
       ],
       "rawCountries": [
@@ -2204,17 +2205,18 @@
       "mediaType": "tv",
       "title": "Re：从零开始的异世界生活",
       "releaseDate": "2016-04-04",
-      "lastUpdateDate": "2025-03-26",
+      "lastUpdateDate": "2026-04-08",
       "posterPath": "/zTAJk1ERMticlZeXaKTq6UozgxC.jpg",
       "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
       "rating": 7.8,
       "description": "2016 · ⭐ 7.8 · 日本\n在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
-      "genreTitle": "动作冒险 / 科幻奇幻",
+      "genreTitle": "动作冒险 / 科幻奇幻 / 悬疑",
       "regionTitle": "日本",
       "rawGenres": [
         16,
         10759,
-        10765
+        10765,
+        9648
       ],
       "rawCountries": [
         "JP"
@@ -2406,7 +2408,7 @@
       "mediaType": "tv",
       "title": "欢迎来到实力至上主义的教室",
       "releaseDate": "2017-07-12",
-      "lastUpdateDate": "2026-04-01",
+      "lastUpdateDate": "2026-04-08",
       "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
       "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
       "rating": 8.4,
