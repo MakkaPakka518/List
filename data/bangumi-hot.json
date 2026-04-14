@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14 11:56:27",
+  "last_updated": "2026-04-14 22:45:03",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1833,6 +1833,28 @@
       ]
     },
     {
+      "id": "198152",
+      "tmdbId": 198152,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "别当欧尼酱了！",
+      "releaseDate": "2023-01-05",
+      "lastUpdateDate": "2023-03-23",
+      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
+      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+      "rating": 7.4,
+      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "94693",
       "tmdbId": 94693,
       "type": "tmdb",
@@ -1850,28 +1872,6 @@
         16,
         10759,
         10765,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "198152",
-      "tmdbId": 198152,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "别当欧尼酱了！",
-      "releaseDate": "2023-01-05",
-      "lastUpdateDate": "2023-03-23",
-      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
-      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
-      "rating": 7.4,
-      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
         35
       ],
       "rawCountries": [
