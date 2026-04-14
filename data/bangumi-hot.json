@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13 22:26:57",
+  "last_updated": "2026-04-14 11:56:27",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -193,7 +193,7 @@
       "title": "轻音少女",
       "releaseDate": "2009-04-03",
       "lastUpdateDate": "2010-09-15",
-      "posterPath": "/uXgqW1ffm0g3AKMfksLeKFJnK7J.jpg",
+      "posterPath": "/bdOc8sVK5B0mE16BLyiI9hNEdic.jpg",
       "backdropPath": "/pYa81GUfKspR81chpcyVuTDqPCC.jpg",
       "rating": 8.0,
       "description": "2009 · ⭐ 8.0 · 日本\n春天，在新生决定社团的时候，田井中律硬拉着青梅竹马的秋山澪参观轻音部让其入部，在得知前辈们毕业后由于人数不足将面临闭部结局，秋山澪与琴吹䌷成为了轻音部成员，但离4人指标还差1位名额。这时，一名弄错了部名的少女平泽唯误打误撞之下填补了最后一位空位，但这位少女却是一个连乐谱也看不懂的新人，学习成绩又差。而就是这样的4名少女，却展开了奏响青春的音乐之旅。",
@@ -720,7 +720,7 @@
       "title": "轻音少女",
       "releaseDate": "2009-04-03",
       "lastUpdateDate": "2010-09-15",
-      "posterPath": "/uXgqW1ffm0g3AKMfksLeKFJnK7J.jpg",
+      "posterPath": "/bdOc8sVK5B0mE16BLyiI9hNEdic.jpg",
       "backdropPath": "/pYa81GUfKspR81chpcyVuTDqPCC.jpg",
       "rating": 8.0,
       "description": "2009 · ⭐ 8.0 · 日本\n春天，在新生决定社团的时候，田井中律硬拉着青梅竹马的秋山澪参观轻音部让其入部，在得知前辈们毕业后由于人数不足将面临闭部结局，秋山澪与琴吹䌷成为了轻音部成员，但离4人指标还差1位名额。这时，一名弄错了部名的少女平泽唯误打误撞之下填补了最后一位空位，但这位少女却是一个连乐谱也看不懂的新人，学习成绩又差。而就是这样的4名少女，却展开了奏响青春的音乐之旅。",
@@ -1424,30 +1424,6 @@
       ]
     },
     {
-      "id": "116727",
-      "tmdbId": 116727,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "奇巧出租车",
-      "releaseDate": "2021-04-06",
-      "lastUpdateDate": "2021-06-29",
-      "posterPath": "/zMv1e9Nrq2yHfzmqmBIKf0XH4Gp.jpg",
-      "backdropPath": "/m7RQ7l2FnCTEnH58Zm8SQzJGYQH.jpg",
-      "rating": 8.3,
-      "description": "2021 · ⭐ 8.3 · 日本\n平凡的出租车司机·小户川。没有亲戚，也不想与人扯上关系，有点古怪且寡言的司机。兴趣是在睡前听落语以及工作时听收音机。目前，唯一有联络的是医生朋友·刚力以及高中同级生·柿花。本该载着各式各样的乘客，平凡的每一日，小户川与一名失踪的女孩事件扯上了关系……",
-      "genreTitle": "喜剧 / 悬疑 / 犯罪",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        9648,
-        80
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "61415",
       "tmdbId": 61415,
       "type": "tmdb",
@@ -1466,6 +1442,30 @@
         16,
         18,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "116727",
+      "tmdbId": 116727,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "奇巧出租车",
+      "releaseDate": "2021-04-06",
+      "lastUpdateDate": "2021-06-29",
+      "posterPath": "/zMv1e9Nrq2yHfzmqmBIKf0XH4Gp.jpg",
+      "backdropPath": "/m7RQ7l2FnCTEnH58Zm8SQzJGYQH.jpg",
+      "rating": 8.3,
+      "description": "2021 · ⭐ 8.3 · 日本\n平凡的出租车司机·小户川。没有亲戚，也不想与人扯上关系，有点古怪且寡言的司机。兴趣是在睡前听落语以及工作时听收音机。目前，唯一有联络的是医生朋友·刚力以及高中同级生·柿花。本该载着各式各样的乘客，平凡的每一日，小户川与一名失踪的女孩事件扯上了关系……",
+      "genreTitle": "喜剧 / 悬疑 / 犯罪",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        9648,
+        80
       ],
       "rawCountries": [
         "JP"
@@ -2042,28 +2042,6 @@
       ]
     },
     {
-      "id": "42500",
-      "tmdbId": 42500,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "幸运☆星",
-      "releaseDate": "2007-04-09",
-      "lastUpdateDate": "2007-09-17",
-      "posterPath": "/lO65hFJUwGav2LErTFoQfmomprk.jpg",
-      "backdropPath": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
-      "rating": 7.4,
-      "description": "2007 · ⭐ 7.4 · 日本\n高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "1575337",
       "tmdbId": 1575337,
       "type": "tmdb",
@@ -2084,6 +2062,28 @@
         878
       ],
       "rawCountries": []
+    },
+    {
+      "id": "42500",
+      "tmdbId": 42500,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "幸运☆星",
+      "releaseDate": "2007-04-09",
+      "lastUpdateDate": "2007-09-17",
+      "posterPath": "/lO65hFJUwGav2LErTFoQfmomprk.jpg",
+      "backdropPath": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
+      "rating": 7.4,
+      "description": "2007 · ⭐ 7.4 · 日本\n高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "77694",
