@@ -2,8 +2,8 @@ name: 🎭 Update Theaters Collection
 
 on:
   schedule:
-    # 每天北京时间早上 10:00 和 晚上 22:00 自动更新
-    - cron: '0 2,14 * * *'
+    # 每天北京时间早上 10:30 自动更新
+    - cron: '30 2 * * *'
   workflow_dispatch: 
 
 jobs:
