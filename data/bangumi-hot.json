@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16 12:10:04",
+  "last_updated": "2026-04-16 22:48:19",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -648,7 +648,7 @@
       "mediaType": "tv",
       "title": "Re：从零开始的异世界生活",
       "releaseDate": "2016-04-04",
-      "lastUpdateDate": "2026-04-08",
+      "lastUpdateDate": "2026-04-15",
       "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
       "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
       "rating": 7.8,
@@ -943,30 +943,6 @@
       "rawCountries": []
     },
     {
-      "id": "300822",
-      "tmdbId": 300822,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "物语系列",
-      "releaseDate": "2009-07-03",
-      "lastUpdateDate": "2024-10-19",
-      "posterPath": "/mKSqsUYoHLJXTCUo0ojAJJ29DFj.jpg",
-      "backdropPath": "/rVB1vnYsh0T8GRv72a0n5BnsIc7.jpg",
-      "rating": 9.8,
-      "description": "2009 · ⭐ 9.8 · 日本\n所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
-      "genreTitle": "喜剧 / 剧情 / 悬疑",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18,
-        9648
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "31911",
       "tmdbId": 31911,
       "type": "tmdb",
@@ -985,6 +961,30 @@
         10759,
         10765,
         18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "300822",
+      "tmdbId": 300822,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "物语系列",
+      "releaseDate": "2009-07-03",
+      "lastUpdateDate": "2024-10-19",
+      "posterPath": "/mKSqsUYoHLJXTCUo0ojAJJ29DFj.jpg",
+      "backdropPath": "/rVB1vnYsh0T8GRv72a0n5BnsIc7.jpg",
+      "rating": 9.8,
+      "description": "2009 · ⭐ 9.8 · 日本\n所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
+      "genreTitle": "喜剧 / 剧情 / 悬疑",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        9648
       ],
       "rawCountries": [
         "JP"
@@ -1013,6 +1013,29 @@
       ]
     },
     {
+      "id": "1429",
+      "tmdbId": 1429,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "进击的巨人",
+      "releaseDate": "2013-04-07",
+      "lastUpdateDate": "2022-04-04",
+      "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
+      "backdropPath": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "rating": 8.7,
+      "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
+      "genreTitle": "科幻奇幻 / 动作冒险",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10759
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "63926",
       "tmdbId": 63926,
       "type": "tmdb",
@@ -1031,29 +1054,6 @@
         35,
         10759,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "1429",
-      "tmdbId": 1429,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "进击的巨人",
-      "releaseDate": "2013-04-07",
-      "lastUpdateDate": "2022-04-04",
-      "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
-      "backdropPath": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "rating": 8.7,
-      "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
-      "genreTitle": "科幻奇幻 / 动作冒险",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765,
-        10759
       ],
       "rawCountries": [
         "JP"
@@ -1125,28 +1125,6 @@
       ]
     },
     {
-      "id": "18491",
-      "tmdbId": 18491,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "新世纪福音战士剧场版：Air / 真心为你",
-      "releaseDate": "1997-07-19",
-      "lastUpdateDate": "1997-07-19",
-      "posterPath": "/yBanOpNIccxjZlH4QH7ag4ojWOI.jpg",
-      "backdropPath": "/xLMJCCSatxENpHO9rLW9yD8A12C.jpg",
-      "rating": 8.3,
-      "description": "1997 · ⭐ 8.3 · 未知地区\n《新世纪福音战士》系列第二部剧场版，于 1997 年 7 月 19 日在日本上映。全名：《新世纪福音战士剧场版：THE END OF EVANGELION》（日语：新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION - Air/まごころを、君に，英语：NEON GENESIS EVANGELION: THE END OF EVANGELION - AIR/SINCERELY YOURS）。剧情承接 TV 动画版第 24 集，包括了重新制作的第 25 、第 26 话。在这部剧场版中第 25 话的名字是 “AIR”（天空），而副标题是 “LOEV IS DESTRUCTIVE”（爱是一种伤害）；第 26 话的名字是 “YOUR SINCERELY”（真心为你），副标题是“ONE MORE FINAL: I NEED YOU”（再说最后一遍：我需要你）。剧场版的每一话都和电视版一样有一个 “EYE - CATCH” 镜头（即每集中间那个黑底白字的英文标题）。这部剧场版标志着整个旧世纪《新世纪福音战士》的终结。影片分成 “Air” 与 “真心为你” 两个部分。神秘的 EVA 零号机驾驶员绫波丽，在与碇元渡约定之时，来到了 NERV 底层中央教条的红色水池边。她的命运似乎就将在此结束。在危急时刻，葛城美里不但要完成加持良治交待的对“第二次浩劫”真相以及“人类补完计划”的探查工作，还要保护碇真嗣与明日香，以及防备 SEELE 对初号机与二号机的物理接触。出于对碇元渡的憎恨，赤木律子接受了 SEELE 引爆 MAGI 的提案，她能否成功 ？长期与 SEELE 共事的碇元度、冬月耕造、碇唯，为了防止人类“最终的悲剧”，而酝酿了的“人类补完计划”能否实现 ？尽在《新世纪福音战士》电影版第 2 部中解答。",
-      "genreTitle": "科幻 / 剧情 / 奇幻",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        878,
-        18,
-        14
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "75214",
       "tmdbId": 75214,
       "type": "tmdb",
@@ -1168,6 +1146,28 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "18491",
+      "tmdbId": 18491,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "新世纪福音战士剧场版：Air / 真心为你",
+      "releaseDate": "1997-07-19",
+      "lastUpdateDate": "1997-07-19",
+      "posterPath": "/yBanOpNIccxjZlH4QH7ag4ojWOI.jpg",
+      "backdropPath": "/xLMJCCSatxENpHO9rLW9yD8A12C.jpg",
+      "rating": 8.3,
+      "description": "1997 · ⭐ 8.3 · 未知地区\n《新世纪福音战士》系列第二部剧场版，于 1997 年 7 月 19 日在日本上映。全名：《新世纪福音战士剧场版：THE END OF EVANGELION》（日语：新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION - Air/まごころを、君に，英语：NEON GENESIS EVANGELION: THE END OF EVANGELION - AIR/SINCERELY YOURS）。剧情承接 TV 动画版第 24 集，包括了重新制作的第 25 、第 26 话。在这部剧场版中第 25 话的名字是 “AIR”（天空），而副标题是 “LOEV IS DESTRUCTIVE”（爱是一种伤害）；第 26 话的名字是 “YOUR SINCERELY”（真心为你），副标题是“ONE MORE FINAL: I NEED YOU”（再说最后一遍：我需要你）。剧场版的每一话都和电视版一样有一个 “EYE - CATCH” 镜头（即每集中间那个黑底白字的英文标题）。这部剧场版标志着整个旧世纪《新世纪福音战士》的终结。影片分成 “Air” 与 “真心为你” 两个部分。神秘的 EVA 零号机驾驶员绫波丽，在与碇元渡约定之时，来到了 NERV 底层中央教条的红色水池边。她的命运似乎就将在此结束。在危急时刻，葛城美里不但要完成加持良治交待的对“第二次浩劫”真相以及“人类补完计划”的探查工作，还要保护碇真嗣与明日香，以及防备 SEELE 对初号机与二号机的物理接触。出于对碇元渡的憎恨，赤木律子接受了 SEELE 引爆 MAGI 的提案，她能否成功 ？长期与 SEELE 共事的碇元度、冬月耕造、碇唯，为了防止人类“最终的悲剧”，而酝酿了的“人类补完计划”能否实现 ？尽在《新世纪福音战士》电影版第 2 部中解答。",
+      "genreTitle": "科幻 / 剧情 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        18,
+        14
+      ],
+      "rawCountries": []
     },
     {
       "id": "63145",
@@ -1833,28 +1833,6 @@
       ]
     },
     {
-      "id": "198152",
-      "tmdbId": 198152,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "别当欧尼酱了！",
-      "releaseDate": "2023-01-05",
-      "lastUpdateDate": "2023-03-23",
-      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
-      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
-      "rating": 7.4,
-      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "94693",
       "tmdbId": 94693,
       "type": "tmdb",
@@ -1872,6 +1850,28 @@
         16,
         10759,
         10765,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "198152",
+      "tmdbId": 198152,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "别当欧尼酱了！",
+      "releaseDate": "2023-01-05",
+      "lastUpdateDate": "2023-03-23",
+      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
+      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+      "rating": 7.4,
+      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
         35
       ],
       "rawCountries": [
@@ -2205,7 +2205,7 @@
       "mediaType": "tv",
       "title": "Re：从零开始的异世界生活",
       "releaseDate": "2016-04-04",
-      "lastUpdateDate": "2026-04-08",
+      "lastUpdateDate": "2026-04-15",
       "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
       "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
       "rating": 7.8,
