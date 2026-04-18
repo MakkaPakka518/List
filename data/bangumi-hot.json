@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18 11:43:20",
+  "last_updated": "2026-04-18 21:54:14",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -943,30 +943,6 @@
       "rawCountries": []
     },
     {
-      "id": "300822",
-      "tmdbId": 300822,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "物语系列",
-      "releaseDate": "2009-07-03",
-      "lastUpdateDate": "2024-10-19",
-      "posterPath": "/mKSqsUYoHLJXTCUo0ojAJJ29DFj.jpg",
-      "backdropPath": "/rVB1vnYsh0T8GRv72a0n5BnsIc7.jpg",
-      "rating": 9.8,
-      "description": "2009 · ⭐ 9.8 · 日本\n所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
-      "genreTitle": "喜剧 / 剧情 / 悬疑",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18,
-        9648
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "31911",
       "tmdbId": 31911,
       "type": "tmdb",
@@ -985,6 +961,30 @@
         10759,
         10765,
         18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "300822",
+      "tmdbId": 300822,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "物语系列",
+      "releaseDate": "2009-07-03",
+      "lastUpdateDate": "2024-10-19",
+      "posterPath": "/mKSqsUYoHLJXTCUo0ojAJJ29DFj.jpg",
+      "backdropPath": "/rVB1vnYsh0T8GRv72a0n5BnsIc7.jpg",
+      "rating": 9.8,
+      "description": "2009 · ⭐ 9.8 · 日本\n所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
+      "genreTitle": "喜剧 / 剧情 / 悬疑",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        9648
       ],
       "rawCountries": [
         "JP"
@@ -1857,6 +1857,28 @@
       ]
     },
     {
+      "id": "198152",
+      "tmdbId": 198152,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "别当欧尼酱了！",
+      "releaseDate": "2023-01-05",
+      "lastUpdateDate": "2023-03-23",
+      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
+      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+      "rating": 7.4,
+      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "299555",
       "tmdbId": 299555,
       "type": "tmdb",
@@ -1874,28 +1896,6 @@
         16,
         10759,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "198152",
-      "tmdbId": 198152,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "别当欧尼酱了！",
-      "releaseDate": "2023-01-05",
-      "lastUpdateDate": "2023-03-23",
-      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
-      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
-      "rating": 7.4,
-      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
       ],
       "rawCountries": [
         "JP"
@@ -2448,6 +2448,28 @@
       ]
     },
     {
+      "id": "76075",
+      "tmdbId": 76075,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "摇曳露营△",
+      "releaseDate": "2018-01-04",
+      "lastUpdateDate": "2024-06-20",
+      "posterPath": "/cDWn009t5VTNBXAliflpm1RdNLO.jpg",
+      "backdropPath": "/cm3lmKnEAYLs2eJmn4AcFIu18X4.jpg",
+      "rating": 8.1,
+      "description": "2018 · ⭐ 8.1 · 日本\n这是，某个冬日的故事。从静冈搬家到山梨的女高中生·抚子，为了观赏“在千圆纸币上都有图案的富士山”而骑着自行车来到本栖湖，但不巧天气是阴天。没能看到富士山，十分疲倦的抚子当场进入了梦乡。当她醒来的时候，时间已是深夜。在这初来乍到的地方，连回去的路都不知道。拯救了不安而害怕的抚子的是，一位爱好露营的女孩子·凛。为了让寒冷的身体取暖而点燃篝火的两人。噼啪噼啪的柴火爆音，沁入湖畔的静寂之中。围着篝火，一边啜着咖喱面一边对话的抚子和凛。终于，两人期盼已久的瞬间到来。“看到了……富士山……”抚子与凛，从这两人的相遇开始的户外系Girls Story。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "60728",
       "tmdbId": 60728,
       "type": "tmdb",
@@ -2466,28 +2488,6 @@
         16,
         35,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "76075",
-      "tmdbId": 76075,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "摇曳露营△",
-      "releaseDate": "2018-01-04",
-      "lastUpdateDate": "2024-06-20",
-      "posterPath": "/cDWn009t5VTNBXAliflpm1RdNLO.jpg",
-      "backdropPath": "/cm3lmKnEAYLs2eJmn4AcFIu18X4.jpg",
-      "rating": 8.1,
-      "description": "2018 · ⭐ 8.1 · 日本\n这是，某个冬日的故事。从静冈搬家到山梨的女高中生·抚子，为了观赏“在千圆纸币上都有图案的富士山”而骑着自行车来到本栖湖，但不巧天气是阴天。没能看到富士山，十分疲倦的抚子当场进入了梦乡。当她醒来的时候，时间已是深夜。在这初来乍到的地方，连回去的路都不知道。拯救了不安而害怕的抚子的是，一位爱好露营的女孩子·凛。为了让寒冷的身体取暖而点燃篝火的两人。噼啪噼啪的柴火爆音，沁入湖畔的静寂之中。围着篝火，一边啜着咖喱面一边对话的抚子和凛。终于，两人期盼已久的瞬间到来。“看到了……富士山……”抚子与凛，从这两人的相遇开始的户外系Girls Story。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
       ],
       "rawCountries": [
         "JP"
@@ -2639,8 +2639,8 @@
       "lastUpdateDate": "2024-06-13",
       "posterPath": "/xBQK95axIdaOmfsJE7PM5bnioym.jpg",
       "backdropPath": "/xC5GyeIzLsSRizJE5LedGShNgBa.jpg",
-      "rating": 8.4,
-      "description": "2024 · ⭐ 8.4 · 日本\n迷宫饭。是“吃”，还是“被吃”，这是一个问题。在迷宫深处，莱欧斯眼看着红龙吃掉了妹妹，自己在将死之际回到了地面。尽管他想要马上再次挑战迷宫，但是钱和粮食都被留在了最深处。面对妹妹可能会被消化掉的危机，莱欧斯下定了决心。“食物就在迷宫中自给自足吧！”史莱姆，蛇尾鸡，宝箱怪，还有龙！吃着来袭的魔物们，打通迷宫吧，冒险者！",
+      "rating": 8.5,
+      "description": "2024 · ⭐ 8.5 · 日本\n迷宫饭。是“吃”，还是“被吃”，这是一个问题。在迷宫深处，莱欧斯眼看着红龙吃掉了妹妹，自己在将死之际回到了地面。尽管他想要马上再次挑战迷宫，但是钱和粮食都被留在了最深处。面对妹妹可能会被消化掉的危机，莱欧斯下定了决心。“食物就在迷宫中自给自足吧！”史莱姆，蛇尾鸡，宝箱怪，还有龙！吃着来袭的魔物们，打通迷宫吧，冒险者！",
       "genreTitle": "喜剧 / 动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
