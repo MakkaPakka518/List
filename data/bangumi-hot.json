@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18 21:54:14",
+  "last_updated": "2026-04-19 12:09:56",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -967,17 +967,17 @@
       ]
     },
     {
-      "id": "300822",
-      "tmdbId": 300822,
+      "id": "46195",
+      "tmdbId": 46195,
       "type": "tmdb",
       "mediaType": "tv",
       "title": "物语系列",
       "releaseDate": "2009-07-03",
       "lastUpdateDate": "2024-10-19",
-      "posterPath": "/mKSqsUYoHLJXTCUo0ojAJJ29DFj.jpg",
-      "backdropPath": "/rVB1vnYsh0T8GRv72a0n5BnsIc7.jpg",
-      "rating": 9.8,
-      "description": "2009 · ⭐ 9.8 · 日本\n所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
+      "posterPath": "/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
+      "backdropPath": "/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
+      "rating": 8.1,
+      "description": "2009 · ⭐ 8.1 · 日本\n所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
       "genreTitle": "喜剧 / 剧情 / 悬疑",
       "regionTitle": "日本",
       "rawGenres": [
@@ -1125,6 +1125,28 @@
       ]
     },
     {
+      "id": "18491",
+      "tmdbId": 18491,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "新世纪福音战士剧场版：Air / 真心为你",
+      "releaseDate": "1997-07-19",
+      "lastUpdateDate": "1997-07-19",
+      "posterPath": "/yBanOpNIccxjZlH4QH7ag4ojWOI.jpg",
+      "backdropPath": "/xLMJCCSatxENpHO9rLW9yD8A12C.jpg",
+      "rating": 8.3,
+      "description": "1997 · ⭐ 8.3 · 未知地区\n《新世纪福音战士》系列第二部剧场版，于 1997 年 7 月 19 日在日本上映。全名：《新世纪福音战士剧场版：THE END OF EVANGELION》（日语：新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION - Air/まごころを、君に，英语：NEON GENESIS EVANGELION: THE END OF EVANGELION - AIR/SINCERELY YOURS）。剧情承接 TV 动画版第 24 集，包括了重新制作的第 25 、第 26 话。在这部剧场版中第 25 话的名字是 “AIR”（天空），而副标题是 “LOEV IS DESTRUCTIVE”（爱是一种伤害）；第 26 话的名字是 “YOUR SINCERELY”（真心为你），副标题是“ONE MORE FINAL: I NEED YOU”（再说最后一遍：我需要你）。剧场版的每一话都和电视版一样有一个 “EYE - CATCH” 镜头（即每集中间那个黑底白字的英文标题）。这部剧场版标志着整个旧世纪《新世纪福音战士》的终结。影片分成 “Air” 与 “真心为你” 两个部分。神秘的 EVA 零号机驾驶员绫波丽，在与碇元渡约定之时，来到了 NERV 底层中央教条的红色水池边。她的命运似乎就将在此结束。在危急时刻，葛城美里不但要完成加持良治交待的对“第二次浩劫”真相以及“人类补完计划”的探查工作，还要保护碇真嗣与明日香，以及防备 SEELE 对初号机与二号机的物理接触。出于对碇元渡的憎恨，赤木律子接受了 SEELE 引爆 MAGI 的提案，她能否成功 ？长期与 SEELE 共事的碇元度、冬月耕造、碇唯，为了防止人类“最终的悲剧”，而酝酿了的“人类补完计划”能否实现 ？尽在《新世纪福音战士》电影版第 2 部中解答。",
+      "genreTitle": "科幻 / 剧情 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        18,
+        14
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "75214",
       "tmdbId": 75214,
       "type": "tmdb",
@@ -1146,28 +1168,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "18491",
-      "tmdbId": 18491,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "新世纪福音战士剧场版：Air / 真心为你",
-      "releaseDate": "1997-07-19",
-      "lastUpdateDate": "1997-07-19",
-      "posterPath": "/yBanOpNIccxjZlH4QH7ag4ojWOI.jpg",
-      "backdropPath": "/xLMJCCSatxENpHO9rLW9yD8A12C.jpg",
-      "rating": 8.3,
-      "description": "1997 · ⭐ 8.3 · 未知地区\n《新世纪福音战士》系列第二部剧场版，于 1997 年 7 月 19 日在日本上映。全名：《新世纪福音战士剧场版：THE END OF EVANGELION》（日语：新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION - Air/まごころを、君に，英语：NEON GENESIS EVANGELION: THE END OF EVANGELION - AIR/SINCERELY YOURS）。剧情承接 TV 动画版第 24 集，包括了重新制作的第 25 、第 26 话。在这部剧场版中第 25 话的名字是 “AIR”（天空），而副标题是 “LOEV IS DESTRUCTIVE”（爱是一种伤害）；第 26 话的名字是 “YOUR SINCERELY”（真心为你），副标题是“ONE MORE FINAL: I NEED YOU”（再说最后一遍：我需要你）。剧场版的每一话都和电视版一样有一个 “EYE - CATCH” 镜头（即每集中间那个黑底白字的英文标题）。这部剧场版标志着整个旧世纪《新世纪福音战士》的终结。影片分成 “Air” 与 “真心为你” 两个部分。神秘的 EVA 零号机驾驶员绫波丽，在与碇元渡约定之时，来到了 NERV 底层中央教条的红色水池边。她的命运似乎就将在此结束。在危急时刻，葛城美里不但要完成加持良治交待的对“第二次浩劫”真相以及“人类补完计划”的探查工作，还要保护碇真嗣与明日香，以及防备 SEELE 对初号机与二号机的物理接触。出于对碇元渡的憎恨，赤木律子接受了 SEELE 引爆 MAGI 的提案，她能否成功 ？长期与 SEELE 共事的碇元度、冬月耕造、碇唯，为了防止人类“最终的悲剧”，而酝酿了的“人类补完计划”能否实现 ？尽在《新世纪福音战士》电影版第 2 部中解答。",
-      "genreTitle": "科幻 / 剧情 / 奇幻",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        878,
-        18,
-        14
-      ],
-      "rawCountries": []
     },
     {
       "id": "63145",
@@ -2333,6 +2333,28 @@
       ]
     },
     {
+      "id": "274580",
+      "tmdbId": 274580,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "颂乐人偶",
+      "releaseDate": "2025-01-02",
+      "lastUpdateDate": "2025-03-27",
+      "posterPath": "/xixekXvcCSZS1jXhFrYUzpCrLL6.jpg",
+      "backdropPath": "/A2d4FQhXbwTFwQwNNnIrHfLOLmf.jpg",
+      "rating": 7.4,
+      "description": "2025 · ⭐ 7.4 · 日本\n「我说过了吧？请你们将剩余的人生交给我」  丰川祥子招募组建的乐队・Ave Mujica取得了演唱会和媒体曝光等商业上的成功。  少女失去了曾发誓命运与共的友人，又失去了自己出生长大的家庭。  她为什么要背负他人的一生，将乐队坚持下去呢？\n\n将过往与真容都以假面遮掩，今夜亦降临于完美的箱庭。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "45790",
       "tmdbId": 45790,
       "type": "tmdb",
@@ -2350,28 +2372,6 @@
         16,
         10759,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "274580",
-      "tmdbId": 274580,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "颂乐人偶",
-      "releaseDate": "2025-01-02",
-      "lastUpdateDate": "2025-03-27",
-      "posterPath": "/xixekXvcCSZS1jXhFrYUzpCrLL6.jpg",
-      "backdropPath": "/A2d4FQhXbwTFwQwNNnIrHfLOLmf.jpg",
-      "rating": 7.4,
-      "description": "2025 · ⭐ 7.4 · 日本\n「我说过了吧？请你们将剩余的人生交给我」  丰川祥子招募组建的乐队・Ave Mujica取得了演唱会和媒体曝光等商业上的成功。  少女失去了曾发誓命运与共的友人，又失去了自己出生长大的家庭。  她为什么要背负他人的一生，将乐队坚持下去呢？\n\n将过往与真容都以假面遮掩，今夜亦降临于完美的箱庭。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
       ],
       "rawCountries": [
         "JP"
@@ -2639,8 +2639,8 @@
       "lastUpdateDate": "2024-06-13",
       "posterPath": "/xBQK95axIdaOmfsJE7PM5bnioym.jpg",
       "backdropPath": "/xC5GyeIzLsSRizJE5LedGShNgBa.jpg",
-      "rating": 8.5,
-      "description": "2024 · ⭐ 8.5 · 日本\n迷宫饭。是“吃”，还是“被吃”，这是一个问题。在迷宫深处，莱欧斯眼看着红龙吃掉了妹妹，自己在将死之际回到了地面。尽管他想要马上再次挑战迷宫，但是钱和粮食都被留在了最深处。面对妹妹可能会被消化掉的危机，莱欧斯下定了决心。“食物就在迷宫中自给自足吧！”史莱姆，蛇尾鸡，宝箱怪，还有龙！吃着来袭的魔物们，打通迷宫吧，冒险者！",
+      "rating": 8.4,
+      "description": "2024 · ⭐ 8.4 · 日本\n迷宫饭。是“吃”，还是“被吃”，这是一个问题。在迷宫深处，莱欧斯眼看着红龙吃掉了妹妹，自己在将死之际回到了地面。尽管他想要马上再次挑战迷宫，但是钱和粮食都被留在了最深处。面对妹妹可能会被消化掉的危机，莱欧斯下定了决心。“食物就在迷宫中自给自足吧！”史莱姆，蛇尾鸡，宝箱怪，还有龙！吃着来袭的魔物们，打通迷宫吧，冒险者！",
       "genreTitle": "喜剧 / 动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
