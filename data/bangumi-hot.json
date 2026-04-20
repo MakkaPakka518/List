@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19 21:52:24",
+  "last_updated": "2026-04-20 12:14:59",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1561,6 +1561,29 @@
       ]
     },
     {
+      "id": "117933",
+      "tmdbId": 117933,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "夏日重现",
+      "releaseDate": "2022-04-15",
+      "lastUpdateDate": "2022-09-30",
+      "posterPath": "/llEfmcMmO3TuvGf3BUR3foQO7W1.jpg",
+      "backdropPath": "/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",
+      "rating": 8.1,
+      "description": "2022 · ⭐ 8.1 · 日本\n听闻自己的青梅竹马——小舟潮的死讯后，网代慎平回到了阔别两年的故乡，和歌山市的日都岛。出席葬礼时，慎平的挚友菱形窗向他吐露：“潮的死有他杀的可能性。”甚至连潮的妹妹泠也说，潮是被杀害的。在日都岛上流传着这样一个传说：看到与自己一样的“影子”的人就会死去。而在潮死去之前，泠说她曾看到过潮的“影子”……",
+      "genreTitle": "剧情 / 悬疑",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        9648
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "30977",
       "tmdbId": 30977,
       "type": "tmdb",
@@ -1579,29 +1602,6 @@
         10759,
         35,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "117933",
-      "tmdbId": 117933,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "夏日重现",
-      "releaseDate": "2022-04-15",
-      "lastUpdateDate": "2022-09-30",
-      "posterPath": "/llEfmcMmO3TuvGf3BUR3foQO7W1.jpg",
-      "backdropPath": "/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",
-      "rating": 8.1,
-      "description": "2022 · ⭐ 8.1 · 日本\n听闻自己的青梅竹马——小舟潮的死讯后，网代慎平回到了阔别两年的故乡，和歌山市的日都岛。出席葬礼时，慎平的挚友菱形窗向他吐露：“潮的死有他杀的可能性。”甚至连潮的妹妹泠也说，潮是被杀害的。在日都岛上流传着这样一个传说：看到与自己一样的“影子”的人就会死去。而在潮死去之前，泠说她曾看到过潮的“影子”……",
-      "genreTitle": "剧情 / 悬疑",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        9648
       ],
       "rawCountries": [
         "JP"
@@ -1857,28 +1857,6 @@
       ]
     },
     {
-      "id": "198152",
-      "tmdbId": 198152,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "别当欧尼酱了！",
-      "releaseDate": "2023-01-05",
-      "lastUpdateDate": "2023-03-23",
-      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
-      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
-      "rating": 7.4,
-      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "299555",
       "tmdbId": 299555,
       "type": "tmdb",
@@ -1896,6 +1874,28 @@
         16,
         10759,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "198152",
+      "tmdbId": 198152,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "别当欧尼酱了！",
+      "releaseDate": "2023-01-05",
+      "lastUpdateDate": "2023-03-23",
+      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
+      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+      "rating": 7.4,
+      "description": "2023 · ⭐ 7.4 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
       ],
       "rawCountries": [
         "JP"
@@ -2267,6 +2267,27 @@
       "rawCountries": []
     },
     {
+      "id": "257475",
+      "tmdbId": 257475,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "玉子爱情故事",
+      "releaseDate": "2014-04-26",
+      "lastUpdateDate": "2014-04-26",
+      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
+      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
+      "rating": 7.2,
+      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
+      "genreTitle": "爱情 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        10749,
+        16,
+        35
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "62564",
       "tmdbId": 62564,
       "type": "tmdb",
@@ -2287,27 +2308,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "257475",
-      "tmdbId": 257475,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "玉子爱情故事",
-      "releaseDate": "2014-04-26",
-      "lastUpdateDate": "2014-04-26",
-      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
-      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
-      "rating": 7.2,
-      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
-      "genreTitle": "爱情 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        10749,
-        16,
-        35
-      ],
-      "rawCountries": []
     },
     {
       "id": "67676",
