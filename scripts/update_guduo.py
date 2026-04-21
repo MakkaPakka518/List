@@ -133,7 +133,13 @@ async def search_tmdb(session, item, cache):
         candidates.extend(await do_search(clean_t, is_movie=True))
         
     elif category == "剧集":
-        candidates.extend(await do_search(clean_t, is_movie=False))
+        # 剧集不做限制：先搜TV分类，如果没搜到，说明TMDB把它当成了电影，直接去搜Movie
+        res_tv = await do_search(clean_t, is_movie=False)
+        if res_tv:
+            candidates.extend(res_tv)
+        else:
+            # 降级全面撒网，去电影区捞
+            candidates.extend(await do_search(clean_t, is_movie=True))
         
     elif category == "综艺":
         res_tv = await do_search(clean_t, is_movie=False)
