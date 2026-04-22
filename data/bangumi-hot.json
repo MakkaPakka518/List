@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21 22:28:51",
+  "last_updated": "2026-04-22 11:55:29",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -920,27 +920,27 @@
       ]
     },
     {
-      "id": "36865",
-      "tmdbId": 36865,
+      "id": "42511",
+      "tmdbId": 42511,
       "type": "tmdb",
-      "mediaType": "movie",
-      "title": "凉宫春日的消失",
-      "releaseDate": "2010-02-05",
-      "lastUpdateDate": "2010-02-05",
-      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
-      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+      "mediaType": "tv",
+      "title": "凉宫春日的忧郁",
+      "releaseDate": "2006-04-03",
+      "lastUpdateDate": "2009-09-11",
+      "posterPath": "/bplk2PRfyScItjmbjz8Yo2NXyjF.jpg",
+      "backdropPath": "/gDlx60iOCQjTLH53ybjAPOUyVIp.jpg",
       "rating": 7.8,
-      "description": "2010 · ⭐ 7.8 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
-      "genreTitle": "喜剧 / 科幻 / 悬疑",
-      "regionTitle": "未知地区",
+      "description": "2006 · ⭐ 7.8 · 日本\n我毕业于东中，叫做凉宫春日。我对普通的人类没有兴趣。你们之中要是有外星人、未来人、异世界人或者超能力者的话，就尽管来找我吧。”这是凉宫春日的宣言，也是她对于平庸生活的挑战。  我们可能在很小时就不再相信圣诞老人的存在，也慢慢不会再对外星人，特异功能等等产生幻想。在生活的教化下习惯于平淡无奇的生活。可是不安于现状的凉宫同学却勇敢的建立起SOS团，用强烈的意志去试图改造这个了无新意的世界。她的忧郁，究竟从何而来，又将从何而去。",
+      "genreTitle": "喜剧 / 科幻奇幻",
+      "regionTitle": "日本",
       "rawGenres": [
-        16,
         35,
-        878,
-        9648,
-        18
+        16,
+        10765
       ],
-      "rawCountries": []
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "31911",
@@ -2384,7 +2384,7 @@
       "mediaType": "tv",
       "title": "欢迎来到实力至上主义的教室",
       "releaseDate": "2017-07-12",
-      "lastUpdateDate": "2026-04-08",
+      "lastUpdateDate": "2026-04-15",
       "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
       "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
       "rating": 8.4,
@@ -2639,8 +2639,8 @@
       "lastUpdateDate": "2024-06-13",
       "posterPath": "/xBQK95axIdaOmfsJE7PM5bnioym.jpg",
       "backdropPath": "/xC5GyeIzLsSRizJE5LedGShNgBa.jpg",
-      "rating": 8.4,
-      "description": "2024 · ⭐ 8.4 · 日本\n迷宫饭。是“吃”，还是“被吃”，这是一个问题。在迷宫深处，莱欧斯眼看着红龙吃掉了妹妹，自己在将死之际回到了地面。尽管他想要马上再次挑战迷宫，但是钱和粮食都被留在了最深处。面对妹妹可能会被消化掉的危机，莱欧斯下定了决心。“食物就在迷宫中自给自足吧！”史莱姆，蛇尾鸡，宝箱怪，还有龙！吃着来袭的魔物们，打通迷宫吧，冒险者！",
+      "rating": 8.5,
+      "description": "2024 · ⭐ 8.5 · 日本\n迷宫饭。是“吃”，还是“被吃”，这是一个问题。在迷宫深处，莱欧斯眼看着红龙吃掉了妹妹，自己在将死之际回到了地面。尽管他想要马上再次挑战迷宫，但是钱和粮食都被留在了最深处。面对妹妹可能会被消化掉的危机，莱欧斯下定了决心。“食物就在迷宫中自给自足吧！”史莱姆，蛇尾鸡，宝箱怪，还有龙！吃着来袭的魔物们，打通迷宫吧，冒险者！",
       "genreTitle": "喜剧 / 动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
