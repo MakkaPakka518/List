@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24 18:07:41",
+  "last_updated": "2026-04-24 22:12:47",
   "tv": [
     {
       "id": "318545",
@@ -1249,6 +1249,21 @@
       "genreTitle": "真人秀"
     },
     {
+      "id": "317948",
+      "type": "tmdb",
+      "title": "乘风2026",
+      "description": "《乘风2026》是由任洋团队主导制作的一档女性文化交流与音乐竞演综艺节目。本季采用“直播”模式作为节目公演核心呈现方式，以更加真实、即时和开放的状态，重构综艺创作逻辑与观演关系，打造一档“正在发生”的当代女性综艺。节目邀请来自中国及世界各地的30+实力女性嘉宾，以“音乐为媒，文化为魂”，展开五场“乘风公演”，将中国传统美学、地域文化符号与国际艺术语言有机结合，呈现兼具真实质感与艺术完成度的视听表达，展现中国之美、人文之韵与当代女性的多元表达，推动中外文化交流，传递当代中国开放包容、自信从容的大国气象。",
+      "rating": 8.0,
+      "voteCount": 1,
+      "popularity": 8.104,
+      "releaseDate": "2026-04-02",
+      "lastUpdateDate": "2026-04-06",
+      "posterPath": "/o7zyq9MLW2DUPewBTjs2LMdv8iw.jpg",
+      "backdropPath": "/1ndGg4109Gg54GXdt1M1e9Zg8CY.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
       "id": "219497",
       "type": "tmdb",
       "title": "名侦探俱乐部",
@@ -1277,21 +1292,6 @@
       "backdropPath": "/cakRVxJh1MI8Sj3aJ1f75uvUSze.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,悬疑,真人秀"
-    },
-    {
-      "id": "317948",
-      "type": "tmdb",
-      "title": "乘风2026",
-      "description": "《乘风2026》是由任洋团队主导制作的一档女性文化交流与音乐竞演综艺节目。本季采用“直播”模式作为节目公演核心呈现方式，以更加真实、即时和开放的状态，重构综艺创作逻辑与观演关系，打造一档“正在发生”的当代女性综艺。节目邀请来自中国及世界各地的30+实力女性嘉宾，以“音乐为媒，文化为魂”，展开五场“乘风公演”，将中国传统美学、地域文化符号与国际艺术语言有机结合，呈现兼具真实质感与艺术完成度的视听表达，展现中国之美、人文之韵与当代女性的多元表达，推动中外文化交流，传递当代中国开放包容、自信从容的大国气象。",
-      "rating": 8.0,
-      "voteCount": 1,
-      "popularity": 8.104,
-      "releaseDate": "2026-04-02",
-      "lastUpdateDate": "2026-04-06",
-      "posterPath": "/o7zyq9MLW2DUPewBTjs2LMdv8iw.jpg",
-      "backdropPath": "/1ndGg4109Gg54GXdt1M1e9Zg8CY.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
     },
     {
       "id": "313296",
@@ -1651,7 +1651,7 @@
       "posterPath": "/7ESXGxUpxOyyO0mJeAc5QgBwRAg.jpg",
       "backdropPath": "/rc5Gw85chqr3aNCYszOZsQh2aPt.jpg",
       "mediaType": "tv",
-      "genreTitle": "真人秀"
+      "genreTitle": "真人秀,纪录片"
     },
     {
       "id": "300823",
