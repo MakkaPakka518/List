@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 21:56:36",
+  "last_updated": "2026-04-26 12:18:25",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1813,6 +1813,28 @@
       ]
     },
     {
+      "id": "45501",
+      "tmdbId": 45501,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "中二病也要谈恋爱！",
+      "releaseDate": "2012-10-04",
+      "lastUpdateDate": "2014-03-27",
+      "posterPath": "/75qEIFiaiJ3SeyTy5TEzyNzbPEY.jpg",
+      "backdropPath": "/3Fn1AaIKV78nX6lsaW7f7DyI1aO.jpg",
+      "rating": 8.1,
+      "description": "2012 · ⭐ 8.1 · 日本\n富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利渡过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方看出中二病的残余症状。六花于是以此威逼勇太与她“立下契约”。对方的行为举止惹来了不少同学、家人、甚至青梅竹马的注目，使勇太在享受“现充”的生活同时，又充满著难言之隐……",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "94693",
       "tmdbId": 94693,
       "type": "tmdb",
@@ -1830,28 +1852,6 @@
         16,
         10759,
         10765,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "45501",
-      "tmdbId": 45501,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "中二病也要谈恋爱！",
-      "releaseDate": "2012-10-04",
-      "lastUpdateDate": "2014-03-27",
-      "posterPath": "/75qEIFiaiJ3SeyTy5TEzyNzbPEY.jpg",
-      "backdropPath": "/3Fn1AaIKV78nX6lsaW7f7DyI1aO.jpg",
-      "rating": 8.1,
-      "description": "2012 · ⭐ 8.1 · 日本\n富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利渡过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方看出中二病的残余症状。六花于是以此威逼勇太与她“立下契约”。对方的行为举止惹来了不少同学、家人、甚至青梅竹马的注目，使勇太在享受“现充”的生活同时，又充满著难言之隐……",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
         35
       ],
       "rawCountries": [
