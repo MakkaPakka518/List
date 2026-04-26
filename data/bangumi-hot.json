@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26 12:18:25",
+  "last_updated": "2026-04-26 21:57:44",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -920,29 +920,6 @@
       ]
     },
     {
-      "id": "36865",
-      "tmdbId": 36865,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "凉宫春日的消失",
-      "releaseDate": "2010-02-05",
-      "lastUpdateDate": "2010-02-05",
-      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
-      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
-      "rating": 7.8,
-      "description": "2010 · ⭐ 7.8 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
-      "genreTitle": "喜剧 / 科幻 / 悬疑",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        35,
-        878,
-        9648,
-        18
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "46195",
       "tmdbId": 46195,
       "type": "tmdb",
@@ -965,6 +942,29 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "36865",
+      "tmdbId": 36865,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "凉宫春日的消失",
+      "releaseDate": "2010-02-05",
+      "lastUpdateDate": "2010-02-05",
+      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
+      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+      "rating": 7.8,
+      "description": "2010 · ⭐ 7.8 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
+      "genreTitle": "喜剧 / 科幻 / 悬疑",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        35,
+        878,
+        9648,
+        18
+      ],
+      "rawCountries": []
     },
     {
       "id": "31911",
@@ -1813,28 +1813,6 @@
       ]
     },
     {
-      "id": "45501",
-      "tmdbId": 45501,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "中二病也要谈恋爱！",
-      "releaseDate": "2012-10-04",
-      "lastUpdateDate": "2014-03-27",
-      "posterPath": "/75qEIFiaiJ3SeyTy5TEzyNzbPEY.jpg",
-      "backdropPath": "/3Fn1AaIKV78nX6lsaW7f7DyI1aO.jpg",
-      "rating": 8.1,
-      "description": "2012 · ⭐ 8.1 · 日本\n富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利渡过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方看出中二病的残余症状。六花于是以此威逼勇太与她“立下契约”。对方的行为举止惹来了不少同学、家人、甚至青梅竹马的注目，使勇太在享受“现充”的生活同时，又充满著难言之隐……",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "94693",
       "tmdbId": 94693,
       "type": "tmdb",
@@ -1852,6 +1830,28 @@
         16,
         10759,
         10765,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "45501",
+      "tmdbId": 45501,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "中二病也要谈恋爱！",
+      "releaseDate": "2012-10-04",
+      "lastUpdateDate": "2014-03-27",
+      "posterPath": "/75qEIFiaiJ3SeyTy5TEzyNzbPEY.jpg",
+      "backdropPath": "/3Fn1AaIKV78nX6lsaW7f7DyI1aO.jpg",
+      "rating": 8.1,
+      "description": "2012 · ⭐ 8.1 · 日本\n富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利渡过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方看出中二病的残余症状。六花于是以此威逼勇太与她“立下契约”。对方的行为举止惹来了不少同学、家人、甚至青梅竹马的注目，使勇太在享受“现充”的生活同时，又充满著难言之隐……",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
         35
       ],
       "rawCountries": [
@@ -2248,27 +2248,6 @@
       ]
     },
     {
-      "id": "378064",
-      "tmdbId": 378064,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "声之形",
-      "releaseDate": "2016-09-17",
-      "lastUpdateDate": "2016-09-17",
-      "posterPath": "/xmd1MrC2JI3rkZP2sQ1C3ECTKIT.jpg",
-      "backdropPath": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
-      "rating": 8.4,
-      "description": "2016 · ⭐ 8.4 · 未知地区\n西宫硝子（早见沙织 配音）生来患有听觉障碍，要依靠助听器和外界交流，口语发音也因此格外的古怪。小学时，硝子转入了一所新的学校，特殊的生理缺陷让她成为了班上引人注目的独特存在，她因此收获了坚实的友情，却也遭到了以男生石田将也（入野自由 配音）为首的小团体的孤立和排挤。随着时 间的推移，无心或有意的恶作剧渐渐升级，最终演变成为了无法挽回的伤害，硝子永远的消失在了众人的眼前。排挤硝子的事情曝光后，将也成为了下一个被欺负的对象，孤独痛苦的他终于理解了硝子的隐忍和温柔，只是他再也没有机会跟硝子道歉了。一次偶然中，将也同硝子重逢了，命运的齿轮重新开始了转动。",
-      "genreTitle": "剧情 / 爱情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        18,
-        10749
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "257475",
       "tmdbId": 257475,
       "type": "tmdb",
@@ -2286,6 +2265,27 @@
         10749,
         16,
         35
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "378064",
+      "tmdbId": 378064,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "声之形",
+      "releaseDate": "2016-09-17",
+      "lastUpdateDate": "2016-09-17",
+      "posterPath": "/xmd1MrC2JI3rkZP2sQ1C3ECTKIT.jpg",
+      "backdropPath": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+      "rating": 8.4,
+      "description": "2016 · ⭐ 8.4 · 未知地区\n西宫硝子（早见沙织 配音）生来患有听觉障碍，要依靠助听器和外界交流，口语发音也因此格外的古怪。小学时，硝子转入了一所新的学校，特殊的生理缺陷让她成为了班上引人注目的独特存在，她因此收获了坚实的友情，却也遭到了以男生石田将也（入野自由 配音）为首的小团体的孤立和排挤。随着时 间的推移，无心或有意的恶作剧渐渐升级，最终演变成为了无法挽回的伤害，硝子永远的消失在了众人的眼前。排挤硝子的事情曝光后，将也成为了下一个被欺负的对象，孤独痛苦的他终于理解了硝子的隐忍和温柔，只是他再也没有机会跟硝子道歉了。一次偶然中，将也同硝子重逢了，命运的齿轮重新开始了转动。",
+      "genreTitle": "剧情 / 爱情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        10749
       ],
       "rawCountries": []
     },
