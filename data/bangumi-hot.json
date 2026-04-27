@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27 12:24:36",
+  "last_updated": "2026-04-27 22:54:15",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -920,29 +920,6 @@
       ]
     },
     {
-      "id": "36865",
-      "tmdbId": 36865,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "凉宫春日的消失",
-      "releaseDate": "2010-02-05",
-      "lastUpdateDate": "2010-02-05",
-      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
-      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
-      "rating": 7.8,
-      "description": "2010 · ⭐ 7.8 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
-      "genreTitle": "喜剧 / 科幻 / 悬疑",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        35,
-        878,
-        9648,
-        18
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "46195",
       "tmdbId": 46195,
       "type": "tmdb",
@@ -965,6 +942,29 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "36865",
+      "tmdbId": 36865,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "凉宫春日的消失",
+      "releaseDate": "2010-02-05",
+      "lastUpdateDate": "2010-02-05",
+      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
+      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+      "rating": 7.8,
+      "description": "2010 · ⭐ 7.8 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
+      "genreTitle": "喜剧 / 科幻 / 悬疑",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        35,
+        878,
+        9648,
+        18
+      ],
+      "rawCountries": []
     },
     {
       "id": "31911",
@@ -2248,27 +2248,6 @@
       ]
     },
     {
-      "id": "257475",
-      "tmdbId": 257475,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "玉子爱情故事",
-      "releaseDate": "2014-04-26",
-      "lastUpdateDate": "2014-04-26",
-      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
-      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
-      "rating": 7.2,
-      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
-      "genreTitle": "爱情 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        10749,
-        16,
-        35
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "378064",
       "tmdbId": 378064,
       "type": "tmdb",
@@ -2286,6 +2265,27 @@
         16,
         18,
         10749
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "257475",
+      "tmdbId": 257475,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "玉子爱情故事",
+      "releaseDate": "2014-04-26",
+      "lastUpdateDate": "2014-04-26",
+      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
+      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
+      "rating": 7.2,
+      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
+      "genreTitle": "爱情 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        10749,
+        16,
+        35
       ],
       "rawCountries": []
     },
@@ -2384,9 +2384,9 @@
       "tmdbId": 72517,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "欢迎来到实力至上主义的教室",
+      "title": "欢迎来到实力至上主义教室",
       "releaseDate": "2017-07-12",
-      "lastUpdateDate": "2026-04-15",
+      "lastUpdateDate": "2026-04-22",
       "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
       "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
       "rating": 8.4,
