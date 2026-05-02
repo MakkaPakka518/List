@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 12:13:53",
+  "last_updated": "2026-05-02 22:04:00",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -804,6 +804,28 @@
       ]
     },
     {
+      "id": "83121",
+      "tmdbId": 83121,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "辉夜大小姐想让我告白",
+      "releaseDate": "2019-01-12",
+      "lastUpdateDate": "2022-06-25",
+      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
+      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+      "rating": 8.5,
+      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        35,
+        16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "1429",
       "tmdbId": 1429,
       "type": "tmdb",
@@ -821,28 +843,6 @@
         16,
         10765,
         10759
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "83121",
-      "tmdbId": 83121,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "辉夜大小姐想让我告白",
-      "releaseDate": "2019-01-12",
-      "lastUpdateDate": "2022-06-25",
-      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
-      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
-      "rating": 8.5,
-      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        35,
-        16
       ],
       "rawCountries": [
         "JP"
