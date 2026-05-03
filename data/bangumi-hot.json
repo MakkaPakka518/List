@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 22:04:00",
+  "last_updated": "2026-05-03 12:35:07",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -58,8 +58,8 @@
       "lastUpdateDate": "2011-04-22",
       "posterPath": "/qYPUVIhKYirbmVrdEJBZ3ZYpTeE.jpg",
       "backdropPath": "/uyGH4YtKi7iSyAxKWLFdQWc7oXT.jpg",
-      "rating": 8.1,
-      "description": "2011 · ⭐ 8.1 · 日本\n平凡的中学生鹿目圆有一个美满的家庭，在生活中她是个性格温顺又有爱心的好孩子。转学生晓美焰的出现打破了小圆平静的生活，这个性格酷酷又体弱多病的黑长直少女似乎对小圆有着什么难言之隐。命运中的相遇出现了，小圆在路边救下了一只浑身是伤的奇怪动物 ，没想到这只动物居然会说人类的语言。它告诉小圆它的名字叫丘比，并且提出了一个特殊的要求，它希望小圆能够和它签订契约成为魔法少女。魔法少女是这个世界中一种特殊的存在，她们肩负着和魔女战斗的使命，作为报酬，丘比可以实现她们任意的一个愿望。经过一系列事件后，小圆最终决定成为一名魔法少女。",
+      "rating": 8.0,
+      "description": "2011 · ⭐ 8.0 · 日本\n平凡的中学生鹿目圆有一个美满的家庭，在生活中她是个性格温顺又有爱心的好孩子。转学生晓美焰的出现打破了小圆平静的生活，这个性格酷酷又体弱多病的黑长直少女似乎对小圆有着什么难言之隐。命运中的相遇出现了，小圆在路边救下了一只浑身是伤的奇怪动物 ，没想到这只动物居然会说人类的语言。它告诉小圆它的名字叫丘比，并且提出了一个特殊的要求，它希望小圆能够和它签订契约成为魔法少女。魔法少女是这个世界中一种特殊的存在，她们肩负着和魔女战斗的使命，作为报酬，丘比可以实现她们任意的一个愿望。经过一系列事件后，小圆最终决定成为一名魔法少女。",
       "genreTitle": "剧情 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
@@ -920,6 +920,29 @@
       ]
     },
     {
+      "id": "36865",
+      "tmdbId": 36865,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "凉宫春日的消失",
+      "releaseDate": "2010-02-05",
+      "lastUpdateDate": "2010-02-05",
+      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
+      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+      "rating": 7.8,
+      "description": "2010 · ⭐ 7.8 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
+      "genreTitle": "喜剧 / 科幻 / 悬疑",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        35,
+        878,
+        9648,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "46195",
       "tmdbId": 46195,
       "type": "tmdb",
@@ -942,29 +965,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "36865",
-      "tmdbId": 36865,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "凉宫春日的消失",
-      "releaseDate": "2010-02-05",
-      "lastUpdateDate": "2010-02-05",
-      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
-      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
-      "rating": 7.8,
-      "description": "2010 · ⭐ 7.8 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
-      "genreTitle": "喜剧 / 科幻 / 悬疑",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        35,
-        878,
-        9648,
-        18
-      ],
-      "rawCountries": []
     },
     {
       "id": "31911",
@@ -1319,7 +1319,7 @@
       "releaseDate": "2015-04-08",
       "lastUpdateDate": "2024-06-30",
       "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
-      "backdropPath": "/l8K6dEPG6w6wEEMDcqYRjwo0RJf.jpg",
+      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
       "rating": 7.9,
       "description": "2015 · ⭐ 7.9 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
       "genreTitle": "剧情",
@@ -1813,28 +1813,6 @@
       ]
     },
     {
-      "id": "45501",
-      "tmdbId": 45501,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "中二病也要谈恋爱！",
-      "releaseDate": "2012-10-04",
-      "lastUpdateDate": "2014-03-27",
-      "posterPath": "/75qEIFiaiJ3SeyTy5TEzyNzbPEY.jpg",
-      "backdropPath": "/3Fn1AaIKV78nX6lsaW7f7DyI1aO.jpg",
-      "rating": 8.1,
-      "description": "2012 · ⭐ 8.1 · 日本\n富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利渡过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方看出中二病的残余症状。六花于是以此威逼勇太与她“立下契约”。对方的行为举止惹来了不少同学、家人、甚至青梅竹马的注目，使勇太在享受“现充”的生活同时，又充满著难言之隐……",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "94693",
       "tmdbId": 94693,
       "type": "tmdb",
@@ -1859,23 +1837,22 @@
       ]
     },
     {
-      "id": "299555",
-      "tmdbId": 299555,
+      "id": "45501",
+      "tmdbId": 45501,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "链锯人 总集篇",
-      "releaseDate": "2025-09-05",
-      "lastUpdateDate": "2025-09-06",
-      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
-      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
-      "rating": 8.5,
-      "description": "2025 · ⭐ 8.5 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
+      "title": "中二病也要谈恋爱！",
+      "releaseDate": "2012-10-04",
+      "lastUpdateDate": "2014-03-27",
+      "posterPath": "/75qEIFiaiJ3SeyTy5TEzyNzbPEY.jpg",
+      "backdropPath": "/3Fn1AaIKV78nX6lsaW7f7DyI1aO.jpg",
+      "rating": 8.1,
+      "description": "2012 · ⭐ 8.1 · 日本\n富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利渡过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方看出中二病的残余症状。六花于是以此威逼勇太与她“立下契约”。对方的行为举止惹来了不少同学、家人、甚至青梅竹马的注目，使勇太在享受“现充”的生活同时，又充满著难言之隐……",
+      "genreTitle": "喜剧",
       "regionTitle": "日本",
       "rawGenres": [
         16,
-        10759,
-        10765
+        35
       ],
       "rawCountries": [
         "JP"
@@ -1898,6 +1875,29 @@
       "rawGenres": [
         16,
         35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "299555",
+      "tmdbId": 299555,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "链锯人 总集篇",
+      "releaseDate": "2025-09-05",
+      "lastUpdateDate": "2025-09-06",
+      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
+      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
+      "rating": 8.5,
+      "description": "2025 · ⭐ 8.5 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -1980,7 +1980,7 @@
       "releaseDate": "2020-10-03",
       "lastUpdateDate": "2026-03-27",
       "posterPath": "/kdE1ALF5G6DFMyDU67AyyUklEtn.jpg",
-      "backdropPath": "/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
+      "backdropPath": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
       "rating": 8.6,
       "description": "2020 · ⭐ 8.6 · 日本\n少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
       "genreTitle": "动作冒险 / 科幻奇幻",
@@ -2097,8 +2097,8 @@
       "lastUpdateDate": "2023-12-28",
       "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
       "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
-      "rating": 8.2,
-      "description": "2018 · ⭐ 8.2 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
+      "rating": 8.1,
+      "description": "2018 · ⭐ 8.1 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
       "genreTitle": "喜剧 / 剧情",
       "regionTitle": "日本",
       "rawGenres": [
@@ -2298,7 +2298,7 @@
       "releaseDate": "2015-04-08",
       "lastUpdateDate": "2024-06-30",
       "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
-      "backdropPath": "/l8K6dEPG6w6wEEMDcqYRjwo0RJf.jpg",
+      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
       "rating": 7.9,
       "description": "2015 · ⭐ 7.9 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
       "genreTitle": "剧情",
