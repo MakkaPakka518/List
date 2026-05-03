@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 12:35:07",
+  "last_updated": "2026-05-03 22:04:26",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -804,28 +804,6 @@
       ]
     },
     {
-      "id": "83121",
-      "tmdbId": 83121,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "辉夜大小姐想让我告白",
-      "releaseDate": "2019-01-12",
-      "lastUpdateDate": "2022-06-25",
-      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
-      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
-      "rating": 8.5,
-      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        35,
-        16
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "1429",
       "tmdbId": 1429,
       "type": "tmdb",
@@ -843,6 +821,28 @@
         16,
         10765,
         10759
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "83121",
+      "tmdbId": 83121,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "辉夜大小姐想让我告白",
+      "releaseDate": "2019-01-12",
+      "lastUpdateDate": "2022-06-25",
+      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
+      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+      "rating": 8.5,
+      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        35,
+        16
       ],
       "rawCountries": [
         "JP"
@@ -920,29 +920,6 @@
       ]
     },
     {
-      "id": "36865",
-      "tmdbId": 36865,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "凉宫春日的消失",
-      "releaseDate": "2010-02-05",
-      "lastUpdateDate": "2010-02-05",
-      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
-      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
-      "rating": 7.8,
-      "description": "2010 · ⭐ 7.8 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
-      "genreTitle": "喜剧 / 科幻 / 悬疑",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        35,
-        878,
-        9648,
-        18
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "46195",
       "tmdbId": 46195,
       "type": "tmdb",
@@ -965,6 +942,29 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "36865",
+      "tmdbId": 36865,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "凉宫春日的消失",
+      "releaseDate": "2010-02-05",
+      "lastUpdateDate": "2010-02-05",
+      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
+      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+      "rating": 7.8,
+      "description": "2010 · ⭐ 7.8 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
+      "genreTitle": "喜剧 / 科幻 / 悬疑",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        35,
+        878,
+        9648,
+        18
+      ],
+      "rawCountries": []
     },
     {
       "id": "31911",
@@ -1586,6 +1586,28 @@
       ]
     },
     {
+      "id": "568160",
+      "tmdbId": 568160,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "天气之子",
+      "releaseDate": "2019-07-19",
+      "lastUpdateDate": "2019-07-19",
+      "posterPath": "/hxWmedDh6CNcqsROxiZZmVAbWe8.jpg",
+      "backdropPath": "/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
+      "rating": 8.0,
+      "description": "2019 · ⭐ 8.0 · 未知地区\n影片发生在天气错乱、阴雨连绵的时代。离家出走、独自上京闯荡的少年森岛帆高，遇到了同样生存艰难的少女天野阳菜。两人在大城市中相互依赖，并萌生情愫。拥有超能力的“100%晴天女孩”阳菜，为了重现晴天而离奇失踪。但对于帆高而言，哪怕与世界为敌，他也一定要找回阳菜。",
+      "genreTitle": "剧情 / 奇幻 / 爱情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        14,
+        10749
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "30977",
       "tmdbId": 30977,
       "type": "tmdb",
@@ -1608,28 +1630,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "568160",
-      "tmdbId": 568160,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "天气之子",
-      "releaseDate": "2019-07-19",
-      "lastUpdateDate": "2019-07-19",
-      "posterPath": "/hxWmedDh6CNcqsROxiZZmVAbWe8.jpg",
-      "backdropPath": "/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
-      "rating": 8.0,
-      "description": "2019 · ⭐ 8.0 · 未知地区\n影片发生在天气错乱、阴雨连绵的时代。离家出走、独自上京闯荡的少年森岛帆高，遇到了同样生存艰难的少女天野阳菜。两人在大城市中相互依赖，并萌生情愫。拥有超能力的“100%晴天女孩”阳菜，为了重现晴天而离奇失踪。但对于帆高而言，哪怕与世界为敌，他也一定要找回阳菜。",
-      "genreTitle": "剧情 / 奇幻 / 爱情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        18,
-        14,
-        10749
-      ],
-      "rawCountries": []
     },
     {
       "id": "50325",
@@ -1859,28 +1859,6 @@
       ]
     },
     {
-      "id": "198152",
-      "tmdbId": 198152,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "别当欧尼酱了！",
-      "releaseDate": "2023-01-05",
-      "lastUpdateDate": "2023-03-23",
-      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
-      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
-      "rating": 7.3,
-      "description": "2023 · ⭐ 7.3 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "299555",
       "tmdbId": 299555,
       "type": "tmdb",
@@ -1898,6 +1876,28 @@
         16,
         10759,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "198152",
+      "tmdbId": 198152,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "别当欧尼酱了！",
+      "releaseDate": "2023-01-05",
+      "lastUpdateDate": "2023-03-23",
+      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
+      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+      "rating": 7.3,
+      "description": "2023 · ⭐ 7.3 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
       ],
       "rawCountries": [
         "JP"
