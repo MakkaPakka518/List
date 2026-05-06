@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 12:12:00",
+  "last_updated": "2026-05-06 12:28:08",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -34,8 +34,8 @@
       "lastUpdateDate": "2011-09-14",
       "posterPath": "/6iysgZr6Upm5RlAlVFo5f4D9euu.jpg",
       "backdropPath": "/gDvxT2z6TNxervG97WfpePRZ3aR.jpg",
-      "rating": 8.4,
-      "description": "2011 · ⭐ 8.4 · 日本\n本作主人公冈部伦太郎（宫野真守 配音）是个患有严重中二病的大学生，自称为“凤凰院凶真”的他和伙伴们组成了“未来发明研究所”，在位于秋叶原的一个简陋实验室内进行各种古怪发明和调查。2010 年 7 月 28 日这天，冈部和青梅竹马真由理（花泽香菜 配音）一同去了科学讲义会场，在那里，他们遇见了天才少女牧濑红莉栖（今井麻美 配音）。让人意想不到的事情发生了，冈部在会馆楼道内听到一声惨叫，他闻声而至，发现了倒在血泊中的牧濑。冈部用手机短信将这件事告诉好友桥田至，这个举动，让世界都颠覆了。实验室里那个所谓的“未来道具”，竟然真的可以左右世界的进程，冈部自此成了孤独的观测者。这一切都是命运石之门的选择。",
+      "rating": 8.5,
+      "description": "2011 · ⭐ 8.5 · 日本\n本作主人公冈部伦太郎（宫野真守 配音）是个患有严重中二病的大学生，自称为“凤凰院凶真”的他和伙伴们组成了“未来发明研究所”，在位于秋叶原的一个简陋实验室内进行各种古怪发明和调查。2010 年 7 月 28 日这天，冈部和青梅竹马真由理（花泽香菜 配音）一同去了科学讲义会场，在那里，他们遇见了天才少女牧濑红莉栖（今井麻美 配音）。让人意想不到的事情发生了，冈部在会馆楼道内听到一声惨叫，他闻声而至，发现了倒在血泊中的牧濑。冈部用手机短信将这件事告诉好友桥田至，这个举动，让世界都颠覆了。实验室里那个所谓的“未来道具”，竟然真的可以左右世界的进程，冈部自此成了孤独的观测者。这一切都是命运石之门的选择。",
       "genreTitle": "科幻奇幻 / 悬疑 / 喜剧",
       "regionTitle": "日本",
       "rawGenres": [
@@ -1311,28 +1311,6 @@
       ]
     },
     {
-      "id": "62564",
-      "tmdbId": 62564,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "吹响吧！上低音号",
-      "releaseDate": "2015-04-08",
-      "lastUpdateDate": "2024-06-30",
-      "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
-      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
-      "rating": 7.9,
-      "description": "2015 · ⭐ 7.9 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "65844",
       "tmdbId": 65844,
       "type": "tmdb",
@@ -1351,6 +1329,28 @@
         16,
         35,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "62564",
+      "tmdbId": 62564,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "吹响吧！上低音号",
+      "releaseDate": "2015-04-08",
+      "lastUpdateDate": "2024-06-30",
+      "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
+      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
+      "rating": 8.0,
+      "description": "2015 · ⭐ 8.0 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
       ],
       "rawCountries": [
         "JP"
@@ -1730,7 +1730,7 @@
       "releaseDate": "2022-07-02",
       "lastUpdateDate": "2022-09-24",
       "posterPath": "/aVsZrFbsSEiYxWLHQHDvs6Vdt30.jpg",
-      "backdropPath": "/xIBS2ZIvQZbf6xBMzCi3ml2FSyp.jpg",
+      "backdropPath": "/cV65zW5ksFMmNXtRPslcyM7vOZQ.jpg",
       "rating": 8.1,
       "description": "2022 · ⭐ 8.1 · 日本\n平稳的日子――其实暗藏着秘密防范犯罪的秘密组织――“DA（Direct Attack）”。作为特工的少女们“LYCORIS”。有着历代最强的LYCORIS之称的・锦木千束、优秀的LYCORIS・井之上泷奈，在咖啡厅“LycoReco”支部工作。这里接受的订单从订购咖啡和甜点，到照顾小孩、代购、面向外国人的日语老师等请放心交给“LycoReco”自由自在的乐天派、和平主义的千束与沉着冷静系、效率主义的泷奈二人跌宕起伏的混乱日常正式上演！",
       "genreTitle": "动作冒险 / 喜剧",
@@ -2248,27 +2248,6 @@
       ]
     },
     {
-      "id": "257475",
-      "tmdbId": 257475,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "玉子爱情故事",
-      "releaseDate": "2014-04-26",
-      "lastUpdateDate": "2014-04-26",
-      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
-      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
-      "rating": 7.2,
-      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
-      "genreTitle": "爱情 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        10749,
-        16,
-        35
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "378064",
       "tmdbId": 378064,
       "type": "tmdb",
@@ -2286,6 +2265,27 @@
         16,
         18,
         10749
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "257475",
+      "tmdbId": 257475,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "玉子爱情故事",
+      "releaseDate": "2014-04-26",
+      "lastUpdateDate": "2014-04-26",
+      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
+      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
+      "rating": 7.2,
+      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
+      "genreTitle": "爱情 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        10749,
+        16,
+        35
       ],
       "rawCountries": []
     },
@@ -2344,8 +2344,8 @@
       "lastUpdateDate": "2024-06-30",
       "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
       "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
-      "rating": 7.9,
-      "description": "2015 · ⭐ 7.9 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
+      "rating": 8.0,
+      "description": "2015 · ⭐ 8.0 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
       "genreTitle": "剧情",
       "regionTitle": "日本",
       "rawGenres": [
