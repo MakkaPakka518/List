@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17 12:45:37",
+  "last_updated": "2026-05-17 22:19:44",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -651,8 +651,8 @@
       "lastUpdateDate": "2026-05-13",
       "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
       "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
-      "rating": 7.8,
-      "description": "2016 · ⭐ 7.8 · 日本\n在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
+      "rating": 7.9,
+      "description": "2016 · ⭐ 7.9 · 日本\n在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
       "genreTitle": "动作冒险 / 科幻奇幻 / 悬疑",
       "regionTitle": "日本",
       "rawGenres": [
@@ -2089,29 +2089,6 @@
       ]
     },
     {
-      "id": "77694",
-      "tmdbId": 77694,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "赛马娘 Pretty Derby",
-      "releaseDate": "2018-04-02",
-      "lastUpdateDate": "2023-12-28",
-      "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
-      "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
-      "rating": 8.1,
-      "description": "2018 · ⭐ 8.1 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
-      "genreTitle": "喜剧 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "120811",
       "tmdbId": 120811,
       "type": "tmdb",
@@ -2133,6 +2110,29 @@
         10402
       ],
       "rawCountries": []
+    },
+    {
+      "id": "77694",
+      "tmdbId": 77694,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "赛马娘 Pretty Derby",
+      "releaseDate": "2018-04-02",
+      "lastUpdateDate": "2023-12-28",
+      "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
+      "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
+      "rating": 8.1,
+      "description": "2018 · ⭐ 8.1 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "100565",
@@ -2271,27 +2271,6 @@
       ]
     },
     {
-      "id": "257475",
-      "tmdbId": 257475,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "玉子爱情故事",
-      "releaseDate": "2014-04-26",
-      "lastUpdateDate": "2014-04-26",
-      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
-      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
-      "rating": 7.2,
-      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
-      "genreTitle": "爱情 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        10749,
-        16,
-        35
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "274580",
       "tmdbId": 274580,
       "type": "tmdb",
@@ -2312,6 +2291,27 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "257475",
+      "tmdbId": 257475,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "玉子爱情故事",
+      "releaseDate": "2014-04-26",
+      "lastUpdateDate": "2014-04-26",
+      "posterPath": "/k64bxiPa5ynUkKjDqOv7AjjRaip.jpg",
+      "backdropPath": "/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg",
+      "rating": 7.2,
+      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
+      "genreTitle": "爱情 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        10749,
+        16,
+        35
+      ],
+      "rawCountries": []
     },
     {
       "id": "67676",
@@ -2337,28 +2337,6 @@
       ]
     },
     {
-      "id": "62564",
-      "tmdbId": 62564,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "吹响吧！上低音号",
-      "releaseDate": "2015-04-08",
-      "lastUpdateDate": "2024-06-30",
-      "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
-      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
-      "rating": 8.0,
-      "description": "2015 · ⭐ 8.0 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "45790",
       "tmdbId": 45790,
       "type": "tmdb",
@@ -2376,6 +2354,28 @@
         16,
         10759,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "62564",
+      "tmdbId": 62564,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "吹响吧！上低音号",
+      "releaseDate": "2015-04-08",
+      "lastUpdateDate": "2024-06-30",
+      "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
+      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
+      "rating": 8.0,
+      "description": "2015 · ⭐ 8.0 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
       ],
       "rawCountries": [
         "JP"
@@ -2568,6 +2568,27 @@
       ]
     },
     {
+      "id": "313024",
+      "tmdbId": 313024,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "进击的巨人 最终季 完结篇（前篇）",
+      "releaseDate": "2023-03-04",
+      "lastUpdateDate": "2023-03-04",
+      "posterPath": "/2ZJDbP90aeHvcPwjznHgzCGBnjy.jpg",
+      "backdropPath": null,
+      "rating": 0.0,
+      "description": "2023 · ⭐ 0.0 · 日本\n《进击的巨人》系列的超长特别篇，承接最终季 Part.2 的剧情，艾连发动「地鸣」意图毁灭世界。无数的巨人们开始进击，所到之处皆被夷为平地。米卡莎、阿尔敏、约翰、柯尼、汉吉、莱纳、亚妮、皮可和身负重伤濒临死亡的里维…… 残存下来的战士们为了阻止艾连挺身而出，迎接最终的战役。",
+      "genreTitle": "动画",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "69367",
       "tmdbId": 69367,
       "type": "tmdb",
@@ -2584,27 +2605,6 @@
       "rawGenres": [
         16,
         35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "313024",
-      "tmdbId": 313024,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "进击的巨人 最终季 完结篇（前篇）",
-      "releaseDate": "2023-03-04",
-      "lastUpdateDate": "2023-03-04",
-      "posterPath": "/2ZJDbP90aeHvcPwjznHgzCGBnjy.jpg",
-      "backdropPath": null,
-      "rating": 0.0,
-      "description": "2023 · ⭐ 0.0 · 日本\n《进击的巨人》系列的超长特别篇，承接最终季 Part.2 的剧情，艾连发动「地鸣」意图毁灭世界。无数的巨人们开始进击，所到之处皆被夷为平地。米卡莎、阿尔敏、约翰、柯尼、汉吉、莱纳、亚妮、皮可和身负重伤濒临死亡的里维…… 残存下来的战士们为了阻止艾连挺身而出，迎接最终的战役。",
-      "genreTitle": "动画",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16
       ],
       "rawCountries": [
         "JP"
