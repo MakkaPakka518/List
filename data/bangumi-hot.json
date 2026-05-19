@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19 12:52:30",
+  "last_updated": "2026-05-20 00:13:04",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -691,6 +691,28 @@
       ]
     },
     {
+      "id": "42253",
+      "tmdbId": 42253,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "轻音少女",
+      "releaseDate": "2009-04-03",
+      "lastUpdateDate": "2010-09-15",
+      "posterPath": "/bdOc8sVK5B0mE16BLyiI9hNEdic.jpg",
+      "backdropPath": "/pYa81GUfKspR81chpcyVuTDqPCC.jpg",
+      "rating": 8.0,
+      "description": "2009 · ⭐ 8.0 · 日本\n春天，在新生决定社团的时候，田井中律硬拉着青梅竹马的秋山澪参观轻音部让其入部，在得知前辈们毕业后由于人数不足将面临闭部结局，秋山澪与琴吹䌷成为了轻音部成员，但离4人指标还差1位名额。这时，一名弄错了部名的少女平泽唯误打误撞之下填补了最后一位空位，但这位少女却是一个连乐谱也看不懂的新人，学习成绩又差。而就是这样的4名少女，却展开了奏响青春的音乐之旅。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "69291",
       "tmdbId": 69291,
       "type": "tmdb",
@@ -708,28 +730,6 @@
         16,
         35,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "42253",
-      "tmdbId": 42253,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "轻音少女",
-      "releaseDate": "2009-04-03",
-      "lastUpdateDate": "2010-09-15",
-      "posterPath": "/bdOc8sVK5B0mE16BLyiI9hNEdic.jpg",
-      "backdropPath": "/pYa81GUfKspR81chpcyVuTDqPCC.jpg",
-      "rating": 8.0,
-      "description": "2009 · ⭐ 8.0 · 日本\n春天，在新生决定社团的时候，田井中律硬拉着青梅竹马的秋山澪参观轻音部让其入部，在得知前辈们毕业后由于人数不足将面临闭部结局，秋山澪与琴吹䌷成为了轻音部成员，但离4人指标还差1位名额。这时，一名弄错了部名的少女平泽唯误打误撞之下填补了最后一位空位，但这位少女却是一个连乐谱也看不懂的新人，学习成绩又差。而就是这样的4名少女，却展开了奏响青春的音乐之旅。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
       ],
       "rawCountries": [
         "JP"
@@ -1746,28 +1746,6 @@
       ]
     },
     {
-      "id": "22843",
-      "tmdbId": 22843,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "福音战士新剧场版：破",
-      "releaseDate": "2009-06-26",
-      "lastUpdateDate": "2009-06-26",
-      "posterPath": "/i0Nu8GF1XTwkbTI3g2k5ZBgsPiO.jpg",
-      "backdropPath": "/pzsVGcufDdBLmvagKyLFKaeA4O5.jpg",
-      "rating": 7.8,
-      "description": "2009 · ⭐ 7.8 · 未知地区\n在参拜母亲坟墓的回程途中，真嗣和葛城美里遭遇了第七使徒的攻击，关键时刻2号机势如破竹挫败对手，真嗣也由此结识了2号机的操纵者式波·明日香·兰格蕾。与沉默寡言的绫波丽不同，明日香自信张扬，甚至有些自大，在和真嗣相处的日子里，彼此闹出不少的笑话。他们三人分别驾驶着零号机、初号机和2号机，抵抗了第八使徒猛烈的攻击，在这一过程中，淡淡的情愫悄然在这三个青年男女的心中萌生。不久后，第九、十使徒相继降临，真嗣他们面临着生与死的残酷考验。",
-      "genreTitle": "科幻 / 动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        878,
-        28,
-        18
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "1575337",
       "tmdbId": 1575337,
       "type": "tmdb",
@@ -1786,6 +1764,28 @@
         14,
         10402,
         878
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "22843",
+      "tmdbId": 22843,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "福音战士新剧场版：破",
+      "releaseDate": "2009-06-26",
+      "lastUpdateDate": "2009-06-26",
+      "posterPath": "/i0Nu8GF1XTwkbTI3g2k5ZBgsPiO.jpg",
+      "backdropPath": "/pzsVGcufDdBLmvagKyLFKaeA4O5.jpg",
+      "rating": 7.8,
+      "description": "2009 · ⭐ 7.8 · 未知地区\n在参拜母亲坟墓的回程途中，真嗣和葛城美里遭遇了第七使徒的攻击，关键时刻2号机势如破竹挫败对手，真嗣也由此结识了2号机的操纵者式波·明日香·兰格蕾。与沉默寡言的绫波丽不同，明日香自信张扬，甚至有些自大，在和真嗣相处的日子里，彼此闹出不少的笑话。他们三人分别驾驶着零号机、初号机和2号机，抵抗了第八使徒猛烈的攻击，在这一过程中，淡淡的情愫悄然在这三个青年男女的心中萌生。不久后，第九、十使徒相继降临，真嗣他们面临着生与死的残酷考验。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        28,
+        18
       ],
       "rawCountries": []
     },
@@ -2167,7 +2167,7 @@
       "releaseDate": "2020-01-01",
       "lastUpdateDate": "2020-03-25",
       "posterPath": "/oSeElwSCybmO0Y5u3S4Kq9m8lEb.jpg",
-      "backdropPath": null,
+      "backdropPath": "/6FYhEcODfcGxQyZjHyZpl0HTVSM.jpg",
       "rating": 10.0,
       "description": "2020 · ⭐ 10.0 · 日本\n普通高中生菜月昴从便利店回家时，突然被强制召唤到异世界。\n\n刚抵达就遭遇地痞围殴、险些丧命，此时银发少女爱蜜莉雅与猫精灵帕克救下了他。昴为报恩，主动帮少女寻找被偷走的徽章，途中结识菲鲁特、罗姆爷。\n\n但在追查过程中，昴与爱蜜莉雅惨遭猎肠者艾尔莎刺杀死亡；随后触发专属能力死亡回归——死后时间回溯到刚被召唤到异世界的瞬间，开启无限轮回，誓要改变必死的命运。",
       "genreTitle": "动作冒险 / 科幻奇幻 / 悬疑",
