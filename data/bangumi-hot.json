@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20 00:13:04",
+  "last_updated": "2026-05-20 12:56:40",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -2360,28 +2360,6 @@
       ]
     },
     {
-      "id": "62564",
-      "tmdbId": 62564,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "吹响吧！上低音号",
-      "releaseDate": "2015-04-08",
-      "lastUpdateDate": "2024-06-30",
-      "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
-      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
-      "rating": 8.0,
-      "description": "2015 · ⭐ 8.0 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "72517",
       "tmdbId": 72517,
       "type": "tmdb",
@@ -2399,6 +2377,28 @@
         16,
         18,
         9648
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "62564",
+      "tmdbId": 62564,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "吹响吧！上低音号",
+      "releaseDate": "2015-04-08",
+      "lastUpdateDate": "2024-06-30",
+      "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
+      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
+      "rating": 8.0,
+      "description": "2015 · ⭐ 8.0 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
       ],
       "rawCountries": [
         "JP"
