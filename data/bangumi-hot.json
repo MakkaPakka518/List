@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21 13:01:57",
+  "last_updated": "2026-05-22 00:10:46",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -12,8 +12,8 @@
       "lastUpdateDate": "2022-12-25",
       "posterPath": "/2cIZIoGhwLVQAcwBdKtgUNFf7z3.jpg",
       "backdropPath": "/riRJGnbb18zVBEXpov8GJKnBczj.jpg",
-      "rating": 8.3,
-      "description": "2022 · ⭐ 8.3 · 日本\n作为网络吉他手“吉他英雄”而广受好评的后藤独，在现实中却是个什么都不会的沟通障碍者。独有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作经历的独，在人前完全发挥不出原本的实力。为了努力克服沟通障碍，独与“结束乐队”的成员们一同开始努力……",
+      "rating": 8.4,
+      "description": "2022 · ⭐ 8.4 · 日本\n作为网络吉他手“吉他英雄”而广受好评的后藤独，在现实中却是个什么都不会的沟通障碍者。独有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作经历的独，在人前完全发挥不出原本的实力。为了努力克服沟通障碍，独与“结束乐队”的成员们一同开始努力……",
       "genreTitle": "喜剧",
       "regionTitle": "日本",
       "rawGenres": [
@@ -625,7 +625,7 @@
       "tmdbId": 38142,
       "type": "tmdb",
       "mediaType": "movie",
-      "title": "秒速5厘米",
+      "title": "秒速五厘米",
       "releaseDate": "2007-03-03",
       "lastUpdateDate": "2007-03-03",
       "posterPath": "/qnBM6YT0NYrJ9X9f98pmaqvUsxw.jpg",
@@ -2360,6 +2360,29 @@
       ]
     },
     {
+      "id": "72517",
+      "tmdbId": 72517,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "欢迎来到实力至上主义的教室",
+      "releaseDate": "2017-07-12",
+      "lastUpdateDate": "2026-05-20",
+      "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
+      "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
+      "rating": 8.4,
+      "description": "2017 · ⭐ 8.4 · 日本\n这个社会是否平等呢。真正的“实力”是什么？东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
+      "genreTitle": "剧情 / 悬疑",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        9648
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "62564",
       "tmdbId": 62564,
       "type": "tmdb",
@@ -2376,29 +2399,6 @@
       "rawGenres": [
         16,
         18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "72517",
-      "tmdbId": 72517,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "欢迎来到实力至上主义教室",
-      "releaseDate": "2017-07-12",
-      "lastUpdateDate": "2026-05-13",
-      "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
-      "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
-      "rating": 8.4,
-      "description": "2017 · ⭐ 8.4 · 日本\n这个社会是否平等呢。真正的“实力”是什么？东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
-      "genreTitle": "剧情 / 悬疑",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        9648
       ],
       "rawCountries": [
         "JP"
@@ -2522,6 +2522,28 @@
       ]
     },
     {
+      "id": "70880",
+      "tmdbId": 70880,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "月色真美",
+      "releaseDate": "2017-04-07",
+      "lastUpdateDate": "2017-06-30",
+      "posterPath": "/p4JX0giDEfztXsRPfbxla4RSt5Y.jpg",
+      "backdropPath": "/eqH0zSwNvgsysfGrEaBODoPpDHd.jpg",
+      "rating": 8.0,
+      "description": "2017 · ⭐ 8.0 · 日本\n茜与小太郎。\n\n初三时第一次被分到同班，相识的两人。\n\n同班同学、社团伙伴、教师、父母…\n\n与周围的关联，自己的成长。\n\n在那个一边被变化与不安追着，一边慌慌张张地向前飞奔的季节之中，\n\n稚嫩而又令人眩目的青春期之恋。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "30991",
       "tmdbId": 30991,
       "type": "tmdb",
@@ -2540,28 +2562,6 @@
         10759,
         10765,
         37
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "70880",
-      "tmdbId": 70880,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "月色真美",
-      "releaseDate": "2017-04-07",
-      "lastUpdateDate": "2017-06-30",
-      "posterPath": "/p4JX0giDEfztXsRPfbxla4RSt5Y.jpg",
-      "backdropPath": "/eqH0zSwNvgsysfGrEaBODoPpDHd.jpg",
-      "rating": 8.0,
-      "description": "2017 · ⭐ 8.0 · 日本\n茜与小太郎。\n\n初三时第一次被分到同班，相识的两人。\n\n同班同学、社团伙伴、教师、父母…\n\n与周围的关联，自己的成长。\n\n在那个一边被变化与不安追着，一边慌慌张张地向前飞奔的季节之中，\n\n稚嫩而又令人眩目的青春期之恋。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
       ],
       "rawCountries": [
         "JP"
