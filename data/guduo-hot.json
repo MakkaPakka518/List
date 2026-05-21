@@ -1,13 +1,13 @@
 {
   "source": "Guduo Media",
-  "billboard_date": "2026-05-19",
-  "last_updated": "2026-05-20 16:55:06",
+  "billboard_date": "2026-05-20",
+  "last_updated": "2026-05-21 16:59:00",
   "categories": {
     "剧集": [
       {
         "title": "低智商犯罪",
         "rank": 1,
-        "heat": "76.05",
+        "heat": "76.02",
         "category": "剧集",
         "tmdbId": 272432,
         "mediaType": "tv",
@@ -15,14 +15,14 @@
         "releaseDate": "2026-05-04",
         "posterPath": "/xwEFuUmwHhjqPGnBwbuz2Yu76r8.jpg",
         "rating": 8.1,
-        "overview": "脱离一线刑侦几年的警察张一昂，因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
+        "overview": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
         "regionTitle": "中国大陆",
         "genreTitle": "剧情 / 喜剧"
       },
       {
         "title": "良陈美锦",
         "rank": 2,
-        "heat": "74.05",
+        "heat": "74.10",
         "category": "剧集",
         "tmdbId": 283952,
         "mediaType": "tv",
@@ -37,7 +37,7 @@
       {
         "title": "佳偶天成",
         "rank": 3,
-        "heat": "71.22",
+        "heat": "70.89",
         "category": "剧集",
         "tmdbId": 272715,
         "mediaType": "tv",
@@ -52,7 +52,7 @@
       {
         "title": "黑夜告白",
         "rank": 4,
-        "heat": "70.23",
+        "heat": "70.13",
         "category": "剧集",
         "tmdbId": 254498,
         "mediaType": "tv",
@@ -67,7 +67,7 @@
       {
         "title": "方圆八百米",
         "rank": 5,
-        "heat": "66.45",
+        "heat": "66.14",
         "category": "剧集",
         "tmdbId": 278868,
         "mediaType": "tv",
@@ -82,7 +82,7 @@
       {
         "title": "月鳞绮纪",
         "rank": 6,
-        "heat": "65.13",
+        "heat": "65.06",
         "category": "剧集",
         "tmdbId": 278275,
         "mediaType": "tv",
@@ -97,7 +97,7 @@
       {
         "title": "钢铁森林",
         "rank": 7,
-        "heat": "64.05",
+        "heat": "64.13",
         "category": "剧集",
         "tmdbId": 281392,
         "mediaType": "tv",
@@ -112,7 +112,7 @@
       {
         "title": "罪案痕迹",
         "rank": 8,
-        "heat": "63.68",
+        "heat": "63.44",
         "category": "剧集",
         "tmdbId": 321712,
         "mediaType": "tv",
@@ -127,7 +127,7 @@
       {
         "title": "嫁金枝",
         "rank": 9,
-        "heat": "63.04",
+        "heat": "62.90",
         "category": "剧集",
         "tmdbId": 311755,
         "mediaType": "tv",
@@ -142,7 +142,7 @@
       {
         "title": "重案解密",
         "rank": 10,
-        "heat": "62.77",
+        "heat": "62.51",
         "category": "剧集",
         "tmdbId": 290700,
         "mediaType": "tv",
@@ -157,7 +157,7 @@
       {
         "title": "白日提灯",
         "rank": 11,
-        "heat": "62.23",
+        "heat": "61.94",
         "category": "剧集",
         "tmdbId": 258865,
         "mediaType": "tv",
@@ -172,7 +172,7 @@
       {
         "title": "逐玉",
         "rank": 12,
-        "heat": "61.71",
+        "heat": "61.35",
         "category": "剧集",
         "tmdbId": 279388,
         "mediaType": "tv",
@@ -187,7 +187,7 @@
       {
         "title": "罪无可逃",
         "rank": 13,
-        "heat": "60.55",
+        "heat": "60.28",
         "category": "剧集",
         "tmdbId": 321749,
         "mediaType": "tv",
@@ -202,7 +202,7 @@
       {
         "title": "深渊",
         "rank": 14,
-        "heat": "60.14",
+        "heat": "59.71",
         "category": "剧集",
         "tmdbId": 72636,
         "mediaType": "tv",
@@ -217,7 +217,7 @@
       {
         "title": "着迷",
         "rank": 15,
-        "heat": "59.46",
+        "heat": "59.40",
         "category": "剧集",
         "tmdbId": 285415,
         "mediaType": "tv",
@@ -230,24 +230,9 @@
         "genreTitle": "剧情"
       },
       {
-        "title": "她的罪名",
-        "rank": 16,
-        "heat": "58.24",
-        "category": "剧集",
-        "tmdbId": 320015,
-        "mediaType": "tv",
-        "tmdbTitle": "她的罪名",
-        "releaseDate": "2026-04-24",
-        "posterPath": "/llKn8SLV8Vpz8ANqc4kFQO6HwIh.jpg",
-        "rating": 8.0,
-        "overview": "广南市出租屋发生恶性双尸案夜总会女子李娜琳达惨遭虐杀刑警林威与经验老到的马国栋联手查案从现场细节推翻劫财劫色判断锁定失踪服务员曹爱媛及其背后团伙经查曹爱媛因长期受死者轻视羞辱心怀怨恨联合华卫红等人设局行凶警方循线追踪揭开团伙谋财害命内讧逃亡的真相案件跨越三年曹爱媛隐姓埋名再犯命案最终被林威抓获归案老刑警马国栋带病追凶，壮烈牺牲故事以连环命案为引剖开原生家庭人性善恶与底层挣扎展现刑警坚守正义追凶到底的使命担当。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "剧集"
-      },
-      {
         "title": "香港探秘地图",
-        "rank": 17,
-        "heat": "57.08",
+        "rank": 16,
+        "heat": "58.57",
         "category": "剧集",
         "tmdbId": 277870,
         "mediaType": "tv",
@@ -260,9 +245,24 @@
         "genreTitle": "剧情"
       },
       {
+        "title": "她的罪名",
+        "rank": 17,
+        "heat": "57.71",
+        "category": "剧集",
+        "tmdbId": 320015,
+        "mediaType": "tv",
+        "tmdbTitle": "她的罪名",
+        "releaseDate": "2026-04-24",
+        "posterPath": "/llKn8SLV8Vpz8ANqc4kFQO6HwIh.jpg",
+        "rating": 8.0,
+        "overview": "广南市出租屋发生恶性双尸案夜总会女子李娜琳达惨遭虐杀刑警林威与经验老到的马国栋联手查案从现场细节推翻劫财劫色判断锁定失踪服务员曹爱媛及其背后团伙经查曹爱媛因长期受死者轻视羞辱心怀怨恨联合华卫红等人设局行凶警方循线追踪揭开团伙谋财害命内讧逃亡的真相案件跨越三年曹爱媛隐姓埋名再犯命案最终被林威抓获归案老刑警马国栋带病追凶，壮烈牺牲故事以连环命案为引剖开原生家庭人性善恶与底层挣扎展现刑警坚守正义追凶到底的使命担当。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "剧集"
+      },
+      {
         "title": "冰湖重生",
         "rank": 18,
-        "heat": "56.78",
+        "heat": "56.22",
         "category": "剧集",
         "tmdbId": 278894,
         "mediaType": "tv",
@@ -277,7 +277,7 @@
       {
         "title": "正义女神",
         "rank": 19,
-        "heat": "56.12",
+        "heat": "55.89",
         "category": "剧集",
         "tmdbId": 277412,
         "mediaType": "tv",
@@ -292,7 +292,7 @@
       {
         "title": "夜色正浓",
         "rank": 20,
-        "heat": "48.22",
+        "heat": "48.15",
         "category": "剧集",
         "tmdbId": 259554,
         "mediaType": "tv",
@@ -309,7 +309,7 @@
       {
         "title": "哈哈哈哈哈 第六季",
         "rank": 1,
-        "heat": "54.15",
+        "heat": "53.92",
         "category": "综艺",
         "tmdbId": 112732,
         "mediaType": "tv",
@@ -324,7 +324,7 @@
       {
         "title": "乘风2026",
         "rank": 2,
-        "heat": "53.81",
+        "heat": "53.24",
         "category": "综艺",
         "tmdbId": 104716,
         "mediaType": "tv",
@@ -339,7 +339,7 @@
       {
         "title": "五十公里桃花坞 第六季",
         "rank": 3,
-        "heat": "52.77",
+        "heat": "52.33",
         "category": "综艺",
         "tmdbId": 126398,
         "mediaType": "tv",
@@ -352,24 +352,9 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "我家那小子2026",
-        "rank": 4,
-        "heat": "52.14",
-        "category": "综艺",
-        "tmdbId": 196747,
-        "mediaType": "tv",
-        "tmdbTitle": "我家那小子",
-        "releaseDate": "2018-07-07",
-        "posterPath": "/6a1c0PzVrJZwVWIWIoM2qMgHKFG.jpg",
-        "rating": 7.0,
-        "overview": "《我家那小子》主要讲述独居男艺人的日常生活，通过妈妈观看儿子独居生活的视频，了解平时自己不知道的儿子的独居生活状态。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "大侦探第十一季",
-        "rank": 5,
-        "heat": "51.95",
+        "rank": 4,
+        "heat": "52.09",
         "category": "综艺",
         "tmdbId": 74561,
         "mediaType": "tv",
@@ -382,9 +367,24 @@
         "genreTitle": "真人秀"
       },
       {
+        "title": "我家那小子2026",
+        "rank": 5,
+        "heat": "51.67",
+        "category": "综艺",
+        "tmdbId": 196747,
+        "mediaType": "tv",
+        "tmdbTitle": "我家那小子",
+        "releaseDate": "2018-07-07",
+        "posterPath": "/6a1c0PzVrJZwVWIWIoM2qMgHKFG.jpg",
+        "rating": 7.0,
+        "overview": "《我家那小子》主要讲述独居男艺人的日常生活，通过妈妈观看儿子独居生活的视频，了解平时自己不知道的儿子的独居生活状态。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
         "title": "种地吧 第四季",
         "rank": 6,
-        "heat": "51.05",
+        "heat": "51.04",
         "category": "综艺",
         "tmdbId": 219934,
         "mediaType": "tv",
@@ -397,24 +397,9 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "魔力歌先生",
-        "rank": 7,
-        "heat": "50.88",
-        "category": "综艺",
-        "tmdbId": 315850,
-        "mediaType": "tv",
-        "tmdbTitle": "魔力歌先生",
-        "releaseDate": "2026-03-13",
-        "posterPath": "/wLEDxYZ2ar5XbcAUocru07LJe7P.jpg",
-        "rating": 0.0,
-        "overview": "魔性上头的歌，快乐发疯的舞台，魔力歌先生来了！",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "怦然心动20岁：冬季",
-        "rank": 8,
-        "heat": "50.05",
+        "rank": 7,
+        "heat": "50.56",
         "category": "综艺",
         "tmdbId": 206122,
         "mediaType": "tv",
@@ -428,8 +413,8 @@
       },
       {
         "title": "妻子的浪漫旅行2026",
-        "rank": 9,
-        "heat": "49.88",
+        "rank": 8,
+        "heat": "50.12",
         "category": "综艺",
         "tmdbId": 97199,
         "mediaType": "tv",
@@ -442,9 +427,24 @@
         "genreTitle": "真人秀"
       },
       {
+        "title": "魔力歌先生",
+        "rank": 9,
+        "heat": "49.72",
+        "category": "综艺",
+        "tmdbId": 315850,
+        "mediaType": "tv",
+        "tmdbTitle": "魔力歌先生",
+        "releaseDate": "2026-03-13",
+        "posterPath": "/wLEDxYZ2ar5XbcAUocru07LJe7P.jpg",
+        "rating": 0.0,
+        "overview": "魔性上头的歌，快乐发疯的舞台，魔力歌先生来了！",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
         "title": "亲爱的客栈2026",
         "rank": 10,
-        "heat": "49.87",
+        "heat": "49.23",
         "category": "综艺",
         "tmdbId": 163813,
         "mediaType": "tv",
@@ -459,7 +459,7 @@
       {
         "title": "爸爸当家5",
         "rank": 11,
-        "heat": "46.90",
+        "heat": "46.78",
         "category": "综艺",
         "tmdbId": 201781,
         "mediaType": "tv",
@@ -472,24 +472,9 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "超燃青春的合唱",
-        "rank": 12,
-        "heat": "46.21",
-        "category": "综艺",
-        "tmdbId": 320614,
-        "mediaType": "tv",
-        "tmdbTitle": "超燃青春的合唱",
-        "releaseDate": "2026-04-24",
-        "posterPath": "/noZO3kfCQo6rzwhx1h7HfVxPg0K.jpg",
-        "rating": 0.0,
-        "overview": "Z世代超「青春」面孔破圈集结!国内首支全明星合唱团来了!从个人到团体、从各自闪耀到并肩同行，每一次声部碰撞都热血沸腾，每一段默契配合都闪耀团魂!更有与国际顶尖合唱团强强对决，在不断磨练中凝聚出最「燃」的青春群像故事。让世界听见中国年轻人的声音!",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "奋斗吧人生—演员篇",
-        "rank": 13,
-        "heat": "45.70",
+        "rank": 12,
+        "heat": "46.14",
         "category": "综艺",
         "tmdbId": 317605,
         "mediaType": "tv",
@@ -502,9 +487,24 @@
         "genreTitle": "真人秀"
       },
       {
+        "title": "超燃青春的合唱",
+        "rank": 13,
+        "heat": "45.78",
+        "category": "综艺",
+        "tmdbId": 320614,
+        "mediaType": "tv",
+        "tmdbTitle": "超燃青春的合唱",
+        "releaseDate": "2026-04-24",
+        "posterPath": "/noZO3kfCQo6rzwhx1h7HfVxPg0K.jpg",
+        "rating": 0.0,
+        "overview": "Z世代超「青春」面孔破圈集结!国内首支全明星合唱团来了!从个人到团体、从各自闪耀到并肩同行，每一次声部碰撞都热血沸腾，每一段默契配合都闪耀团魂!更有与国际顶尖合唱团强强对决，在不断磨练中凝聚出最「燃」的青春群像故事。让世界听见中国年轻人的声音!",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
         "title": "周五晚高疯",
         "rank": 14,
-        "heat": "44.31",
+        "heat": "44.18",
         "category": "综艺",
         "tmdbId": 312878,
         "mediaType": "tv",
@@ -519,7 +519,7 @@
       {
         "title": "不好笑就露宿街头",
         "rank": 15,
-        "heat": "43.77",
+        "heat": "43.63",
         "category": "综艺",
         "tmdbId": 317458,
         "mediaType": "tv",
@@ -533,8 +533,8 @@
       },
       {
         "title": "今夜喜友秀",
-        "rank": 17,
-        "heat": "42.99",
+        "rank": 18,
+        "heat": "42.51",
         "category": "综艺",
         "tmdbId": 314523,
         "mediaType": "tv",
@@ -548,8 +548,8 @@
       },
       {
         "title": "现在就出发 第三季",
-        "rank": 18,
-        "heat": "42.34",
+        "rank": 19,
+        "heat": "42.19",
         "category": "综艺",
         "tmdbId": 231620,
         "mediaType": "tv",
@@ -562,24 +562,9 @@
         "genreTitle": "真人秀 / 喜剧"
       },
       {
-        "title": "宇宙闪烁请注意",
-        "rank": 19,
-        "heat": "42.10",
-        "category": "综艺",
-        "tmdbId": 309100,
-        "mediaType": "tv",
-        "tmdbTitle": "宇宙闪烁请注意",
-        "releaseDate": "2025-12-27",
-        "posterPath": "/gpNhdNSr6wzPbAuw10bmyou4Pdt.jpg",
-        "rating": 8.0,
-        "overview": "黄晓明、黄子韬、刘耀文、邵子恒、王鹤棣、于洋「好友带你放肆玩」的“高能量熟人局”，一起发疯的爆笑旅行综艺！节目以明星好友结伴旅行为主线，用高能抽象游戏任务打造解压式快乐体验——和能让你笑到缺氧的人，去有趣的地方，做有意义的事！每期深入一个“活人朋友圈”的精神原乡，由该好友担任地陪，展开两天一夜的爆笑之旅。用最真实的互怼日常、最放飞的游戏挑战，让每个人都能在欢笑中找回痛快生活的能量，打造下一代全民追更的爆笑国民综艺！",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "主咖和Ta的朋友们",
         "rank": 20,
-        "heat": "41.26",
+        "heat": "41.22",
         "category": "综艺",
         "tmdbId": 312066,
         "mediaType": "tv",
@@ -609,8 +594,23 @@
         "genreTitle": "动画"
       },
       {
-        "title": "玄界之门",
+        "title": "超凡进化",
         "rank": 2,
+        "heat": "暂无",
+        "category": "动漫",
+        "tmdbId": 281197,
+        "mediaType": "tv",
+        "tmdbTitle": "超凡进化",
+        "releaseDate": "2025-12-23",
+        "posterPath": "/uWCKT6I0aKsrS8NpcvVV8ziBfIy.jpg",
+        "rating": 0.0,
+        "overview": "故事围绕青年明河展开，其“垃圾超凡力”在遭遇“神女”灾星撞击后，形成名为“依附之灵”的特殊存在，由此引发一系列冒险与危机。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "动画"
+      },
+      {
+        "title": "玄界之门",
+        "rank": 3,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 301429,
@@ -625,7 +625,7 @@
       },
       {
         "title": "剑来 第二季",
-        "rank": 3,
+        "rank": 4,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 259537,
@@ -640,7 +640,7 @@
       },
       {
         "title": "光阴之外",
-        "rank": 4,
+        "rank": 5,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 281233,
@@ -655,7 +655,7 @@
       },
       {
         "title": "一人之下 第6季",
-        "rank": 5,
+        "rank": 6,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 67063,
@@ -670,7 +670,7 @@
       },
       {
         "title": "山海经密码",
-        "rank": 7,
+        "rank": 8,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 238685,
@@ -685,7 +685,7 @@
       },
       {
         "title": "百炼成神 第三季",
-        "rank": 8,
+        "rank": 9,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 213791,
@@ -700,7 +700,7 @@
       },
       {
         "title": "大主宰2",
-        "rank": 9,
+        "rank": 10,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 226045,
@@ -715,7 +715,7 @@
       },
       {
         "title": "成何体统2",
-        "rank": 10,
+        "rank": 11,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 256783,
@@ -730,7 +730,7 @@
       },
       {
         "title": "深空彼岸",
-        "rank": 11,
+        "rank": 12,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 283119,
@@ -745,7 +745,7 @@
       },
       {
         "title": "择天记",
-        "rank": 12,
+        "rank": 13,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 282158,
@@ -760,7 +760,7 @@
       },
       {
         "title": "修罗武神 第2季",
-        "rank": 13,
+        "rank": 14,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 235808,
@@ -775,7 +775,7 @@
       },
       {
         "title": "盘龙",
-        "rank": 14,
+        "rank": 15,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 283805,
@@ -790,7 +790,7 @@
       },
       {
         "title": "将夜",
-        "rank": 16,
+        "rank": 17,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 282136,
@@ -805,7 +805,7 @@
       },
       {
         "title": "放开那个女巫",
-        "rank": 17,
+        "rank": 18,
         "heat": "暂无",
         "category": "动漫",
         "tmdbId": 298026,
@@ -813,25 +813,10 @@
         "tmdbTitle": "放开那个女巫",
         "releaseDate": "2026-03-03",
         "posterPath": "/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
-        "rating": 8.0,
+        "rating": 8.1,
         "overview": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
         "regionTitle": "中国大陆",
         "genreTitle": "动画 / 科幻奇幻"
-      },
-      {
-        "title": "超凡进化",
-        "rank": 18,
-        "heat": "暂无",
-        "category": "动漫",
-        "tmdbId": 281197,
-        "mediaType": "tv",
-        "tmdbTitle": "超凡进化",
-        "releaseDate": "2025-12-23",
-        "posterPath": "/uWCKT6I0aKsrS8NpcvVV8ziBfIy.jpg",
-        "rating": 0.0,
-        "overview": "故事围绕青年明河展开，其“垃圾超凡力”在遭遇“神女”灾星撞击后，形成名为“依附之灵”的特殊存在，由此引发一系列冒险与危机。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "动画"
       },
       {
         "title": "武动乾坤 第六季",
@@ -866,9 +851,24 @@
     ],
     "电影": [
       {
-        "title": "伪钞重案",
+        "title": "血战青龙寨",
         "rank": 1,
-        "heat": "46.22",
+        "heat": "46.71",
+        "category": "电影",
+        "tmdbId": 1698215,
+        "mediaType": "movie",
+        "tmdbTitle": "血战青龙寨",
+        "releaseDate": "2026-05-19",
+        "posterPath": "/x0QvSsas6exRkwaF8gAiMk7UxQD.jpg",
+        "rating": 0.0,
+        "overview": "解放初期匪患肆虐，解放军侦察排长向阳奉命前往三湾里剿匪，乔装潜入时竟与已是清风寨三当家的亲哥向天重逢。兄弟二人因立场相悖，在情义与信仰间激烈交锋，向阳强忍纠葛卧底匪寨，智取情报、烧毁粮仓，与战友里应外合展开围剿。面对龙瞎子等匪首的残暴反扑，向阳带领部队浴血拼杀，在哥哥向天的牺牲帮助下，最终彻底剿灭清风寨匪帮。血与火的较量后，这片土地终于迎来和平曙光。",
+        "regionTitle": "未知地区",
+        "genreTitle": "剧情"
+      },
+      {
+        "title": "伪钞重案",
+        "rank": 2,
+        "heat": "46.35",
         "category": "电影",
         "tmdbId": 1592031,
         "mediaType": "movie",
@@ -882,8 +882,8 @@
       },
       {
         "title": "东北往事·极恶不赦",
-        "rank": 2,
-        "heat": "46.09",
+        "rank": 3,
+        "heat": "46.10",
         "category": "电影",
         "tmdbId": 1687111,
         "mediaType": "movie",
@@ -897,8 +897,8 @@
       },
       {
         "title": "扫恶",
-        "rank": 4,
-        "heat": "45.34",
+        "rank": 6,
+        "heat": "45.23",
         "category": "电影",
         "tmdbId": 1654429,
         "mediaType": "movie",
@@ -912,8 +912,8 @@
       },
       {
         "title": "红石滩阻击战",
-        "rank": 5,
-        "heat": "45.19",
+        "rank": 7,
+        "heat": "45.06",
         "category": "电影",
         "tmdbId": 1688304,
         "mediaType": "movie",
@@ -927,8 +927,8 @@
       },
       {
         "title": "追恶",
-        "rank": 7,
-        "heat": "44.89",
+        "rank": 9,
+        "heat": "44.46",
         "category": "电影",
         "tmdbId": 1480790,
         "mediaType": "movie",
@@ -942,8 +942,8 @@
       },
       {
         "title": "木兰：血刃",
-        "rank": 8,
-        "heat": "44.56",
+        "rank": 10,
+        "heat": "44.16",
         "category": "电影",
         "tmdbId": 1691129,
         "mediaType": "movie",
@@ -957,8 +957,8 @@
       },
       {
         "title": "长白山猎人传说2",
-        "rank": 9,
-        "heat": "44.21",
+        "rank": 11,
+        "heat": "44.09",
         "category": "电影",
         "tmdbId": 1238046,
         "mediaType": "movie",
@@ -971,24 +971,9 @@
         "genreTitle": "电影"
       },
       {
-        "title": "血战青龙寨",
-        "rank": 10,
-        "heat": "44.16",
-        "category": "电影",
-        "tmdbId": 1698215,
-        "mediaType": "movie",
-        "tmdbTitle": "血战青龙寨",
-        "releaseDate": "2026-05-19",
-        "posterPath": "/x0QvSsas6exRkwaF8gAiMk7UxQD.jpg",
-        "rating": 0.0,
-        "overview": "解放初期匪患肆虐，解放军侦察排长向阳奉命前往三湾里剿匪，乔装潜入时竟与已是清风寨三当家的亲哥向天重逢。兄弟二人因立场相悖，在情义与信仰间激烈交锋，向阳强忍纠葛卧底匪寨，智取情报、烧毁粮仓，与战友里应外合展开围剿。面对龙瞎子等匪首的残暴反扑，向阳带领部队浴血拼杀，在哥哥向天的牺牲帮助下，最终彻底剿灭清风寨匪帮。血与火的较量后，这片土地终于迎来和平曙光。",
-        "regionTitle": "未知地区",
-        "genreTitle": "剧情"
-      },
-      {
         "title": "调平",
-        "rank": 11,
-        "heat": "43.50",
+        "rank": 12,
+        "heat": "43.26",
         "category": "电影",
         "tmdbId": 1148319,
         "mediaType": "movie",
@@ -1002,8 +987,8 @@
       },
       {
         "title": "东北奇妙故事之摇篮曲",
-        "rank": 12,
-        "heat": "43.27",
+        "rank": 13,
+        "heat": "43.18",
         "category": "电影",
         "tmdbId": 1689164,
         "mediaType": "movie",
@@ -1017,8 +1002,8 @@
       },
       {
         "title": "疯狂喜剧人",
-        "rank": 13,
-        "heat": "43.11",
+        "rank": 14,
+        "heat": "43.07",
         "category": "电影",
         "tmdbId": 1692374,
         "mediaType": "movie",
@@ -1032,8 +1017,8 @@
       },
       {
         "title": "拂晓计划",
-        "rank": 14,
-        "heat": "42.45",
+        "rank": 15,
+        "heat": "42.55",
         "category": "电影",
         "tmdbId": 1691986,
         "mediaType": "movie",
@@ -1047,8 +1032,8 @@
       },
       {
         "title": "盗影迷局",
-        "rank": 15,
-        "heat": "42.24",
+        "rank": 16,
+        "heat": "42.13",
         "category": "电影",
         "tmdbId": 1691334,
         "mediaType": "movie",
@@ -1062,7 +1047,7 @@
       },
       {
         "title": "追锋",
-        "rank": 16,
+        "rank": 17,
         "heat": "42.00",
         "category": "电影",
         "tmdbId": 1689906,
@@ -1077,8 +1062,8 @@
       },
       {
         "title": "寻龙诀·觅踪",
-        "rank": 17,
-        "heat": "41.54",
+        "rank": 18,
+        "heat": "41.48",
         "category": "电影",
         "tmdbId": 683205,
         "mediaType": "movie",
@@ -1092,8 +1077,8 @@
       },
       {
         "title": "孤雁",
-        "rank": 18,
-        "heat": "41.29",
+        "rank": 19,
+        "heat": "41.23",
         "category": "电影",
         "tmdbId": 1679434,
         "mediaType": "movie",
@@ -1107,8 +1092,8 @@
       },
       {
         "title": "战刀屠狼2",
-        "rank": 19,
-        "heat": "41.20",
+        "rank": 20,
+        "heat": "41.12",
         "category": "电影",
         "tmdbId": 484029,
         "mediaType": "movie",
@@ -1117,21 +1102,6 @@
         "posterPath": "/6eA8Jdrf5Wk4J2EaDUM9wvhuyxk.jpg",
         "rating": 0.0,
         "overview": "鹏城市公安局禁毒大队民警蓝海从警八年，业务能力极强，抓获无数吸贩毒人员，被毒贩列为“敌为我用，非用必杀”之人。某日，辖区内发生一起因吸食毒品砍人事件，经查明，这是一种使人极易上瘾的新型毒品“火冰”，缉毒工作随即展开。 东南亚毒枭“毒狼”伙同化学专家白酬之以中国境内为主要市场，长期制毒贩毒，中国警方派遣绰号“红蜻蜓”、“老刁”两名侦查员打入“毒狼”内部，在计划抓捕“毒狼”的同时一并抓捕已经易容的白酬之。随着事件的不断升级，蓝海弟弟蓝天阴差阳错的卷入事件中，先是白酬之诱骗蓝天以快递员身份助其转送毒品样本，再是“毒狼”绑架其嫂子雨馨及重病侄女彤彤，胁迫其帮助运输毒品，而蓝海也因行动失利被警队暂停职务。停职期间，蓝海只身深入毒穴，救出妻女及弟弟蓝天，并抓获毒狼及白酬之……",
-        "regionTitle": "未知地区",
-        "genreTitle": "剧情"
-      },
-      {
-        "title": "猎魔行动",
-        "rank": 20,
-        "heat": "40.61",
-        "category": "电影",
-        "tmdbId": 1683847,
-        "mediaType": "movie",
-        "tmdbTitle": "猎魔行动",
-        "releaseDate": "2026-04-28",
-        "posterPath": "/6sUG9A80AwnJP0F3u4uqgIGJJ0k.jpg",
-        "rating": 6.0,
-        "overview": "省公安厅夏丹调查表弟吸毒致死案，发现背后涉及跨境贩毒集团。她与香港警察卡龙合作卧底，接触头目冷月及其上级李绍远。警方通过技术手段锁定国际毒贩托妮，为取得对方信任，夏丹不得不当着毒贩们的面当场将卡龙击毙……",
         "regionTitle": "未知地区",
         "genreTitle": "剧情"
       }
