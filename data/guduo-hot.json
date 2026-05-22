@@ -1,13 +1,13 @@
 {
   "source": "Guduo Media",
-  "billboard_date": "2026-05-20",
-  "last_updated": "2026-05-21 16:59:00",
+  "billboard_date": "2026-05-21",
+  "last_updated": "2026-05-22 16:50:42",
   "categories": {
     "剧集": [
       {
         "title": "低智商犯罪",
         "rank": 1,
-        "heat": "76.02",
+        "heat": "75.89",
         "category": "剧集",
         "tmdbId": 272432,
         "mediaType": "tv",
@@ -22,7 +22,7 @@
       {
         "title": "良陈美锦",
         "rank": 2,
-        "heat": "74.10",
+        "heat": "74.78",
         "category": "剧集",
         "tmdbId": 283952,
         "mediaType": "tv",
@@ -37,7 +37,7 @@
       {
         "title": "佳偶天成",
         "rank": 3,
-        "heat": "70.89",
+        "heat": "70.41",
         "category": "剧集",
         "tmdbId": 272715,
         "mediaType": "tv",
@@ -52,7 +52,7 @@
       {
         "title": "黑夜告白",
         "rank": 4,
-        "heat": "70.13",
+        "heat": "69.76",
         "category": "剧集",
         "tmdbId": 254498,
         "mediaType": "tv",
@@ -67,7 +67,7 @@
       {
         "title": "方圆八百米",
         "rank": 5,
-        "heat": "66.14",
+        "heat": "65.78",
         "category": "剧集",
         "tmdbId": 278868,
         "mediaType": "tv",
@@ -82,7 +82,7 @@
       {
         "title": "月鳞绮纪",
         "rank": 6,
-        "heat": "65.06",
+        "heat": "64.51",
         "category": "剧集",
         "tmdbId": 278275,
         "mediaType": "tv",
@@ -97,7 +97,7 @@
       {
         "title": "钢铁森林",
         "rank": 7,
-        "heat": "64.13",
+        "heat": "64.09",
         "category": "剧集",
         "tmdbId": 281392,
         "mediaType": "tv",
@@ -112,7 +112,7 @@
       {
         "title": "罪案痕迹",
         "rank": 8,
-        "heat": "63.44",
+        "heat": "63.12",
         "category": "剧集",
         "tmdbId": 321712,
         "mediaType": "tv",
@@ -127,7 +127,7 @@
       {
         "title": "嫁金枝",
         "rank": 9,
-        "heat": "62.90",
+        "heat": "62.78",
         "category": "剧集",
         "tmdbId": 311755,
         "mediaType": "tv",
@@ -142,7 +142,7 @@
       {
         "title": "重案解密",
         "rank": 10,
-        "heat": "62.51",
+        "heat": "62.07",
         "category": "剧集",
         "tmdbId": 290700,
         "mediaType": "tv",
@@ -157,7 +157,7 @@
       {
         "title": "白日提灯",
         "rank": 11,
-        "heat": "61.94",
+        "heat": "61.44",
         "category": "剧集",
         "tmdbId": 258865,
         "mediaType": "tv",
@@ -172,7 +172,7 @@
       {
         "title": "逐玉",
         "rank": 12,
-        "heat": "61.35",
+        "heat": "61.23",
         "category": "剧集",
         "tmdbId": 279388,
         "mediaType": "tv",
@@ -187,7 +187,7 @@
       {
         "title": "罪无可逃",
         "rank": 13,
-        "heat": "60.28",
+        "heat": "60.10",
         "category": "剧集",
         "tmdbId": 321749,
         "mediaType": "tv",
@@ -195,14 +195,14 @@
         "releaseDate": "2026-05-08",
         "posterPath": "/qYwqIVXO2VEOoXByF2XXvFfN9Ja.jpg",
         "rating": 0.0,
-        "overview": "罗霄为给重病女儿筹钱，被黑帮头目陈永江胁迫，卷入碎尸凶案。为求自保，他反杀陈永江，并顶替其位置接手地下钱庄洗钱业务。警察张亨在追查中，逐渐发现罗霄的犯罪痕迹，以及背后盘根错节的资金链。随着警方调查深入，一个横跨凶杀、洗钱与医疗黑幕的庞大犯罪网络，在一连串惊心动魄的交锋与抉择中，逐步浮出水面。",
+        "overview": "律师罗霄（李佳航 饰）原本只想在灰色地带中保全家庭，却因黑帮头目“猫哥”意外死亡在自己的后备箱，被迫接过洗钱集团的权柄。为掩盖真相、筹措女儿巨额医疗费，他以猫哥之名操控全局，周旋于黑帮、警方与地下钱庄之间，步步为营，也步步深渊。警察张亨（刘海宽 饰）在追查一桩碎尸案时，逐渐发现连襟罗霄与黑道、命案、异常资金流动之间的隐秘联系。随着调查深入，一桩横跨凶杀、洗钱、医疗黑市的庞大犯罪网络浮出水面 。",
         "regionTitle": "中国大陆",
         "genreTitle": "剧集"
       },
       {
         "title": "深渊",
         "rank": 14,
-        "heat": "59.71",
+        "heat": "59.68",
         "category": "剧集",
         "tmdbId": 72636,
         "mediaType": "tv",
@@ -217,7 +217,7 @@
       {
         "title": "着迷",
         "rank": 15,
-        "heat": "59.40",
+        "heat": "59.13",
         "category": "剧集",
         "tmdbId": 285415,
         "mediaType": "tv",
@@ -232,14 +232,14 @@
       {
         "title": "香港探秘地图",
         "rank": 16,
-        "heat": "58.57",
+        "heat": "58.17",
         "category": "剧集",
         "tmdbId": 277870,
         "mediaType": "tv",
         "tmdbTitle": "香港探秘地图",
         "releaseDate": "2026-05-18",
         "posterPath": "/rWTQEgznWMGwAAtXxGgmM1mciFo.jpg",
-        "rating": 6.0,
+        "rating": 8.0,
         "overview": "玄学家庄一臣创立网上频道，并藉年轻女子王秀仪被指遇鬼昏迷之事，提升声望。一臣同时招揽打假网红毕萍、摄影师高文彬与秀仪组成探秘团队，深入查访连串古怪诡异的人和事！毕萍不齿一臣利用怪力乱神炒作，宣扬迷信，要藉工作共事撕破其假面具，与一臣斗气斗智斗力，却逐渐理解他隐藏的另一面。另边厢，一臣向富豪金夫人自荐，可助其寻回离奇失踪的儿子。深信的风水师龙贵寻人多时但无所获，金夫人心生疑虑，最终决定向一臣求助……",
         "regionTitle": "中国香港",
         "genreTitle": "剧情"
@@ -247,7 +247,7 @@
       {
         "title": "她的罪名",
         "rank": 17,
-        "heat": "57.71",
+        "heat": "57.66",
         "category": "剧集",
         "tmdbId": 320015,
         "mediaType": "tv",
@@ -262,7 +262,7 @@
       {
         "title": "冰湖重生",
         "rank": 18,
-        "heat": "56.22",
+        "heat": "56.12",
         "category": "剧集",
         "tmdbId": 278894,
         "mediaType": "tv",
@@ -277,7 +277,7 @@
       {
         "title": "正义女神",
         "rank": 19,
-        "heat": "55.89",
+        "heat": "55.47",
         "category": "剧集",
         "tmdbId": 277412,
         "mediaType": "tv",
@@ -292,7 +292,7 @@
       {
         "title": "夜色正浓",
         "rank": 20,
-        "heat": "48.15",
+        "heat": "48.23",
         "category": "剧集",
         "tmdbId": 259554,
         "mediaType": "tv",
@@ -307,9 +307,24 @@
     ],
     "综艺": [
       {
-        "title": "哈哈哈哈哈 第六季",
+        "title": "大侦探第十一季",
         "rank": 1,
-        "heat": "53.92",
+        "heat": "54.13",
+        "category": "综艺",
+        "tmdbId": 74561,
+        "mediaType": "tv",
+        "tmdbTitle": "明星大侦探",
+        "releaseDate": "2016-03-27",
+        "posterPath": "/dmWr4vJgvGMH8m60fuTh0wzYGde.jpg",
+        "rating": 8.4,
+        "overview": "节目中每期有多位明星嘉宾出席，扮演不同的人物角色，他们中有一个侦探、一个凶手和四个嫌疑人，并同处于一个固定空间。他们共同面对一起精心策划的谋杀案，并需要通过搜集证据和推理找出真正的凶手。根据节目设定，整个过程中只有凶手一人可以说谎，为了隐藏身份会选择嫁祸他人，洗脱自己的嫌疑。\n\n《明星大侦探》是芒果TV小盒子工作室推出的系列明星推理真人秀节目。以“烧脑的剧情”与“悬疑推理以及找出真相完成破案”等节目主打，结合电视剧与综艺节目特点激发明星们的智慧的脑与刺激的剧情。等侦探们来破案，完成推理。节目制作模式引进自韩国JTBC节目《Crime Scene 犯罪现场》并进行本土化，芒果TV购得独家版权，并在原版PD指导下历时7个月制作了第一季节目。\n\n第7季起由晏吉工作室制作，并节目改名《大侦探》，转型为普法教育推理节目，并与最高人民法院共同推出全民普法宣传教育环节《大侦探合议庭》。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
+        "title": "哈哈哈哈哈 第六季",
+        "rank": 2,
+        "heat": "53.21",
         "category": "综艺",
         "tmdbId": 112732,
         "mediaType": "tv",
@@ -323,8 +338,8 @@
       },
       {
         "title": "乘风2026",
-        "rank": 2,
-        "heat": "53.24",
+        "rank": 3,
+        "heat": "52.74",
         "category": "综艺",
         "tmdbId": 104716,
         "mediaType": "tv",
@@ -337,9 +352,24 @@
         "genreTitle": "真人秀"
       },
       {
+        "title": "妻子的浪漫旅行2026",
+        "rank": 4,
+        "heat": "52.04",
+        "category": "综艺",
+        "tmdbId": 97199,
+        "mediaType": "tv",
+        "tmdbTitle": "妻子的浪漫旅行",
+        "releaseDate": "2018-08-22",
+        "posterPath": "/dx3JOkHlSMASuK4xfmQ6N7IRSdd.jpg",
+        "rating": 5.5,
+        "overview": "节目推出夫妻隔空对话新模式。让妻子团踏上浪漫之旅，丈夫团则留守棚内，远程观察旅途中的妻子，了解其生活中的另一面。在这场跨时空对话中，夫妻重新审视彼此关系，治愈婚姻。节目也通过展现不同的夫妻关系，和观众一同探寻幸福婚姻的密码。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
         "title": "五十公里桃花坞 第六季",
-        "rank": 3,
-        "heat": "52.33",
+        "rank": 5,
+        "heat": "51.61",
         "category": "综艺",
         "tmdbId": 126398,
         "mediaType": "tv",
@@ -352,24 +382,9 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "大侦探第十一季",
-        "rank": 4,
-        "heat": "52.09",
-        "category": "综艺",
-        "tmdbId": 74561,
-        "mediaType": "tv",
-        "tmdbTitle": "明星大侦探",
-        "releaseDate": "2016-03-27",
-        "posterPath": "/dmWr4vJgvGMH8m60fuTh0wzYGde.jpg",
-        "rating": 8.4,
-        "overview": "节目中每期有多位明星嘉宾出席，扮演不同的人物角色，他们中有一个侦探、一个凶手和四个嫌疑人，并同处于一个固定空间。他们共同面对一起精心策划的谋杀案，并需要通过搜集证据和推理找出真正的凶手。根据节目设定，整个过程中只有凶手一人可以说谎，为了隐藏身份会选择嫁祸他人，洗脱自己的嫌疑。\n\n《明星大侦探》是芒果TV小盒子工作室推出的系列明星推理真人秀节目。以“烧脑的剧情”与“悬疑推理以及找出真相完成破案”等节目主打，结合电视剧与综艺节目特点激发明星们的智慧的脑与刺激的剧情。等侦探们来破案，完成推理。节目制作模式引进自韩国JTBC节目《Crime Scene 犯罪现场》并进行本土化，芒果TV购得独家版权，并在原版PD指导下历时7个月制作了第一季节目。\n\n第7季起由晏吉工作室制作，并节目改名《大侦探》，转型为普法教育推理节目，并与最高人民法院共同推出全民普法宣传教育环节《大侦探合议庭》。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "我家那小子2026",
-        "rank": 5,
-        "heat": "51.67",
+        "rank": 6,
+        "heat": "51.13",
         "category": "综艺",
         "tmdbId": 196747,
         "mediaType": "tv",
@@ -383,8 +398,8 @@
       },
       {
         "title": "种地吧 第四季",
-        "rank": 6,
-        "heat": "51.04",
+        "rank": 7,
+        "heat": "50.91",
         "category": "综艺",
         "tmdbId": 219934,
         "mediaType": "tv",
@@ -398,8 +413,8 @@
       },
       {
         "title": "怦然心动20岁：冬季",
-        "rank": 7,
-        "heat": "50.56",
+        "rank": 8,
+        "heat": "50.24",
         "category": "综艺",
         "tmdbId": 206122,
         "mediaType": "tv",
@@ -412,24 +427,9 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "妻子的浪漫旅行2026",
-        "rank": 8,
-        "heat": "50.12",
-        "category": "综艺",
-        "tmdbId": 97199,
-        "mediaType": "tv",
-        "tmdbTitle": "妻子的浪漫旅行",
-        "releaseDate": "2018-08-22",
-        "posterPath": "/dx3JOkHlSMASuK4xfmQ6N7IRSdd.jpg",
-        "rating": 5.5,
-        "overview": "节目推出夫妻隔空对话新模式。让妻子团踏上浪漫之旅，丈夫团则留守棚内，远程观察旅途中的妻子，了解其生活中的另一面。在这场跨时空对话中，夫妻重新审视彼此关系，治愈婚姻。节目也通过展现不同的夫妻关系，和观众一同探寻幸福婚姻的密码。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "魔力歌先生",
         "rank": 9,
-        "heat": "49.72",
+        "heat": "49.44",
         "category": "综艺",
         "tmdbId": 315850,
         "mediaType": "tv",
@@ -444,7 +444,7 @@
       {
         "title": "亲爱的客栈2026",
         "rank": 10,
-        "heat": "49.23",
+        "heat": "48.52",
         "category": "综艺",
         "tmdbId": 163813,
         "mediaType": "tv",
@@ -459,7 +459,7 @@
       {
         "title": "爸爸当家5",
         "rank": 11,
-        "heat": "46.78",
+        "heat": "46.41",
         "category": "综艺",
         "tmdbId": 201781,
         "mediaType": "tv",
@@ -474,7 +474,7 @@
       {
         "title": "奋斗吧人生—演员篇",
         "rank": 12,
-        "heat": "46.14",
+        "heat": "46.08",
         "category": "综艺",
         "tmdbId": 317605,
         "mediaType": "tv",
@@ -489,7 +489,7 @@
       {
         "title": "超燃青春的合唱",
         "rank": 13,
-        "heat": "45.78",
+        "heat": "45.44",
         "category": "综艺",
         "tmdbId": 320614,
         "mediaType": "tv",
@@ -504,7 +504,7 @@
       {
         "title": "周五晚高疯",
         "rank": 14,
-        "heat": "44.18",
+        "heat": "44.09",
         "category": "综艺",
         "tmdbId": 312878,
         "mediaType": "tv",
@@ -519,7 +519,7 @@
       {
         "title": "不好笑就露宿街头",
         "rank": 15,
-        "heat": "43.63",
+        "heat": "43.47",
         "category": "综艺",
         "tmdbId": 317458,
         "mediaType": "tv",
@@ -534,7 +534,7 @@
       {
         "title": "今夜喜友秀",
         "rank": 18,
-        "heat": "42.51",
+        "heat": "42.61",
         "category": "综艺",
         "tmdbId": 314523,
         "mediaType": "tv",
@@ -549,7 +549,7 @@
       {
         "title": "现在就出发 第三季",
         "rank": 19,
-        "heat": "42.19",
+        "heat": "42.05",
         "category": "综艺",
         "tmdbId": 231620,
         "mediaType": "tv",
@@ -564,7 +564,7 @@
       {
         "title": "主咖和Ta的朋友们",
         "rank": 20,
-        "heat": "41.22",
+        "heat": "41.19",
         "category": "综艺",
         "tmdbId": 312066,
         "mediaType": "tv",
@@ -853,7 +853,7 @@
       {
         "title": "血战青龙寨",
         "rank": 1,
-        "heat": "46.71",
+        "heat": "46.67",
         "category": "电影",
         "tmdbId": 1698215,
         "mediaType": "movie",
@@ -868,7 +868,7 @@
       {
         "title": "伪钞重案",
         "rank": 2,
-        "heat": "46.35",
+        "heat": "46.23",
         "category": "电影",
         "tmdbId": 1592031,
         "mediaType": "movie",
@@ -883,7 +883,7 @@
       {
         "title": "东北往事·极恶不赦",
         "rank": 3,
-        "heat": "46.10",
+        "heat": "46.08",
         "category": "电影",
         "tmdbId": 1687111,
         "mediaType": "movie",
@@ -898,7 +898,7 @@
       {
         "title": "扫恶",
         "rank": 6,
-        "heat": "45.23",
+        "heat": "45.19",
         "category": "电影",
         "tmdbId": 1654429,
         "mediaType": "movie",
@@ -913,7 +913,7 @@
       {
         "title": "红石滩阻击战",
         "rank": 7,
-        "heat": "45.06",
+        "heat": "45.04",
         "category": "电影",
         "tmdbId": 1688304,
         "mediaType": "movie",
@@ -928,7 +928,7 @@
       {
         "title": "追恶",
         "rank": 9,
-        "heat": "44.46",
+        "heat": "44.23",
         "category": "电影",
         "tmdbId": 1480790,
         "mediaType": "movie",
@@ -943,7 +943,7 @@
       {
         "title": "木兰：血刃",
         "rank": 10,
-        "heat": "44.16",
+        "heat": "44.08",
         "category": "电影",
         "tmdbId": 1691129,
         "mediaType": "movie",
@@ -958,7 +958,7 @@
       {
         "title": "长白山猎人传说2",
         "rank": 11,
-        "heat": "44.09",
+        "heat": "43.91",
         "category": "电影",
         "tmdbId": 1238046,
         "mediaType": "movie",
@@ -973,7 +973,7 @@
       {
         "title": "调平",
         "rank": 12,
-        "heat": "43.26",
+        "heat": "43.12",
         "category": "电影",
         "tmdbId": 1148319,
         "mediaType": "movie",
@@ -988,7 +988,7 @@
       {
         "title": "东北奇妙故事之摇篮曲",
         "rank": 13,
-        "heat": "43.18",
+        "heat": "43.04",
         "category": "电影",
         "tmdbId": 1689164,
         "mediaType": "movie",
@@ -1003,7 +1003,7 @@
       {
         "title": "疯狂喜剧人",
         "rank": 14,
-        "heat": "43.07",
+        "heat": "42.79",
         "category": "电影",
         "tmdbId": 1692374,
         "mediaType": "movie",
@@ -1018,7 +1018,7 @@
       {
         "title": "拂晓计划",
         "rank": 15,
-        "heat": "42.55",
+        "heat": "42.47",
         "category": "电影",
         "tmdbId": 1691986,
         "mediaType": "movie",
@@ -1033,7 +1033,7 @@
       {
         "title": "盗影迷局",
         "rank": 16,
-        "heat": "42.13",
+        "heat": "42.10",
         "category": "电影",
         "tmdbId": 1691334,
         "mediaType": "movie",
@@ -1048,7 +1048,7 @@
       {
         "title": "追锋",
         "rank": 17,
-        "heat": "42.00",
+        "heat": "41.56",
         "category": "电影",
         "tmdbId": 1689906,
         "mediaType": "movie",
@@ -1063,7 +1063,7 @@
       {
         "title": "寻龙诀·觅踪",
         "rank": 18,
-        "heat": "41.48",
+        "heat": "41.23",
         "category": "电影",
         "tmdbId": 683205,
         "mediaType": "movie",
@@ -1078,7 +1078,7 @@
       {
         "title": "孤雁",
         "rank": 19,
-        "heat": "41.23",
+        "heat": "41.12",
         "category": "电影",
         "tmdbId": 1679434,
         "mediaType": "movie",
@@ -1093,7 +1093,7 @@
       {
         "title": "战刀屠狼2",
         "rank": 20,
-        "heat": "41.12",
+        "heat": "41.07",
         "category": "电影",
         "tmdbId": 484029,
         "mediaType": "movie",
