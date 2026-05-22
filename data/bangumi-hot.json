@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22 00:10:46",
+  "last_updated": "2026-05-22 12:54:27",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1812,6 +1812,28 @@
       ]
     },
     {
+      "id": "198152",
+      "tmdbId": 198152,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "别当欧尼酱了！",
+      "releaseDate": "2023-01-05",
+      "lastUpdateDate": "2023-03-23",
+      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
+      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
+      "rating": 7.3,
+      "description": "2023 · ⭐ 7.3 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "72636",
       "tmdbId": 72636,
       "type": "tmdb",
@@ -1830,28 +1852,6 @@
         18,
         10759,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "198152",
-      "tmdbId": 198152,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "别当欧尼酱了！",
-      "releaseDate": "2023-01-05",
-      "lastUpdateDate": "2023-03-23",
-      "posterPath": "/mehVdGN5lMntpLyxsWE7YBVPMhc.jpg",
-      "backdropPath": "/15r7AEj3rxEAjGbdPv7zafeX7Ub.jpg",
-      "rating": 7.3,
-      "description": "2023 · ⭐ 7.3 · 日本\n某天，家里蹲的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！？正当真寻不知道镜子里的美少女是自己而陷入混乱的时候，跳级进入大学的科学家妹妹绪山美波里出现了。她透露在饮料里加了一种奇怪的药物！真寻最近2年一直疯狂宅家玩小黄游，偶尔不得已才会工作！突然成为女孩子开始生活的真寻，对于厕所、浴室、裙子、胸罩等女人的生活完全不懂……并且他和美波里中学时期的同学穗月枫和其妹妹穗月椛认识。真寻的日常生活逐渐热闹起来。在持续的苦难中，“前”哥哥的命运会如何！？",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
       ],
       "rawCountries": [
         "JP"
@@ -2249,27 +2249,6 @@
       ]
     },
     {
-      "id": "378064",
-      "tmdbId": 378064,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "声之形",
-      "releaseDate": "2016-09-17",
-      "lastUpdateDate": "2016-09-17",
-      "posterPath": "/xmd1MrC2JI3rkZP2sQ1C3ECTKIT.jpg",
-      "backdropPath": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
-      "rating": 8.4,
-      "description": "2016 · ⭐ 8.4 · 未知地区\n西宫硝子（早见沙织 配音）生来患有听觉障碍，要依靠助听器和外界交流，口语发音也因此格外的古怪。小学时，硝子转入了一所新的学校，特殊的生理缺陷让她成为了班上引人注目的独特存在，她因此收获了坚实的友情，却也遭到了以男生石田将也（入野自由 配音）为首的小团体的孤立和排挤。随着时 间的推移，无心或有意的恶作剧渐渐升级，最终演变成为了无法挽回的伤害，硝子永远的消失在了众人的眼前。排挤硝子的事情曝光后，将也成为了下一个被欺负的对象，孤独痛苦的他终于理解了硝子的隐忍和温柔，只是他再也没有机会跟硝子道歉了。一次偶然中，将也同硝子重逢了，命运的齿轮重新开始了转动。",
-      "genreTitle": "剧情 / 爱情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        18,
-        10749
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "45790",
       "tmdbId": 45790,
       "type": "tmdb",
@@ -2291,6 +2270,27 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "378064",
+      "tmdbId": 378064,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "声之形",
+      "releaseDate": "2016-09-17",
+      "lastUpdateDate": "2016-09-17",
+      "posterPath": "/xmd1MrC2JI3rkZP2sQ1C3ECTKIT.jpg",
+      "backdropPath": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+      "rating": 8.4,
+      "description": "2016 · ⭐ 8.4 · 未知地区\n西宫硝子（早见沙织 配音）生来患有听觉障碍，要依靠助听器和外界交流，口语发音也因此格外的古怪。小学时，硝子转入了一所新的学校，特殊的生理缺陷让她成为了班上引人注目的独特存在，她因此收获了坚实的友情，却也遭到了以男生石田将也（入野自由 配音）为首的小团体的孤立和排挤。随着时 间的推移，无心或有意的恶作剧渐渐升级，最终演变成为了无法挽回的伤害，硝子永远的消失在了众人的眼前。排挤硝子的事情曝光后，将也成为了下一个被欺负的对象，孤独痛苦的他终于理解了硝子的隐忍和温柔，只是他再也没有机会跟硝子道歉了。一次偶然中，将也同硝子重逢了，命运的齿轮重新开始了转动。",
+      "genreTitle": "剧情 / 爱情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        10749
+      ],
+      "rawCountries": []
     },
     {
       "id": "257475",
