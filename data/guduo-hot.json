@@ -1,19 +1,19 @@
 {
   "source": "Guduo Media",
-  "billboard_date": "2026-05-23",
-  "last_updated": "2026-05-24 16:18:14",
+  "billboard_date": "2026-05-24",
+  "last_updated": "2026-05-25 17:51:16",
   "categories": {
     "剧集": [
       {
         "title": "低智商犯罪",
         "rank": 1,
-        "heat": "75.06",
+        "heat": "74.91",
         "category": "剧集",
         "tmdbId": 272432,
         "mediaType": "tv",
         "tmdbTitle": "低智商犯罪",
         "releaseDate": "2026-05-04",
-        "posterPath": "/xwEFuUmwHhjqPGnBwbuz2Yu76r8.jpg",
+        "posterPath": "/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
         "rating": 8.1,
         "overview": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
         "regionTitle": "中国大陆",
@@ -22,22 +22,37 @@
       {
         "title": "良陈美锦",
         "rank": 2,
-        "heat": "73.92",
+        "heat": "73.64",
         "category": "剧集",
         "tmdbId": 283952,
         "mediaType": "tv",
         "tmdbTitle": "良陈美锦",
         "releaseDate": "2026-05-03",
         "posterPath": "/kVZD96lcpqookwatK2VD6loXZAN.jpg",
-        "rating": 9.0,
+        "rating": 9.2,
         "overview": "讲述了顾锦朝因被算命先生说与父亲仕途相冲，从小寄养在外祖家，受外祖母宠爱，性格肆无忌惮。回顾家后，他以强硬姿态应对各种人和事。他的生命力吸引了内阁权臣陈三爷、世子爷叶限和端方君子陈玄青，最终他选择尊重她本性、纵容她放肆的陈三爷的故事。",
         "regionTitle": "中国大陆",
         "genreTitle": "剧情"
       },
       {
-        "title": "佳偶天成",
+        "title": "大唐迷雾",
         "rank": 3,
-        "heat": "70.25",
+        "heat": "70.06",
+        "category": "剧集",
+        "tmdbId": 289209,
+        "mediaType": "tv",
+        "tmdbTitle": "大唐迷雾",
+        "releaseDate": "2026-05-23",
+        "posterPath": "/ob402SA7WRz2golNzVEZOLnDNL2.jpg",
+        "rating": 9.0,
+        "overview": "大唐垂拱年间，狄仁杰因不满武后为野心牺牲无辜，一行人离开神都，巡查江南道，不想昭昭盛世之下，却是妖鬼横行。权力的倾轧、利欲的贪糜、执念的癫狂……将狄仁杰拉入了一个个精心编织的弥天大网之中。诡案在前，迷雾遮眼，大唐神探以近妖之智探微毫，以天人之技窥人心。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "剧情"
+      },
+      {
+        "title": "佳偶天成",
+        "rank": 4,
+        "heat": "69.85",
         "category": "剧集",
         "tmdbId": 272715,
         "mediaType": "tv",
@@ -50,24 +65,9 @@
         "genreTitle": "剧情 / 科幻奇幻"
       },
       {
-        "title": "大唐迷雾",
-        "rank": 4,
-        "heat": "69.79",
-        "category": "剧集",
-        "tmdbId": 289209,
-        "mediaType": "tv",
-        "tmdbTitle": "大唐迷雾",
-        "releaseDate": "2026-05-23",
-        "posterPath": "/6hU5HUk41G4WKCCGMhFkxcH6s4C.jpg",
-        "rating": 9.0,
-        "overview": "大唐垂拱年间，狄仁杰因不满武后为野心牺牲无辜，一行人离开神都，巡查江南道，不想昭昭盛世之下，却是妖鬼横行。权力的倾轧、利欲的贪糜、执念的癫狂……将狄仁杰拉入了一个个精心编织的弥天大网之中。诡案在前，迷雾遮眼，大唐神探以近妖之智探微毫，以天人之技窥人心。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "剧情"
-      },
-      {
         "title": "黑夜告白",
         "rank": 5,
-        "heat": "69.37",
+        "heat": "69.34",
         "category": "剧集",
         "tmdbId": 254498,
         "mediaType": "tv",
@@ -82,7 +82,7 @@
       {
         "title": "方圆八百米",
         "rank": 6,
-        "heat": "65.41",
+        "heat": "65.82",
         "category": "剧集",
         "tmdbId": 278868,
         "mediaType": "tv",
@@ -95,9 +95,24 @@
         "genreTitle": "剧情"
       },
       {
-        "title": "月鳞绮纪",
+        "title": "盛唐奇案",
         "rank": 7,
-        "heat": "64.12",
+        "heat": "64.35",
+        "category": "剧集",
+        "tmdbId": 321802,
+        "mediaType": "tv",
+        "tmdbTitle": "盛唐奇案",
+        "releaseDate": "2026-05-22",
+        "posterPath": "/5hTyWTw5FvcIblFJDNimtN0EZhz.jpg",
+        "rating": 8.0,
+        "overview": "盛世大唐，太守之女李静澜天赋异禀，擅验尸断案，与神秘“鬼探”决明、武艺高强的捕快苏御安联手追凶，揭开一桩桩离奇悬案：双生姐妹的生死置换、跨越十七年的书生冤案、雅集会上的连环仪式杀人等。在迷雾与鲜血中，李静澜与决明暗生情愫，彼此扶持，坚守心中正道，挣脱宿命桎梏。盛世灯火之下，他们以智慧与勇气涤荡污浊，书写下一段守护正义与清明的传奇。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "剧情"
+      },
+      {
+        "title": "月鳞绮纪",
+        "rank": 8,
+        "heat": "64.18",
         "category": "剧集",
         "tmdbId": 278275,
         "mediaType": "tv",
@@ -111,8 +126,8 @@
       },
       {
         "title": "钢铁森林",
-        "rank": 8,
-        "heat": "63.55",
+        "rank": 9,
+        "heat": "63.45",
         "category": "剧集",
         "tmdbId": 281392,
         "mediaType": "tv",
@@ -126,8 +141,8 @@
       },
       {
         "title": "罪案痕迹",
-        "rank": 9,
-        "heat": "62.49",
+        "rank": 10,
+        "heat": "62.34",
         "category": "剧集",
         "tmdbId": 321712,
         "mediaType": "tv",
@@ -141,8 +156,8 @@
       },
       {
         "title": "嫁金枝",
-        "rank": 10,
-        "heat": "62.02",
+        "rank": 11,
+        "heat": "61.85",
         "category": "剧集",
         "tmdbId": 311755,
         "mediaType": "tv",
@@ -156,8 +171,8 @@
       },
       {
         "title": "逐玉",
-        "rank": 11,
-        "heat": "61.48",
+        "rank": 12,
+        "heat": "61.20",
         "category": "剧集",
         "tmdbId": 279388,
         "mediaType": "tv",
@@ -166,21 +181,6 @@
         "posterPath": "/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
         "rating": 7.9,
         "overview": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
-        "regionTitle": "中国大陆",
-        "genreTitle": "剧情"
-      },
-      {
-        "title": "盛唐奇案",
-        "rank": 12,
-        "heat": "61.13",
-        "category": "剧集",
-        "tmdbId": 321802,
-        "mediaType": "tv",
-        "tmdbTitle": "盛唐奇案",
-        "releaseDate": "2026-05-22",
-        "posterPath": "/5hTyWTw5FvcIblFJDNimtN0EZhz.jpg",
-        "rating": 8.0,
-        "overview": "盛世大唐，太守之女李静澜天赋异禀，擅验尸断案，与神秘“鬼探”决明、武艺高强的捕快苏御安联手追凶，揭开一桩桩离奇悬案：双生姐妹的生死置换、跨越十七年的书生冤案、雅集会上的连环仪式杀人等。在迷雾与鲜血中，李静澜与决明暗生情愫，彼此扶持，坚守心中正道，挣脱宿命桎梏。盛世灯火之下，他们以智慧与勇气涤荡污浊，书写下一段守护正义与清明的传奇。",
         "regionTitle": "中国大陆",
         "genreTitle": "剧情"
       },
@@ -202,7 +202,7 @@
       {
         "title": "白日提灯",
         "rank": 14,
-        "heat": "60.31",
+        "heat": "60.23",
         "category": "剧集",
         "tmdbId": 258865,
         "mediaType": "tv",
@@ -217,7 +217,7 @@
       {
         "title": "罪无可逃",
         "rank": 15,
-        "heat": "59.13",
+        "heat": "59.08",
         "category": "剧集",
         "tmdbId": 321749,
         "mediaType": "tv",
@@ -232,7 +232,7 @@
       {
         "title": "着迷",
         "rank": 16,
-        "heat": "58.17",
+        "heat": "58.12",
         "category": "剧集",
         "tmdbId": 285415,
         "mediaType": "tv",
@@ -247,14 +247,14 @@
       {
         "title": "香港探秘地图",
         "rank": 17,
-        "heat": "57.43",
+        "heat": "57.22",
         "category": "剧集",
         "tmdbId": 277870,
         "mediaType": "tv",
         "tmdbTitle": "香港探秘地图",
         "releaseDate": "2026-05-18",
         "posterPath": "/rWTQEgznWMGwAAtXxGgmM1mciFo.jpg",
-        "rating": 8.0,
+        "rating": 8.7,
         "overview": "玄学家庄一臣创立网上频道，并藉年轻女子王秀仪被指遇鬼昏迷之事，提升声望。一臣同时招揽打假网红毕萍、摄影师高文彬与秀仪组成探秘团队，深入查访连串古怪诡异的人和事！毕萍不齿一臣利用怪力乱神炒作，宣扬迷信，要藉工作共事撕破其假面具，与一臣斗气斗智斗力，却逐渐理解他隐藏的另一面。另边厢，一臣向富豪金夫人自荐，可助其寻回离奇失踪的儿子。深信的风水师龙贵寻人多时但无所获，金夫人心生疑虑，最终决定向一臣求助……",
         "regionTitle": "中国香港",
         "genreTitle": "剧情"
@@ -262,7 +262,7 @@
       {
         "title": "她的罪名",
         "rank": 18,
-        "heat": "56.34",
+        "heat": "56.28",
         "category": "剧集",
         "tmdbId": 320015,
         "mediaType": "tv",
@@ -277,7 +277,7 @@
       {
         "title": "正义女神",
         "rank": 19,
-        "heat": "55.13",
+        "heat": "55.11",
         "category": "剧集",
         "tmdbId": 277412,
         "mediaType": "tv",
@@ -292,7 +292,7 @@
       {
         "title": "夜色正浓",
         "rank": 20,
-        "heat": "48.07",
+        "heat": "47.92",
         "category": "剧集",
         "tmdbId": 259554,
         "mediaType": "tv",
@@ -309,7 +309,7 @@
       {
         "title": "乘风2026",
         "rank": 1,
-        "heat": "56.21",
+        "heat": "56.22",
         "category": "综艺",
         "tmdbId": 317948,
         "mediaType": "tv",
@@ -324,7 +324,7 @@
       {
         "title": "哈哈哈哈哈 第六季",
         "rank": 2,
-        "heat": "55.64",
+        "heat": "54.92",
         "category": "综艺",
         "tmdbId": 112732,
         "mediaType": "tv",
@@ -337,24 +337,9 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "大侦探第十一季",
-        "rank": 3,
-        "heat": "53.67",
-        "category": "综艺",
-        "tmdbId": 74561,
-        "mediaType": "tv",
-        "tmdbTitle": "明星大侦探",
-        "releaseDate": "2016-03-27",
-        "posterPath": "/dmWr4vJgvGMH8m60fuTh0wzYGde.jpg",
-        "rating": 8.4,
-        "overview": "节目中每期有多位明星嘉宾出席，扮演不同的人物角色，他们中有一个侦探、一个凶手和四个嫌疑人，并同处于一个固定空间。他们共同面对一起精心策划的谋杀案，并需要通过搜集证据和推理找出真正的凶手。根据节目设定，整个过程中只有凶手一人可以说谎，为了隐藏身份会选择嫁祸他人，洗脱自己的嫌疑。\n\n《明星大侦探》是芒果TV小盒子工作室推出的系列明星推理真人秀节目。以“烧脑的剧情”与“悬疑推理以及找出真相完成破案”等节目主打，结合电视剧与综艺节目特点激发明星们的智慧的脑与刺激的剧情。等侦探们来破案，完成推理。节目制作模式引进自韩国JTBC节目《Crime Scene 犯罪现场》并进行本土化，芒果TV购得独家版权，并在原版PD指导下历时7个月制作了第一季节目。\n\n第7季起由晏吉工作室制作，并节目改名《大侦探》，转型为普法教育推理节目，并与最高人民法院共同推出全民普法宣传教育环节《大侦探合议庭》。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "亲爱的客栈2026",
-        "rank": 4,
-        "heat": "53.06",
+        "rank": 3,
+        "heat": "53.68",
         "category": "综艺",
         "tmdbId": 163813,
         "mediaType": "tv",
@@ -367,9 +352,24 @@
         "genreTitle": "真人秀"
       },
       {
+        "title": "大侦探第十一季",
+        "rank": 4,
+        "heat": "52.99",
+        "category": "综艺",
+        "tmdbId": 74561,
+        "mediaType": "tv",
+        "tmdbTitle": "明星大侦探",
+        "releaseDate": "2016-03-27",
+        "posterPath": "/dmWr4vJgvGMH8m60fuTh0wzYGde.jpg",
+        "rating": 8.4,
+        "overview": "节目中每期有多位明星嘉宾出席，扮演不同的人物角色，他们中有一个侦探、一个凶手和四个嫌疑人，并同处于一个固定空间。他们共同面对一起精心策划的谋杀案，并需要通过搜集证据和推理找出真正的凶手。根据节目设定，整个过程中只有凶手一人可以说谎，为了隐藏身份会选择嫁祸他人，洗脱自己的嫌疑。\n\n《明星大侦探》是芒果TV小盒子工作室推出的系列明星推理真人秀节目。以“烧脑的剧情”与“悬疑推理以及找出真相完成破案”等节目主打，结合电视剧与综艺节目特点激发明星们的智慧的脑与刺激的剧情。等侦探们来破案，完成推理。节目制作模式引进自韩国JTBC节目《Crime Scene 犯罪现场》并进行本土化，芒果TV购得独家版权，并在原版PD指导下历时7个月制作了第一季节目。\n\n第7季起由晏吉工作室制作，并节目改名《大侦探》，转型为普法教育推理节目，并与最高人民法院共同推出全民普法宣传教育环节《大侦探合议庭》。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
         "title": "五十公里桃花坞 第六季",
         "rank": 5,
-        "heat": "52.42",
+        "heat": "52.24",
         "category": "综艺",
         "tmdbId": 126398,
         "mediaType": "tv",
@@ -382,9 +382,24 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "妻子的浪漫旅行2026",
+        "title": "我家那小子2026",
         "rank": 6,
-        "heat": "51.33",
+        "heat": "51.79",
+        "category": "综艺",
+        "tmdbId": 196747,
+        "mediaType": "tv",
+        "tmdbTitle": "我家那小子",
+        "releaseDate": "2018-07-07",
+        "posterPath": "/6a1c0PzVrJZwVWIWIoM2qMgHKFG.jpg",
+        "rating": 7.0,
+        "overview": "《我家那小子》主要讲述独居男艺人的日常生活，通过妈妈观看儿子独居生活的视频，了解平时自己不知道的儿子的独居生活状态。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
+        "title": "妻子的浪漫旅行2026",
+        "rank": 7,
+        "heat": "51.24",
         "category": "综艺",
         "tmdbId": 97199,
         "mediaType": "tv",
@@ -398,8 +413,8 @@
       },
       {
         "title": "种地吧 第四季",
-        "rank": 7,
-        "heat": "51.21",
+        "rank": 8,
+        "heat": "50.61",
         "category": "综艺",
         "tmdbId": 219934,
         "mediaType": "tv",
@@ -412,24 +427,9 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "我家那小子2026",
-        "rank": 8,
-        "heat": "50.91",
-        "category": "综艺",
-        "tmdbId": 196747,
-        "mediaType": "tv",
-        "tmdbTitle": "我家那小子",
-        "releaseDate": "2018-07-07",
-        "posterPath": "/6a1c0PzVrJZwVWIWIoM2qMgHKFG.jpg",
-        "rating": 7.0,
-        "overview": "《我家那小子》主要讲述独居男艺人的日常生活，通过妈妈观看儿子独居生活的视频，了解平时自己不知道的儿子的独居生活状态。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "怦然心动20岁：冬季",
         "rank": 9,
-        "heat": "49.71",
+        "heat": "48.94",
         "category": "综艺",
         "tmdbId": 206122,
         "mediaType": "tv",
@@ -444,7 +444,7 @@
       {
         "title": "魔力歌先生",
         "rank": 10,
-        "heat": "47.12",
+        "heat": "47.05",
         "category": "综艺",
         "tmdbId": 315850,
         "mediaType": "tv",
@@ -457,24 +457,9 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "爸爸当家5",
-        "rank": 11,
-        "heat": "46.44",
-        "category": "综艺",
-        "tmdbId": 201781,
-        "mediaType": "tv",
-        "tmdbTitle": "爸爸当家",
-        "releaseDate": "2022-05-10",
-        "posterPath": "/A4pxfbEafQWo9DMNU2b79r7Nafv.jpg",
-        "rating": 6.5,
-        "overview": "首次聚焦全职男性视角的表达方式，通过不同阶段全职爸爸家庭的记录和观察，探讨新型态的家庭模式，带观众深度理解全职爸爸/妈妈，打破对于全职群体的偏见，思考自我价值实现的更多可能性。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "超燃青春的合唱",
-        "rank": 12,
-        "heat": "46.12",
+        "rank": 11,
+        "heat": "46.74",
         "category": "综艺",
         "tmdbId": 320614,
         "mediaType": "tv",
@@ -487,9 +472,24 @@
         "genreTitle": "真人秀"
       },
       {
+        "title": "爸爸当家5",
+        "rank": 12,
+        "heat": "46.20",
+        "category": "综艺",
+        "tmdbId": 201781,
+        "mediaType": "tv",
+        "tmdbTitle": "爸爸当家",
+        "releaseDate": "2022-05-10",
+        "posterPath": "/A4pxfbEafQWo9DMNU2b79r7Nafv.jpg",
+        "rating": 6.5,
+        "overview": "首次聚焦全职男性视角的表达方式，通过不同阶段全职爸爸家庭的记录和观察，探讨新型态的家庭模式，带观众深度理解全职爸爸/妈妈，打破对于全职群体的偏见，思考自我价值实现的更多可能性。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
         "title": "奋斗吧人生—演员篇",
         "rank": 13,
-        "heat": "45.33",
+        "heat": "45.27",
         "category": "综艺",
         "tmdbId": 317605,
         "mediaType": "tv",
@@ -504,7 +504,7 @@
       {
         "title": "周五晚高疯",
         "rank": 14,
-        "heat": "44.08",
+        "heat": "44.11",
         "category": "综艺",
         "tmdbId": 312878,
         "mediaType": "tv",
@@ -519,7 +519,7 @@
       {
         "title": "不好笑就露宿街头",
         "rank": 16,
-        "heat": "43.12",
+        "heat": "43.09",
         "category": "综艺",
         "tmdbId": 317458,
         "mediaType": "tv",
@@ -532,24 +532,9 @@
         "genreTitle": "喜剧 / 真人秀"
       },
       {
-        "title": "今夜喜友秀",
-        "rank": 18,
-        "heat": "42.19",
-        "category": "综艺",
-        "tmdbId": 314523,
-        "mediaType": "tv",
-        "tmdbTitle": "今夜喜友秀",
-        "releaseDate": "2026-02-20",
-        "posterPath": "/23d0Q5w4hAeAVlEvthUIGLgPaE3.jpg",
-        "rating": 0.0,
-        "overview": "节目由大张伟、付航领衔，庞博、王建国、周奇墨、小鹿、嘻哈、房主任等一众喜剧人齐聚，融合单口喜剧、Sketch、幽默访谈与音乐喜剧等多种喜剧形式，每期深入一个年轻人热议话题，打造真正适合年轻人精神状态的多元喜剧节目。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "脱口秀 / 真人秀"
-      },
-      {
         "title": "现在就出发 第三季",
-        "rank": 19,
-        "heat": "42.06",
+        "rank": 18,
+        "heat": "41.95",
         "category": "综艺",
         "tmdbId": 231620,
         "mediaType": "tv",
@@ -562,9 +547,24 @@
         "genreTitle": "真人秀 / 喜剧"
       },
       {
+        "title": "今夜喜友秀",
+        "rank": 19,
+        "heat": "41.35",
+        "category": "综艺",
+        "tmdbId": 314523,
+        "mediaType": "tv",
+        "tmdbTitle": "今夜喜友秀",
+        "releaseDate": "2026-02-20",
+        "posterPath": "/23d0Q5w4hAeAVlEvthUIGLgPaE3.jpg",
+        "rating": 0.0,
+        "overview": "节目由大张伟、付航领衔，庞博、王建国、周奇墨、小鹿、嘻哈、房主任等一众喜剧人齐聚，融合单口喜剧、Sketch、幽默访谈与音乐喜剧等多种喜剧形式，每期深入一个年轻人热议话题，打造真正适合年轻人精神状态的多元喜剧节目。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "脱口秀 / 真人秀"
+      },
+      {
         "title": "主咖和Ta的朋友们",
         "rank": 20,
-        "heat": "41.18",
+        "heat": "41.08",
         "category": "综艺",
         "tmdbId": 312066,
         "mediaType": "tv",
@@ -853,7 +853,7 @@
       {
         "title": "伪钞重案",
         "rank": 1,
-        "heat": "46.67",
+        "heat": "46.47",
         "category": "电影",
         "tmdbId": 1592031,
         "mediaType": "movie",
@@ -868,7 +868,7 @@
       {
         "title": "血战青龙寨",
         "rank": 2,
-        "heat": "46.18",
+        "heat": "46.08",
         "category": "电影",
         "tmdbId": 1698215,
         "mediaType": "movie",
@@ -883,7 +883,7 @@
       {
         "title": "东北往事·极恶不赦",
         "rank": 3,
-        "heat": "45.45",
+        "heat": "45.21",
         "category": "电影",
         "tmdbId": 1687111,
         "mediaType": "movie",
@@ -898,7 +898,7 @@
       {
         "title": "扫恶",
         "rank": 6,
-        "heat": "44.91",
+        "heat": "44.31",
         "category": "电影",
         "tmdbId": 1654429,
         "mediaType": "movie",
@@ -913,7 +913,7 @@
       {
         "title": "红石滩阻击战",
         "rank": 7,
-        "heat": "44.30",
+        "heat": "44.28",
         "category": "电影",
         "tmdbId": 1688304,
         "mediaType": "movie",
@@ -928,7 +928,7 @@
       {
         "title": "追恶",
         "rank": 9,
-        "heat": "44.08",
+        "heat": "43.91",
         "category": "电影",
         "tmdbId": 1480790,
         "mediaType": "movie",
@@ -958,7 +958,7 @@
       {
         "title": "长白山猎人传说2",
         "rank": 11,
-        "heat": "43.16",
+        "heat": "43.08",
         "category": "电影",
         "tmdbId": 1238046,
         "mediaType": "movie",
@@ -973,7 +973,7 @@
       {
         "title": "调平",
         "rank": 12,
-        "heat": "42.25",
+        "heat": "42.35",
         "category": "电影",
         "tmdbId": 1148319,
         "mediaType": "movie",
@@ -988,7 +988,7 @@
       {
         "title": "东北奇妙故事之摇篮曲",
         "rank": 13,
-        "heat": "42.07",
+        "heat": "42.10",
         "category": "电影",
         "tmdbId": 1689164,
         "mediaType": "movie",
@@ -1001,24 +1001,9 @@
         "genreTitle": "电影"
       },
       {
-        "title": "拂晓计划",
-        "rank": 14,
-        "heat": "41.86",
-        "category": "电影",
-        "tmdbId": 1691986,
-        "mediaType": "movie",
-        "tmdbTitle": "拂晓计划",
-        "releaseDate": "2026-05-01",
-        "posterPath": "/wCIoR7Q4eCcdKIlkVZOXsmIZKSL.jpg",
-        "rating": 0.0,
-        "overview": "1948年，为了争取渡江战役的胜利和稳定新生的人民政权，第三野战军选派优秀军官潜入国民党统治老巢南京，在中共南京地下组织的有力配合下，他们深入虎穴，展现了一幕幕与国民党反动派斗智斗勇、殊死搏斗的壮举。",
-        "regionTitle": "未知地区",
-        "genreTitle": "剧情"
-      },
-      {
         "title": "疯狂喜剧人",
-        "rank": 15,
-        "heat": "41.55",
+        "rank": 14,
+        "heat": "41.45",
         "category": "电影",
         "tmdbId": 1692374,
         "mediaType": "movie",
@@ -1031,9 +1016,24 @@
         "genreTitle": "喜剧"
       },
       {
+        "title": "拂晓计划",
+        "rank": 15,
+        "heat": "41.23",
+        "category": "电影",
+        "tmdbId": 1691986,
+        "mediaType": "movie",
+        "tmdbTitle": "拂晓计划",
+        "releaseDate": "2026-05-01",
+        "posterPath": "/wCIoR7Q4eCcdKIlkVZOXsmIZKSL.jpg",
+        "rating": 0.0,
+        "overview": "1948年，为了争取渡江战役的胜利和稳定新生的人民政权，第三野战军选派优秀军官潜入国民党统治老巢南京，在中共南京地下组织的有力配合下，他们深入虎穴，展现了一幕幕与国民党反动派斗智斗勇、殊死搏斗的壮举。",
+        "regionTitle": "未知地区",
+        "genreTitle": "剧情"
+      },
+      {
         "title": "盗影迷局",
         "rank": 16,
-        "heat": "41.12",
+        "heat": "41.08",
         "category": "电影",
         "tmdbId": 1691334,
         "mediaType": "movie",
@@ -1048,7 +1048,7 @@
       {
         "title": "追锋",
         "rank": 17,
-        "heat": "40.90",
+        "heat": "40.56",
         "category": "电影",
         "tmdbId": 1689906,
         "mediaType": "movie",
@@ -1063,7 +1063,7 @@
       {
         "title": "寻龙诀·觅踪",
         "rank": 18,
-        "heat": "40.33",
+        "heat": "40.25",
         "category": "电影",
         "tmdbId": 683205,
         "mediaType": "movie",
@@ -1076,24 +1076,9 @@
         "genreTitle": "电影"
       },
       {
-        "title": "孤雁",
-        "rank": 19,
-        "heat": "40.18",
-        "category": "电影",
-        "tmdbId": 1679434,
-        "mediaType": "movie",
-        "tmdbTitle": "孤雁",
-        "releaseDate": "2026-04-23",
-        "posterPath": "/tg1wqYlIJSf4Fe8M3QzPUy24iZR.jpg",
-        "rating": 0.0,
-        "overview": "1935年上海中共地下组织遭国民党特务重创，绝密档案危在旦夕。地下党员徐峰、李静临危受命，与叛徒、特务展开生死周旋，更要面对昔日兄弟反目的仇怨，历经重重牺牲与考验，最终成功取回绝密档案，完成革命使命。",
-        "regionTitle": "未知地区",
-        "genreTitle": "电影"
-      },
-      {
         "title": "战刀屠狼2",
-        "rank": 20,
-        "heat": "40.06",
+        "rank": 19,
+        "heat": "40.15",
         "category": "电影",
         "tmdbId": 484029,
         "mediaType": "movie",
@@ -1104,6 +1089,21 @@
         "overview": "鹏城市公安局禁毒大队民警蓝海从警八年，业务能力极强，抓获无数吸贩毒人员，被毒贩列为“敌为我用，非用必杀”之人。某日，辖区内发生一起因吸食毒品砍人事件，经查明，这是一种使人极易上瘾的新型毒品“火冰”，缉毒工作随即展开。 东南亚毒枭“毒狼”伙同化学专家白酬之以中国境内为主要市场，长期制毒贩毒，中国警方派遣绰号“红蜻蜓”、“老刁”两名侦查员打入“毒狼”内部，在计划抓捕“毒狼”的同时一并抓捕已经易容的白酬之。随着事件的不断升级，蓝海弟弟蓝天阴差阳错的卷入事件中，先是白酬之诱骗蓝天以快递员身份助其转送毒品样本，再是“毒狼”绑架其嫂子雨馨及重病侄女彤彤，胁迫其帮助运输毒品，而蓝海也因行动失利被警队暂停职务。停职期间，蓝海只身深入毒穴，救出妻女及弟弟蓝天，并抓获毒狼及白酬之……",
         "regionTitle": "未知地区",
         "genreTitle": "剧情"
+      },
+      {
+        "title": "孤雁",
+        "rank": 20,
+        "heat": "40.08",
+        "category": "电影",
+        "tmdbId": 1679434,
+        "mediaType": "movie",
+        "tmdbTitle": "孤雁",
+        "releaseDate": "2026-04-23",
+        "posterPath": "/tg1wqYlIJSf4Fe8M3QzPUy24iZR.jpg",
+        "rating": 0.0,
+        "overview": "1935年上海中共地下组织遭国民党特务重创，绝密档案危在旦夕。地下党员徐峰、李静临危受命，与叛徒、特务展开生死周旋，更要面对昔日兄弟反目的仇怨，历经重重牺牲与考验，最终成功取回绝密档案，完成革命使命。",
+        "regionTitle": "未知地区",
+        "genreTitle": "电影"
       }
     ]
   }
