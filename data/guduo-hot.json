@@ -1,13 +1,13 @@
 {
   "source": "Guduo Media",
-  "billboard_date": "2026-05-25",
-  "last_updated": "2026-05-26 17:37:33",
+  "billboard_date": "2026-05-26",
+  "last_updated": "2026-05-27 17:31:45",
   "categories": {
     "剧集": [
       {
         "title": "低智商犯罪",
         "rank": 1,
-        "heat": "73.92",
+        "heat": "73.44",
         "category": "剧集",
         "tmdbId": 272432,
         "mediaType": "tv",
@@ -22,7 +22,7 @@
       {
         "title": "良陈美锦",
         "rank": 2,
-        "heat": "72.80",
+        "heat": "72.34",
         "category": "剧集",
         "tmdbId": 283952,
         "mediaType": "tv",
@@ -37,7 +37,7 @@
       {
         "title": "大唐迷雾",
         "rank": 3,
-        "heat": "70.28",
+        "heat": "70.15",
         "category": "剧集",
         "tmdbId": 289209,
         "mediaType": "tv",
@@ -52,7 +52,7 @@
       {
         "title": "佳偶天成",
         "rank": 4,
-        "heat": "69.41",
+        "heat": "69.22",
         "category": "剧集",
         "tmdbId": 272715,
         "mediaType": "tv",
@@ -67,7 +67,7 @@
       {
         "title": "黑夜告白",
         "rank": 5,
-        "heat": "68.55",
+        "heat": "67.12",
         "category": "剧集",
         "tmdbId": 254498,
         "mediaType": "tv",
@@ -82,7 +82,7 @@
       {
         "title": "方圆八百米",
         "rank": 6,
-        "heat": "65.30",
+        "heat": "64.92",
         "category": "剧集",
         "tmdbId": 278868,
         "mediaType": "tv",
@@ -97,7 +97,7 @@
       {
         "title": "盛唐奇案",
         "rank": 7,
-        "heat": "64.29",
+        "heat": "64.21",
         "category": "剧集",
         "tmdbId": 321802,
         "mediaType": "tv",
@@ -112,7 +112,7 @@
       {
         "title": "月鳞绮纪",
         "rank": 8,
-        "heat": "63.87",
+        "heat": "63.55",
         "category": "剧集",
         "tmdbId": 278275,
         "mediaType": "tv",
@@ -127,7 +127,7 @@
       {
         "title": "钢铁森林",
         "rank": 9,
-        "heat": "63.21",
+        "heat": "62.90",
         "category": "剧集",
         "tmdbId": 281392,
         "mediaType": "tv",
@@ -142,7 +142,7 @@
       {
         "title": "罪案痕迹",
         "rank": 10,
-        "heat": "62.11",
+        "heat": "62.44",
         "category": "剧集",
         "tmdbId": 321712,
         "mediaType": "tv",
@@ -157,7 +157,7 @@
       {
         "title": "嫁金枝",
         "rank": 11,
-        "heat": "61.39",
+        "heat": "61.19",
         "category": "剧集",
         "tmdbId": 311755,
         "mediaType": "tv",
@@ -172,7 +172,7 @@
       {
         "title": "逐玉",
         "rank": 12,
-        "heat": "60.81",
+        "heat": "60.54",
         "category": "剧集",
         "tmdbId": 279388,
         "mediaType": "tv",
@@ -187,7 +187,7 @@
       {
         "title": "白日提灯",
         "rank": 13,
-        "heat": "60.44",
+        "heat": "60.11",
         "category": "剧集",
         "tmdbId": 258865,
         "mediaType": "tv",
@@ -202,7 +202,7 @@
       {
         "title": "重案解密",
         "rank": 14,
-        "heat": "59.78",
+        "heat": "59.67",
         "category": "剧集",
         "tmdbId": 290700,
         "mediaType": "tv",
@@ -217,7 +217,7 @@
       {
         "title": "罪无可逃",
         "rank": 15,
-        "heat": "58.71",
+        "heat": "58.55",
         "category": "剧集",
         "tmdbId": 321749,
         "mediaType": "tv",
@@ -232,7 +232,7 @@
       {
         "title": "着迷",
         "rank": 16,
-        "heat": "58.04",
+        "heat": "57.92",
         "category": "剧集",
         "tmdbId": 285415,
         "mediaType": "tv",
@@ -247,7 +247,7 @@
       {
         "title": "香港探秘地图",
         "rank": 17,
-        "heat": "56.81",
+        "heat": "56.44",
         "category": "剧集",
         "tmdbId": 277870,
         "mediaType": "tv",
@@ -262,7 +262,7 @@
       {
         "title": "她的罪名",
         "rank": 18,
-        "heat": "55.61",
+        "heat": "55.21",
         "category": "剧集",
         "tmdbId": 320015,
         "mediaType": "tv",
@@ -277,7 +277,7 @@
       {
         "title": "正义女神",
         "rank": 19,
-        "heat": "55.20",
+        "heat": "54.89",
         "category": "剧集",
         "tmdbId": 277412,
         "mediaType": "tv",
@@ -292,7 +292,7 @@
       {
         "title": "夜色正浓",
         "rank": 20,
-        "heat": "47.60",
+        "heat": "47.20",
         "category": "剧集",
         "tmdbId": 259554,
         "mediaType": "tv",
@@ -309,7 +309,7 @@
       {
         "title": "乘风2026",
         "rank": 1,
-        "heat": "55.24",
+        "heat": "55.67",
         "category": "综艺",
         "tmdbId": 317948,
         "mediaType": "tv",
@@ -324,7 +324,7 @@
       {
         "title": "哈哈哈哈哈 第六季",
         "rank": 2,
-        "heat": "53.92",
+        "heat": "53.15",
         "category": "综艺",
         "tmdbId": 112732,
         "mediaType": "tv",
@@ -339,7 +339,7 @@
       {
         "title": "亲爱的客栈2026",
         "rank": 3,
-        "heat": "53.21",
+        "heat": "52.41",
         "category": "综艺",
         "tmdbId": 163813,
         "mediaType": "tv",
@@ -354,7 +354,7 @@
       {
         "title": "大侦探第十一季",
         "rank": 4,
-        "heat": "52.70",
+        "heat": "52.12",
         "category": "综艺",
         "tmdbId": 74561,
         "mediaType": "tv",
@@ -369,7 +369,7 @@
       {
         "title": "五十公里桃花坞 第六季",
         "rank": 5,
-        "heat": "51.90",
+        "heat": "51.44",
         "category": "综艺",
         "tmdbId": 126398,
         "mediaType": "tv",
@@ -382,54 +382,9 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "我家那小子2026",
-        "rank": 6,
-        "heat": "51.06",
-        "category": "综艺",
-        "tmdbId": 196747,
-        "mediaType": "tv",
-        "tmdbTitle": "我家那小子",
-        "releaseDate": "2018-07-07",
-        "posterPath": "/6a1c0PzVrJZwVWIWIoM2qMgHKFG.jpg",
-        "rating": 7.0,
-        "overview": "《我家那小子》主要讲述独居男艺人的日常生活，通过妈妈观看儿子独居生活的视频，了解平时自己不知道的儿子的独居生活状态。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
-        "title": "种地吧 第四季",
-        "rank": 7,
-        "heat": "50.49",
-        "category": "综艺",
-        "tmdbId": 219934,
-        "mediaType": "tv",
-        "tmdbTitle": "种地吧",
-        "releaseDate": "2023-01-29",
-        "posterPath": "/vl5WKVXgL1tQs9D9wGE2ido6dwW.jpg",
-        "rating": 8.7,
-        "overview": "《种地吧》是由爱奇艺、蓝天下传媒出品，海西传媒、遥望科技联合出品的劳作纪实互动真人秀，该劳作纪实互动节目由陈少熙、何浩楠、蒋敦豪、李耕耘、李昊、鹭卓、王一珩、赵小童、卓沅、赵一博组成“种地小队”。节目真实记录10位年轻人，踏踏实实地用190天时间，在142亩土地上，播种、灌溉、施肥、收获。节目中成员们随着麦子一同成长，最终见证一粒麦子变成麦田，看到自己耕作的土地变成诗歌图园，以此传递“认真做好一件事”这种态度的实际意义和人生价值。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
-        "title": "妻子的浪漫旅行2026",
-        "rank": 8,
-        "heat": "49.80",
-        "category": "综艺",
-        "tmdbId": 97199,
-        "mediaType": "tv",
-        "tmdbTitle": "妻子的浪漫旅行",
-        "releaseDate": "2018-08-22",
-        "posterPath": "/dx3JOkHlSMASuK4xfmQ6N7IRSdd.jpg",
-        "rating": 5.5,
-        "overview": "节目推出夫妻隔空对话新模式。让妻子团踏上浪漫之旅，丈夫团则留守棚内，远程观察旅途中的妻子，了解其生活中的另一面。在这场跨时空对话中，夫妻重新审视彼此关系，治愈婚姻。节目也通过展现不同的夫妻关系，和观众一同探寻幸福婚姻的密码。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "怦然心动20岁：冬季",
-        "rank": 9,
-        "heat": "48.22",
+        "rank": 6,
+        "heat": "51.09",
         "category": "综艺",
         "tmdbId": 206122,
         "mediaType": "tv",
@@ -442,9 +397,54 @@
         "genreTitle": "真人秀"
       },
       {
+        "title": "种地吧 第四季",
+        "rank": 7,
+        "heat": "50.58",
+        "category": "综艺",
+        "tmdbId": 219934,
+        "mediaType": "tv",
+        "tmdbTitle": "种地吧",
+        "releaseDate": "2023-01-29",
+        "posterPath": "/vl5WKVXgL1tQs9D9wGE2ido6dwW.jpg",
+        "rating": 8.7,
+        "overview": "《种地吧》是由爱奇艺、蓝天下传媒出品，海西传媒、遥望科技联合出品的劳作纪实互动真人秀，该劳作纪实互动节目由陈少熙、何浩楠、蒋敦豪、李耕耘、李昊、鹭卓、王一珩、赵小童、卓沅、赵一博组成“种地小队”。节目真实记录10位年轻人，踏踏实实地用190天时间，在142亩土地上，播种、灌溉、施肥、收获。节目中成员们随着麦子一同成长，最终见证一粒麦子变成麦田，看到自己耕作的土地变成诗歌图园，以此传递“认真做好一件事”这种态度的实际意义和人生价值。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
+        "title": "我家那小子2026",
+        "rank": 8,
+        "heat": "49.88",
+        "category": "综艺",
+        "tmdbId": 196747,
+        "mediaType": "tv",
+        "tmdbTitle": "我家那小子",
+        "releaseDate": "2018-07-07",
+        "posterPath": "/6a1c0PzVrJZwVWIWIoM2qMgHKFG.jpg",
+        "rating": 7.0,
+        "overview": "《我家那小子》主要讲述独居男艺人的日常生活，通过妈妈观看儿子独居生活的视频，了解平时自己不知道的儿子的独居生活状态。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
+        "title": "妻子的浪漫旅行2026",
+        "rank": 9,
+        "heat": "49.45",
+        "category": "综艺",
+        "tmdbId": 97199,
+        "mediaType": "tv",
+        "tmdbTitle": "妻子的浪漫旅行",
+        "releaseDate": "2018-08-22",
+        "posterPath": "/dx3JOkHlSMASuK4xfmQ6N7IRSdd.jpg",
+        "rating": 5.5,
+        "overview": "节目推出夫妻隔空对话新模式。让妻子团踏上浪漫之旅，丈夫团则留守棚内，远程观察旅途中的妻子，了解其生活中的另一面。在这场跨时空对话中，夫妻重新审视彼此关系，治愈婚姻。节目也通过展现不同的夫妻关系，和观众一同探寻幸福婚姻的密码。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
         "title": "魔力歌先生",
         "rank": 10,
-        "heat": "46.90",
+        "heat": "46.45",
         "category": "综艺",
         "tmdbId": 315850,
         "mediaType": "tv",
@@ -459,7 +459,7 @@
       {
         "title": "超燃青春的合唱",
         "rank": 11,
-        "heat": "46.41",
+        "heat": "46.18",
         "category": "综艺",
         "tmdbId": 320614,
         "mediaType": "tv",
@@ -474,7 +474,7 @@
       {
         "title": "爸爸当家5",
         "rank": 12,
-        "heat": "45.92",
+        "heat": "45.46",
         "category": "综艺",
         "tmdbId": 201781,
         "mediaType": "tv",
@@ -489,7 +489,7 @@
       {
         "title": "奋斗吧人生—演员篇",
         "rank": 13,
-        "heat": "45.20",
+        "heat": "45.10",
         "category": "综艺",
         "tmdbId": 317605,
         "mediaType": "tv",
@@ -503,8 +503,8 @@
       },
       {
         "title": "周五晚高疯",
-        "rank": 14,
-        "heat": "44.30",
+        "rank": 15,
+        "heat": "44.65",
         "category": "综艺",
         "tmdbId": 312878,
         "mediaType": "tv",
@@ -519,7 +519,7 @@
       {
         "title": "不好笑就露宿街头",
         "rank": 16,
-        "heat": "43.19",
+        "heat": "43.12",
         "category": "综艺",
         "tmdbId": 317458,
         "mediaType": "tv",
@@ -534,7 +534,7 @@
       {
         "title": "现在就出发 第三季",
         "rank": 18,
-        "heat": "41.50",
+        "heat": "41.33",
         "category": "综艺",
         "tmdbId": 231620,
         "mediaType": "tv",
@@ -549,7 +549,7 @@
       {
         "title": "今夜喜友秀",
         "rank": 19,
-        "heat": "41.22",
+        "heat": "41.18",
         "category": "综艺",
         "tmdbId": 314523,
         "mediaType": "tv",
@@ -564,7 +564,7 @@
       {
         "title": "主咖和Ta的朋友们",
         "rank": 20,
-        "heat": "41.09",
+        "heat": "40.91",
         "category": "综艺",
         "tmdbId": 312066,
         "mediaType": "tv",
@@ -583,12 +583,12 @@
         "rank": 1,
         "heat": "暂无",
         "category": "动漫",
-        "tmdbId": 233291,
+        "tmdbId": 317329,
         "mediaType": "tv",
         "tmdbTitle": "搜神记",
         "releaseDate": "2026-03-25",
-        "posterPath": "/mQqHNwv27BDLY1b7z9YpYlezVzv.jpg",
-        "rating": 5.0,
+        "posterPath": "/zV7JWi9d9h0Q3ghbBy0vzU6N3RX.jpg",
+        "rating": 0.0,
         "overview": "故事发生在炎帝、黄帝所在的蛮荒时代。正值群雄逐鹿中原之际，天下公认的领袖——神农帝去世，金、木、水、火、土各族群雄皆蠢蠢欲动。波涛暗涌的时代中，少年拓拔野横空出世，在机缘巧合下得到了神农帝临终传承，开始了一段惊心动魄的传奇历程。",
         "regionTitle": "中国大陆",
         "genreTitle": "动画"
@@ -853,7 +853,7 @@
       {
         "title": "伪钞重案",
         "rank": 1,
-        "heat": "46.35",
+        "heat": "46.27",
         "category": "电影",
         "tmdbId": 1592031,
         "mediaType": "movie",
@@ -867,8 +867,8 @@
       },
       {
         "title": "血战青龙寨",
-        "rank": 3,
-        "heat": "45.78",
+        "rank": 2,
+        "heat": "45.72",
         "category": "电影",
         "tmdbId": 1698215,
         "mediaType": "movie",
@@ -883,7 +883,7 @@
       {
         "title": "东北往事·极恶不赦",
         "rank": 4,
-        "heat": "45.21",
+        "heat": "45.19",
         "category": "电影",
         "tmdbId": 1687111,
         "mediaType": "movie",
@@ -896,24 +896,9 @@
         "genreTitle": "电影"
       },
       {
-        "title": "扫恶",
-        "rank": 5,
-        "heat": "44.91",
-        "category": "电影",
-        "tmdbId": 1654429,
-        "mediaType": "movie",
-        "tmdbTitle": "扫恶",
-        "releaseDate": "2026-03-20",
-        "posterPath": "/xDFlWTgY60FiBW1QiGbm1KwwBd7.jpg",
-        "rating": 0.0,
-        "overview": "千禧时代质感的动作犯罪类型，奇葩刑警队长与背负杀父之仇的少年联手追缉重出江湖的杀人劫车团伙，刺激爽感中不乏社会思考和感动。",
-        "regionTitle": "未知地区",
-        "genreTitle": "电影"
-      },
-      {
         "title": "红石滩阻击战",
-        "rank": 6,
-        "heat": "44.31",
+        "rank": 5,
+        "heat": "44.87",
         "category": "电影",
         "tmdbId": 1688304,
         "mediaType": "movie",
@@ -926,9 +911,24 @@
         "genreTitle": "剧情"
       },
       {
+        "title": "扫恶",
+        "rank": 6,
+        "heat": "44.31",
+        "category": "电影",
+        "tmdbId": 1654429,
+        "mediaType": "movie",
+        "tmdbTitle": "扫恶",
+        "releaseDate": "2026-03-20",
+        "posterPath": "/xDFlWTgY60FiBW1QiGbm1KwwBd7.jpg",
+        "rating": 0.0,
+        "overview": "千禧时代质感的动作犯罪类型，奇葩刑警队长与背负杀父之仇的少年联手追缉重出江湖的杀人劫车团伙，刺激爽感中不乏社会思考和感动。",
+        "regionTitle": "未知地区",
+        "genreTitle": "电影"
+      },
+      {
         "title": "追恶",
         "rank": 7,
-        "heat": "44.19",
+        "heat": "44.13",
         "category": "电影",
         "tmdbId": 1480790,
         "mediaType": "movie",
@@ -942,8 +942,8 @@
       },
       {
         "title": "木兰：血刃",
-        "rank": 10,
-        "heat": "43.67",
+        "rank": 9,
+        "heat": "43.70",
         "category": "电影",
         "tmdbId": 1691129,
         "mediaType": "movie",
@@ -958,7 +958,7 @@
       {
         "title": "长白山猎人传说2",
         "rank": 11,
-        "heat": "43.29",
+        "heat": "43.10",
         "category": "电影",
         "tmdbId": 1238046,
         "mediaType": "movie",
@@ -973,7 +973,7 @@
       {
         "title": "调平",
         "rank": 12,
-        "heat": "42.31",
+        "heat": "42.66",
         "category": "电影",
         "tmdbId": 1148319,
         "mediaType": "movie",
@@ -988,7 +988,7 @@
       {
         "title": "东北奇妙故事之摇篮曲",
         "rank": 13,
-        "heat": "42.09",
+        "heat": "42.13",
         "category": "电影",
         "tmdbId": 1689164,
         "mediaType": "movie",
@@ -1003,7 +1003,7 @@
       {
         "title": "疯狂喜剧人",
         "rank": 14,
-        "heat": "41.51",
+        "heat": "41.41",
         "category": "电影",
         "tmdbId": 1692374,
         "mediaType": "movie",
@@ -1018,7 +1018,7 @@
       {
         "title": "盗影迷局",
         "rank": 15,
-        "heat": "41.30",
+        "heat": "41.23",
         "category": "电影",
         "tmdbId": 1691334,
         "mediaType": "movie",
@@ -1033,7 +1033,7 @@
       {
         "title": "拂晓计划",
         "rank": 16,
-        "heat": "41.19",
+        "heat": "41.11",
         "category": "电影",
         "tmdbId": 1691986,
         "mediaType": "movie",
@@ -1048,7 +1048,7 @@
       {
         "title": "孤雁",
         "rank": 17,
-        "heat": "41.08",
+        "heat": "40.71",
         "category": "电影",
         "tmdbId": 1679434,
         "mediaType": "movie",
@@ -1063,7 +1063,7 @@
       {
         "title": "追锋",
         "rank": 18,
-        "heat": "40.48",
+        "heat": "40.36",
         "category": "电影",
         "tmdbId": 1689906,
         "mediaType": "movie",
@@ -1078,7 +1078,7 @@
       {
         "title": "寻龙诀·觅踪",
         "rank": 19,
-        "heat": "40.14",
+        "heat": "40.12",
         "category": "电影",
         "tmdbId": 683205,
         "mediaType": "movie",
@@ -1093,7 +1093,7 @@
       {
         "title": "战刀屠狼2",
         "rank": 20,
-        "heat": "40.09",
+        "heat": "40.05",
         "category": "电影",
         "tmdbId": 484029,
         "mediaType": "movie",
