@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05 23:46:14",
+  "last_updated": "2026-06-06 12:44:35",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -945,6 +945,28 @@
       ]
     },
     {
+      "id": "36865",
+      "tmdbId": 36865,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "凉宫春日的消失",
+      "releaseDate": "2010-02-05",
+      "lastUpdateDate": "2010-02-05",
+      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
+      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+      "rating": 7.8,
+      "description": "2010 · ⭐ 7.8 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
+      "genreTitle": "科幻 / 悬疑 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        9648,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "31911",
       "tmdbId": 31911,
       "type": "tmdb",
@@ -967,28 +989,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "36865",
-      "tmdbId": 36865,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "凉宫春日的消失",
-      "releaseDate": "2010-02-05",
-      "lastUpdateDate": "2010-02-05",
-      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
-      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
-      "rating": 7.8,
-      "description": "2010 · ⭐ 7.8 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
-      "genreTitle": "科幻 / 悬疑 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        878,
-        9648,
-        18
-      ],
-      "rawCountries": []
     },
     {
       "id": "44684",
@@ -2611,6 +2611,29 @@
       ]
     },
     {
+      "id": "64196",
+      "tmdbId": 64196,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "OVERLORD",
+      "releaseDate": "2015-07-07",
+      "lastUpdateDate": "2022-09-27",
+      "posterPath": "/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "backdropPath": "/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "rating": 8.5,
+      "description": "2015 · ⭐ 8.5 · 日本\n作品主要讲述了某天，一款曾经掀起过大热潮的VRMMORPG「YGGDRASIL」停止了运营。游戏原本会停止一切服务，但过了结束时间后，玩家们却发现不能退出，NPC也产生了各自的思想。现实世界中喜爱电玩的主人公铃木悟（真名）在等待系统强制登出时，与“安兹·乌尔·恭”公会的成员一起意外穿越到了异世界，并且变成了拥有骷髅外表的最强魔法师——“飞鼠”。就这样，真正的奇幻传说正式拉开了帷幕。",
+      "genreTitle": "科幻奇幻 / 动作冒险",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10759
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "207784",
       "tmdbId": 207784,
       "type": "tmdb",
@@ -2629,29 +2652,6 @@
         35,
         10759,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "64196",
-      "tmdbId": 64196,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "OVERLORD",
-      "releaseDate": "2015-07-07",
-      "lastUpdateDate": "2022-09-27",
-      "posterPath": "/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "backdropPath": "/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "rating": 8.5,
-      "description": "2015 · ⭐ 8.5 · 日本\n作品主要讲述了某天，一款曾经掀起过大热潮的VRMMORPG「YGGDRASIL」停止了运营。游戏原本会停止一切服务，但过了结束时间后，玩家们却发现不能退出，NPC也产生了各自的思想。现实世界中喜爱电玩的主人公铃木悟（真名）在等待系统强制登出时，与“安兹·乌尔·恭”公会的成员一起意外穿越到了异世界，并且变成了拥有骷髅外表的最强魔法师——“飞鼠”。就这样，真正的奇幻传说正式拉开了帷幕。",
-      "genreTitle": "科幻奇幻 / 动作冒险",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765,
-        10759
       ],
       "rawCountries": [
         "JP"
