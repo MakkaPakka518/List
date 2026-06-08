@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08 13:21:59",
+  "last_updated": "2026-06-09 00:42:04",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -279,7 +279,7 @@
       "tmdbId": 24835,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "CLANNAD",
+      "title": "团子大家族",
       "releaseDate": "2007-10-05",
       "lastUpdateDate": "2009-03-13",
       "posterPath": "/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
@@ -369,7 +369,7 @@
       "tmdbId": 24835,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "CLANNAD",
+      "title": "团子大家族",
       "releaseDate": "2007-10-05",
       "lastUpdateDate": "2009-03-13",
       "posterPath": "/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
@@ -2111,29 +2111,6 @@
       "rawCountries": []
     },
     {
-      "id": "77694",
-      "tmdbId": 77694,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "赛马娘 Pretty Derby",
-      "releaseDate": "2018-04-02",
-      "lastUpdateDate": "2023-12-28",
-      "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
-      "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
-      "rating": 8.2,
-      "description": "2018 · ⭐ 8.2 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
-      "genreTitle": "喜剧 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "322512",
       "tmdbId": 322512,
       "type": "tmdb",
@@ -2152,6 +2129,29 @@
         10759,
         10765,
         9648,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "77694",
+      "tmdbId": 77694,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "赛马娘 Pretty Derby",
+      "releaseDate": "2018-04-02",
+      "lastUpdateDate": "2023-12-28",
+      "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
+      "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
+      "rating": 8.2,
+      "description": "2018 · ⭐ 8.2 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
         18
       ],
       "rawCountries": [
@@ -2543,6 +2543,28 @@
       ]
     },
     {
+      "id": "313028",
+      "tmdbId": 313028,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "进击的巨人 最终季 完结篇 （后篇）",
+      "releaseDate": "2023-11-04",
+      "lastUpdateDate": "2023-11-04",
+      "posterPath": "/5gaf9yFJHJTkg6KtLc7enqBY6UK.jpg",
+      "backdropPath": null,
+      "rating": 8.5,
+      "description": "2023 · ⭐ 8.5 · 日本\n《进击的巨人》系列的最终完结特别篇。化身末日巨人的艾连带领着无数巨人前进史拉托亚要塞。这时，出现在深陷绝境的难民们面前的，是在千钧一发之际逃过地鸣的米卡莎、阿尔敏、约翰、柯尼、莱纳、皮可和里维一行人。 过去的伙伴们和两位同年玩伴与艾连之间的战斗，即将划下句点。",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "30991",
       "tmdbId": 30991,
       "type": "tmdb",
@@ -2561,28 +2583,6 @@
         10759,
         10765,
         37
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "313028",
-      "tmdbId": 313028,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "进击的巨人 最终季 完结篇 （后篇）",
-      "releaseDate": "2023-11-04",
-      "lastUpdateDate": "2023-11-04",
-      "posterPath": "/5gaf9yFJHJTkg6KtLc7enqBY6UK.jpg",
-      "backdropPath": null,
-      "rating": 8.5,
-      "description": "2023 · ⭐ 8.5 · 日本\n《进击的巨人》系列的最终完结特别篇。化身末日巨人的艾连带领着无数巨人前进史拉托亚要塞。这时，出现在深陷绝境的难民们面前的，是在千钧一发之际逃过地鸣的米卡莎、阿尔敏、约翰、柯尼、莱纳、皮可和里维一行人。 过去的伙伴们和两位同年玩伴与艾连之间的战斗，即将划下句点。",
-      "genreTitle": "科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765
       ],
       "rawCountries": [
         "JP"
@@ -2634,6 +2634,29 @@
       ]
     },
     {
+      "id": "94664",
+      "tmdbId": 94664,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "无职转生：到了异世界就拿出真本事",
+      "releaseDate": "2021-01-11",
+      "lastUpdateDate": "2024-07-01",
+      "posterPath": "/wMSO4QgEyUhnf1XLIpz5w371xtb.jpg",
+      "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "rating": 8.6,
+      "description": "2021 · ⭐ 8.6 · 日本\n“我要在这个异世界拿出真本事！”34岁童贞且无职的家里蹲男子，在父母的葬礼当天被赶出家门后，在路上被一辆卡车所撞死。意识清醒后，他发现自己居然作为一个刚出生的婴儿转生到了剑与魔法的异世界！像废物一样活过了前世的男子，发誓要作为少年·鲁迪乌斯在异世界以认真的态度好好活下去！等待着鲁迪乌斯的是，与娇小魔术师、有着精灵长耳又很男孩子气的美少女、凶暴的傲娇大小姐以及其他性格各异的人们之间的邂逅，当然也还有残酷的冒险与战斗。新的人生就要开始了！“人生重来型”幻想冒险谭，在此开幕！",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        10759,
+        16,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "207784",
       "tmdbId": 207784,
       "type": "tmdb",
@@ -2651,29 +2674,6 @@
         16,
         35,
         10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "94664",
-      "tmdbId": 94664,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "无职转生：到了异世界就拿出真本事",
-      "releaseDate": "2021-01-11",
-      "lastUpdateDate": "2024-07-01",
-      "posterPath": "/wMSO4QgEyUhnf1XLIpz5w371xtb.jpg",
-      "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-      "rating": 8.6,
-      "description": "2021 · ⭐ 8.6 · 日本\n“我要在这个异世界拿出真本事！”34岁童贞且无职的家里蹲男子，在父母的葬礼当天被赶出家门后，在路上被一辆卡车所撞死。意识清醒后，他发现自己居然作为一个刚出生的婴儿转生到了剑与魔法的异世界！像废物一样活过了前世的男子，发誓要作为少年·鲁迪乌斯在异世界以认真的态度好好活下去！等待着鲁迪乌斯的是，与娇小魔术师、有着精灵长耳又很男孩子气的美少女、凶暴的傲娇大小姐以及其他性格各异的人们之间的邂逅，当然也还有残酷的冒险与战斗。新的人生就要开始了！“人生重来型”幻想冒险谭，在此开幕！",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        10759,
-        16,
         10765
       ],
       "rawCountries": [
