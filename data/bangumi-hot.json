@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09 12:57:10",
+  "last_updated": "2026-06-09 23:49:05",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -2543,6 +2543,28 @@
       ]
     },
     {
+      "id": "313028",
+      "tmdbId": 313028,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "进击的巨人 最终季 完结篇 （后篇）",
+      "releaseDate": "2023-11-04",
+      "lastUpdateDate": "2023-11-04",
+      "posterPath": "/5gaf9yFJHJTkg6KtLc7enqBY6UK.jpg",
+      "backdropPath": null,
+      "rating": 8.5,
+      "description": "2023 · ⭐ 8.5 · 日本\n《进击的巨人》系列的最终完结特别篇。化身末日巨人的艾连带领着无数巨人前进史拉托亚要塞。这时，出现在深陷绝境的难民们面前的，是在千钧一发之际逃过地鸣的米卡莎、阿尔敏、约翰、柯尼、莱纳、皮可和里维一行人。 过去的伙伴们和两位同年玩伴与艾连之间的战斗，即将划下句点。",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "30991",
       "tmdbId": 30991,
       "type": "tmdb",
@@ -2561,28 +2583,6 @@
         10759,
         10765,
         37
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "313028",
-      "tmdbId": 313028,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "进击的巨人 最终季 完结篇 （后篇）",
-      "releaseDate": "2023-11-04",
-      "lastUpdateDate": "2023-11-04",
-      "posterPath": "/5gaf9yFJHJTkg6KtLc7enqBY6UK.jpg",
-      "backdropPath": null,
-      "rating": 8.5,
-      "description": "2023 · ⭐ 8.5 · 日本\n《进击的巨人》系列的最终完结特别篇。化身末日巨人的艾连带领着无数巨人前进史拉托亚要塞。这时，出现在深陷绝境的难民们面前的，是在千钧一发之际逃过地鸣的米卡莎、阿尔敏、约翰、柯尼、莱纳、皮可和里维一行人。 过去的伙伴们和两位同年玩伴与艾连之间的战斗，即将划下句点。",
-      "genreTitle": "科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765
       ],
       "rawCountries": [
         "JP"
