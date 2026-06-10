@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 13:08:59",
+  "last_updated": "2026-06-11 00:28:55",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1287,30 +1287,6 @@
       ]
     },
     {
-      "id": "61415",
-      "tmdbId": 61415,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "命运之夜 无限剑制",
-      "releaseDate": "2014-10-12",
-      "lastUpdateDate": "2015-06-28",
-      "posterPath": "/jyqi5BkDoKKIA2WAoz3HBtRHld3.jpg",
-      "backdropPath": "/uqOcBHNHsmYPePmrvYhjraRxLdJ.jpg",
-      "rating": 8.0,
-      "description": "2014 · ⭐ 8.0 · 日本\n圣杯是传说中可实现持有者一切愿望的宝物。而为了得到圣杯的仪式就被称为圣杯战争。参加圣杯战争的 7 名由圣杯选出的魔术师被称为 Master，与7名被称为 Servant 的使魔订定契约。他们是由圣杯选择的七位英灵，被分为七个职阶，以使魔的身份被召唤出来。能获得圣杯的只有一组，这7组人马各自为了成为最后的那一组而互相残杀。卫宫切嗣的养子卫宫士郎，偶然地与 Servant 中的剑士 Saber 订定契约，被卷入圣杯战争当中 ……",
-      "genreTitle": "动作冒险 / 剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        10759,
-        16,
-        18,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "65844",
       "tmdbId": 65844,
       "type": "tmdb",
@@ -1328,6 +1304,30 @@
         10759,
         16,
         35,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "61415",
+      "tmdbId": 61415,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "命运之夜 无限剑制",
+      "releaseDate": "2014-10-12",
+      "lastUpdateDate": "2015-06-28",
+      "posterPath": "/jyqi5BkDoKKIA2WAoz3HBtRHld3.jpg",
+      "backdropPath": "/uqOcBHNHsmYPePmrvYhjraRxLdJ.jpg",
+      "rating": 8.0,
+      "description": "2014 · ⭐ 8.0 · 日本\n圣杯是传说中可实现持有者一切愿望的宝物。而为了得到圣杯的仪式就被称为圣杯战争。参加圣杯战争的 7 名由圣杯选出的魔术师被称为 Master，与7名被称为 Servant 的使魔订定契约。他们是由圣杯选择的七位英灵，被分为七个职阶，以使魔的身份被召唤出来。能获得圣杯的只有一组，这7组人马各自为了成为最后的那一组而互相残杀。卫宫切嗣的养子卫宫士郎，偶然地与 Servant 中的剑士 Saber 订定契约，被卷入圣杯战争当中 ……",
+      "genreTitle": "动作冒险 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        10759,
+        16,
+        18,
         10765
       ],
       "rawCountries": [
@@ -2611,29 +2611,6 @@
       ]
     },
     {
-      "id": "64196",
-      "tmdbId": 64196,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "OVERLORD",
-      "releaseDate": "2015-07-07",
-      "lastUpdateDate": "2022-09-27",
-      "posterPath": "/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "backdropPath": "/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "rating": 8.5,
-      "description": "2015 · ⭐ 8.5 · 日本\n作品主要讲述了某天，一款曾经掀起过大热潮的VRMMORPG「YGGDRASIL」停止了运营。游戏原本会停止一切服务，但过了结束时间后，玩家们却发现不能退出，NPC也产生了各自的思想。现实世界中喜爱电玩的主人公铃木悟（真名）在等待系统强制登出时，与“安兹·乌尔·恭”公会的成员一起意外穿越到了异世界，并且变成了拥有骷髅外表的最强魔法师——“飞鼠”。就这样，真正的奇幻传说正式拉开了帷幕。",
-      "genreTitle": "科幻奇幻 / 动作冒险",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765,
-        10759
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "94664",
       "tmdbId": 94664,
       "type": "tmdb",
@@ -2651,6 +2628,29 @@
         10759,
         16,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "64196",
+      "tmdbId": 64196,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "OVERLORD",
+      "releaseDate": "2015-07-07",
+      "lastUpdateDate": "2022-09-27",
+      "posterPath": "/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "backdropPath": "/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "rating": 8.5,
+      "description": "2015 · ⭐ 8.5 · 日本\n作品主要讲述了某天，一款曾经掀起过大热潮的VRMMORPG「YGGDRASIL」停止了运营。游戏原本会停止一切服务，但过了结束时间后，玩家们却发现不能退出，NPC也产生了各自的思想。现实世界中喜爱电玩的主人公铃木悟（真名）在等待系统强制登出时，与“安兹·乌尔·恭”公会的成员一起意外穿越到了异世界，并且变成了拥有骷髅外表的最强魔法师——“飞鼠”。就这样，真正的奇幻传说正式拉开了帷幕。",
+      "genreTitle": "科幻奇幻 / 动作冒险",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10759
       ],
       "rawCountries": [
         "JP"
