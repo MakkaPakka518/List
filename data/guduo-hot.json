@@ -1,13 +1,13 @@
 {
   "source": "Guduo Media",
-  "billboard_date": "2026-06-13",
-  "last_updated": "2026-06-14 17:19:46",
+  "billboard_date": "2026-06-14",
+  "last_updated": "2026-06-15 19:47:39",
   "categories": {
     "剧集": [
       {
         "title": "莫离",
         "rank": 1,
-        "heat": "75.68",
+        "heat": "75.79",
         "category": "剧集",
         "tmdbId": 292696,
         "mediaType": "tv",
@@ -22,7 +22,7 @@
       {
         "title": "南部档案",
         "rank": 2,
-        "heat": "75.24",
+        "heat": "75.52",
         "category": "剧集",
         "tmdbId": 278605,
         "mediaType": "tv",
@@ -37,7 +37,7 @@
       {
         "title": "翘楚",
         "rank": 3,
-        "heat": "74.85",
+        "heat": "74.76",
         "category": "剧集",
         "tmdbId": 289271,
         "mediaType": "tv",
@@ -47,12 +47,12 @@
         "rating": 8.7,
         "overview": "将军之女楚朝为改变自己成为楚国世子萧珣夺权路上牺牲品的可悲命运，发现主动出击才是改变命运的唯一途径。在与命运一波三折的对抗中，她与谢家庶子谢燕来相识，并点亮了谢燕来原本灰暗阴鹜的人生，助谢燕来挣脱命运枷锁，从禁军小卒一步步成长为镇国大将军，楚朝与谢燕来合力成功阻止了萧珣的野心和计划。在本该逃离是非之地的途中，见到战火中百姓的苦难，楚朝毅然决然返回城内，助力小皇孙萧羽为帝，直至萧羽亲政。然而萧珣又引外敌来犯，为权欲不惜陷万民于水火。楚朝携手谢燕来与之殊死抵抗，领军浴血奋战，终于成功解除大楚内忧外患。至此，楚朝不仅改变了自己的命运，也让大楚千千万万百姓摆脱了战火离乱的颠沛命运。",
         "regionTitle": "中国大陆",
-        "genreTitle": "剧情 / 科幻奇幻"
+        "genreTitle": "剧情"
       },
       {
         "title": "耀眼",
         "rank": 4,
-        "heat": "71.99",
+        "heat": "71.42",
         "category": "剧集",
         "tmdbId": 287641,
         "mediaType": "tv",
@@ -67,7 +67,7 @@
       {
         "title": "灵魂摆渡·十年",
         "rank": 5,
-        "heat": "69.79",
+        "heat": "69.46",
         "category": "剧集",
         "tmdbId": 289147,
         "mediaType": "tv",
@@ -82,7 +82,7 @@
       {
         "title": "低智商犯罪",
         "rank": 6,
-        "heat": "68.46",
+        "heat": "68.23",
         "category": "剧集",
         "tmdbId": 272432,
         "mediaType": "tv",
@@ -97,7 +97,7 @@
       {
         "title": "大唐迷雾",
         "rank": 7,
-        "heat": "67.23",
+        "heat": "67.18",
         "category": "剧集",
         "tmdbId": 289209,
         "mediaType": "tv",
@@ -112,7 +112,7 @@
       {
         "title": "良陈美锦",
         "rank": 8,
-        "heat": "66.23",
+        "heat": "66.15",
         "category": "剧集",
         "tmdbId": 283952,
         "mediaType": "tv",
@@ -127,7 +127,7 @@
       {
         "title": "黑夜告白",
         "rank": 9,
-        "heat": "64.19",
+        "heat": "64.12",
         "category": "剧集",
         "tmdbId": 254498,
         "mediaType": "tv",
@@ -142,7 +142,7 @@
       {
         "title": "盛唐奇案",
         "rank": 10,
-        "heat": "63.54",
+        "heat": "63.67",
         "category": "剧集",
         "tmdbId": 321802,
         "mediaType": "tv",
@@ -157,7 +157,7 @@
       {
         "title": "佳偶天成",
         "rank": 11,
-        "heat": "62.33",
+        "heat": "62.15",
         "category": "剧集",
         "tmdbId": 272715,
         "mediaType": "tv",
@@ -172,7 +172,7 @@
       {
         "title": "樊笼",
         "rank": 12,
-        "heat": "61.45",
+        "heat": "61.90",
         "category": "剧集",
         "tmdbId": 128653,
         "mediaType": "tv",
@@ -187,7 +187,7 @@
       {
         "title": "欢迎回我的频道",
         "rank": 13,
-        "heat": "61.11",
+        "heat": "61.00",
         "category": "剧集",
         "tmdbId": 303572,
         "mediaType": "tv",
@@ -202,7 +202,7 @@
       {
         "title": "月鳞绮纪",
         "rank": 14,
-        "heat": "60.52",
+        "heat": "60.37",
         "category": "剧集",
         "tmdbId": 278275,
         "mediaType": "tv",
@@ -217,7 +217,7 @@
       {
         "title": "钢铁森林",
         "rank": 15,
-        "heat": "59.16",
+        "heat": "59.07",
         "category": "剧集",
         "tmdbId": 281392,
         "mediaType": "tv",
@@ -232,7 +232,7 @@
       {
         "title": "婚后再心动",
         "rank": 16,
-        "heat": "58.75",
+        "heat": "58.44",
         "category": "剧集",
         "tmdbId": 323689,
         "mediaType": "tv",
@@ -247,7 +247,7 @@
       {
         "title": "方圆八百米",
         "rank": 17,
-        "heat": "57.24",
+        "heat": "57.18",
         "category": "剧集",
         "tmdbId": 278868,
         "mediaType": "tv",
@@ -262,7 +262,7 @@
       {
         "title": "借颜",
         "rank": 18,
-        "heat": "56.19",
+        "heat": "56.12",
         "category": "剧集",
         "tmdbId": 313397,
         "mediaType": "tv",
@@ -277,7 +277,7 @@
       {
         "title": "危情逆恋",
         "rank": 19,
-        "heat": "55.24",
+        "heat": "55.71",
         "category": "剧集",
         "tmdbId": 323349,
         "mediaType": "tv",
@@ -292,7 +292,7 @@
       {
         "title": "香港探秘地图",
         "rank": 20,
-        "heat": "55.12",
+        "heat": "55.09",
         "category": "剧集",
         "tmdbId": 277870,
         "mediaType": "tv",
@@ -309,7 +309,7 @@
       {
         "title": "乘风2026",
         "rank": 1,
-        "heat": "57.62",
+        "heat": "56.79",
         "category": "综艺",
         "tmdbId": 286995,
         "mediaType": "tv",
@@ -324,7 +324,7 @@
       {
         "title": "哈哈哈哈哈 第六季",
         "rank": 2,
-        "heat": "55.74",
+        "heat": "56.03",
         "category": "综艺",
         "tmdbId": 112732,
         "mediaType": "tv",
@@ -339,7 +339,7 @@
       {
         "title": "开始推理吧 第四季",
         "rank": 3,
-        "heat": "52.18",
+        "heat": "52.12",
         "category": "综艺",
         "tmdbId": 203003,
         "mediaType": "tv",
@@ -354,7 +354,7 @@
       {
         "title": "五十公里桃花坞 第六季",
         "rank": 4,
-        "heat": "51.24",
+        "heat": "50.98",
         "category": "综艺",
         "tmdbId": 126398,
         "mediaType": "tv",
@@ -369,7 +369,7 @@
       {
         "title": "妻子的浪漫旅行2026",
         "rank": 5,
-        "heat": "50.13",
+        "heat": "50.10",
         "category": "综艺",
         "tmdbId": 97199,
         "mediaType": "tv",
@@ -384,7 +384,7 @@
       {
         "title": "这是我的西游2",
         "rank": 6,
-        "heat": "49.67",
+        "heat": "49.33",
         "category": "综艺",
         "tmdbId": 251718,
         "mediaType": "tv",
@@ -399,7 +399,7 @@
       {
         "title": "种地吧 第四季",
         "rank": 7,
-        "heat": "49.14",
+        "heat": "49.16",
         "category": "综艺",
         "tmdbId": 219934,
         "mediaType": "tv",
@@ -414,7 +414,7 @@
       {
         "title": "半熟恋人 第五季",
         "rank": 8,
-        "heat": "48.79",
+        "heat": "48.45",
         "category": "综艺",
         "tmdbId": 154420,
         "mediaType": "tv",
@@ -429,7 +429,7 @@
       {
         "title": "喜欢你我也是 第六季",
         "rank": 9,
-        "heat": "46.67",
+        "heat": "46.52",
         "category": "综艺",
         "tmdbId": 124265,
         "mediaType": "tv",
@@ -444,7 +444,7 @@
       {
         "title": "天才厨人",
         "rank": 10,
-        "heat": "46.23",
+        "heat": "46.10",
         "category": "综艺",
         "tmdbId": 325041,
         "mediaType": "tv",
@@ -459,7 +459,7 @@
       {
         "title": "大侦探第十一季",
         "rank": 11,
-        "heat": "45.22",
+        "heat": "45.16",
         "category": "综艺",
         "tmdbId": 74561,
         "mediaType": "tv",
@@ -474,7 +474,7 @@
       {
         "title": "怦然心动20岁：冬季",
         "rank": 12,
-        "heat": "45.06",
+        "heat": "45.08",
         "category": "综艺",
         "tmdbId": 206122,
         "mediaType": "tv",
@@ -489,7 +489,7 @@
       {
         "title": "我家那小子2026",
         "rank": 13,
-        "heat": "44.71",
+        "heat": "44.61",
         "category": "综艺",
         "tmdbId": 196747,
         "mediaType": "tv",
@@ -504,7 +504,7 @@
       {
         "title": "爸爸当家5",
         "rank": 14,
-        "heat": "44.23",
+        "heat": "44.12",
         "category": "综艺",
         "tmdbId": 201781,
         "mediaType": "tv",
@@ -519,7 +519,7 @@
       {
         "title": "亲爱的客栈2026",
         "rank": 15,
-        "heat": "44.06",
+        "heat": "44.08",
         "category": "综艺",
         "tmdbId": 163813,
         "mediaType": "tv",
@@ -534,7 +534,7 @@
       {
         "title": "超燃青春的合唱",
         "rank": 16,
-        "heat": "43.54",
+        "heat": "43.36",
         "category": "综艺",
         "tmdbId": 320614,
         "mediaType": "tv",
@@ -549,7 +549,7 @@
       {
         "title": "奋斗吧人生—演员篇",
         "rank": 17,
-        "heat": "43.11",
+        "heat": "43.25",
         "category": "综艺",
         "tmdbId": 317605,
         "mediaType": "tv",
@@ -564,7 +564,7 @@
       {
         "title": "魔力歌先生",
         "rank": 20,
-        "heat": "41.39",
+        "heat": "41.29",
         "category": "综艺",
         "tmdbId": 315850,
         "mediaType": "tv",
@@ -579,39 +579,9 @@
     ],
     "动漫": [
       {
-        "title": "斗罗大陆Ⅱ绝世唐门",
-        "rank": 1,
-        "heat": "49.36",
-        "category": "动漫",
-        "tmdbId": 228429,
-        "mediaType": "tv",
-        "tmdbTitle": "斗罗大陆Ⅱ绝世唐门",
-        "releaseDate": "2023-06-24",
-        "posterPath": "/g2aswQ7uRO7dccPhD6BUaTL02ju.jpg",
-        "rating": 7.9,
-        "overview": "这里没有魔法，没有斗气，没有武术，却有武魂。唐门创立万年之后的斗罗大陆上，唐门式微。一代天骄横空出世，新一代史莱克七怪能否重振唐门，谱写一曲绝世唐门之歌？ 百万年魂兽，手握日月摘星辰的死灵圣法神，导致唐门衰落的全新魂导器体系。一切的神奇都将一一展现。 唐门暗器能否重振雄风，唐门能否重现辉煌？",
-        "regionTitle": "中国大陆",
-        "genreTitle": "动画 / 科幻奇幻 / 剧情"
-      },
-      {
-        "title": "完美世界",
-        "rank": 2,
-        "heat": "47.55",
-        "category": "动漫",
-        "tmdbId": 124003,
-        "mediaType": "tv",
-        "tmdbTitle": "完美世界",
-        "releaseDate": "2021-04-23",
-        "posterPath": "/gGhqTA28FH9EITIq27CWmeXC3KZ.jpg",
-        "rating": 8.4,
-        "overview": "本作动画改编自起点白金作者辰东遮天三部曲的第二部——完美世界。他为修道而生，为应劫而至，他身化亿万血雨，洒落万古岁月，经历无数时空的熬炼，岁月长河的洗礼，他化万古，他化自在。看男主石昊如何一生极致辉煌，造就无尽传说。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "科幻奇幻 / 动画"
-      },
-      {
         "title": "仙逆",
-        "rank": 3,
-        "heat": "47.11",
+        "rank": 1,
+        "heat": "48.97",
         "category": "动漫",
         "tmdbId": 223911,
         "mediaType": "tv",
@@ -624,24 +594,9 @@
         "genreTitle": "动画 / 剧情 / 科幻奇幻"
       },
       {
-        "title": "镖人 第2季",
-        "rank": 4,
-        "heat": "46.23",
-        "category": "动漫",
-        "tmdbId": 107463,
-        "mediaType": "tv",
-        "tmdbTitle": "镖人",
-        "releaseDate": "2023-06-01",
-        "posterPath": "/5PjggLlB72crt1ZIphSya75pInb.jpg",
-        "rating": 7.1,
-        "overview": "《镖人》动画由腾讯视频出品，改编自许先哲著同名漫画，讲述了公元607年，当朝皇帝残暴无道、民不聊生，正值最黑暗的时代。身手不凡的镖客刀马行走于西域大漠，在躲避朝廷追杀的途中，他接下了一个目的地为长安的护送任务，本以为只是一趟简单的护镖，却没想到一路危机四伏，险象环生。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "动画"
-      },
-      {
         "title": "沧元图",
-        "rank": 5,
-        "heat": "46.00",
+        "rank": 2,
+        "heat": "46.97",
         "category": "动漫",
         "tmdbId": 229192,
         "mediaType": "tv",
@@ -654,9 +609,39 @@
         "genreTitle": "动画"
       },
       {
+        "title": "完美世界",
+        "rank": 3,
+        "heat": "46.78",
+        "category": "动漫",
+        "tmdbId": 124003,
+        "mediaType": "tv",
+        "tmdbTitle": "完美世界",
+        "releaseDate": "2021-04-23",
+        "posterPath": "/gGhqTA28FH9EITIq27CWmeXC3KZ.jpg",
+        "rating": 8.4,
+        "overview": "本作动画改编自起点白金作者辰东遮天三部曲的第二部——完美世界。他为修道而生，为应劫而至，他身化亿万血雨，洒落万古岁月，经历无数时空的熬炼，岁月长河的洗礼，他化万古，他化自在。看男主石昊如何一生极致辉煌，造就无尽传说。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "科幻奇幻 / 动画"
+      },
+      {
+        "title": "镖人 第2季",
+        "rank": 4,
+        "heat": "46.13",
+        "category": "动漫",
+        "tmdbId": 107463,
+        "mediaType": "tv",
+        "tmdbTitle": "镖人",
+        "releaseDate": "2023-06-01",
+        "posterPath": "/5PjggLlB72crt1ZIphSya75pInb.jpg",
+        "rating": 7.1,
+        "overview": "《镖人》动画由腾讯视频出品，改编自许先哲著同名漫画，讲述了公元607年，当朝皇帝残暴无道、民不聊生，正值最黑暗的时代。身手不凡的镖客刀马行走于西域大漠，在躲避朝廷追杀的途中，他接下了一个目的地为长安的护送任务，本以为只是一趟简单的护镖，却没想到一路危机四伏，险象环生。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "动画"
+      },
+      {
         "title": "剑来 第二季",
-        "rank": 6,
-        "heat": "45.99",
+        "rank": 5,
+        "heat": "45.64",
         "category": "动漫",
         "tmdbId": 259537,
         "mediaType": "tv",
@@ -670,8 +655,8 @@
       },
       {
         "title": "牧神记",
-        "rank": 8,
-        "heat": "45.21",
+        "rank": 7,
+        "heat": "45.08",
         "category": "动漫",
         "tmdbId": 236534,
         "mediaType": "tv",
@@ -685,8 +670,8 @@
       },
       {
         "title": "一人之下 第6季",
-        "rank": 9,
-        "heat": "45.05",
+        "rank": 8,
+        "heat": "44.92",
         "category": "动漫",
         "tmdbId": 67063,
         "mediaType": "tv",
@@ -700,8 +685,8 @@
       },
       {
         "title": "斗破苍穹年番",
-        "rank": 10,
-        "heat": "44.85",
+        "rank": 9,
+        "heat": "44.56",
         "category": "动漫",
         "tmdbId": 79481,
         "mediaType": "tv",
@@ -715,8 +700,8 @@
       },
       {
         "title": "吞噬星空",
-        "rank": 11,
-        "heat": "44.45",
+        "rank": 10,
+        "heat": "44.26",
         "category": "动漫",
         "tmdbId": 101172,
         "mediaType": "tv",
@@ -730,8 +715,8 @@
       },
       {
         "title": "全职法师 第七季",
-        "rank": 12,
-        "heat": "44.18",
+        "rank": 11,
+        "heat": "44.09",
         "category": "动漫",
         "tmdbId": 70311,
         "mediaType": "tv",
@@ -745,8 +730,8 @@
       },
       {
         "title": "遮天",
-        "rank": 13,
-        "heat": "43.93",
+        "rank": 12,
+        "heat": "43.45",
         "category": "动漫",
         "tmdbId": 224839,
         "mediaType": "tv",
@@ -759,9 +744,24 @@
         "genreTitle": "动画 / 科幻奇幻"
       },
       {
+        "title": "斗罗大陆Ⅱ绝世唐门",
+        "rank": 13,
+        "heat": "43.24",
+        "category": "动漫",
+        "tmdbId": 228429,
+        "mediaType": "tv",
+        "tmdbTitle": "斗罗大陆Ⅱ绝世唐门",
+        "releaseDate": "2023-06-24",
+        "posterPath": "/g2aswQ7uRO7dccPhD6BUaTL02ju.jpg",
+        "rating": 7.9,
+        "overview": "这里没有魔法，没有斗气，没有武术，却有武魂。唐门创立万年之后的斗罗大陆上，唐门式微。一代天骄横空出世，新一代史莱克七怪能否重振唐门，谱写一曲绝世唐门之歌？ 百万年魂兽，手握日月摘星辰的死灵圣法神，导致唐门衰落的全新魂导器体系。一切的神奇都将一一展现。 唐门暗器能否重振雄风，唐门能否重现辉煌？",
+        "regionTitle": "中国大陆",
+        "genreTitle": "动画 / 科幻奇幻 / 剧情"
+      },
+      {
         "title": "盘龙",
         "rank": 14,
-        "heat": "43.24",
+        "heat": "43.12",
         "category": "动漫",
         "tmdbId": 283805,
         "mediaType": "tv",
@@ -776,7 +776,7 @@
       {
         "title": "师兄啊师兄",
         "rank": 15,
-        "heat": "43.11",
+        "heat": "42.97",
         "category": "动漫",
         "tmdbId": 218642,
         "mediaType": "tv",
@@ -791,7 +791,7 @@
       {
         "title": "凡人修仙传年番",
         "rank": 16,
-        "heat": "42.67",
+        "heat": "42.43",
         "category": "动漫",
         "tmdbId": 106449,
         "mediaType": "tv",
@@ -806,7 +806,7 @@
       {
         "title": "神印王座",
         "rank": 17,
-        "heat": "42.25",
+        "heat": "42.18",
         "category": "动漫",
         "tmdbId": 198182,
         "mediaType": "tv",
@@ -819,24 +819,9 @@
         "genreTitle": "动画 / 剧情 / 科幻奇幻"
       },
       {
-        "title": "紫川 第2季",
-        "rank": 18,
-        "heat": "41.65",
-        "category": "动漫",
-        "tmdbId": 153869,
-        "mediaType": "tv",
-        "tmdbTitle": "紫川",
-        "releaseDate": "2021-12-21",
-        "posterPath": "/8VzCvYYkpojS4fB1QEThdY17Ri0.jpg",
-        "rating": 8.5,
-        "overview": "　　故事讲述了神话般的西川大陆，一代代的热血传奇：人类帝国之内，遥远神秘的东方家族里，紫川三杰雄起！大哥帝林沉稳多谋冷酷理智，二哥斯特林统军有方忠君爱国，老三紫川秀被人称之为无赖，却又智勇双全。紫川家族内忧外患，紫川三杰各显神通：紫川秀在关键时刻击退凶狠魔族，孤身闯虎穴追杀叛逆雷洪；斯特林以家族为重，无情而又深情惜别恋人.....人类、魔族、兽族、远东各族，在这片大陆上纷纷扰扰，纠葛不断。在血与火的交融中，刀与剑的碰撞中，构成了庞大的史诗般的故事——紫川。动画描绘了一个独特奇妙的世界，将一群不同性格的人物，一个个展现出来，谱写了一曲既壮烈，又凄婉的传奇悲歌……",
-        "regionTitle": "中国大陆",
-        "genreTitle": "动画 / 科幻奇幻"
-      },
-      {
         "title": "光阴之外",
-        "rank": 19,
-        "heat": "41.33",
+        "rank": 18,
+        "heat": "41.91",
         "category": "动漫",
         "tmdbId": 281233,
         "mediaType": "tv",
@@ -849,9 +834,24 @@
         "genreTitle": "动画 / 科幻奇幻"
       },
       {
+        "title": "紫川 第2季",
+        "rank": 19,
+        "heat": "41.46",
+        "category": "动漫",
+        "tmdbId": 153869,
+        "mediaType": "tv",
+        "tmdbTitle": "紫川",
+        "releaseDate": "2021-12-21",
+        "posterPath": "/8VzCvYYkpojS4fB1QEThdY17Ri0.jpg",
+        "rating": 8.5,
+        "overview": "　　故事讲述了神话般的西川大陆，一代代的热血传奇：人类帝国之内，遥远神秘的东方家族里，紫川三杰雄起！大哥帝林沉稳多谋冷酷理智，二哥斯特林统军有方忠君爱国，老三紫川秀被人称之为无赖，却又智勇双全。紫川家族内忧外患，紫川三杰各显神通：紫川秀在关键时刻击退凶狠魔族，孤身闯虎穴追杀叛逆雷洪；斯特林以家族为重，无情而又深情惜别恋人.....人类、魔族、兽族、远东各族，在这片大陆上纷纷扰扰，纠葛不断。在血与火的交融中，刀与剑的碰撞中，构成了庞大的史诗般的故事——紫川。动画描绘了一个独特奇妙的世界，将一群不同性格的人物，一个个展现出来，谱写了一曲既壮烈，又凄婉的传奇悲歌……",
+        "regionTitle": "中国大陆",
+        "genreTitle": "动画 / 科幻奇幻"
+      },
+      {
         "title": "择天记",
         "rank": 20,
-        "heat": "40.88",
+        "heat": "40.61",
         "category": "动漫",
         "tmdbId": 282158,
         "mediaType": "tv",
@@ -868,7 +868,7 @@
       {
         "title": "卧底神探",
         "rank": 1,
-        "heat": "46.33",
+        "heat": "46.29",
         "category": "电影",
         "tmdbId": 1707914,
         "mediaType": "movie",
@@ -883,7 +883,7 @@
       {
         "title": "狄仁杰之血谜棺",
         "rank": 2,
-        "heat": "46.12",
+        "heat": "46.11",
         "category": "电影",
         "tmdbId": 1712693,
         "mediaType": "movie",
@@ -898,7 +898,7 @@
       {
         "title": "盗墓大案",
         "rank": 3,
-        "heat": "45.50",
+        "heat": "45.26",
         "category": "电影",
         "tmdbId": 1660900,
         "mediaType": "movie",
@@ -913,7 +913,7 @@
       {
         "title": "恶念",
         "rank": 4,
-        "heat": "45.27",
+        "heat": "45.18",
         "category": "电影",
         "tmdbId": 1711198,
         "mediaType": "movie",
@@ -928,7 +928,7 @@
       {
         "title": "伪钞重案",
         "rank": 5,
-        "heat": "45.11",
+        "heat": "45.09",
         "category": "电影",
         "tmdbId": 1592031,
         "mediaType": "movie",
@@ -943,7 +943,7 @@
       {
         "title": "追恶",
         "rank": 7,
-        "heat": "44.34",
+        "heat": "44.26",
         "category": "电影",
         "tmdbId": 1480790,
         "mediaType": "movie",
@@ -958,7 +958,7 @@
       {
         "title": "扫恶",
         "rank": 8,
-        "heat": "44.18",
+        "heat": "44.16",
         "category": "电影",
         "tmdbId": 1654429,
         "mediaType": "movie",
@@ -973,7 +973,7 @@
       {
         "title": "东北往事·极恶不赦",
         "rank": 9,
-        "heat": "44.10",
+        "heat": "44.08",
         "category": "电影",
         "tmdbId": 1687111,
         "mediaType": "movie",
@@ -988,7 +988,7 @@
       {
         "title": "插翅难飞",
         "rank": 10,
-        "heat": "43.96",
+        "heat": "43.49",
         "category": "电影",
         "tmdbId": 1126166,
         "mediaType": "movie",
@@ -1003,7 +1003,7 @@
       {
         "title": "红石滩阻击战",
         "rank": 11,
-        "heat": "43.45",
+        "heat": "43.21",
         "category": "电影",
         "tmdbId": 1688304,
         "mediaType": "movie",
@@ -1018,7 +1018,7 @@
       {
         "title": "百万诱惑",
         "rank": 12,
-        "heat": "43.05",
+        "heat": "43.11",
         "category": "电影",
         "tmdbId": 1700459,
         "mediaType": "movie",
@@ -1033,7 +1033,7 @@
       {
         "title": "血战青龙寨",
         "rank": 13,
-        "heat": "42.99",
+        "heat": "42.49",
         "category": "电影",
         "tmdbId": 1698215,
         "mediaType": "movie",
@@ -1063,7 +1063,7 @@
       {
         "title": "长白山猎人传说2",
         "rank": 16,
-        "heat": "41.16",
+        "heat": "41.37",
         "category": "电影",
         "tmdbId": 1238046,
         "mediaType": "movie",
@@ -1076,24 +1076,24 @@
         "genreTitle": "电影"
       },
       {
-        "title": "东北奇妙故事之摇篮曲",
-        "rank": 17,
-        "heat": "41.05",
+        "title": "调平",
+        "rank": 18,
+        "heat": "40.67",
         "category": "电影",
-        "tmdbId": 1689164,
+        "tmdbId": 1148319,
         "mediaType": "movie",
-        "tmdbTitle": "东北奇妙故事之摇篮曲",
-        "releaseDate": "2026-05-06",
-        "posterPath": "/qpUcUChUbvlbl3yNbmSDqOzjMxb.jpg",
+        "tmdbTitle": "王菲 & 邓丽君 - 清平调",
+        "releaseDate": "",
+        "posterPath": "/xGxHRaPpe8vWjZPjWt1iSaTMpLj.jpg",
         "rating": 0.0,
-        "overview": "应声井边，郭翠兰半夜冲姑娘喊“妈”。她的傻儿子朴聪死了，她坚持守灵三天，不让拉走尸体。老白头带肖墨、林望儿进村，发现供香掺了苦艾草，守灵夜尸体凭空移到客厅，地上有冰脚印。肖墨被勒晕塞进纸棺，林望儿在镜中看见自己变成老太太。外甥郭勇殷勤张罗后事，背地里却拿房产合同逼姑姑过户，调换供香、伪造尸移，想坐实“疯母杀人”。老白头看穿把戏，揭开真相：郭翠兰患阿尔茨海默症，发病打儿子，清醒时喂毒汤，儿子死了她独活。老白头让母子幻境告别。所有怪事背后，是贪心与一个母亲遗忘的爱。",
+        "overview": "王菲 & 邓丽君 - 清平调 *两代天后隔空深情对唱*",
         "regionTitle": "未知地区",
         "genreTitle": "电影"
       },
       {
         "title": "孤雁",
-        "rank": 18,
-        "heat": "40.58",
+        "rank": 19,
+        "heat": "40.24",
         "category": "电影",
         "tmdbId": 1679434,
         "mediaType": "movie",
@@ -1106,17 +1106,17 @@
         "genreTitle": "电影"
       },
       {
-        "title": "调平",
+        "title": "东北奇妙故事之摇篮曲",
         "rank": 20,
-        "heat": "40.36",
+        "heat": "40.10",
         "category": "电影",
-        "tmdbId": 1148319,
+        "tmdbId": 1689164,
         "mediaType": "movie",
-        "tmdbTitle": "王菲 & 邓丽君 - 清平调",
-        "releaseDate": "",
-        "posterPath": "/xGxHRaPpe8vWjZPjWt1iSaTMpLj.jpg",
+        "tmdbTitle": "东北奇妙故事之摇篮曲",
+        "releaseDate": "2026-05-06",
+        "posterPath": "/qpUcUChUbvlbl3yNbmSDqOzjMxb.jpg",
         "rating": 0.0,
-        "overview": "王菲 & 邓丽君 - 清平调 *两代天后隔空深情对唱*",
+        "overview": "应声井边，郭翠兰半夜冲姑娘喊“妈”。她的傻儿子朴聪死了，她坚持守灵三天，不让拉走尸体。老白头带肖墨、林望儿进村，发现供香掺了苦艾草，守灵夜尸体凭空移到客厅，地上有冰脚印。肖墨被勒晕塞进纸棺，林望儿在镜中看见自己变成老太太。外甥郭勇殷勤张罗后事，背地里却拿房产合同逼姑姑过户，调换供香、伪造尸移，想坐实“疯母杀人”。老白头看穿把戏，揭开真相：郭翠兰患阿尔茨海默症，发病打儿子，清醒时喂毒汤，儿子死了她独活。老白头让母子幻境告别。所有怪事背后，是贪心与一个母亲遗忘的爱。",
         "regionTitle": "未知地区",
         "genreTitle": "电影"
       }
