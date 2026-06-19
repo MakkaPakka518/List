@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 14:05:26",
+  "last_updated": "2026-06-19 23:54:50",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -945,6 +945,28 @@
       ]
     },
     {
+      "id": "36865",
+      "tmdbId": 36865,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "凉宫春日的消失",
+      "releaseDate": "2010-02-05",
+      "lastUpdateDate": "2010-02-05",
+      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
+      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+      "rating": 7.9,
+      "description": "2010 · ⭐ 7.9 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
+      "genreTitle": "科幻 / 悬疑 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        9648,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "31911",
       "tmdbId": 31911,
       "type": "tmdb",
@@ -967,28 +989,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "36865",
-      "tmdbId": 36865,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "凉宫春日的消失",
-      "releaseDate": "2010-02-05",
-      "lastUpdateDate": "2010-02-05",
-      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
-      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
-      "rating": 7.9,
-      "description": "2010 · ⭐ 7.9 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
-      "genreTitle": "科幻 / 悬疑 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        878,
-        9648,
-        18
-      ],
-      "rawCountries": []
     },
     {
       "id": "1429",
@@ -1857,6 +1857,29 @@
       ]
     },
     {
+      "id": "299555",
+      "tmdbId": 299555,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "电锯人 总集篇",
+      "releaseDate": "2025-09-05",
+      "lastUpdateDate": "2025-09-05",
+      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
+      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
+      "rating": 8.7,
+      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "72636",
       "tmdbId": 72636,
       "type": "tmdb",
@@ -1873,29 +1896,6 @@
       "rawGenres": [
         16,
         18,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "299555",
-      "tmdbId": 299555,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "电锯人 总集篇",
-      "releaseDate": "2025-09-05",
-      "lastUpdateDate": "2025-09-05",
-      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
-      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
-      "rating": 8.7,
-      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
         10759,
         10765
       ],
@@ -2247,27 +2247,6 @@
       "rawCountries": []
     },
     {
-      "id": "257475",
-      "tmdbId": 257475,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "玉子爱情故事",
-      "releaseDate": "2014-04-26",
-      "lastUpdateDate": "2014-04-26",
-      "posterPath": "/6I6wKkNX41txFSTy3NKroxRtKSG.jpg",
-      "backdropPath": "/z212lEwKZAxLjN7LqXCVxCb3kWc.jpg",
-      "rating": 7.2,
-      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
-      "genreTitle": "爱情 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        10749,
-        16,
-        35
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "15137",
       "tmdbId": 15137,
       "type": "tmdb",
@@ -2286,6 +2265,27 @@
         878,
         28,
         18
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "257475",
+      "tmdbId": 257475,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "玉子爱情故事",
+      "releaseDate": "2014-04-26",
+      "lastUpdateDate": "2014-04-26",
+      "posterPath": "/6I6wKkNX41txFSTy3NKroxRtKSG.jpg",
+      "backdropPath": "/z212lEwKZAxLjN7LqXCVxCb3kWc.jpg",
+      "rating": 7.2,
+      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
+      "genreTitle": "爱情 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        10749,
+        16,
+        35
       ],
       "rawCountries": []
     },
