@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 00:20:30",
+  "last_updated": "2026-06-19 14:05:26",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1518,28 +1518,6 @@
       ]
     },
     {
-      "id": "95710",
-      "tmdbId": 95710,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "小凉宫春日的忧郁",
-      "releaseDate": "2009-02-14",
-      "lastUpdateDate": "2009-05-15",
-      "posterPath": "/zIJVT0k8vSLl8sRSiLEb2v0vghc.jpg",
-      "backdropPath": "/cK8S9hZe0B8GVrKbTmv5kjysdL7.jpg",
-      "rating": 6.5,
-      "description": "2009 · ⭐ 6.5 · 日本\n小凉宫春日的忧郁是由作家ぷよ根据谷川流的原作改编的漫画二次创作。版权和凉宫春日一样归于角川书店所有。漫画以四格为主要表现形式，里面的主人公基本保留了原有的个性，但同时又新增不少搞笑有趣的新设定，因此一经推出就大受欢迎。目前小凉宫春日的忧郁已经决定由京都制作成网络动画在YouTube上播放，同时搭载的还有动画《猫嘴鹤屋》",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "117933",
       "tmdbId": 117933,
       "type": "tmdb",
@@ -1557,6 +1535,28 @@
         16,
         18,
         9648
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "95710",
+      "tmdbId": 95710,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "小凉宫春日的忧郁",
+      "releaseDate": "2009-02-14",
+      "lastUpdateDate": "2009-05-15",
+      "posterPath": "/zIJVT0k8vSLl8sRSiLEb2v0vghc.jpg",
+      "backdropPath": "/cK8S9hZe0B8GVrKbTmv5kjysdL7.jpg",
+      "rating": 6.5,
+      "description": "2009 · ⭐ 6.5 · 日本\n小凉宫春日的忧郁是由作家ぷよ根据谷川流的原作改编的漫画二次创作。版权和凉宫春日一样归于角川书店所有。漫画以四格为主要表现形式，里面的主人公基本保留了原有的个性，但同时又新增不少搞笑有趣的新设定，因此一经推出就大受欢迎。目前小凉宫春日的忧郁已经决定由京都制作成网络动画在YouTube上播放，同时搭载的还有动画《猫嘴鹤屋》",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
       ],
       "rawCountries": [
         "JP"
