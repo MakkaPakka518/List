@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 23:54:50",
+  "last_updated": "2026-06-20 13:02:28",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1857,29 +1857,6 @@
       ]
     },
     {
-      "id": "299555",
-      "tmdbId": 299555,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "电锯人 总集篇",
-      "releaseDate": "2025-09-05",
-      "lastUpdateDate": "2025-09-05",
-      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
-      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
-      "rating": 8.7,
-      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "72636",
       "tmdbId": 72636,
       "type": "tmdb",
@@ -1896,6 +1873,29 @@
       "rawGenres": [
         16,
         18,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "299555",
+      "tmdbId": 299555,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "电锯人 总集篇",
+      "releaseDate": "2025-09-05",
+      "lastUpdateDate": "2025-09-05",
+      "posterPath": "/7Qlvm0YSZGkZ3Q3mVxYSyDbOoaJ.jpg",
+      "backdropPath": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
+      "rating": 8.7,
+      "description": "2025 · ⭐ 8.7 · 日本\n这部分为前后两部分的总集篇（Part I 和 Part II），对《电锯人》第一季的精彩片段进行了重新剪辑与浓缩。作品重温了电次的旅程——从身为背负债务的恶魔猎人开始，到他化身为电锯人的过程。\n\n除了重新剪辑的内容外，总集篇还加入了全新动画片段《Chainsaw Days》。这些片段改编自原作漫画中的特别篇章。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
         10759,
         10765
       ],
@@ -1995,6 +1995,29 @@
       ]
     },
     {
+      "id": "123249",
+      "tmdbId": 123249,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "更衣人偶坠入爱河",
+      "releaseDate": "2022-01-09",
+      "lastUpdateDate": "2025-09-21",
+      "posterPath": "/4MewGfQu5Cxq04TiWyTdZDQeZEI.jpg",
+      "backdropPath": "/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg",
+      "rating": 8.4,
+      "description": "2022 · ⭐ 8.4 · 日本\n男高中生五条新菜梦想着成为制作雏人形面部的「头师」。全身心地投入到制作雏人形后，他离同龄人的流行话题越来越远，以至于迟迟无法融入班级。对于这样的新菜来说，一直是班级中心人物的喜多川海梦简直像是生活在完全不同世界的人。然而有一天，一件意想不到的事情让他与海梦拥有了共同的秘密……！？两人原本毫无交集的世界因此产生了联系！",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "67075",
       "tmdbId": 67075,
       "type": "tmdb",
@@ -2013,29 +2036,6 @@
         10759,
         35,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "123249",
-      "tmdbId": 123249,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "更衣人偶坠入爱河",
-      "releaseDate": "2022-01-09",
-      "lastUpdateDate": "2025-09-21",
-      "posterPath": "/4MewGfQu5Cxq04TiWyTdZDQeZEI.jpg",
-      "backdropPath": "/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg",
-      "rating": 8.4,
-      "description": "2022 · ⭐ 8.4 · 日本\n男高中生五条新菜梦想着成为制作雏人形面部的「头师」。全身心地投入到制作雏人形后，他离同龄人的流行话题越来越远，以至于迟迟无法融入班级。对于这样的新菜来说，一直是班级中心人物的喜多川海梦简直像是生活在完全不同世界的人。然而有一天，一件意想不到的事情让他与海梦拥有了共同的秘密……！？两人原本毫无交集的世界因此产生了联系！",
-      "genreTitle": "喜剧 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18
       ],
       "rawCountries": [
         "JP"
@@ -2066,28 +2066,6 @@
       ]
     },
     {
-      "id": "42500",
-      "tmdbId": 42500,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "幸运☆星",
-      "releaseDate": "2007-04-09",
-      "lastUpdateDate": "2007-09-17",
-      "posterPath": "/lO65hFJUwGav2LErTFoQfmomprk.jpg",
-      "backdropPath": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
-      "rating": 7.5,
-      "description": "2007 · ⭐ 7.5 · 日本\n高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "322512",
       "tmdbId": 322512,
       "type": "tmdb",
@@ -2107,6 +2085,28 @@
         10765,
         9648,
         18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "42500",
+      "tmdbId": 42500,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "幸运☆星",
+      "releaseDate": "2007-04-09",
+      "lastUpdateDate": "2007-09-17",
+      "posterPath": "/lO65hFJUwGav2LErTFoQfmomprk.jpg",
+      "backdropPath": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
+      "rating": 7.5,
+      "description": "2007 · ⭐ 7.5 · 日本\n高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
       ],
       "rawCountries": [
         "JP"
@@ -2247,6 +2247,27 @@
       "rawCountries": []
     },
     {
+      "id": "257475",
+      "tmdbId": 257475,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "玉子爱情故事",
+      "releaseDate": "2014-04-26",
+      "lastUpdateDate": "2014-04-26",
+      "posterPath": "/6I6wKkNX41txFSTy3NKroxRtKSG.jpg",
+      "backdropPath": "/z212lEwKZAxLjN7LqXCVxCb3kWc.jpg",
+      "rating": 7.2,
+      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
+      "genreTitle": "爱情 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        10749,
+        16,
+        35
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "15137",
       "tmdbId": 15137,
       "type": "tmdb",
@@ -2265,27 +2286,6 @@
         878,
         28,
         18
-      ],
-      "rawCountries": []
-    },
-    {
-      "id": "257475",
-      "tmdbId": 257475,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "玉子爱情故事",
-      "releaseDate": "2014-04-26",
-      "lastUpdateDate": "2014-04-26",
-      "posterPath": "/6I6wKkNX41txFSTy3NKroxRtKSG.jpg",
-      "backdropPath": "/z212lEwKZAxLjN7LqXCVxCb3kWc.jpg",
-      "rating": 7.2,
-      "description": "2014 · ⭐ 7.2 · 未知地区\n北白川玉子已经是高三学生了。虽然她的脑海里充满了商店街和年糕店的事情，直到有一天，她发现自己的好朋友们正在认真考虑未来。与此同时，她家对面住着的同班同学、青梅竹马大路饼藏也已经找到自己的目标。周围人的变化让玉子也开始渐渐思索自己的未来",
-      "genreTitle": "爱情 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        10749,
-        16,
-        35
       ],
       "rawCountries": []
     },
