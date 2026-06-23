@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23 12:52:55",
+  "last_updated": "2026-06-23 23:42:16",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1450,28 +1450,6 @@
       ]
     },
     {
-      "id": "203737",
-      "tmdbId": 203737,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "【我推的孩子】",
-      "releaseDate": "2023-04-12",
-      "lastUpdateDate": "2026-03-25",
-      "posterPath": "/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
-      "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
-      "rating": 8.3,
-      "description": "2023 · ⭐ 8.3 · 日本\n「在演艺圈（这个世界）里，谎言就是武器。」在地方都市的妇产科当医生的「五郎」过着与演艺圈无缘的每一天。另一边，他所推崇的偶像「B小町」的「星野爱（小爱）」则在明星之路上飞黄腾达。某一天，他所推的偶像小爱突然出现在他眼前。她身上还藏着个禁断的秘密。这样的两人在「最糟」的情况下相遇，他们的命运开始转动……！？",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "116727",
       "tmdbId": 116727,
       "type": "tmdb",
@@ -1490,6 +1468,28 @@
         35,
         9648,
         80
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "203737",
+      "tmdbId": 203737,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "【我推的孩子】",
+      "releaseDate": "2023-04-12",
+      "lastUpdateDate": "2026-03-25",
+      "posterPath": "/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
+      "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
+      "rating": 8.3,
+      "description": "2023 · ⭐ 8.3 · 日本\n「在演艺圈（这个世界）里，谎言就是武器。」在地方都市的妇产科当医生的「五郎」过着与演艺圈无缘的每一天。另一边，他所推崇的偶像「B小町」的「星野爱（小爱）」则在明星之路上飞黄腾达。某一天，他所推的偶像小爱突然出现在他眼前。她身上还藏着个禁断的秘密。这样的两人在「最糟」的情况下相遇，他们的命运开始转动……！？",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
       ],
       "rawCountries": [
         "JP"
@@ -1880,6 +1880,28 @@
       ]
     },
     {
+      "id": "45501",
+      "tmdbId": 45501,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "中二病也要谈恋爱！",
+      "releaseDate": "2012-10-04",
+      "lastUpdateDate": "2014-03-27",
+      "posterPath": "/65BtAEqvLXs708XFTOqgsBNXDEP.jpg",
+      "backdropPath": "/3Fn1AaIKV78nX6lsaW7f7DyI1aO.jpg",
+      "rating": 8.1,
+      "description": "2012 · ⭐ 8.1 · 日本\n富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利渡过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方看出中二病的残余症状。六花于是以此威逼勇太与她“立下契约”。对方的行为举止惹来了不少同学、家人、甚至青梅竹马的注目，使勇太在享受“现充”的生活同时，又充满著难言之隐……",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "72636",
       "tmdbId": 72636,
       "type": "tmdb",
@@ -1898,28 +1920,6 @@
         18,
         10759,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "45501",
-      "tmdbId": 45501,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "中二病也要谈恋爱！",
-      "releaseDate": "2012-10-04",
-      "lastUpdateDate": "2014-03-27",
-      "posterPath": "/65BtAEqvLXs708XFTOqgsBNXDEP.jpg",
-      "backdropPath": "/3Fn1AaIKV78nX6lsaW7f7DyI1aO.jpg",
-      "rating": 8.1,
-      "description": "2012 · ⭐ 8.1 · 日本\n富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利渡过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方看出中二病的残余症状。六花于是以此威逼勇太与她“立下契约”。对方的行为举止惹来了不少同学、家人、甚至青梅竹马的注目，使勇太在享受“现充”的生活同时，又充满著难言之隐……",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
       ],
       "rawCountries": [
         "JP"
