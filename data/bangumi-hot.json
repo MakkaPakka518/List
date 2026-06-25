@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24 23:29:06",
+  "last_updated": "2026-06-25 12:56:01",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -629,7 +629,7 @@
       "releaseDate": "2016-04-04",
       "lastUpdateDate": "2026-06-17",
       "posterPath": "/a1pMK4456dF2j5B9xvkjMEGiOOw.jpg",
-      "backdropPath": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
+      "backdropPath": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
       "rating": 7.9,
       "description": "2016 · ⭐ 7.9 · 日本\n在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
       "genreTitle": "动作冒险 / 科幻奇幻 / 剧情",
@@ -1608,6 +1608,29 @@
       ]
     },
     {
+      "id": "50325",
+      "tmdbId": 50325,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "樱花庄的宠物女孩",
+      "releaseDate": "2012-10-09",
+      "lastUpdateDate": "2013-03-26",
+      "posterPath": "/xSiC0lURjL7UrCGRN8HADAvnGBn.jpg",
+      "backdropPath": "/8nP3PqJ4Fu8jfsXCjejmgPuKLUO.jpg",
+      "rating": 7.6,
+      "description": "2012 · ⭐ 7.6 · 日本\n水明艺术大学附属高中额外独立宿舍，通称“樱花庄”是群聚了一群充满各式问题学生入住的特殊公寓，被一般人作为“怪人的巢穴”看待。因无法抛弃弃猫而被赶出一般宿舍的主人公神田空太也是其中的一份子。本来应该以“脱出樱花庄”为目标的空太，却由于天才画家椎名真白的入住，导因于其连穿衣服都无法完全自行处理的“超”字辈等级的生活白痴水准，空太莫名奇妙的肩负起有如宠物般的“饲主”责任，开始了照顾真白和被其耍弄的哭笑不得的日子。",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "30977",
       "tmdbId": 30977,
       "type": "tmdb",
@@ -1626,29 +1649,6 @@
         10759,
         35,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "50325",
-      "tmdbId": 50325,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "樱花庄的宠物女孩",
-      "releaseDate": "2012-10-09",
-      "lastUpdateDate": "2013-03-26",
-      "posterPath": "/xSiC0lURjL7UrCGRN8HADAvnGBn.jpg",
-      "backdropPath": "/8nP3PqJ4Fu8jfsXCjejmgPuKLUO.jpg",
-      "rating": 7.6,
-      "description": "2012 · ⭐ 7.6 · 日本\n水明艺术大学附属高中额外独立宿舍，通称“樱花庄”是群聚了一群充满各式问题学生入住的特殊公寓，被一般人作为“怪人的巢穴”看待。因无法抛弃弃猫而被赶出一般宿舍的主人公神田空太也是其中的一份子。本来应该以“脱出樱花庄”为目标的空太，却由于天才画家椎名真白的入住，导因于其连穿衣服都无法完全自行处理的“超”字辈等级的生活白痴水准，空太莫名奇妙的肩负起有如宠物般的“饲主”责任，开始了照顾真白和被其耍弄的哭笑不得的日子。",
-      "genreTitle": "喜剧 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18
       ],
       "rawCountries": [
         "JP"
@@ -2342,7 +2342,7 @@
       "mediaType": "tv",
       "title": "欢迎来到实力至上主义的教室",
       "releaseDate": "2017-07-12",
-      "lastUpdateDate": "2026-06-10",
+      "lastUpdateDate": "2026-06-17",
       "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
       "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
       "rating": 8.4,
