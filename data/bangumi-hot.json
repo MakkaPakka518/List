@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25 12:56:01",
+  "last_updated": "2026-06-25 23:35:51",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -1450,6 +1450,28 @@
       ]
     },
     {
+      "id": "203737",
+      "tmdbId": 203737,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "【我推的孩子】",
+      "releaseDate": "2023-04-12",
+      "lastUpdateDate": "2026-03-25",
+      "posterPath": "/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
+      "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
+      "rating": 8.3,
+      "description": "2023 · ⭐ 8.3 · 日本\n「在演艺圈（这个世界）里，谎言就是武器。」在地方都市的妇产科当医生的「五郎」过着与演艺圈无缘的每一天。另一边，他所推崇的偶像「B小町」的「星野爱（小爱）」则在明星之路上飞黄腾达。某一天，他所推的偶像小爱突然出现在他眼前。她身上还藏着个禁断的秘密。这样的两人在「最糟」的情况下相遇，他们的命运开始转动……！？",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "116727",
       "tmdbId": 116727,
       "type": "tmdb",
@@ -1468,28 +1490,6 @@
         35,
         9648,
         80
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "203737",
-      "tmdbId": 203737,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "【我推的孩子】",
-      "releaseDate": "2023-04-12",
-      "lastUpdateDate": "2026-03-25",
-      "posterPath": "/2Au9bkgXXdzxcghyFZVfksBYPPP.jpg",
-      "backdropPath": "/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
-      "rating": 8.3,
-      "description": "2023 · ⭐ 8.3 · 日本\n「在演艺圈（这个世界）里，谎言就是武器。」在地方都市的妇产科当医生的「五郎」过着与演艺圈无缘的每一天。另一边，他所推崇的偶像「B小町」的「星野爱（小爱）」则在明星之路上飞黄腾达。某一天，他所推的偶像小爱突然出现在他眼前。她身上还藏着个禁断的秘密。这样的两人在「最糟」的情况下相遇，他们的命运开始转动……！？",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
       ],
       "rawCountries": [
         "JP"
@@ -2268,28 +2268,6 @@
       "rawCountries": []
     },
     {
-      "id": "15137",
-      "tmdbId": 15137,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "福音战士新剧场版：序",
-      "releaseDate": "2007-09-01",
-      "lastUpdateDate": "2007-09-01",
-      "posterPath": "/hEu9QLy1a7ieHydN1LNvAEkYAgS.jpg",
-      "backdropPath": "/tmXP9R43XlYTmVD7XLnakFbf2ax.jpg",
-      "rating": 7.6,
-      "description": "2007 · ⭐ 7.6 · 未知地区\n突袭世界的大灾难“第二次冲击”后，世界在废墟之上重建，14岁的少年碇真嗣被父亲碇元渡叫到第三新东京市。本以为能见到父亲迎接的他，却见到名为“使徒”的巨大生物与军队交火。危急之下，NERV的葛成美里将真嗣救下，并将其带往碇元渡所统领的NERV总部。但迎接真嗣的，却是是父亲冷酷地命令：驾驶称为“EVA”的巨大人型机器人与使徒战斗。本已表示拒绝的真嗣，看到重伤的替补驾驶员绫波丽后，决定遵从父亲的命令。就这样，从未受过作战训练的真嗣，准备驾驶EVA初号机迎战使徒。世界的命运托付在了一位年仅14岁的少年身上，而“第二次冲击”所隐藏的“人类补完计划”似乎也开始了行动。掌握一切答案的碇元渡，却只是不动生色地观察，仿佛一切早已写入剧本。",
-      "genreTitle": "科幻 / 动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        878,
-        28,
-        18
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "45790",
       "tmdbId": 45790,
       "type": "tmdb",
@@ -2313,6 +2291,51 @@
       ]
     },
     {
+      "id": "15137",
+      "tmdbId": 15137,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "福音战士新剧场版：序",
+      "releaseDate": "2007-09-01",
+      "lastUpdateDate": "2007-09-01",
+      "posterPath": "/hEu9QLy1a7ieHydN1LNvAEkYAgS.jpg",
+      "backdropPath": "/tmXP9R43XlYTmVD7XLnakFbf2ax.jpg",
+      "rating": 7.6,
+      "description": "2007 · ⭐ 7.6 · 未知地区\n突袭世界的大灾难“第二次冲击”后，世界在废墟之上重建，14岁的少年碇真嗣被父亲碇元渡叫到第三新东京市。本以为能见到父亲迎接的他，却见到名为“使徒”的巨大生物与军队交火。危急之下，NERV的葛成美里将真嗣救下，并将其带往碇元渡所统领的NERV总部。但迎接真嗣的，却是是父亲冷酷地命令：驾驶称为“EVA”的巨大人型机器人与使徒战斗。本已表示拒绝的真嗣，看到重伤的替补驾驶员绫波丽后，决定遵从父亲的命令。就这样，从未受过作战训练的真嗣，准备驾驶EVA初号机迎战使徒。世界的命运托付在了一位年仅14岁的少年身上，而“第二次冲击”所隐藏的“人类补完计划”似乎也开始了行动。掌握一切答案的碇元渡，却只是不动生色地观察，仿佛一切早已写入剧本。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        28,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "72517",
+      "tmdbId": 72517,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "欢迎来到实力至上主义的教室",
+      "releaseDate": "2017-07-12",
+      "lastUpdateDate": "2026-06-17",
+      "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
+      "backdropPath": "/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
+      "rating": 8.4,
+      "description": "2017 · ⭐ 8.4 · 日本\n这个社会是否平等呢。真正的“实力”是什么？东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
+      "genreTitle": "剧情 / 悬疑",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        9648
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "67676",
       "tmdbId": 67676,
       "type": "tmdb",
@@ -2330,29 +2353,6 @@
         16,
         35,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "72517",
-      "tmdbId": 72517,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "欢迎来到实力至上主义的教室",
-      "releaseDate": "2017-07-12",
-      "lastUpdateDate": "2026-06-17",
-      "posterPath": "/kkVfb6sXIHKIX9B0oHf9dNDkJ8m.jpg",
-      "backdropPath": "/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
-      "rating": 8.4,
-      "description": "2017 · ⭐ 8.4 · 日本\n这个社会是否平等呢。真正的“实力”是什么？东京都高度育成高等学校。那是宣扬彻底的实力至上主义，以升学率·就业率100%而引以为豪的升学学校。升入那里，被分配到1年D班的绫小路清隆，却发现学校与实力至上主义的招牌相反，学生每个月会得到相当于10万日元、与现金同等价值的分数，在授课和生活态度方面也贯彻放任主义。在梦幻般的高中生活当中，不断地挥金如土、过着自甘堕落日子的同班同学们。但，不久他就得知了学校系统的真面目，并被打入绝望的深渊……！来自吊车尾聚集的D班的少年少女们所发现的，是世界的矛盾，还是正当的实力社会？",
-      "genreTitle": "剧情 / 悬疑",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        9648
       ],
       "rawCountries": [
         "JP"
