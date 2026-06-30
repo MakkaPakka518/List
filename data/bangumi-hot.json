@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30 00:31:29",
+  "last_updated": "2026-06-30 12:56:06",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -928,7 +928,7 @@
       "title": "物语系列",
       "releaseDate": "2009-07-03",
       "lastUpdateDate": "2024-10-19",
-      "posterPath": "/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
+      "posterPath": "/v0r5GzZnFinf5QWXALbacBjw9jr.jpg",
       "backdropPath": "/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
       "rating": 8.1,
       "description": "2009 · ⭐ 8.1 · 日本\n所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
@@ -2183,27 +2183,6 @@
       ]
     },
     {
-      "id": "198375",
-      "tmdbId": 198375,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "言叶之庭",
-      "releaseDate": "2013-05-31",
-      "lastUpdateDate": "2013-05-31",
-      "posterPath": "/jSzlY2RAEGGmnNK8h0VckMivHRP.jpg",
-      "backdropPath": "/qMNmdJG0WFNXcI6hfZMQH0geHc5.jpg",
-      "rating": 7.6,
-      "description": "2013 · ⭐ 7.6 · 未知地区\n年方15岁的高中生秋月孝雄（入野自由 配音），专心学业的过程中不得不为了生计打工赚钱。母亲离家出走，他与哥哥过着看不到前方的生活。入梅之日，孝雄逃课来到日本庭园。在一座安静的小亭子里，27岁的职场女性雪野百香里（花泽香菜 配音）边吃巧克力边饮啤酒的样子引起了孝雄的注意。似曾相识的二人，仿佛约定好了一般，每到落雨之日便从世俗的烦恼中逃脱出来，相会于这座钢筋铁骨都市丛林中宛若世外桃源的幽静角落。在梅雨季节的日子里，他们的心渐渐向彼此靠拢。志愿成为手工鞋匠的秋月，决心以雪野为模特做一双鞋。  　　雨过天晴，艳阳高照，庭园中久久不见秋月和雪野的身影，相会无期亦有期……",
-      "genreTitle": "剧情 / 爱情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        18,
-        10749
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "274580",
       "tmdbId": 274580,
       "type": "tmdb",
@@ -2224,6 +2203,27 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "198375",
+      "tmdbId": 198375,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "言叶之庭",
+      "releaseDate": "2013-05-31",
+      "lastUpdateDate": "2013-05-31",
+      "posterPath": "/jSzlY2RAEGGmnNK8h0VckMivHRP.jpg",
+      "backdropPath": "/qMNmdJG0WFNXcI6hfZMQH0geHc5.jpg",
+      "rating": 7.6,
+      "description": "2013 · ⭐ 7.6 · 未知地区\n年方15岁的高中生秋月孝雄（入野自由 配音），专心学业的过程中不得不为了生计打工赚钱。母亲离家出走，他与哥哥过着看不到前方的生活。入梅之日，孝雄逃课来到日本庭园。在一座安静的小亭子里，27岁的职场女性雪野百香里（花泽香菜 配音）边吃巧克力边饮啤酒的样子引起了孝雄的注意。似曾相识的二人，仿佛约定好了一般，每到落雨之日便从世俗的烦恼中逃脱出来，相会于这座钢筋铁骨都市丛林中宛若世外桃源的幽静角落。在梅雨季节的日子里，他们的心渐渐向彼此靠拢。志愿成为手工鞋匠的秋月，决心以雪野为模特做一双鞋。  　　雨过天晴，艳阳高照，庭园中久久不见秋月和雪野的身影，相会无期亦有期……",
+      "genreTitle": "剧情 / 爱情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        10749
+      ],
+      "rawCountries": []
     },
     {
       "id": "378064",
