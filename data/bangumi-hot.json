@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04 12:26:23",
+  "last_updated": "2026-07-04 22:22:04",
   "total_matched": 117,
   "hot_anime": [
     {
@@ -465,7 +465,7 @@
       "title": "无职转生：到了异世界就拿出真本事",
       "releaseDate": "2021-01-11",
       "lastUpdateDate": "2024-07-01",
-      "posterPath": "/cAIhLxJmbzPR4LRq7DPxDTx2SLv.jpg",
+      "posterPath": "/wMSO4QgEyUhnf1XLIpz5w371xtb.jpg",
       "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
       "rating": 8.6,
       "description": "2021 · ⭐ 8.6 · 日本\n“我要在这个异世界拿出真本事！”34岁童贞且无职的家里蹲男子，在父母的葬礼当天被赶出家门后，在路上被一辆卡车所撞死。意识清醒后，他发现自己居然作为一个刚出生的婴儿转生到了剑与魔法的异世界！像废物一样活过了前世的男子，发誓要作为少年·鲁迪乌斯在异世界以认真的态度好好活下去！等待着鲁迪乌斯的是，与娇小魔术师、有着精灵长耳又很男孩子气的美少女、凶暴的傲娇大小姐以及其他性格各异的人们之间的邂逅，当然也还有残酷的冒险与战斗。新的人生就要开始了！“人生重来型”幻想冒险谭，在此开幕！",
@@ -584,13 +584,13 @@
       "backdropPath": "/bRE6zX4iOAejLOQCHryoV5WNu8G.jpg",
       "rating": 8.5,
       "description": "2022 · ⭐ 8.5 · 日本/PL\n本剧以游戏《赛博朋克2077》为背景，讲述了街头流浪儿大卫在科技与形体改造泛滥的夜之城中挣扎求生，一步步成为一名“边缘行者”的故事。",
-      "genreTitle": "动作冒险 / 剧情 / 科幻奇幻",
+      "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
       "regionTitle": "日本/PL",
       "rawGenres": [
         16,
         10759,
-        18,
-        10765
+        10765,
+        80
       ],
       "rawCountries": [
         "JP",
@@ -1722,29 +1722,6 @@
       "rawCountries": []
     },
     {
-      "id": "42511",
-      "tmdbId": 42511,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "凉宫春日的忧郁",
-      "releaseDate": "2006-04-03",
-      "lastUpdateDate": "2009-09-11",
-      "posterPath": "/bplk2PRfyScItjmbjz8Yo2NXyjF.jpg",
-      "backdropPath": "/gDlx60iOCQjTLH53ybjAPOUyVIp.jpg",
-      "rating": 7.8,
-      "description": "2006 · ⭐ 7.8 · 日本\n我毕业于东中，叫做凉宫春日。我对普通的人类没有兴趣。你们之中要是有外星人、未来人、异世界人或者超能力者的话，就尽管来找我吧。”这是凉宫春日的宣言，也是她对于平庸生活的挑战。  我们可能在很小时就不再相信圣诞老人的存在，也慢慢不会再对外星人，特异功能等等产生幻想。在生活的教化下习惯于平淡无奇的生活。可是不安于现状的凉宫同学却勇敢的建立起SOS团，用强烈的意志去试图改造这个了无新意的世界。她的忧郁，究竟从何而来，又将从何而去。",
-      "genreTitle": "喜剧 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        35,
-        16,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "154494",
       "tmdbId": 154494,
       "type": "tmdb",
@@ -1762,6 +1739,29 @@
         16,
         10759,
         35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "42511",
+      "tmdbId": 42511,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "凉宫春日的忧郁",
+      "releaseDate": "2006-04-03",
+      "lastUpdateDate": "2009-09-11",
+      "posterPath": "/bplk2PRfyScItjmbjz8Yo2NXyjF.jpg",
+      "backdropPath": "/gDlx60iOCQjTLH53ybjAPOUyVIp.jpg",
+      "rating": 7.8,
+      "description": "2006 · ⭐ 7.8 · 日本\n我毕业于东中，叫做凉宫春日。我对普通的人类没有兴趣。你们之中要是有外星人、未来人、异世界人或者超能力者的话，就尽管来找我吧。”这是凉宫春日的宣言，也是她对于平庸生活的挑战。  我们可能在很小时就不再相信圣诞老人的存在，也慢慢不会再对外星人，特异功能等等产生幻想。在生活的教化下习惯于平淡无奇的生活。可是不安于现状的凉宫同学却勇敢的建立起SOS团，用强烈的意志去试图改造这个了无新意的世界。她的忧郁，究竟从何而来，又将从何而去。",
+      "genreTitle": "喜剧 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        35,
+        16,
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -2529,7 +2529,7 @@
       "title": "无职转生：到了异世界就拿出真本事",
       "releaseDate": "2021-01-11",
       "lastUpdateDate": "2024-07-01",
-      "posterPath": "/cAIhLxJmbzPR4LRq7DPxDTx2SLv.jpg",
+      "posterPath": "/wMSO4QgEyUhnf1XLIpz5w371xtb.jpg",
       "backdropPath": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
       "rating": 8.6,
       "description": "2021 · ⭐ 8.6 · 日本\n“我要在这个异世界拿出真本事！”34岁童贞且无职的家里蹲男子，在父母的葬礼当天被赶出家门后，在路上被一辆卡车所撞死。意识清醒后，他发现自己居然作为一个刚出生的婴儿转生到了剑与魔法的异世界！像废物一样活过了前世的男子，发誓要作为少年·鲁迪乌斯在异世界以认真的态度好好活下去！等待着鲁迪乌斯的是，与娇小魔术师、有着精灵长耳又很男孩子气的美少女、凶暴的傲娇大小姐以及其他性格各异的人们之间的邂逅，当然也还有残酷的冒险与战斗。新的人生就要开始了！“人生重来型”幻想冒险谭，在此开幕！",
