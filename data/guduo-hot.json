@@ -1,13 +1,13 @@
 {
   "source": "Guduo Media",
-  "billboard_date": "2026-07-31",
-  "last_updated": "2026-08-01 16:05:22",
+  "billboard_date": "2026-08-01",
+  "last_updated": "2026-08-02 16:07:04",
   "categories": {
     "剧集": [
       {
         "title": "九门",
         "rank": 1,
-        "heat": "80.55",
+        "heat": "79.18",
         "category": "剧集",
         "tmdbId": 271016,
         "mediaType": "tv",
@@ -22,7 +22,7 @@
       {
         "title": "御廷谣",
         "rank": 2,
-        "heat": "74.88",
+        "heat": "75.52",
         "category": "剧集",
         "tmdbId": 295599,
         "mediaType": "tv",
@@ -35,24 +35,9 @@
         "genreTitle": "剧情"
       },
       {
-        "title": "百花杀",
-        "rank": 3,
-        "heat": "73.17",
-        "category": "剧集",
-        "tmdbId": 286506,
-        "mediaType": "tv",
-        "tmdbTitle": "百花杀",
-        "releaseDate": "2026-07-09",
-        "posterPath": "/sWdiop8BQwODB6tVOMeTfi0XHE3.jpg",
-        "rating": 8.0,
-        "overview": "灭门之女顾青栀以西北郡主沈汐和的身份苏醒归来，从骄矜边疆玫瑰蜕变为冷情罗刹郡主，誓要自主人生，云巅执棋。储君萧华雍病骨藏锋，洞悉朝局。两人一路相知携手，执掌风云。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "剧情"
-      },
-      {
         "title": "这一秒过火",
-        "rank": 4,
-        "heat": "72.96",
+        "rank": 3,
+        "heat": "74.33",
         "category": "剧集",
         "tmdbId": 289139,
         "mediaType": "tv",
@@ -65,9 +50,24 @@
         "genreTitle": "剧情"
       },
       {
+        "title": "百花杀",
+        "rank": 4,
+        "heat": "74.29",
+        "category": "剧集",
+        "tmdbId": 286506,
+        "mediaType": "tv",
+        "tmdbTitle": "百花杀",
+        "releaseDate": "2026-07-09",
+        "posterPath": "/sWdiop8BQwODB6tVOMeTfi0XHE3.jpg",
+        "rating": 8.0,
+        "overview": "灭门之女顾青栀以西北郡主沈汐和的身份苏醒归来，从骄矜边疆玫瑰蜕变为冷情罗刹郡主，誓要自主人生，云巅执棋。储君萧华雍病骨藏锋，洞悉朝局。两人一路相知携手，执掌风云。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "剧情"
+      },
+      {
         "title": "雀骨",
         "rank": 5,
-        "heat": "71.97",
+        "heat": "73.36",
         "category": "剧集",
         "tmdbId": 295558,
         "mediaType": "tv",
@@ -82,7 +82,7 @@
       {
         "title": "野狗骨头",
         "rank": 6,
-        "heat": "68.22",
+        "heat": "68.57",
         "category": "剧集",
         "tmdbId": 291392,
         "mediaType": "tv",
@@ -97,7 +97,7 @@
       {
         "title": "南部档案",
         "rank": 7,
-        "heat": "67.88",
+        "heat": "67.91",
         "category": "剧集",
         "tmdbId": 278605,
         "mediaType": "tv",
@@ -112,7 +112,7 @@
       {
         "title": "依然的喜事",
         "rank": 8,
-        "heat": "67.24",
+        "heat": "67.38",
         "category": "剧集",
         "tmdbId": 296915,
         "mediaType": "tv",
@@ -127,7 +127,7 @@
       {
         "title": "京城奇探",
         "rank": 9,
-        "heat": "67.09",
+        "heat": "67.22",
         "category": "剧集",
         "tmdbId": 301345,
         "mediaType": "tv",
@@ -142,7 +142,7 @@
       {
         "title": "昭阳公主",
         "rank": 10,
-        "heat": "66.93",
+        "heat": "67.06",
         "category": "剧集",
         "tmdbId": 313642,
         "mediaType": "tv",
@@ -155,24 +155,9 @@
         "genreTitle": "剧集"
       },
       {
-        "title": "灿如繁星",
-        "rank": 11,
-        "heat": "66.33",
-        "category": "剧集",
-        "tmdbId": 285143,
-        "mediaType": "tv",
-        "tmdbTitle": "灿如繁星",
-        "releaseDate": "2026-07-05",
-        "posterPath": "/jE6xuxwLUojZ2k80rKbv73frWsv.jpg",
-        "rating": 8.0,
-        "overview": "讲述了心理学博士林晚星遭遇变故后回到家乡宏景任教，邂逅顶级教练王法，并带领一群垫底差生逆袭追梦，热血救赎的故事。林晚星用“自由式”教育，培养少年们的独立人格，帮助他们学会生活，融洽自我，发现所爱，勇于追求。未来人生里，不远狭路，终见光明。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "剧情"
-      },
-      {
         "title": "千香",
-        "rank": 12,
-        "heat": "66.31",
+        "rank": 11,
+        "heat": "66.97",
         "category": "剧集",
         "tmdbId": 251600,
         "mediaType": "tv",
@@ -185,9 +170,24 @@
         "genreTitle": "剧情"
       },
       {
+        "title": "灿如繁星",
+        "rank": 12,
+        "heat": "66.43",
+        "category": "剧集",
+        "tmdbId": 285143,
+        "mediaType": "tv",
+        "tmdbTitle": "灿如繁星",
+        "releaseDate": "2026-07-05",
+        "posterPath": "/jE6xuxwLUojZ2k80rKbv73frWsv.jpg",
+        "rating": 8.0,
+        "overview": "讲述了心理学博士林晚星遭遇变故后回到家乡宏景任教，邂逅顶级教练王法，并带领一群垫底差生逆袭追梦，热血救赎的故事。林晚星用“自由式”教育，培养少年们的独立人格，帮助他们学会生活，融洽自我，发现所爱，勇于追求。未来人生里，不远狭路，终见光明。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "剧情"
+      },
+      {
         "title": "莫离",
         "rank": 13,
-        "heat": "65.47",
+        "heat": "65.44",
         "category": "剧集",
         "tmdbId": 292696,
         "mediaType": "tv",
@@ -202,7 +202,7 @@
       {
         "title": "昨夜将至",
         "rank": 14,
-        "heat": "65.01",
+        "heat": "64.81",
         "category": "剧集",
         "tmdbId": 291947,
         "mediaType": "tv",
@@ -217,7 +217,7 @@
       {
         "title": "二龙湖·“村”暖花开3",
         "rank": 15,
-        "heat": "64.77",
+        "heat": "64.22",
         "category": "剧集",
         "tmdbId": 270845,
         "mediaType": "tv",
@@ -232,7 +232,7 @@
       {
         "title": "低智商犯罪",
         "rank": 16,
-        "heat": "64.00",
+        "heat": "63.88",
         "category": "剧集",
         "tmdbId": 272432,
         "mediaType": "tv",
@@ -262,7 +262,7 @@
       {
         "title": "云秀行",
         "rank": 18,
-        "heat": "63.11",
+        "heat": "63.09",
         "category": "剧集",
         "tmdbId": 239901,
         "mediaType": "tv",
@@ -277,7 +277,7 @@
       {
         "title": "夫妻的博弈",
         "rank": 19,
-        "heat": "63.02",
+        "heat": "62.92",
         "category": "剧集",
         "tmdbId": 276567,
         "mediaType": "tv",
@@ -292,7 +292,7 @@
       {
         "title": "翘楚",
         "rank": 20,
-        "heat": "62.64",
+        "heat": "62.41",
         "category": "剧集",
         "tmdbId": 289271,
         "mediaType": "tv",
