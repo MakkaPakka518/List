@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27 18:03:30",
+  "last_updated": "2026-08-28 06:27:29",
   "tv": [
     {
       "id": "328859",
@@ -1320,21 +1320,6 @@
       "backdropPath": "/xnbvOmFnJnWWtLGeOgeAwA1gMEW.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,家庭"
-    },
-    {
-      "id": "278401",
-      "type": "tmdb",
-      "title": "见君心",
-      "description": "主要讲述了天晟国苏烈将军幼女苏凤止，在遭遇父亲含冤而死，亲姐被姐夫设计与三皇子简清洵通奸惨死后，结识同被姐夫设计的三皇子简清洵。历经生死考验，误会丛生，在对爱情的信任和复仇的信念下最终解开心结，携手复仇成功，退隐江湖。",
-      "rating": 7.3,
-      "voteCount": 3,
-      "popularity": 2.0684,
-      "releaseDate": "2025-02-24",
-      "lastUpdateDate": "2025-02-24",
-      "posterPath": "/8l6kwctYk60vmrLICGVHkuz7cGS.jpg",
-      "backdropPath": "/bCLbExO6j1QZohcUp66wCnFjIly.jpg",
-      "mediaType": "tv",
-      "genreTitle": "剧情"
     }
   ],
   "show": [
@@ -1369,21 +1354,6 @@
       "genreTitle": "真人秀"
     },
     {
-      "id": "294253",
-      "type": "tmdb",
-      "title": "我们的宿舍",
-      "description": "全新好友下班合宿欢聚朋综，节目将以“朋友下班后聚会”的形式呈现，每一期聚会将由一位“宿舍管家”负责策划独特的聚会主题，邀请好友共同享受一场“充电式”的“下班后派对”。",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 14.8236,
-      "releaseDate": "2025-06-24",
-      "lastUpdateDate": "2026-08-04",
-      "posterPath": "/fujnoKdxgHa4mjpqvRAt9Yv9Dkq.jpg",
-      "backdropPath": "/aFF0RBT1lZIyKmXQUYR4u1Q2Fc1.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "94773",
       "type": "tmdb",
       "title": "舞蹈新风暴",
@@ -1395,6 +1365,21 @@
       "lastUpdateDate": "2021-01-09",
       "posterPath": "/gG1VvWftNiBI2X7yI9gtjSv8fdK.jpg",
       "backdropPath": "/WQSOHT9QFxMMpQ4TAscX3f9IMO.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
+      "id": "294253",
+      "type": "tmdb",
+      "title": "我们的宿舍",
+      "description": "全新好友下班合宿欢聚朋综，节目将以“朋友下班后聚会”的形式呈现，每一期聚会将由一位“宿舍管家”负责策划独特的聚会主题，邀请好友共同享受一场“充电式”的“下班后派对”。",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 14.8236,
+      "releaseDate": "2025-06-24",
+      "lastUpdateDate": "2026-08-04",
+      "posterPath": "/fujnoKdxgHa4mjpqvRAt9Yv9Dkq.jpg",
+      "backdropPath": "/aFF0RBT1lZIyKmXQUYR4u1Q2Fc1.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
