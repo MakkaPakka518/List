@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28 19:34:52",
+  "last_updated": "2026-08-29 06:30:00",
   "tv": [
     {
       "id": "328859",
@@ -1324,21 +1324,6 @@
   ],
   "show": [
     {
-      "id": "89861",
-      "type": "tmdb",
-      "title": "密室大逃脱",
-      "description": "《密室大逃脱》是由芒果TV打造的大型益智类实景解密体验秀，每期6位玩家倾力合作，进入不同主题故事的密室，全未知、无扮演、不限时，以最真实的状态解谜逃脱，直到最终逃出密室。谜题涉及对玩家智力、创造力、 决策力、洞察力、协作力、逆行力的测试，通过观察玩家在游戏中的心理、行为表现，掀起全民动脑热潮。",
-      "rating": 7.6,
-      "voteCount": 7,
-      "popularity": 38.4482,
-      "releaseDate": "2019-03-30",
-      "lastUpdateDate": "2025-10-01",
-      "posterPath": "/qQ221G1KxusTIotpTi4cxDk6O13.jpg",
-      "backdropPath": "/IGYjrwnFCAL2UahS7E1myQE3JT.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "331569",
       "type": "tmdb",
       "title": "不想睡的星期五",
@@ -1350,6 +1335,21 @@
       "lastUpdateDate": "2026-08-14",
       "posterPath": "/nKDqMAdAO6HQoe0eqIbH99ldcCQ.jpg",
       "backdropPath": "/y8kPD0sQqlL8lo7oYZVtYWP330Y.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
+      "id": "89861",
+      "type": "tmdb",
+      "title": "密室大逃脱",
+      "description": "《密室大逃脱》是由芒果TV打造的大型益智类实景解密体验秀，每期6位玩家倾力合作，进入不同主题故事的密室，全未知、无扮演、不限时，以最真实的状态解谜逃脱，直到最终逃出密室。谜题涉及对玩家智力、创造力、 决策力、洞察力、协作力、逆行力的测试，通过观察玩家在游戏中的心理、行为表现，掀起全民动脑热潮。",
+      "rating": 7.6,
+      "voteCount": 7,
+      "popularity": 38.4482,
+      "releaseDate": "2019-03-30",
+      "lastUpdateDate": "2025-10-01",
+      "posterPath": "/qQ221G1KxusTIotpTi4cxDk6O13.jpg",
+      "backdropPath": "/IGYjrwnFCAL2UahS7E1myQE3JT.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
@@ -1369,21 +1369,6 @@
       "genreTitle": "真人秀,家庭"
     },
     {
-      "id": "294253",
-      "type": "tmdb",
-      "title": "我们的宿舍",
-      "description": "全新好友下班合宿欢聚朋综，节目将以“朋友下班后聚会”的形式呈现，每一期聚会将由一位“宿舍管家”负责策划独特的聚会主题，邀请好友共同享受一场“充电式”的“下班后派对”。",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 15.0805,
-      "releaseDate": "2025-06-24",
-      "lastUpdateDate": "2026-08-04",
-      "posterPath": "/fujnoKdxgHa4mjpqvRAt9Yv9Dkq.jpg",
-      "backdropPath": "/aFF0RBT1lZIyKmXQUYR4u1Q2Fc1.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "94773",
       "type": "tmdb",
       "title": "舞蹈新风暴",
@@ -1395,6 +1380,21 @@
       "lastUpdateDate": "2021-01-09",
       "posterPath": "/gG1VvWftNiBI2X7yI9gtjSv8fdK.jpg",
       "backdropPath": "/WQSOHT9QFxMMpQ4TAscX3f9IMO.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
+      "id": "294253",
+      "type": "tmdb",
+      "title": "我们的宿舍",
+      "description": "全新好友下班合宿欢聚朋综，节目将以“朋友下班后聚会”的形式呈现，每一期聚会将由一位“宿舍管家”负责策划独特的聚会主题，邀请好友共同享受一场“充电式”的“下班后派对”。",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 15.0805,
+      "releaseDate": "2025-06-24",
+      "lastUpdateDate": "2026-08-04",
+      "posterPath": "/fujnoKdxgHa4mjpqvRAt9Yv9Dkq.jpg",
+      "backdropPath": "/aFF0RBT1lZIyKmXQUYR4u1Q2Fc1.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
