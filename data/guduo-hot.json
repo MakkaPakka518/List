@@ -1,13 +1,13 @@
 {
   "source": "Guduo Media",
-  "billboard_date": "2026-10-02",
-  "last_updated": "2026-10-03 22:07:19",
+  "billboard_date": "2026-10-03",
+  "last_updated": "2026-10-04 22:35:02",
   "categories": {
     "剧集": [
       {
         "title": "我不是大师",
         "rank": 1,
-        "heat": "71.86",
+        "heat": "71.52",
         "category": "剧集",
         "tmdbId": 289078,
         "mediaType": "tv",
@@ -22,7 +22,7 @@
       {
         "title": "余红旧事",
         "rank": 2,
-        "heat": "71.37",
+        "heat": "71.49",
         "category": "剧集",
         "tmdbId": 301494,
         "mediaType": "tv",
@@ -37,7 +37,7 @@
       {
         "title": "魅影神捕",
         "rank": 3,
-        "heat": "70.83",
+        "heat": "71.46",
         "category": "剧集",
         "tmdbId": 290699,
         "mediaType": "tv",
@@ -52,7 +52,7 @@
       {
         "title": "一瓯春",
         "rank": 4,
-        "heat": "69.93",
+        "heat": "69.78",
         "category": "剧集",
         "tmdbId": 294990,
         "mediaType": "tv",
@@ -65,54 +65,9 @@
         "genreTitle": "剧情"
       },
       {
-        "title": "法医秦明之天谴者",
-        "rank": 5,
-        "heat": "69.52",
-        "category": "剧集",
-        "tmdbId": 336023,
-        "mediaType": "tv",
-        "tmdbTitle": "法医秦明之天谴者",
-        "releaseDate": "2026-09-23",
-        "posterPath": "/xpNkh9c4GLkGeGI1L4A5teESP2K.jpg",
-        "rating": 0.0,
-        "overview": "龙番郊区发现一具被野猫啃食的女性尸体，法医秦明在调查过程中发现致幻剂、荧光粉及神秘的“天谴者”来信。随着多起关联命案浮出水面，失踪女儿、家暴副总等案件逐渐指向一座别墅密室，以及一场持续十年的复仇计划。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "剧集"
-      },
-      {
-        "title": "雷霆令",
-        "rank": 6,
-        "heat": "69.42",
-        "category": "剧集",
-        "tmdbId": 336706,
-        "mediaType": "tv",
-        "tmdbTitle": "雷霆令",
-        "releaseDate": "2026-09-29",
-        "posterPath": "/bhpqpYerPLqpXyJyqGVE16xMIdo.jpg",
-        "rating": 8.0,
-        "overview": "毒品流通猖獗，缉毒队长白桦带领庄严、李潇等青年警员深入险境，潜伏卧底、与毒贩斗智斗勇。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "剧情"
-      },
-      {
-        "title": "黑岛监狱",
-        "rank": 7,
-        "heat": "69.37",
-        "category": "剧集",
-        "tmdbId": 335024,
-        "mediaType": "tv",
-        "tmdbTitle": "黑岛监狱",
-        "releaseDate": "2026-09-23",
-        "posterPath": "/tJZPTF2kZSu1zMVlXGf9dUIh96Q.jpg",
-        "rating": 0.0,
-        "overview": "凌东国刑警廉明为调查边境人口失踪案，前往黑岛监狱卧底；南岭国退役特种兵文傍则因营救雅醇母女被迫入狱。两人在狱中从敌对到合作，共同调查监狱背后的犯罪真相，并在各自身份暴露的危机中寻求生路。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "剧情"
-      },
-      {
         "title": "早春晴朗",
-        "rank": 8,
-        "heat": "69.21",
+        "rank": 5,
+        "heat": "69.57",
         "category": "剧集",
         "tmdbId": 299952,
         "mediaType": "tv",
@@ -125,9 +80,54 @@
         "genreTitle": "剧情"
       },
       {
+        "title": "雷霆令",
+        "rank": 6,
+        "heat": "69.55",
+        "category": "剧集",
+        "tmdbId": 336706,
+        "mediaType": "tv",
+        "tmdbTitle": "雷霆令",
+        "releaseDate": "2026-09-29",
+        "posterPath": "/bhpqpYerPLqpXyJyqGVE16xMIdo.jpg",
+        "rating": 8.0,
+        "overview": "毒品流通猖獗，缉毒队长白桦带领庄严、李潇等青年警员深入险境，潜伏卧底、与毒贩斗智斗勇。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "剧情"
+      },
+      {
+        "title": "法医秦明之天谴者",
+        "rank": 7,
+        "heat": "69.46",
+        "category": "剧集",
+        "tmdbId": 336023,
+        "mediaType": "tv",
+        "tmdbTitle": "法医秦明之天谴者",
+        "releaseDate": "2026-09-23",
+        "posterPath": "/xpNkh9c4GLkGeGI1L4A5teESP2K.jpg",
+        "rating": 0.0,
+        "overview": "龙番郊区发现一具被野猫啃食的女性尸体，法医秦明在调查过程中发现致幻剂、荧光粉及神秘的“天谴者”来信。随着多起关联命案浮出水面，失踪女儿、家暴副总等案件逐渐指向一座别墅密室，以及一场持续十年的复仇计划。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "剧集"
+      },
+      {
+        "title": "黑岛监狱",
+        "rank": 8,
+        "heat": "69.33",
+        "category": "剧集",
+        "tmdbId": 335024,
+        "mediaType": "tv",
+        "tmdbTitle": "黑岛监狱",
+        "releaseDate": "2026-09-23",
+        "posterPath": "/tJZPTF2kZSu1zMVlXGf9dUIh96Q.jpg",
+        "rating": 0.0,
+        "overview": "凌东国刑警廉明为调查边境人口失踪案，前往黑岛监狱卧底；南岭国退役特种兵文傍则因营救雅醇母女被迫入狱。两人在狱中从敌对到合作，共同调查监狱背后的犯罪真相，并在各自身份暴露的危机中寻求生路。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "剧情"
+      },
+      {
         "title": "法医秦明之龙番往事",
         "rank": 9,
-        "heat": "68.72",
+        "heat": "68.82",
         "category": "剧集",
         "tmdbId": 287994,
         "mediaType": "tv",
@@ -142,7 +142,7 @@
       {
         "title": "深渊无间",
         "rank": 10,
-        "heat": "68.26",
+        "heat": "68.21",
         "category": "剧集",
         "tmdbId": 301489,
         "mediaType": "tv",
@@ -157,7 +157,7 @@
       {
         "title": "重案六组：消失的警号",
         "rank": 11,
-        "heat": "68.05",
+        "heat": "68.02",
         "category": "剧集",
         "tmdbId": 319659,
         "mediaType": "tv",
@@ -172,7 +172,7 @@
       {
         "title": "师兄太稳健",
         "rank": 12,
-        "heat": "67.52",
+        "heat": "67.47",
         "category": "剧集",
         "tmdbId": 272938,
         "mediaType": "tv",
@@ -187,7 +187,7 @@
       {
         "title": "行镖",
         "rank": 13,
-        "heat": "67.31",
+        "heat": "67.27",
         "category": "剧集",
         "tmdbId": 335826,
         "mediaType": "tv",
@@ -202,7 +202,7 @@
       {
         "title": "九门",
         "rank": 14,
-        "heat": "67.11",
+        "heat": "67.09",
         "category": "剧集",
         "tmdbId": 271016,
         "mediaType": "tv",
@@ -217,7 +217,7 @@
       {
         "title": "金色",
         "rank": 15,
-        "heat": "66.23",
+        "heat": "66.21",
         "category": "剧集",
         "tmdbId": 35894,
         "mediaType": "tv",
@@ -232,7 +232,7 @@
       {
         "title": "百花杀",
         "rank": 16,
-        "heat": "66.10",
+        "heat": "66.08",
         "category": "剧集",
         "tmdbId": 286506,
         "mediaType": "tv",
@@ -247,7 +247,7 @@
       {
         "title": "囧徒之预演告别",
         "rank": 17,
-        "heat": "65.90",
+        "heat": "65.69",
         "category": "剧集",
         "tmdbId": 286322,
         "mediaType": "tv",
@@ -262,7 +262,7 @@
       {
         "title": "人鱼",
         "rank": 18,
-        "heat": "65.32",
+        "heat": "65.27",
         "category": "剧集",
         "tmdbId": 273119,
         "mediaType": "tv",
@@ -277,7 +277,7 @@
       {
         "title": "御廷谣",
         "rank": 19,
-        "heat": "64.81",
+        "heat": "64.77",
         "category": "剧集",
         "tmdbId": 295599,
         "mediaType": "tv",
@@ -292,7 +292,7 @@
       {
         "title": "天才女友",
         "rank": 20,
-        "heat": "64.15",
+        "heat": "64.09",
         "category": "剧集",
         "tmdbId": 289116,
         "mediaType": "tv",
@@ -307,24 +307,9 @@
     ],
     "综艺": [
       {
-        "title": "心动的信号 第九季",
-        "rank": 1,
-        "heat": "56.94",
-        "category": "综艺",
-        "tmdbId": 103147,
-        "mediaType": "tv",
-        "tmdbTitle": "心动的信号",
-        "releaseDate": "2018-08-26",
-        "posterPath": "/qFplFFQy6zMMplHItcrMAtBEseO.jpg",
-        "rating": 6.1,
-        "overview": "《心动的信号》是由腾讯视频推出的一档恋爱社交推理真人秀节目。节目以信号小屋中发生的素人真实恋爱故事为主体，采用非传统意义上的星素结合方式，每期邀请明星嘉宾和心理学专家以场外观察员的身份，来反观6位素人单身男女日常相处的生活细节和情感走向，从而进行推理分析和心动连线。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "披荆斩棘2026",
-        "rank": 2,
-        "heat": "56.86",
+        "rank": 1,
+        "heat": "56.83",
         "category": "综艺",
         "tmdbId": 131040,
         "mediaType": "tv",
@@ -337,24 +322,24 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "密室大逃脱 第八季",
-        "rank": 3,
-        "heat": "56.71",
+        "title": "心动的信号 第九季",
+        "rank": 2,
+        "heat": "56.77",
         "category": "综艺",
-        "tmdbId": 89861,
+        "tmdbId": 103147,
         "mediaType": "tv",
-        "tmdbTitle": "密室大逃脱",
-        "releaseDate": "2019-03-30",
-        "posterPath": "/qQ221G1KxusTIotpTi4cxDk6O13.jpg",
-        "rating": 7.6,
-        "overview": "《密室大逃脱》是由芒果TV打造的大型益智类实景解密体验秀，每期6位玩家倾力合作，进入不同主题故事的密室，全未知、无扮演、不限时，以最真实的状态解谜逃脱，直到最终逃出密室。谜题涉及对玩家智力、创造力、 决策力、洞察力、协作力、逆行力的测试，通过观察玩家在游戏中的心理、行为表现，掀起全民动脑热潮。",
+        "tmdbTitle": "心动的信号",
+        "releaseDate": "2018-08-26",
+        "posterPath": "/qFplFFQy6zMMplHItcrMAtBEseO.jpg",
+        "rating": 6.1,
+        "overview": "《心动的信号》是由腾讯视频推出的一档恋爱社交推理真人秀节目。节目以信号小屋中发生的素人真实恋爱故事为主体，采用非传统意义上的星素结合方式，每期邀请明星嘉宾和心理学专家以场外观察员的身份，来反观6位素人单身男女日常相处的生活细节和情感走向，从而进行推理分析和心动连线。",
         "regionTitle": "中国大陆",
         "genreTitle": "真人秀"
       },
       {
         "title": "大哥小助理",
-        "rank": 4,
-        "heat": "56.67",
+        "rank": 3,
+        "heat": "56.74",
         "category": "综艺",
         "tmdbId": 331649,
         "mediaType": "tv",
@@ -367,9 +352,24 @@
         "genreTitle": "真人秀"
       },
       {
+        "title": "密室大逃脱 第八季",
+        "rank": 4,
+        "heat": "56.58",
+        "category": "综艺",
+        "tmdbId": 89861,
+        "mediaType": "tv",
+        "tmdbTitle": "密室大逃脱",
+        "releaseDate": "2019-03-30",
+        "posterPath": "/qQ221G1KxusTIotpTi4cxDk6O13.jpg",
+        "rating": 7.6,
+        "overview": "《密室大逃脱》是由芒果TV打造的大型益智类实景解密体验秀，每期6位玩家倾力合作，进入不同主题故事的密室，全未知、无扮演、不限时，以最真实的状态解谜逃脱，直到最终逃出密室。谜题涉及对玩家智力、创造力、 决策力、洞察力、协作力、逆行力的测试，通过观察玩家在游戏中的心理、行为表现，掀起全民动脑热潮。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
         "title": "一饭封神 第2季",
         "rank": 5,
-        "heat": "55.92",
+        "heat": "55.88",
         "category": "综艺",
         "tmdbId": 296217,
         "mediaType": "tv",
@@ -384,7 +384,7 @@
       {
         "title": "我家那闺女2026",
         "rank": 6,
-        "heat": "55.82",
+        "heat": "55.84",
         "category": "综艺",
         "tmdbId": 126490,
         "mediaType": "tv",
@@ -399,7 +399,7 @@
       {
         "title": "地球超新鲜 第2季",
         "rank": 7,
-        "heat": "55.74",
+        "heat": "55.76",
         "category": "综艺",
         "tmdbId": 296202,
         "mediaType": "tv",
@@ -412,24 +412,9 @@
         "genreTitle": "真人秀"
       },
       {
-        "title": "一路向海的少年",
-        "rank": 8,
-        "heat": "54.72",
-        "category": "综艺",
-        "tmdbId": 330926,
-        "mediaType": "tv",
-        "tmdbTitle": "一路向海的少年",
-        "releaseDate": "2026-08-06",
-        "posterPath": "/3bQO1x3kmGiKWLUbc6jRt1uwsKJ.jpg",
-        "rating": 0.0,
-        "overview": "《一路向海的少年》是一档聚焦新时代青年成长历练的公路纪实真人秀。节目以\"从离海最远的地方出发，一路向海\"为核心立意，讲述五位少年从亚欧大陆腹地的新疆启程，以自驾方式完成八站新疆公路之旅，最终奔赴心之向往的海岛。",
-        "regionTitle": "中国大陆",
-        "genreTitle": "真人秀"
-      },
-      {
         "title": "毛雪汪 2026秋",
-        "rank": 9,
-        "heat": "54.57",
+        "rank": 8,
+        "heat": "54.62",
         "category": "综艺",
         "tmdbId": 331306,
         "mediaType": "tv",
@@ -442,9 +427,24 @@
         "genreTitle": "综艺"
       },
       {
+        "title": "一路向海的少年",
+        "rank": 9,
+        "heat": "54.57",
+        "category": "综艺",
+        "tmdbId": 330926,
+        "mediaType": "tv",
+        "tmdbTitle": "一路向海的少年",
+        "releaseDate": "2026-08-06",
+        "posterPath": "/3bQO1x3kmGiKWLUbc6jRt1uwsKJ.jpg",
+        "rating": 0.0,
+        "overview": "《一路向海的少年》是一档聚焦新时代青年成长历练的公路纪实真人秀。节目以\"从离海最远的地方出发，一路向海\"为核心立意，讲述五位少年从亚欧大陆腹地的新疆启程，以自驾方式完成八站新疆公路之旅，最终奔赴心之向往的海岛。",
+        "regionTitle": "中国大陆",
+        "genreTitle": "真人秀"
+      },
+      {
         "title": "舞蹈新风暴",
         "rank": 10,
-        "heat": "53.72",
+        "heat": "53.57",
         "category": "综艺",
         "tmdbId": 94773,
         "mediaType": "tv",
@@ -459,7 +459,7 @@
       {
         "title": "心动双重奏",
         "rank": 11,
-        "heat": "53.04",
+        "heat": "53.18",
         "category": "综艺",
         "tmdbId": 330354,
         "mediaType": "tv",
@@ -474,7 +474,7 @@
       {
         "title": "脱口秀和Ta的朋友们 第3季",
         "rank": 12,
-        "heat": "52.41",
+        "heat": "52.39",
         "category": "综艺",
         "tmdbId": 261471,
         "mediaType": "tv",
@@ -489,7 +489,7 @@
       {
         "title": "喜剧之王单口季 第三季",
         "rank": 13,
-        "heat": "52.35",
+        "heat": "52.31",
         "category": "综艺",
         "tmdbId": 261391,
         "mediaType": "tv",
@@ -504,7 +504,7 @@
       {
         "title": "说唱巅峰对决2026",
         "rank": 14,
-        "heat": "52.23",
+        "heat": "52.17",
         "category": "综艺",
         "tmdbId": 225861,
         "mediaType": "tv",
@@ -519,7 +519,7 @@
       {
         "title": "姐姐当家 第二季",
         "rank": 15,
-        "heat": "51.68",
+        "heat": "51.62",
         "category": "综艺",
         "tmdbId": 296215,
         "mediaType": "tv",
@@ -534,7 +534,7 @@
       {
         "title": "开始推理吧 第四季",
         "rank": 16,
-        "heat": "51.63",
+        "heat": "51.54",
         "category": "综艺",
         "tmdbId": 203003,
         "mediaType": "tv",
@@ -549,7 +549,7 @@
       {
         "title": "这是我的西游2",
         "rank": 17,
-        "heat": "51.38",
+        "heat": "51.33",
         "category": "综艺",
         "tmdbId": 251718,
         "mediaType": "tv",
@@ -564,7 +564,7 @@
       {
         "title": "忙忙碌碌寻宝藏2",
         "rank": 18,
-        "heat": "51.21",
+        "heat": "51.16",
         "category": "综艺",
         "tmdbId": 259700,
         "mediaType": "tv",
@@ -579,7 +579,7 @@
       {
         "title": "我们的宿舍2",
         "rank": 19,
-        "heat": "51.08",
+        "heat": "51.03",
         "category": "综艺",
         "tmdbId": 294253,
         "mediaType": "tv",
@@ -883,14 +883,14 @@
       {
         "title": "仙逆剧场版弑仙之战",
         "rank": 1,
-        "heat": "56.19",
+        "heat": "52.08",
         "category": "电影",
         "tmdbId": 1599191,
         "mediaType": "movie",
         "tmdbTitle": "仙逆剧场版：弑仙之战",
         "releaseDate": "2026-10-01",
         "posterPath": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-        "rating": 7.8,
+        "rating": 7.6,
         "overview": "王林于雷之仙界遭遇宿敌绝命追杀，在生死绝境中展开一场惊天逆袭，以弱胜强，终成弑仙壮举。",
         "regionTitle": "未知地区",
         "genreTitle": "动画"
@@ -898,7 +898,7 @@
       {
         "title": "灵魂摆渡公主之梦",
         "rank": 2,
-        "heat": "49.93",
+        "heat": "49.78",
         "category": "电影",
         "tmdbId": 1785448,
         "mediaType": "movie",
@@ -913,7 +913,7 @@
       {
         "title": "替 身",
         "rank": 4,
-        "heat": "48.64",
+        "heat": "48.68",
         "category": "电影",
         "tmdbId": 1131838,
         "mediaType": "movie",
@@ -928,7 +928,7 @@
       {
         "title": "除暴之路",
         "rank": 5,
-        "heat": "48.27",
+        "heat": "48.31",
         "category": "电影",
         "tmdbId": 1580190,
         "mediaType": "movie",
@@ -943,7 +943,7 @@
       {
         "title": "蜂鸟行动",
         "rank": 6,
-        "heat": "47.98",
+        "heat": "47.84",
         "category": "电影",
         "tmdbId": 1765955,
         "mediaType": "movie",
@@ -958,7 +958,7 @@
       {
         "title": "冒牌暴徒",
         "rank": 7,
-        "heat": "47.69",
+        "heat": "47.63",
         "category": "电影",
         "tmdbId": 1783608,
         "mediaType": "movie",
@@ -973,7 +973,7 @@
       {
         "title": "八面埋伏",
         "rank": 8,
-        "heat": "47.43",
+        "heat": "47.36",
         "category": "电影",
         "tmdbId": 16617,
         "mediaType": "movie",
@@ -988,7 +988,7 @@
       {
         "title": "夺命 狂花",
         "rank": 9,
-        "heat": "47.25",
+        "heat": "47.13",
         "category": "电影",
         "tmdbId": 1096577,
         "mediaType": "movie",
@@ -1003,7 +1003,7 @@
       {
         "title": "青铜天门之楼兰星骸",
         "rank": 10,
-        "heat": "47.16",
+        "heat": "47.09",
         "category": "电影",
         "tmdbId": 1777859,
         "mediaType": "movie",
@@ -1018,7 +1018,7 @@
       {
         "title": "猎虎贰",
         "rank": 11,
-        "heat": "47.09",
+        "heat": "47.08",
         "category": "电影",
         "tmdbId": 1745149,
         "mediaType": "movie",
@@ -1033,7 +1033,7 @@
       {
         "title": "完美世界：九劫焚天",
         "rank": 12,
-        "heat": "46.65",
+        "heat": "46.61",
         "category": "电影",
         "tmdbId": 1598732,
         "mediaType": "movie",
@@ -1048,7 +1048,7 @@
       {
         "title": "山竹刀",
         "rank": 13,
-        "heat": "46.21",
+        "heat": "46.26",
         "category": "电影",
         "tmdbId": 1764761,
         "mediaType": "movie",
@@ -1063,7 +1063,7 @@
       {
         "title": "和平精英：地铁逃生",
         "rank": 14,
-        "heat": "45.85",
+        "heat": "45.74",
         "category": "电影",
         "tmdbId": 1760578,
         "mediaType": "movie",
@@ -1078,7 +1078,7 @@
       {
         "title": "惩罚者",
         "rank": 15,
-        "heat": "45.69",
+        "heat": "45.62",
         "category": "电影",
         "tmdbId": 1439930,
         "mediaType": "movie",
@@ -1093,7 +1093,7 @@
       {
         "title": "灵魂摆渡蝴蝶梦",
         "rank": 16,
-        "heat": "45.43",
+        "heat": "45.38",
         "category": "电影",
         "tmdbId": 1754100,
         "mediaType": "movie",
@@ -1108,7 +1108,7 @@
       {
         "title": "热血部落",
         "rank": 17,
-        "heat": "45.16",
+        "heat": "45.14",
         "category": "电影",
         "tmdbId": 1768954,
         "mediaType": "movie",
@@ -1123,7 +1123,7 @@
       {
         "title": "荒山野店",
         "rank": 18,
-        "heat": "44.87",
+        "heat": "44.82",
         "category": "电影",
         "tmdbId": 1771787,
         "mediaType": "movie",
@@ -1138,7 +1138,7 @@
       {
         "title": "东游令",
         "rank": 20,
-        "heat": "44.52",
+        "heat": "44.46",
         "category": "电影",
         "tmdbId": 1770942,
         "mediaType": "movie",
