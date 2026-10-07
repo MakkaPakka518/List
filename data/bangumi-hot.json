@@ -1,5 +1,2568 @@
 {
-  "last_updated": "2026-10-07 21:12:29",
-  "total_matched": 0,
-  "hot_anime": []
+  "last_updated": "2026-10-08 03:06:54",
+  "total_matched": 112,
+  "hot_anime": [
+    {
+      "id": "24835",
+      "tmdbId": 24835,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "CLANNAD",
+      "releaseDate": "2007-10-05",
+      "lastUpdateDate": "2009-03-13",
+      "posterPath": "/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
+      "backdropPath": "/vB7HwJNhlRA9tPViK32bK0hVCmb.jpg",
+      "rating": 8.3,
+      "description": "2007 · ⭐ 8.3 · 日本\n在某个小镇，主角冈崎朋也因为家庭的因素成为不良少年，一直与春原阳平为伍，在光坂高校过着潦倒的生活，但希望终有一天能够离开所在的小镇。某一天，他在学校坡道前发现了一个止步不前的女孩，在朋也认识了这个名为“古河渚”的女孩后，他的生活开始有了重大的变化。  第一季为主角和女主角们之间所发生的事件，第二季After story为主角在中学毕业之后，与渚共同生活的日子，其中还穿插了“幻想世界”，《CLANNAD》就是由这三个要素所组成的故事。",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "1095",
+      "tmdbId": 1095,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "攻壳机动队 STAND ALONE COMPLEX",
+      "releaseDate": "2002-10-01",
+      "lastUpdateDate": "2005-01-08",
+      "posterPath": "/cN5xiie7ZvN5JbXdsl1YA09Sh8i.jpg",
+      "backdropPath": "/2rvFW70UeOMCTXGmYHij1bwHCiu.jpg",
+      "rating": 8.2,
+      "description": "2002 · ⭐ 8.2 · 日本\n公元2030年，经历了4次世界大战的世界面临更严峻的挑战。随着人类义体化等科技的不断发展，犯罪行为也日渐离奇复杂。为了解决这类案件，日本内务省的直属部队——公安9课，这个对外不存在的特种部队，在队长草薙素子的带领下向恶势力发起制裁。而面对公安9课的，是高度发达的科技下创造的案件、权力政治斗争的阴谋、与以笑脸男为代表的Stand Alone Complex犯罪。 ",
+      "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765,
+        80
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "47480",
+      "tmdbId": 47480,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "新猫和老鼠",
+      "releaseDate": "2014-04-09",
+      "lastUpdateDate": "2022-01-17",
+      "posterPath": "/uVjQruIOn5WPV81QERXYGadcBzZ.jpg",
+      "backdropPath": "/utqCOvMmjjMTlXNZz6PHOzRM5QP.jpg",
+      "rating": 7.4,
+      "description": "2014 · ⭐ 7.4 · 美国\n还记得那只蓝色腹黑的大猫汤姆和身形轻巧、聪慧机敏的小老鼠杰瑞吗？自20世纪60年代诞生以来，经创始人威廉·汉纳（William Hanna）与约瑟夫·巴伯拉（Joseph Barbera），以及继任者查克·琼斯（Chuck Jones）等动画名家之手，这两个调皮捣蛋的小家伙和他们的朋友们在银幕、荧屏之上留下了无数经典搞笑的精彩瞬间。他们联袂演出，获得过七项奥斯卡大奖，成为了华纳旗下当之无愧的看家明星。在过去的半个多世纪，汤姆和杰瑞培养了一代又一代忠实影迷。进入2014年，令坚实粉丝们振奋的消息传来。汤姆和杰瑞全新制作的新番上阵，这两个活宝自然不会缺席，而大狗斯派克、黑猫等老朋友也会悉数登场。总共52部全新短片上映，久别重逢的老朋友们将为我们带来新的快乐和感动！",
+      "genreTitle": "家庭 / 喜剧",
+      "regionTitle": "美国",
+      "rawGenres": [
+        10751,
+        16,
+        35,
+        10762
+      ],
+      "rawCountries": [
+        "US"
+      ]
+    },
+    {
+      "id": "30991",
+      "tmdbId": 30991,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "星际牛仔",
+      "releaseDate": "1998-04-03",
+      "lastUpdateDate": "1999-04-24",
+      "posterPath": "/1v0xB1cIZ33Ni0VxBUAykmoBXMP.jpg",
+      "backdropPath": "/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg",
+      "rating": 8.5,
+      "description": "1998 · ⭐ 8.5 · 日本\n2071年，随着超光速航行技术的实现，人类得以在太阳系范围内方便的移动，但是由于设计上的失误，这种技术引发了月球的爆炸，无数的月球碎片被吸引向地球，造成了空前绝后的大灾难。存活下来的人类逃离地球，并开始在太阳系各地建立家园。由于这次灾难，国家政府等权利机构都极为不稳定、治安问题也成为了一个难题。有些组织开始允许个人抓捕通缉的罪犯并换取奖金，这就是“赏金猎人”。史派克和杰特是驾驶飞船BEBOP号在宇宙中以捉拿逃犯获取奖金为生的赏金猎人。两人在星际间的旅程中，结识了身负巨债、嗜财如命的美女菲和电脑神童艾德，并收养了拥有高智商的数据狗爱因。从此，四人一狗游荡在广阔之宇宙之中，在自己与他人的生活中经历著种种悲欢离合，也寻找著各自的过去。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765,
+        37
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "1095",
+      "tmdbId": 1095,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "攻壳机动队 STAND ALONE COMPLEX",
+      "releaseDate": "2002-10-01",
+      "lastUpdateDate": "2005-01-08",
+      "posterPath": "/cN5xiie7ZvN5JbXdsl1YA09Sh8i.jpg",
+      "backdropPath": "/2rvFW70UeOMCTXGmYHij1bwHCiu.jpg",
+      "rating": 8.2,
+      "description": "2002 · ⭐ 8.2 · 日本\n公元2030年，经历了4次世界大战的世界面临更严峻的挑战。随着人类义体化等科技的不断发展，犯罪行为也日渐离奇复杂。为了解决这类案件，日本内务省的直属部队——公安9课，这个对外不存在的特种部队，在队长草薙素子的带领下向恶势力发起制裁。而面对公安9课的，是高度发达的科技下创造的案件、权力政治斗争的阴谋、与以笑脸男为代表的Stand Alone Complex犯罪。 ",
+      "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765,
+        80
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "317885",
+      "tmdbId": 317885,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "浪客剑心 追忆篇",
+      "releaseDate": "1999-02-20",
+      "lastUpdateDate": "1999-09-22",
+      "posterPath": "/xPu5caNX8TMujoPvQkep0rImPVX.jpg",
+      "backdropPath": "/2OSDcB6sQYlxA0UffFaCLNgiUNE.jpg",
+      "rating": 8.4,
+      "description": "1999 · ⭐ 8.4 · 日本\n幕府末期动荡不安，少年心太被比古清十郎收为弟子，改名剑心，下山投身时代变革，成为刺客。一次任务中脸上留下伤疤。之后他遇见雪代巴，两人在乱世与宁静交错的生活中逐渐靠近，但在政治与仇恨的漩涡中，这段短暂的幸福终究难以保全。",
+      "genreTitle": "动作冒险 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "18491",
+      "tmdbId": 18491,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "新世纪福音战士剧场版：Air／真心为你",
+      "releaseDate": "1997-07-19",
+      "lastUpdateDate": "1997-07-19",
+      "posterPath": "/yBanOpNIccxjZlH4QH7ag4ojWOI.jpg",
+      "backdropPath": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+      "rating": 8.3,
+      "description": "1997 · ⭐ 8.3 · 未知地区\n《新世纪福音战士》系列第二部剧场版，于 1997 年 7 月 19 日在日本上映。全名：《新世纪福音战士剧场版：THE END OF EVANGELION》（日语：新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION - Air/まごころを、君に，英语：NEON GENESIS EVANGELION: THE END OF EVANGELION - AIR/SINCERELY YOURS）。剧情承接 TV 动画版第 24 集，包括了重新制作的第 25 、第 26 话。在这部剧场版中第 25 话的名字是 “AIR”（天空），而副标题是 “LOEV IS DESTRUCTIVE”（爱是一种伤害）；第 26 话的名字是 “YOUR SINCERELY”（真心为你），副标题是“ONE MORE FINAL: I NEED YOU”（再说最后一遍：我需要你）。剧场版的每一话都和电视版一样有一个 “EYE - CATCH” 镜头（即每集中间那个黑底白字的英文标题）。这部剧场版标志着整个旧世纪《新世纪福音战士》的终结。影片分成 “Air” 与 “真心为你” 两个部分。神秘的 EVA 零号机驾驶员绫波丽，在与碇元渡约定之时，来到了 NERV 底层中央教条的红色水池边。她的命运似乎就将在此结束。在危急时刻，葛城美里不但要完成加持良治交待的对“第二次浩劫”真相以及“人类补完计划”的探查工作，还要保护碇真嗣与明日香，以及防备 SEELE 对初号机与二号机的物理接触。出于对碇元渡的憎恨，赤木律子接受了 SEELE 引爆 MAGI 的提案，她能否成功 ？长期与 SEELE 共事的碇元度、冬月耕造、碇唯，为了防止人类“最终的悲剧”，而酝酿了的“人类补完计划”能否实现 ？尽在《新世纪福音战士》电影版第 2 部中解答。",
+      "genreTitle": "科幻 / 剧情 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        18,
+        14,
+        28
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "42509",
+      "tmdbId": 42509,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "命运石之门",
+      "releaseDate": "2011-04-06",
+      "lastUpdateDate": "2011-09-14",
+      "posterPath": "/6iysgZr6Upm5RlAlVFo5f4D9euu.jpg",
+      "backdropPath": "/gDvxT2z6TNxervG97WfpePRZ3aR.jpg",
+      "rating": 8.5,
+      "description": "2011 · ⭐ 8.5 · 日本\n本作主人公冈部伦太郎（宫野真守 配音）是个患有严重中二病的大学生，自称为“凤凰院凶真”的他和伙伴们组成了“未来发明研究所”，在位于秋叶原的一个简陋实验室内进行各种古怪发明和调查。2010 年 7 月 28 日这天，冈部和青梅竹马真由理（花泽香菜 配音）一同去了科学讲义会场，在那里，他们遇见了天才少女牧濑红莉栖（今井麻美 配音）。让人意想不到的事情发生了，冈部在会馆楼道内听到一声惨叫，他闻声而至，发现了倒在血泊中的牧濑。冈部用手机短信将这件事告诉好友桥田至，这个举动，让世界都颠覆了。实验室里那个所谓的“未来道具”，竟然真的可以左右世界的进程，冈部自此成了孤独的观测者。这一切都是命运石之门的选择。",
+      "genreTitle": "科幻奇幻 / 悬疑 / 喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        9648,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "1095",
+      "tmdbId": 1095,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "攻壳机动队 STAND ALONE COMPLEX",
+      "releaseDate": "2002-10-01",
+      "lastUpdateDate": "2005-01-08",
+      "posterPath": "/cN5xiie7ZvN5JbXdsl1YA09Sh8i.jpg",
+      "backdropPath": "/2rvFW70UeOMCTXGmYHij1bwHCiu.jpg",
+      "rating": 8.2,
+      "description": "2002 · ⭐ 8.2 · 日本\n公元2030年，经历了4次世界大战的世界面临更严峻的挑战。随着人类义体化等科技的不断发展，犯罪行为也日渐离奇复杂。为了解决这类案件，日本内务省的直属部队——公安9课，这个对外不存在的特种部队，在队长草薙素子的带领下向恶势力发起制裁。而面对公安9课的，是高度发达的科技下创造的案件、权力政治斗争的阴谋、与以笑脸男为代表的Stand Alone Complex犯罪。 ",
+      "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765,
+        80
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "65336",
+      "tmdbId": 65336,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "三月的狮子",
+      "releaseDate": "2016-10-08",
+      "lastUpdateDate": "2018-03-31",
+      "posterPath": "/4LTg5dLXnHwbNcFyOTnXvMpSs4q.jpg",
+      "backdropPath": "/mLzJpP9YRexGbvgiqunirAM5HAA.jpg",
+      "rating": 8.0,
+      "description": "2016 · ⭐ 8.0 · 日本\n独自居住在东京旧市街的17岁职业将棋棋士——桐山零。他是个幼时就因为意外失去家人，怀抱着深沉孤独的少年。出现在这样的他面前的，是明里、日向、桃三姐妹。与她们的相处后，零开始发生些许改变",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "31911",
+      "tmdbId": 31911,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "钢之炼金术师 FA",
+      "releaseDate": "2009-04-05",
+      "lastUpdateDate": "2010-07-04",
+      "posterPath": "/w1tRC9Xu5R4OP4eGkIXP1DGJi4S.jpg",
+      "backdropPath": "/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg",
+      "rating": 8.7,
+      "description": "2009 · ⭐ 8.7 · 日本\n炼金术，一种建立在等价交换原则基础上的科学，将物质进行理解、分解、再构造，将一种物品变成另外一种。但是，这样先进的技术却不能进行人体炼成，这是炼金术绝对的禁忌。可是，拥有极高炼金术天赋的爱德华（朴璐美 配音）和阿尔冯斯（钉宫理恵 配音）兄弟，因为对母亲极大的思念不惜触犯禁忌。而最终的代价却是，爱德华失去了一条手臂和一条腿，弟弟阿尔冯斯只能将灵魂依附在一副巨大的装甲之内。终于明白一切的兄弟俩，为了恢复原状，寻求更多的炼金术知识，成为国家炼金术师踏上了寻找终极炼金物品——贤者之石的旅程。在不断的探索中，两兄弟终于发现了贤者之石背后的真相，对身处的这个军事化国家也有了更深入的了解。此时，面对国家、民族、家庭……炼金术的未来究竟在何处。",
+      "genreTitle": "动作冒险 / 科幻奇幻 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "132131",
+      "tmdbId": 132131,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "未麻的部屋：讲座",
+      "releaseDate": "2008-02-29",
+      "lastUpdateDate": "2008-02-29",
+      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
+      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
+      "rating": 8.0,
+      "description": "2008 · ⭐ 8.0 · 日本\n《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
+      "genreTitle": "纪录片",
+      "regionTitle": "日本",
+      "rawGenres": [
+        99,
+        16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "64492",
+      "tmdbId": 64492,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "白箱",
+      "releaseDate": "2014-10-09",
+      "lastUpdateDate": "2015-03-26",
+      "posterPath": "/pGcyyvixbsJpgMngSCULFvbnpBK.jpg",
+      "backdropPath": "/3K37gBsWIPWhKKT5DMW37bOnp4k.jpg",
+      "rating": 7.8,
+      "description": "2014 · ⭐ 7.8 · 日本\n所谓的“白箱”，是指在动画放送之前，专门制作赠送给参与了动画制作的工作人员们的录像带，其本身拥有着令人感动的悠久历史，因为这些录像带通常都被装在白色的盒子里，所以被成为“白箱”。一直坚守着自己理想的制作人宫森葵、个性认真但有些懦弱的原画师安原绘麻、怀才不遇的声优坂木静香、CG画师藤堂美沙和容易沉迷与自身兴趣爱好的剧本作家今井绿，五个个性迥异的女孩，朝着顺利完成白箱的梦想共同努力迈进，在这条并不轻松的道路上，会发生哪些有趣的故事呢？",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "36865",
+      "tmdbId": 36865,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "凉宫春日的消失",
+      "releaseDate": "2010-02-05",
+      "lastUpdateDate": "2010-02-05",
+      "posterPath": "/pRxXeTAuRGLPzQ8FS5Bd4qwcZkS.jpg",
+      "backdropPath": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+      "rating": 7.9,
+      "description": "2010 · ⭐ 7.9 · 未知地区\n距圣诞节仅有8天时间，SOS团在凉宫春日的号召下，不出意料地策划了一场圣诞狂欢派对。但就在12月18日这天早晨，阿虚却发现周围的世界有了些许变化。1年9班消失不见，朝比奈学姐视其形同路人，甚至早已死去的朝仓也代替凉宫春日坐在了阿虚的后面，而春日则如同人间蒸发一般无人知晓。当他冲向SOS团的教室时，只看到了孤零零坐在角落里看书的长门有希，一向淡定自若、冷如冰霜的长门大神也变成了怯懦害羞的乖乖女。从前一日长门留下的蛛丝马迹中，阿虚判断出这个世界似乎被某人重组了一番。此时的阿虚，握有连接两个绝然不同世界的钥匙，他面临着重大的选择……",
+      "genreTitle": "科幻 / 悬疑 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        9648,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "1429",
+      "tmdbId": 1429,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "进击的巨人",
+      "releaseDate": "2013-04-07",
+      "lastUpdateDate": "2022-04-04",
+      "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
+      "backdropPath": "/wg0GsFpeHAFPbbcfsntTQBggWCo.jpg",
+      "rating": 8.7,
+      "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
+      "genreTitle": "科幻奇幻 / 动作冒险",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10759
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "27660",
+      "tmdbId": 27660,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "银河英雄传说",
+      "releaseDate": "1988-01-08",
+      "lastUpdateDate": "1997-02-01",
+      "posterPath": "/xwJl6CZd3Lr3sY5mPGEZRugCfF3.jpg",
+      "backdropPath": "/fWZu2vaHJg7M6iwqeFPO3rMHTi7.jpg",
+      "rating": 8.6,
+      "description": "1988 · ⭐ 8.6 · 日本\n故事发生在遥远未来的浩瀚宇宙中，银河帝国与从帝国中分裂开来的自由行星同盟是存在于其中的两大势力，他们相互为敌，之间不断发生着残酷的战争。联结着帝国和同盟的，是两条著名的回廊——“费沙回廊”和“伊谢尔伦回廊”，而在费沙回廊中，存在这一个特殊的国家——“费沙自治领”，这个看似弱小的国家以它的方式在动荡的局势中独善其身，成为了不可小觑的又一股势力。长久以来，在三股势力之间维持着微妙的平衡，而帝国的莱因哈特·冯·罗严克拉姆（堀川亮 配音）与同盟的杨威利（富山敬 配音）的出现预示着平衡的终结，历史的车轮就此开始转动。",
+      "genreTitle": "剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10765,
+        10768
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "33320",
+      "tmdbId": 33320,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "千年女优",
+      "releaseDate": "2002-09-14",
+      "lastUpdateDate": "2002-09-14",
+      "posterPath": "/DapAI24FrLj2TdwA1TUVtTkkl3.jpg",
+      "backdropPath": "/jZW391Kknf4YiIaZ1XHyVjnJaKe.jpg",
+      "rating": 7.9,
+      "description": "2002 · ⭐ 7.9 · 未知地区\n60岁的立花源也和28岁的摄影师井田恭二不远千里跋山涉水上门去拜访隐居了三十年的一代影星藤原千代子，为了给她拍摄一生自传的纪录片。款款前来的千代子虽已75岁高龄，但仍然优雅美丽，左眼下标志性的小痣也仍然俏皮。立花双手递上一把钥匙，千代子深受震动，称这把钥匙是开启一个秘密的关键，当年她不慎丢失，今日竟还能再回手中。千代子的思绪飞到老远。 1926年9月1日，藤原千代子呱呱坠地，水灵清秀的她16岁就被星探发掘，然而直到遇上一个画家，她救他于乱世中，藏于自家仓库内，他有一把钥匙，说这是开启秘密的关键，并承诺再与她重逢时带她去看北海道的雪。然而次日千代子放学归家时画家已经因为逃开追捕逃离远去，留下了那把开启最珍贵的东西的钥匙。千代子自此进入电影圈，只因为画家最后说他会去满洲作战，而第一部电影承诺会去满洲取景。从此千代子的银幕生涯拉开，拍摄了代表日本战国、幕府、大正及昭和等四个不同时期的大时代爱情故事。在每一个故事里，千代子都在奔跑，追寻着自己的真爱。场景与她本身的故事糅合在一起，虚实难分。立花和井田紧随其后身临其境，时而变成故事中人物。在一次地震中，千代子丢失了钥匙，突然感觉心里缺了什么似的，心灰意冷。自感过了爱梦想的年纪。然而到后来她发现钥匙的丢失是一个精心布下的骗局，千代子认清事实后决意继续找寻自己少女时代的所爱。",
+      "genreTitle": "剧情 / 爱情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        10749
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "57041",
+      "tmdbId": 57041,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "银魂",
+      "releaseDate": "2006-04-04",
+      "lastUpdateDate": "2018-10-08",
+      "posterPath": "/wSV3CS1zwKf06HofZyHLUwAOiMi.jpg",
+      "backdropPath": "/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+      "rating": 8.2,
+      "description": "2006 · ⭐ 8.2 · 日本\n江户时代末期（本作的 20 年前）, 被称为“天人（あまんと）”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签订不平等条约，准许他们入国。其后更颁布了“废刀令”，夺走了武士的刀，使他们无力反抗。自此，天人横行霸道，幕府为天人所影响，甚至被控制，成为了“傀儡政权”。在这样的时代，有一个武士与同伴愉快地过著异想天开的生活。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "53787",
+      "tmdbId": 53787,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "水星领航员",
+      "releaseDate": "2005-10-06",
+      "lastUpdateDate": "2008-04-01",
+      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
+      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+      "rating": 8.6,
+      "description": "2005 · ⭐ 8.6 · 日本\n随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "26867",
+      "tmdbId": 26867,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "虫师",
+      "releaseDate": "2005-10-23",
+      "lastUpdateDate": "2014-12-21",
+      "posterPath": "/udeKfxvv9uggDzmWWPJBwzjhw9Z.jpg",
+      "backdropPath": "/8ysRHGV3URjOJT7u7NkZiFjvObk.jpg",
+      "rating": 8.1,
+      "description": "2005 · ⭐ 8.1 · 日本\n“虫”既不是动物，也不是微生物，而是一种自然界中无处不在的力量，拥有独特的生命形态，偶尔和人类生命产生交汇，便生出一些奇妙的故事。但人们即使得知了“虫”的存在，大部分时候也不知如何应对，这便需要“虫师”出马。  　　银古就是一位虫师，他一头银发，年纪尚轻，但已经半生游历，经过一个个山野、村庄，为人们解决“虫”的问题，通过和被“虫”困扰的人们接近，他也接近了许多故事。银古的游历像风一样，再惊心动魄的“虫”似乎都融化在水墨样的山峦叠嶂间，芸芸众生也是过眼云烟，淡淡的故事里没有哀伤只有静穆。",
+      "genreTitle": "剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "12140",
+      "tmdbId": 12140,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "攻壳机动队2：无罪",
+      "releaseDate": "2004-03-06",
+      "lastUpdateDate": "2004-03-06",
+      "posterPath": "/jtWgvH1SqvaHtwRwOWnmIvpYOsV.jpg",
+      "backdropPath": "/8AGLGUYg9UqcDWXtAH0t7InsBd.jpg",
+      "rating": 7.4,
+      "description": "2004 · ⭐ 7.4 · 未知地区\n草薙素子之后，巴特与侦探出身的陀古萨结为搭档。近期发生多起机器人偶杀害主人继而自杀的事件，由于受害者家属均无公诉，且死者中有政客与公安官员，于是公安9课派出巴特小组调查此案。杀人人偶皆为荒凉地带公司出品的哈德莉机型，应部分顾客要求，该机型同时具备异性玩伴的功能，巴特从荒凉地带公司出货官遇害入手，卷入与黑帮的战斗，期间有人入侵他的大脑，使其自残。巴特决定直奔荒凉地带总部，他与陀古萨拜访了择捉岛上的黑客基姆，后者布下系统陷阱，幸有素子提出警告避免陀古萨陷入控制。依靠基姆这条线索，巴特登上了荒凉地带公司设立在海上的工厂船，素子再次降临他的身边，与其并肩作战。",
+      "genreTitle": "剧情 / 科幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        878
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "890",
+      "tmdbId": 890,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "新世纪福音战士",
+      "releaseDate": "1995-10-04",
+      "lastUpdateDate": "1996-03-27",
+      "posterPath": "/63ln23NAtdXdAh41HwpibxgJElM.jpg",
+      "backdropPath": "/awR8ZpAmieF0Pnc1AXxcCbEUjug.jpg",
+      "rating": 8.6,
+      "description": "1995 · ⭐ 8.6 · 日本\n突袭世界的大灾难“第二次冲击”后，世界在废墟之上重建。14 岁的少年碇真嗣被父亲碇元渡叫到第 3 新东京市。本以为能见到父亲迎接的他，却见到名为“ 使徒”的巨大生物与军队交火。危急之下，特务机关 NERV 的葛成美里将真嗣救下，并将其带往碇元渡所统领的 NERV 总部。但迎接真嗣的，却是是父亲冷酷地命令：驾驶称为“EVA”的巨大人型机器人与使徒战斗。本已表示拒绝的真嗣，看到重伤的替补驾驶员绫波丽后，决定遵从父亲的命令。就这样，从未受过作战训练的真嗣，准备驾驶 EVA 初号机迎战使徒。 不断袭来的使徒，身份不明的绫波丽，从德国来的驾驶员惣流·明日香·兰格蕾，14 岁的少年要面对远超自己能力的挑战。而碇元渡不动声色地观察一切，一个称为“人类补完计划”的神秘计划正在按照他的计划实现。",
+      "genreTitle": "科幻奇幻 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        10765,
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "60811",
+      "tmdbId": 60811,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "乒乓",
+      "releaseDate": "2014-04-11",
+      "lastUpdateDate": "2014-06-20",
+      "posterPath": "/b2S7VqwBzSS9cz0S0FQxTPTKmct.jpg",
+      "backdropPath": "/1rEPk87q49PspQmBJ74bwsXBVkH.jpg",
+      "rating": 8.2,
+      "description": "2014 · ⭐ 8.2 · 日本\n　片濑高中的新生“阿扁”星野裕（片山福十郎 配音）和“笑爷”月本诚（内山昂辉 配音）是同出自一个乒乓球道场的朋友。阿扁个性张扬，爱说爱笑，由于对球技信心十足，因此根本不把乒乓球部的同期和前辈放在眼里。与之相对，笑爷内敛冷静，对于取胜这件事似乎根本没有半点强烈的欲望，潜意识中他更希望像机器人一般不被人注意到。为了迎接即将到来的高中联赛，乒乓球部顾问小泉老师（屋良有作 配音）选定月本进行操练。与此同时，附近的辻堂学院高中转来了被踢出国家队的中国选手孔文革（文晔星 饰），此人恃才傲物，完全不把技术底下的日本选手放在眼里。另一方面，高手云集的海王学院高中也蓄势待发，备战接下来的大赛。方寸球桌，战况激烈…… ",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "57041",
+      "tmdbId": 57041,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "银魂",
+      "releaseDate": "2006-04-04",
+      "lastUpdateDate": "2018-10-08",
+      "posterPath": "/wSV3CS1zwKf06HofZyHLUwAOiMi.jpg",
+      "backdropPath": "/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+      "rating": 8.2,
+      "description": "2006 · ⭐ 8.2 · 日本\n江户时代末期（本作的 20 年前）, 被称为“天人（あまんと）”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签订不平等条约，准许他们入国。其后更颁布了“废刀令”，夺走了武士的刀，使他们无力反抗。自此，天人横行霸道，幕府为天人所影响，甚至被控制，成为了“傀儡政权”。在这样的时代，有一个武士与同伴愉快地过著异想天开的生活。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "57911",
+      "tmdbId": 57911,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "哆啦A梦",
+      "releaseDate": "1979-04-02",
+      "lastUpdateDate": "2005-06-24",
+      "posterPath": "/wpU1TbyAg3o9xAgWaziv3WZhNY0.jpg",
+      "backdropPath": "/6oVBODwFvbDJczBFlf4J930jKZg.jpg",
+      "rating": 7.7,
+      "description": "1979 · ⭐ 7.7 · 日本\n大山羡代版电视动画是《哆啦A梦》第二次动画化，又作朝日电视台版《哆啦A梦》第一期动画（日语:朝日系列第1期）、第二代《哆啦A梦》动画、《哆啦A梦》动画第二版、《哆啦A梦》第二版动画、第二代《哆啦A梦》动画、大山版动画等。是指日本朝日电视台自1979年-2005年之间所制作的哆啦A梦电视动画。\n\n这版本动画因其主角哆啦A梦声优为大山羡代而得名，一共出了1816话，共计1806个故事（有10个分上下两话，其中有29篇计入话数的特别篇）以及哆啦A梦名作剧场的24个故事。其中大部分是以原著漫画为基础的故事，但也有不少（尤其后期）为自创的故事。此外亦有少数改编自藤子．F．不二雄其他漫画如《叮当猫》、《奇天烈大百科》、《大耳鼠》其中姊妹作品的故事。\n\n这段时期《哆啦A梦》在世界各地落地生根，发扬光大，许多人对《哆啦A梦》的印象，便是由此而来。",
+      "genreTitle": "动作冒险 / 喜剧 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        10759,
+        16,
+        35,
+        10765,
+        10762,
+        10751
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "482150",
+      "tmdbId": 482150,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "利兹与青鸟",
+      "releaseDate": "2018-04-21",
+      "lastUpdateDate": "2018-04-21",
+      "posterPath": "/gocMbdCNdgZJPRt3fTwrCWnUUvS.jpg",
+      "backdropPath": "/mG3CYBXgCPi0yYHSygKNtqGpEkd.jpg",
+      "rating": 7.5,
+      "description": "2018 · ⭐ 7.5 · 未知地区\n就读北宇治高中的铠塚霙，在管乐团中负责吹奏双簧管；伞木希美 则负责吹奏长笛。国中时，希美主动对孤单的霙搭话，从那刻起霙就将希美视为自己的全世界。霙现在每天都感到很幸福，因为有希美在身边陪伴她，但同时也害怕希美是否会再次消失在自己面前……身为高三生的两人，即将参加最后一次的音乐竞赛会，自选曲是〈莉兹与青鸟〉，这是一首以童话为蓝本所创作的曲子，为双簧管和长笛共演的独奏曲。「霙是莉兹，希美是青鸟」两人一边将自己的情感投射于童话故事中，一边练习曲子度过不安焦躁的每一天。总是不太契合的齿轮，为了寻求相合的瞬间，而不停地转动著……究竟霙是否能对希美坦露自己真正的烦恼呢？",
+      "genreTitle": "剧情 / 音乐",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        10402
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "129",
+      "tmdbId": 129,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "千与千寻",
+      "releaseDate": "2001-07-20",
+      "lastUpdateDate": "2001-07-20",
+      "posterPath": "/dnwMqbndJpOEhoVqjlMU9U7LFle.jpg",
+      "backdropPath": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "rating": 8.5,
+      "description": "2001 · ⭐ 8.5 · 未知地区\n10岁的千寻跟随父母搬家途中，意外穿过一条神秘隧道，闯入了一个属于神灵的奇异世界。父母因为擅自吃下供奉给神灵的食物而被变成猪，惊慌失措的千寻则在神秘少年白龙的帮助下得以留下。为了在这个世界生存并寻找救回父母的方法，她不得不到汤婆婆掌管的“油屋”浴场工作。在形形色色的神灵与不可思议的遭遇中，原本胆小任性的千寻开始学会独自面对困难，而她也必须找到离开这里、带父母重返人类世界的方法……",
+      "genreTitle": "家庭 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        10751,
+        14
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "301513",
+      "tmdbId": 301513,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "明日之丈 剧场版",
+      "releaseDate": "1980-03-08",
+      "lastUpdateDate": "1980-03-08",
+      "posterPath": "/kQ8VEBK9BX4W5TpaOEoT5XR1erq.jpg",
+      "backdropPath": "/ldB5kcildygAfxFcEsQOZQoJDvS.jpg",
+      "rating": 8.4,
+      "description": "1980 · ⭐ 8.4 · 未知地区\n在东京山谷的宿民街突然出现了一位少年。他的名字叫矢吹丈。有一天小丈遇到了，对他相当感兴趣的而沉溺于酒精中毒的前拳击手丹下段平，他们因此相遇。在他与小丈打过一架后，他从他的动作中发现他具备有拳击手的天生资质，他认为如果能将小丈好好磨练，那小丈一定可以成为一流的拳击手。但是小丈他却带领着居住在宿民街的孩子们，做出一些令人瞠目睁舌的行动，并且还利用段平对他的热情，竟然不惜利用犯罪来脏了自己的手，在他被警察逮捕之后，他被移送到鉴别所·此后还送到少年院这地方给予管教。 有一天，待在少年鉴别所的小丈他，收到一封段平给他的一封明信片，上面写着“为了明日”。在这明信片中，为他讲解了要如何使出左刺拳的拳击的技术方面的事情。然而觉得时间和体力都很空闲的小丈，因此就对那个建议开始了拳击的练习并给予吸收，在他自己吸收这拳不久后，他的体会力慢慢的提高，让他想起以往他从来没有对某件事情这么认真。在野菊岛的东光特等少年院里，他遇到了终生宿敌·力石彻，他与力石彻命运的相遇，却在这种情况下让小丈正式的踏进了拳击的道路之中。",
+      "genreTitle": "动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        28,
+        16,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "46512",
+      "tmdbId": 46512,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "机动战士高达0080：口袋里的战争",
+      "releaseDate": "1989-03-25",
+      "lastUpdateDate": "1989-08-25",
+      "posterPath": "/udR8caibfkSr2ALTlzlRQOPFRZ5.jpg",
+      "backdropPath": "/21fk0W388vXQ4TpQ2iZgGzXqwru.jpg",
+      "rating": 7.9,
+      "description": "1989 · ⭐ 7.9 · 日本\n宇宙历0079年8月，地球联邦军为了发挥阿姆罗·雷的NEWTYPE能力而着手开发高达阿历克斯，制式编号RX-78NT-1。12月21日，吉恩公国军的特务部队“独眼巨人”（CYCLOPS）袭击联邦军的北极基地，企图破坏Alex未果，其成员安迪·司特罗斯战死。Alex被运往宇宙，这一事件引发了之后发生在殖民卫星第6区域的一场小战争。那场战争是如此的渺小，既不影响到整个一年战争，也没有多少人知晓，但是这场口袋中的战争之残酷，却让人无法忘怀。生活在和平中的人们会麻痹自己的感觉，忘却战争的残酷与无情；好奇心旺盛的孩子们天真地玩着打仗的游戏，对于“战争”这一字眼根本不会理解它所带来巨大的痛苦与悲伤，等他们了解到时，已经失去了太多宝贵的东西。《机动战士高达0080：口袋里的战争》会告诉我们这一不为人知的小小战役，通过一个孩子的眼睛来看清那残酷的真实。",
+      "genreTitle": "科幻奇幻 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10768,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "42573",
+      "tmdbId": 42573,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "灌篮高手",
+      "releaseDate": "1993-10-16",
+      "lastUpdateDate": "1996-03-23",
+      "posterPath": "/tl44cjAK0UiQSH6aRLs1ActnGEp.jpg",
+      "backdropPath": "/eklM8HZeGKB5KMKRqkuff0yW0Oq.jpg",
+      "rating": 8.7,
+      "description": "1993 · ⭐ 8.7 · 日本\n湘北高中的一年级新生樱木花道在初中就有了被50个女孩抛弃的“悲惨”经历，最后一个女孩抛弃他原来是看上了篮球部队小田，由此樱木对篮球更是深恶痛绝。进入高中后，樱木看上了美少女赤木晴子，晴子十分热爱篮球，为了赢取晴子的芳心，樱木决定加入篮球部。在侥幸赢得与篮球队队长赤木刚宪的打赌后，樱木顺利加入了篮球队。随着国中篮球联赛的最有价值球员流川枫的到来、伤愈复出的控位宫城良田以及误入歧途的前国中最有价值球员三井寿的回归，去年不堪一击的湘北篮球今年可谓人强马壮，虽然问题少年一大帮，但是在队长赤木刚宪的带领下，这一群以全国第一为目标的篮球少年正朝着自己的梦想进发！",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "36243",
+      "tmdbId": 36243,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "四叠半神话大系",
+      "releaseDate": "2010-04-23",
+      "lastUpdateDate": "2010-07-02",
+      "posterPath": "/3Ngmk2kNh6JTdqPwMdiZvDSdlGH.jpg",
+      "backdropPath": "/xF2v9Piv8HidnAH6uXwehz0efvp.jpg",
+      "rating": 8.3,
+      "description": "2010 · ⭐ 8.3 · 日本\n本动画以京都大学某三年级男生为主角，从四个平行世界的角度，描写当初在一年级时选择了不同社团的他，而经历了不同的大学生活。",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "47759",
+      "tmdbId": 47759,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "大闹天宫",
+      "releaseDate": "1961-07-25",
+      "lastUpdateDate": "1961-07-25",
+      "posterPath": "/3Aifv9rXv1QW3r2fOIevofecatC.jpg",
+      "backdropPath": "/50r2hZEculAYYmLk8mTSmCRKlr9.jpg",
+      "rating": 7.8,
+      "description": "1961 · ⭐ 7.8 · 未知地区\n有一座花果山，山上有一尊石猴吸收日精月华化身为一只神猴（邱岳峰 音），统领着山中的猴子猴孙。为求得一件称心的宝贝，神猴孙大圣潜入龙宫，强硬求来大禹治水时的定海神针如意金箍棒。东海龙王（毕克 音）心有不甘，于是上天将此事诉诸玉帝（富润生 音）。玉皇大帝命令太白金星（尚华 音）下界招安，许以爵位。不知有诈的孙大圣欣然前往，却发现只是负责养马的弼马温。得知受骗的猴王反下天庭，与天兵天将在花果山展开大战…… 　　本片根据古典名著《西游记》中的故事改编，前后历时4年创作，并荣获1962年捷克斯洛伐克卡罗维发利国际电影节短片特别奖、1978年英国伦敦国际电影节年度杰出电影奖、1982年厄瓜多尔第四届国际儿童电影节三等奖、第二届中国电影“百花奖”最佳美术片奖。",
+      "genreTitle": "冒险 / 奇幻 / 动作",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        12,
+        14,
+        28
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "212162",
+      "tmdbId": 212162,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "剧场版魔法少女小圆 新篇：叛逆的物语",
+      "releaseDate": "2013-10-26",
+      "lastUpdateDate": "2013-10-26",
+      "posterPath": "/mbFong623jN1FtxsUwcHKv3rtHS.jpg",
+      "backdropPath": "/tjWDJoTul5wn6BpnMH4ZWVcFWfx.jpg",
+      "rating": 7.8,
+      "description": "2013 · ⭐ 7.8 · 未知地区\n宁静祥和的见泷原市，全靠魔法少女鹿目圆、美树沙耶香、巴麻美以及佐仓杏子守护，一次次击败了人类灵魂深处产生的“梦魇”，全力包围着她们最为珍惜的城市、家人和朋友。这一天，美丽女孩晓美焰作为转校生来到小圆的班级，小圆她们意外发现，晓美竟然也是魔法少女中的一员。在此之后，五位魔法少女同心携手，解决了梦魇接二连三带来的危机。她们的友情笃深，相处分外融洽，但是晓美却对周遭无时不在的违和感隐隐感到不安。某天，她要求杏子和她去风见野一探究竟，然而两人大费周章，竟然怎么也无法走出见泷原。晓美终于意识到，她和朋友们似乎被某人封在了魔女的结界中。无休止的轮回以及爱欲滋生的幻象，让少女们陷入无休止的混乱深渊。",
+      "genreTitle": "悬疑 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        9648,
+        16,
+        14
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "39218",
+      "tmdbId": 39218,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "魔法少女小圆",
+      "releaseDate": "2011-01-07",
+      "lastUpdateDate": "2011-04-22",
+      "posterPath": "/qYPUVIhKYirbmVrdEJBZ3ZYpTeE.jpg",
+      "backdropPath": "/uyGH4YtKi7iSyAxKWLFdQWc7oXT.jpg",
+      "rating": 8.0,
+      "description": "2011 · ⭐ 8.0 · 日本\n平凡的中学生鹿目圆有一个美满的家庭，在生活中她是个性格温顺又有爱心的好孩子。转学生晓美焰的出现打破了小圆平静的生活，这个性格酷酷又体弱多病的黑长直少女似乎对小圆有着什么难言之隐。命运中的相遇出现了，小圆在路边救下了一只浑身是伤的奇怪动物 ，没想到这只动物居然会说人类的语言。它告诉小圆它的名字叫丘比，并且提出了一个特殊的要求，它希望小圆能够和它签订契约成为魔法少女。魔法少女是这个世界中一种特殊的存在，她们肩负着和魔女战斗的使命，作为报酬，丘比可以实现她们任意的一个愿望。经过一系列事件后，小圆最终决定成为一名魔法少女。",
+      "genreTitle": "剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "37854",
+      "tmdbId": 37854,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "航海王",
+      "releaseDate": "1999-10-20",
+      "lastUpdateDate": "2026-09-27",
+      "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
+      "backdropPath": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
+      "rating": 8.8,
+      "description": "1999 · ⭐ 8.8 · 日本\n拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "genreTitle": "动作冒险 / 喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        10759,
+        35,
+        16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "1063",
+      "tmdbId": 1063,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "混沌武士",
+      "releaseDate": "2004-05-20",
+      "lastUpdateDate": "2005-03-19",
+      "posterPath": "/gLFshfLjPIlY0f6LeCZyv8PDl6V.jpg",
+      "backdropPath": "/aZRGh7ccNAdqQWhHypvlT9UuXjZ.jpg",
+      "rating": 8.3,
+      "description": "2004 · ⭐ 8.3 · 日本\n故事背景为日本的江户时代，风是一家小茶馆的侍女，这天茶馆里来了一群地方恶霸，其中地方官儿子龙次郎尤其欺人太甚。风因为意外得罪了龙次郎，情急之下，茶馆内一名无职浪人“无幻”出手救了风。另一方面，地方官正在欺压老百姓，流浪武士“仁”路见不平拔剑相助，杀死了地方官身边的四个“高手”保镖，救下了穷人，因此得罪了地方官。 \n\n　　随后，无幻和仁在茶馆里相遇并交手，忽然一场大火将他们困住，二人随之被捕。因儿子在大火中丧生，恼羞成怒的地方官勒令将二人砍首。砍首之日二人大闹刑场，并且在风的帮助下，从刑场中逃出来了。作为代价，风要求他们一起去寻找一个身上“带着向日葵香味”的武士。从此，三人展开了一场奇幻的旅程。 \n\n　　《混沌武士》由渡边信一郎监督，全片彰显了独特的浮世绘加现代Hip-Hop风格。本动画获选为2004年第八回日本文部省文化厅媒体艺术祭动画部门推荐的作品",
+      "genreTitle": "动作冒险 / 喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "21729",
+      "tmdbId": 21729,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "天元突破：红莲螺岩",
+      "releaseDate": "2007-04-01",
+      "lastUpdateDate": "2007-09-30",
+      "posterPath": "/geFiRX5g4nHNaw0uvA9wHZfPWIS.jpg",
+      "backdropPath": "/la3G4VRIVcryxNmxU1YYTZcy9fL.jpg",
+      "rating": 8.2,
+      "description": "2007 · ⭐ 8.2 · 日本\n这是一个被命运背叛的男人，战斗、继续战斗、不断战斗的热血故事。日复一日，地下村庄基哈村的少年西蒙始终拿着钻头挖掘，并习以为常。但是，西蒙的好友，被称为“大哥”的卡米那终日叫嚣着所谓地上的世界。“穿破天际，到地上的世界去看一看吧”卡米那每日这样想着。但一直未能成功。直到一天，巨大的机械怪物——“颜面”打破村子的天井，进入村子破坏。确认了地上世界的存在，卡米那热情高涨，与地上来的少女优子、小弟西蒙三人一起对抗颜面，并驾驶西蒙意外挖出的机械——“螺岩”冲出了天井，达到了地上的世界！地球表面展现在少年少女面前，但其实地表上有更多的“颜面”，不断战斗的冒险故事就此展开。西蒙的未来，以任何人都无法想象的方向展开。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "65733",
+      "tmdbId": 65733,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "哆啦A梦",
+      "releaseDate": "2005-04-22",
+      "lastUpdateDate": "2026-10-03",
+      "posterPath": "/2R1F6QbSefVGTwUgpDTRgFUAZin.jpg",
+      "backdropPath": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+      "rating": 8.1,
+      "description": "2005 · ⭐ 8.1 · 日本\n水田山葵版电视动画（水田わさび版）简称水田版动画，又称朝日电视台版《哆啦A梦》第二季动画、第三代《哆啦A梦》动画、《哆啦A梦》动画第三版、《哆啦A梦》第三版动画、第三代《哆啦A梦》动画等。自2005年4月15日开始，在朝日电视台上映的电视动画，目前仍持续播映中，因哆啦A梦声优为水田山葵而得名。日语中将前作大山版简称作“のぶドラ”（直译：羡代哆啦/Nobu Dora），本作水田版简称作“わさドラ”（直译：山葵哆啦/Wasa Dora）。\n\n台湾华视在播出时为了与称为《哆啦A梦》的大山版分别，将其称作《新哆啦A梦》；在中国常称《哆啦A梦新番》；在香港则不做任何分别续用《多啦A梦》，然而在英文版电子节目表或播放平台上则使用了《New Doraemon》。",
+      "genreTitle": "动作冒险 / 喜剧 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        10759,
+        16,
+        35,
+        10765,
+        10762,
+        10751
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "116727",
+      "tmdbId": 116727,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "奇巧计程车",
+      "releaseDate": "2021-04-06",
+      "lastUpdateDate": "2021-06-29",
+      "posterPath": "/zMv1e9Nrq2yHfzmqmBIKf0XH4Gp.jpg",
+      "backdropPath": "/m7RQ7l2FnCTEnH58Zm8SQzJGYQH.jpg",
+      "rating": 8.2,
+      "description": "2021 · ⭐ 8.2 · 日本\n平凡的出租车司机·小户川。没有亲戚，也不想与人扯上关系，有点古怪且寡言的司机。兴趣是在睡前听落语以及工作时听收音机。目前，唯一有联络的是医生朋友·刚力以及高中同级生·柿花。本该载着各式各样的乘客，平凡的每一日，小户川与一名失踪的女孩事件扯上了关系……",
+      "genreTitle": "喜剧 / 悬疑 / 犯罪",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        9648,
+        80
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "645440",
+      "tmdbId": 645440,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "少女☆歌剧 Revue Starlight 剧场版",
+      "releaseDate": "2021-06-04",
+      "lastUpdateDate": "2021-06-04",
+      "posterPath": "/AgQVEyzQKuuBvsW6pvc6Jjp0Gjl.jpg",
+      "backdropPath": "/8fBQX8o5jGolmObNMeOBca5nZ8D.jpg",
+      "rating": 8.4,
+      "description": "2021 · ⭐ 8.4 · 未知地区\n「STARLIGHT」——那是遥远的星球上，很久很久以前，很久很久以后的故事。  在这个戏曲的舞台上，沐浴着星光闪耀的二名少女，交换了各自的命运。  “二人一起成为STAR。”“在舞台上等着你。”  为了完成这样的命运，燃烬了普普通通的快乐、喜悦。  仅仅5岁就将命运化为熔炉。  ——很危险，对吧。  终于二人再会了。  其中一人站在了悲剧的舞台上，另一人则是跳进舞台、被拉开、再次跳进舞台，改写了两个人的命运……诞生充满了星光闪耀的新章。  已经没有被烧伤眼睛掉落塔底的少女了，已经没有被幽禁在塔顶的少女了。  那么……这个新章的结局是？  「STARLIGHT」是作者不详的故事。  星光闪耀从何而来、又将走向何方。  然后，这个故事的“主演”是谁。  我想看这个故事更多的后续。  呐——圣翔音乐学院三年生，爱城华恋？",
+      "genreTitle": "剧情 / 奇幻 / 动作",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        14,
+        28,
+        10402
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "209867",
+      "tmdbId": 209867,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "葬送的芙莉莲",
+      "releaseDate": "2023-09-29",
+      "lastUpdateDate": "2026-03-27",
+      "posterPath": "/1TtrtRIwXz5BB0gXEl8zgBypl9c.jpg",
+      "backdropPath": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+      "rating": 8.8,
+      "description": "2023 · ⭐ 8.8 · 日本\n打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
+      "genreTitle": "动作冒险 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        18,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "13674",
+      "tmdbId": 13674,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "机动战士Z高达",
+      "releaseDate": "1985-03-02",
+      "lastUpdateDate": "1986-02-22",
+      "posterPath": "/mnQ9OFEu2CCoNpQaNPivkObLl7F.jpg",
+      "backdropPath": "/zK1OaOHgl7dNAE1sKEMXatu2I1s.jpg",
+      "rating": 7.9,
+      "description": "1985 · ⭐ 7.9 · 日本\n故事舞台是在机动战士高达中的一年战争终结后七年。\n\n战争结束后一部份吉恩公国军事势力并未降伏继续在各地与地球联邦军发生军事冲突，因此地球联邦军内部强力主张追杀吉恩残余份子的激进排他势力泰坦斯（Titans）结成。\n\n由于泰坦斯对宇宙住民的强硬血腥镇压的手段，反势力奥古(A.E.U.G.)结成。\n\n故事的开始于宇宙世纪0087年（U.C. 0087），前半主要围绕奥古和泰坦斯两派系的对抗，中段吉恩残余份子阿克西斯登场，与奥古、泰坦斯角力周周旋，展开激战。",
+      "genreTitle": "动作冒险 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        10759,
+        16,
+        10768,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "16157",
+      "tmdbId": 16157,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "机动战士高达 逆袭的夏亚",
+      "releaseDate": "1988-03-12",
+      "lastUpdateDate": "1988-03-12",
+      "posterPath": "/u6nYvAViUzqWsfyi948pqiG2c2l.jpg",
+      "backdropPath": "/n3EkptNDWc72UunXcTz7H26bTZ4.jpg",
+      "rating": 7.2,
+      "description": "1988 · ⭐ 7.2 · 未知地区\n宇宙世纪0093年，成为新吉恩总帅的夏亚·阿兹纳布尔对依然被地球重力所束缚的人类灵魂感到绝望，决心以激烈的手段加以肃正。查知此事的地球联邦军王牌驾驶员阿姆罗·雷及其所属的朗德·贝尔舰队一起与夏亚所领导的新吉恩军展开最后的决战……",
+      "genreTitle": "动作 / 科幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        878
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "26867",
+      "tmdbId": 26867,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "虫师",
+      "releaseDate": "2005-10-23",
+      "lastUpdateDate": "2014-12-21",
+      "posterPath": "/udeKfxvv9uggDzmWWPJBwzjhw9Z.jpg",
+      "backdropPath": "/8ysRHGV3URjOJT7u7NkZiFjvObk.jpg",
+      "rating": 8.1,
+      "description": "2005 · ⭐ 8.1 · 日本\n“虫”既不是动物，也不是微生物，而是一种自然界中无处不在的力量，拥有独特的生命形态，偶尔和人类生命产生交汇，便生出一些奇妙的故事。但人们即使得知了“虫”的存在，大部分时候也不知如何应对，这便需要“虫师”出马。  　　银古就是一位虫师，他一头银发，年纪尚轻，但已经半生游历，经过一个个山野、村庄，为人们解决“虫”的问题，通过和被“虫”困扰的人们接近，他也接近了许多故事。银古的游历像风一样，再惊心动魄的“虫”似乎都融化在水墨样的山峦叠嶂间，芸芸众生也是过眼云烟，淡淡的故事里没有哀伤只有静穆。",
+      "genreTitle": "剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "39853",
+      "tmdbId": 39853,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "猫儿协奏曲",
+      "releaseDate": "1947-04-26",
+      "lastUpdateDate": "1947-04-26",
+      "posterPath": "/eHo7MBlBMzG5nyLJ1jGRXUzBljP.jpg",
+      "backdropPath": "/7vvjgWlWdSkiaKe47RypQX8k6WC.jpg",
+      "rating": 7.6,
+      "description": "1947 · ⭐ 7.6 · 未知地区\n身着燕尾服一本正经的钢琴家汤姆走上舞台，与乐队合作为观众演奏李斯特的《匈牙利狂想曲》。专心致志的汤姆丝毫没有料到，一位不速之客将打乱它的表演。此时此刻，小老鼠杰瑞正在钢琴内高音区睡觉，汤姆的演奏搅扰了它的睡眠，生气的杰瑞索性起身，干扰汤姆的演出。汤姆一面要应付小杰瑞的捣乱，一面又要努力演奏，手忙脚乱，应接不暇。在杰瑞的捣乱下，整场演出妙趣横生，当然对汤姆来说这无疑是一场恶梦……本片荣获1947年奥斯卡最佳动画短片奖。",
+      "genreTitle": "喜剧 / 音乐",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        35,
+        10402
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "10515",
+      "tmdbId": 10515,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "天空之城",
+      "releaseDate": "1986-08-02",
+      "lastUpdateDate": "1986-08-02",
+      "posterPath": "/evy3OHJrqWEPnkeBNzpPAAylG5K.jpg",
+      "backdropPath": "/3cyjYtLWCBE1uvWINHFsFnE8LUK.jpg",
+      "rating": 8.0,
+      "description": "1986 · ⭐ 8.0 · 未知地区\n古老帝国拉普达是一座漂浮在空中的巨大的机器岛，传说那里已经无人居住，蕴藏着巨大的财富。因此，无论军方还是海盗，都在找寻着这座传说中的飞行岛。矿工巴鲁这天偶遇拉普达继承人希达，两人一见如故。因为希达身上有找寻拉普达帝国的重要物件飞行石，军方和海盗两帮人马都在追杀希达。巴鲁带着希达一起逃亡，最终都没有逃出军方的手中，希达被军队掳走了。为救朋友，巴鲁只能选择与海盗合作。巴鲁与海盗成功救出了希达，同时，他们也发现了军方的邪恶计划。为了阻止军方邪恶计划的实施，他们和海盗一起踏上了寻找拉普达之旅。",
+      "genreTitle": "冒险 / 奇幻 / 动作",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        12,
+        14,
+        16,
+        28,
+        10751
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "44684",
+      "tmdbId": 44684,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "日常",
+      "releaseDate": "2011-04-03",
+      "lastUpdateDate": "2011-09-25",
+      "posterPath": "/aEpJ1oxw2Dw22AqFbuezC14BJyP.jpg",
+      "backdropPath": "/4JVsZUZjZJgz7KZ70YRVzhdjgpK.jpg",
+      "rating": 8.4,
+      "description": "2011 · ⭐ 8.4 · 日本\n表面上看来，东云名乃（古谷静佳 配音）是一个外表可爱又有点天然呆的黑发女孩，可是，她背后醒目的发条暴露了她的真实身份——由博士（今野宏美 配音）所改造的少女机器人。虽然对于自己背后的发条感到十分自卑，但博士总是以其非常可爱为由拒绝帮助名乃进行改造。在名乃就读的1年纪Q班中，汇聚着名乃的诸多好友们——个性过于活泼以至于经常暴走的相生祐子（本多真梨子 配音），常常陷于对同性恋情的幻想之中的美术型女生长野原美绪（相泽舞 配音），以及外表沉默安静内里腹黑毒舌的三好学生水上麻衣（富樫美铃 配音）。就这样，经常处于脱线状态的日常和激烈的吐槽在这三人之间展开了。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "60625",
+      "tmdbId": 60625,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "瑞克和莫蒂",
+      "releaseDate": "2013-12-02",
+      "lastUpdateDate": "2026-07-26",
+      "posterPath": "/uXdv0YRy4mkaCGv22Qjq6IV168H.jpg",
+      "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+      "rating": 8.7,
+      "description": "2013 · ⭐ 8.7 · 美国\n一名反社会人格的天才科学家拉着他天性胆怯的孙子一同进行疯狂又危险的跨宇宙探险的故事。瑞克·桑切斯和女儿贝丝一家同住，他经常带着她、女婿杰瑞、孙女桑美和孙子莫蒂一同踏上大胆的星系冒险之旅。",
+      "genreTitle": "喜剧 / 科幻奇幻 / 动作冒险",
+      "regionTitle": "美国",
+      "rawGenres": [
+        16,
+        35,
+        10765,
+        10759
+      ],
+      "rawCountries": [
+        "US"
+      ]
+    },
+    {
+      "id": "62564",
+      "tmdbId": 62564,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "吹响吧！上低音号",
+      "releaseDate": "2015-04-08",
+      "lastUpdateDate": "2024-06-30",
+      "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
+      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
+      "rating": 8.0,
+      "description": "2015 · ⭐ 8.0 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "4977",
+      "tmdbId": 4977,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "红辣椒",
+      "releaseDate": "2006-10-01",
+      "lastUpdateDate": "2006-10-01",
+      "posterPath": "/A2FxDzK0To90Iw2gQxCkyeSYO3u.jpg",
+      "backdropPath": "/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
+      "rating": 7.8,
+      "description": "2006 · ⭐ 7.8 · 未知地区\n千叶敦子博士白天是天才科学家，夜晚则化身为所向披靡的梦境战士“红辣椒”。在这部迷幻的科幻冒险动画中，需要集合这两个身份的力量才能拯救世界。[索尼影业经典]",
+      "genreTitle": "科幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        53
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "35415",
+      "tmdbId": 35415,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "蜂蜜与四叶草",
+      "releaseDate": "2005-04-15",
+      "lastUpdateDate": "2006-09-15",
+      "posterPath": "/r9BlrgxYUjouB1ybDBYoJbPezs7.jpg",
+      "backdropPath": "/rBN5ugU1xtl4Tzw9jBdT4vKQvZq.jpg",
+      "rating": 8.0,
+      "description": "2005 · ⭐ 8.0 · 日本\n美大学生竹本、真山、森田在破旧不堪的公寓中过着贫困而快乐的生活。\n\n一天，花本老师向3人介绍了他堂兄弟的女儿——小巧、惹人爱怜的插班生·叶久美。看到天真烂漫的叶久美，竹本和森田在一瞬间坠入情网。单纯得令周围人不耐烦、迟钝的竹本，以及用令人费解的方式让周围人困惑的森田。在完全相反的两人的爱情表现的交错中，森田自不必说，就连竹本甚至是叶久美也都没有察觉到对方的心情，就这样时间在流逝。\n\n另一方面，真山一直对至今追寻因交通事故而亡的丈夫身影的建筑设计师理花念念不忘。他同时又逐渐察觉到义无反顾爱着自己的同年级学生山田的心情。希望能填补理花心灵空缺的真山、真山的爱成为负担的理花、唯独对喜欢的真山无法表示关心的山田。\n\n以各自感到恋情、苦于思念的两对三角关系为中心，难过而又有些奇妙的“单相思物语”开始缓缓启动。",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "42253",
+      "tmdbId": 42253,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "轻音少女",
+      "releaseDate": "2009-04-03",
+      "lastUpdateDate": "2010-09-15",
+      "posterPath": "/bdOc8sVK5B0mE16BLyiI9hNEdic.jpg",
+      "backdropPath": "/pYa81GUfKspR81chpcyVuTDqPCC.jpg",
+      "rating": 8.0,
+      "description": "2009 · ⭐ 8.0 · 日本\n春天，在新生决定社团的时候，田井中律硬拉着青梅竹马的秋山澪参观轻音部让其入部，在得知前辈们毕业后由于人数不足将面临闭部结局，秋山澪与琴吹䌷成为了轻音部成员，但离4人指标还差1位名额。这时，一名弄错了部名的少女平泽唯误打误撞之下填补了最后一位空位，但这位少女却是一个连乐谱也看不懂的新人，学习成绩又差。而就是这样的4名少女，却展开了奏响青春的音乐之旅。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "45952",
+      "tmdbId": 45952,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "全职猎人",
+      "releaseDate": "1999-10-16",
+      "lastUpdateDate": "2001-03-31",
+      "posterPath": "/eobAuhCJA8oRp814V67WhezVXtQ.jpg",
+      "backdropPath": "/575sxZXNNulSlIz7DvtWH5r4lkC.jpg",
+      "rating": 8.4,
+      "description": "1999 · ⭐ 8.4 · 日本\n主人公小杰从小在鲸鱼岛长大，与米特阿姨和阿婆相依为伴。性格开朗的他，有着能与动物沟通的灵性。因为无父无母，小杰将米特阿姨当成自己的生母爱着。直到9岁那一年，小杰在森林里被一位青年男子搭救。从他口中小杰得知自己的父亲还活着而且职业是猎人。在说服米特阿姨之后，小杰独自踏上了寻父的征程。然而世界那么大，在茫茫人海中找到父亲谈何容易？于是，小杰决定成为猎人，从这里开始找寻他父亲的踪迹。靠这样一种信念开始了冒险旅途，并在旅途当中结交好友，不断成长，从而引发了后面的所有故事，引出全职猎人的精彩世界。",
+      "genreTitle": "科幻奇幻 / 动作冒险 / 喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        10765,
+        10759,
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "60625",
+      "tmdbId": 60625,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "瑞克和莫蒂",
+      "releaseDate": "2013-12-02",
+      "lastUpdateDate": "2026-07-26",
+      "posterPath": "/uXdv0YRy4mkaCGv22Qjq6IV168H.jpg",
+      "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+      "rating": 8.7,
+      "description": "2013 · ⭐ 8.7 · 美国\n一名反社会人格的天才科学家拉着他天性胆怯的孙子一同进行疯狂又危险的跨宇宙探险的故事。瑞克·桑切斯和女儿贝丝一家同住，他经常带着她、女婿杰瑞、孙女桑美和孙子莫蒂一同踏上大胆的星系冒险之旅。",
+      "genreTitle": "喜剧 / 科幻奇幻 / 动作冒险",
+      "regionTitle": "美国",
+      "rawGenres": [
+        16,
+        35,
+        10765,
+        10759
+      ],
+      "rawCountries": [
+        "US"
+      ]
+    },
+    {
+      "id": "1042",
+      "tmdbId": 1042,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "少女革命",
+      "releaseDate": "1997-04-02",
+      "lastUpdateDate": "1997-12-24",
+      "posterPath": "/pOjDuclpsWGV13Nj7XtZukuZj6f.jpg",
+      "backdropPath": "/802aSsZzIyOhbaL1bt19gp0RVYq.jpg",
+      "rating": 8.1,
+      "description": "1997 · ⭐ 8.1 · 日本\n天上欧蒂娜（川上伦子 配音）从小就失去了父母，某日，她遇见了一位英俊的王子，王子交给了欧蒂娜一枚戒指，告诉她这枚戒指或许能够使他们在遥远的未来再次相遇。王子英俊的身姿和温柔的话语在欧蒂娜的内心留下了深刻的印象，她希望自己最终也能如此优雅。  在戒指的指引下，欧蒂娜进入了凤学园就读，在这里，流行着名为一个王子游戏，在决斗中获胜的一方可以得到“蔷薇新娘”姬宫安茜（渊崎有里子 配音），成为她的支配者。西园寺荚一（草尾毅 饰）是安茜目前的主人，然而，欧蒂娜最终将他打败，得到了安茜，随着时间的推移，欧蒂娜和安茜之间产生了深厚的情义。",
+      "genreTitle": "剧情 / 悬疑 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        9648,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "22843",
+      "tmdbId": 22843,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "福音战士新剧场版：破",
+      "releaseDate": "2009-06-26",
+      "lastUpdateDate": "2009-06-26",
+      "posterPath": "/i0Nu8GF1XTwkbTI3g2k5ZBgsPiO.jpg",
+      "backdropPath": "/pzsVGcufDdBLmvagKyLFKaeA4O5.jpg",
+      "rating": 7.8,
+      "description": "2009 · ⭐ 7.8 · 未知地区\n在参拜母亲坟墓的回程途中，真嗣和葛城美里遭遇了第七使徒的攻击，关键时刻2号机势如破竹挫败对手，真嗣也由此结识了2号机的操纵者式波·明日香·兰格蕾。与沉默寡言的绫波丽不同，明日香自信张扬，甚至有些自大，在和真嗣相处的日子里，彼此闹出不少的笑话。他们三人分别驾驶着零号机、初号机和2号机，抵抗了第八使徒猛烈的攻击，在这一过程中，淡淡的情愫悄然在这三个青年男女的心中萌生。不久后，第九、十使徒相继降临，真嗣他们面临着生与死的残酷考验。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        28,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "46195",
+      "tmdbId": 46195,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "物语系列",
+      "releaseDate": "2009-07-03",
+      "lastUpdateDate": "2024-10-19",
+      "posterPath": "/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
+      "backdropPath": "/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
+      "rating": 8.1,
+      "description": "2009 · ⭐ 8.1 · 日本\n所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
+      "genreTitle": "喜剧 / 剧情 / 悬疑",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        9648
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "60863",
+      "tmdbId": 60863,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "排球少年！！",
+      "releaseDate": "2014-04-06",
+      "lastUpdateDate": "2020-12-19",
+      "posterPath": "/gpna2w6NF83I9LX2eQRCdBzz6kF.jpg",
+      "backdropPath": "/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "rating": 8.6,
+      "description": "2014 · ⭐ 8.6 · 日本\n童年时一次看电视转播的经历，在少年日向翔阳的心中种下了排球的种子。他在初中时代是排球部的主将，可是人丁寥落的排球部始终没有起色，唯一一场比赛也已惨败告终。在此之后，他终于如愿考入梦寐以求的学府乌野高中，并加入了该校的排球部。当年翔阳在电视上看到的正是乌野高中的比赛，如今这个学校的排球却正面临着衰败的命运。与宿命的对手和好友影山飞雄聚首于此，心怀排球梦想的少年们将团结一心，带领着乌野这名王者再度振翅高飞。",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "35415",
+      "tmdbId": 35415,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "蜂蜜与四叶草",
+      "releaseDate": "2005-04-15",
+      "lastUpdateDate": "2006-09-15",
+      "posterPath": "/r9BlrgxYUjouB1ybDBYoJbPezs7.jpg",
+      "backdropPath": "/rBN5ugU1xtl4Tzw9jBdT4vKQvZq.jpg",
+      "rating": 8.0,
+      "description": "2005 · ⭐ 8.0 · 日本\n美大学生竹本、真山、森田在破旧不堪的公寓中过着贫困而快乐的生活。\n\n一天，花本老师向3人介绍了他堂兄弟的女儿——小巧、惹人爱怜的插班生·叶久美。看到天真烂漫的叶久美，竹本和森田在一瞬间坠入情网。单纯得令周围人不耐烦、迟钝的竹本，以及用令人费解的方式让周围人困惑的森田。在完全相反的两人的爱情表现的交错中，森田自不必说，就连竹本甚至是叶久美也都没有察觉到对方的心情，就这样时间在流逝。\n\n另一方面，真山一直对至今追寻因交通事故而亡的丈夫身影的建筑设计师理花念念不忘。他同时又逐渐察觉到义无反顾爱着自己的同年级学生山田的心情。希望能填补理花心灵空缺的真山、真山的爱成为负担的理花、唯独对喜欢的真山无法表示关心的山田。\n\n以各自感到恋情、苦于思念的两对三角关系为中心，难过而又有些奇妙的“单相思物语”开始缓缓启动。",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "120811",
+      "tmdbId": 120811,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "轻音少女 剧场版",
+      "releaseDate": "2011-12-03",
+      "lastUpdateDate": "2011-12-03",
+      "posterPath": "/kdrZoWOz2aWfAALftOvxruvZtJv.jpg",
+      "backdropPath": "/ydhtzzLouUZsMSnCiswAkaPQrB6.jpg",
+      "rating": 7.9,
+      "description": "2011 · ⭐ 7.9 · 未知地区\n唯、澪、律、䌷四人即将高中毕业，决定进行一次毕业旅行。梓听到信息，也决定跟随学姐们一起旅行。她们各自提出自己想要去的目的地，最终通过抽签选中去伦敦的计划。几位女生在为毕业旅行做准备的同时，关于伦敦的想象也在飞驰……",
+      "genreTitle": "家庭 / 冒险 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        10751,
+        12,
+        35,
+        10402
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "60625",
+      "tmdbId": 60625,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "瑞克和莫蒂",
+      "releaseDate": "2013-12-02",
+      "lastUpdateDate": "2026-07-26",
+      "posterPath": "/uXdv0YRy4mkaCGv22Qjq6IV168H.jpg",
+      "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+      "rating": 8.7,
+      "description": "2013 · ⭐ 8.7 · 美国\n一名反社会人格的天才科学家拉着他天性胆怯的孙子一同进行疯狂又危险的跨宇宙探险的故事。瑞克·桑切斯和女儿贝丝一家同住，他经常带着她、女婿杰瑞、孙女桑美和孙子莫蒂一同踏上大胆的星系冒险之旅。",
+      "genreTitle": "喜剧 / 科幻奇幻 / 动作冒险",
+      "regionTitle": "美国",
+      "rawGenres": [
+        16,
+        35,
+        10765,
+        10759
+      ],
+      "rawCountries": [
+        "US"
+      ]
+    },
+    {
+      "id": "253476",
+      "tmdbId": 253476,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "异国日记",
+      "releaseDate": "2026-01-04",
+      "lastUpdateDate": "2026-03-29",
+      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
+      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
+      "rating": 8.6,
+      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "13916",
+      "tmdbId": 13916,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "死亡笔记",
+      "releaseDate": "2006-10-04",
+      "lastUpdateDate": "2007-06-27",
+      "posterPath": "/pafbo1ZxG4z44kuoCc2QL5wRuMQ.jpg",
+      "backdropPath": "/z8IPicmEKXUO4I2UDdMEqw7RqOE.jpg",
+      "rating": 8.6,
+      "description": "2006 · ⭐ 8.6 · 日本\n　　\"名字被写在这个笔记本上的人会死\"——死神流克拥有这样的死亡笔记，却将它遗失在人间。天才高中生夜神月捡到这本笔记本，本以为是恶作剧的他，在笔记本上写下了电视中播放的罪犯的名字，确认了笔记本能力的真实性。厌倦腐朽世界的夜神月使用笔记本的力量，开始杀死犯罪者，以此希望建立一个没有犯罪的美好理想世界，而自己成为“新世界的神”。  　　连续罪犯死亡事件，吸引了全世界警察的目光，更吸引了世界第一名侦探L的注意，L能否将被崇拜者称为“基拉”的夜神月逮捕？  　　一本死神的笔记本，拉开了天才与天才之间卓越巅峰的头脑战争的序幕。本已对人间失去兴趣的流克，在旁观惊心动魄的斗智过程中感叹“人类，真有趣。”",
+      "genreTitle": "悬疑 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        9648,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "14092",
+      "tmdbId": 14092,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "攻壳机动队2.0",
+      "releaseDate": "2008-07-12",
+      "lastUpdateDate": "2008-07-12",
+      "posterPath": "/7OsWlh6v5J0ORQSaYxfmYEg1TyY.jpg",
+      "backdropPath": "/f7EQtjydqW0F76fUpBvxqxKskjd.jpg",
+      "rating": 7.4,
+      "description": "2008 · ⭐ 7.4 · 未知地区\n公元2029年，未来世界是高科技与信息化的世界。人类生活水平的提高伴随着犯罪活动的高科技化，于是，专门镇压高科技犯罪的特殊部队——公安9课成立了。队长草薙素子，作为一位全身“义体化”的女警，带领公安9课不断展开行动。是次，公安9课帮助公安6课秘密解决了一位程序员外逃他国的麻烦琐事，又卷入传说中的黑客“傀儡师”的犯罪事件。当行动陷入僵局之际，傀儡师竟然不请自来，出现在公安9课！素子与她的战友们，不知不觉地被卷入了一场涉及政府的阴谋之中。本作根据1995年动画电影《GHOST IN THE SHELL》改编，系剧情不变、画面完全重制的作品。",
+      "genreTitle": "动作 / 犯罪 / 科幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        28,
+        16,
+        80,
+        878
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "94605",
+      "tmdbId": 94605,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "英雄联盟：双城之战",
+      "releaseDate": "2021-11-06",
+      "lastUpdateDate": "2024-11-23",
+      "posterPath": "/kvfrEnWVgNIBIVWDmxGALZv7mZW.jpg",
+      "backdropPath": "/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
+      "rating": 8.7,
+      "description": "2021 · ⭐ 8.7 · 美国\n本动画剧集以游戏《英雄联盟》为背景，讲述了在充满蒸汽朋克气息的乌托邦--皮尔特沃夫和由化学品驱动的地下城--祖安中，蔚和金克丝姐妹俩，在一场由神秘的海克斯科技引发的激烈冲突中站在了彼此的对立面，她们从此分道扬镳，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让二人想要破镜重圆，而心怀正义的姐姐蔚也拼尽全力，誓要战胜地下城中的一切邪恶。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "美国",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "US"
+      ]
+    },
+    {
+      "id": "37546",
+      "tmdbId": 37546,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "机动战士高达逆A",
+      "releaseDate": "1999-04-09",
+      "lastUpdateDate": "2000-04-14",
+      "posterPath": "/A9qBOkOlVe9URj7dsTifv4FbF6T.jpg",
+      "backdropPath": "/pfUJqMtyhq9dC54ok85yBteboSc.jpg",
+      "rating": 6.9,
+      "description": "1999 · ⭐ 6.9 · 日本\n主角罗那（兰/拿）是一个平凡的月之子（月之居民）。为贯彻月之女王迪安娜的回归地球行动而与另外两个同伴一同被送到地球。因不适应新环境而几乎遇险，被姬艾尔/苏菲亚姐妹所救而为她们家打工。在一次偶然的机会下发现了埋在矿山中的Turn A Gundam并凭借月之子的经验/判断力而驾驶其对抗入侵的月之回归军。动画并没有特意便标榜罗那为New Type。剧中一些细节，例如罗那变装美女“罗伦”，用高达运牛，洗衣服等等都为这部高达增添了一份前所未有的轻松感．\n\n罗兰肩负月之住民的期望，他是为了用自己的肉体证明月之住民适合地球的环境而被送来的少年中的一人。这是月之住民为回到地球而进行的战斗的第一步，可说是一种献身的行为，罗兰顺利地完成了任务，少年们自从落到地球后，适应了地球的环境并溶入了这里的社会……他们相信，当月球的同伙们访问地球的时候，无论是月之住民还是地球人都可以拉起手来成为朋友。\n\n但是现实无情地打碎了少年们的理想。地球人与月之住民各自的道路是不同的，要让两支小流合成一条大河，也许冲突将不可避免。乘上MS的罗兰，虽是月球人，但却成为地球上最强的战斗力。面对最崇拜的月之女王还有在他身上寄予厚望的一帮地球朋友他将怎么样选择自己的命运？？面对苏菲雅和迪亚娜女王（甚至是高安少爷）的爱他又该何去何从？？面对最终劲敌金卡拉姆的Turn X他又将如何应付？？",
+      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10759,
+        10768,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "283566",
+      "tmdbId": 283566,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "福音战士新剧场版：终",
+      "releaseDate": "2021-03-08",
+      "lastUpdateDate": "2021-03-08",
+      "posterPath": "/dhvOX84DwAp1LSe2r1jCbjBGBtB.jpg",
+      "backdropPath": "/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
+      "rating": 8.2,
+      "description": "2021 · ⭐ 8.2 · 未知地区\n成为“第三次冲击”元凶的碇真嗣，变得像废人一样……真嗣还能振作起来吗？2012年《福音战士新剧场版：Q》之后，这部动画讲述了被封印的故事的后续。",
+      "genreTitle": "动作 / 科幻 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        878,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "77694",
+      "tmdbId": 77694,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "赛马娘 Pretty Derby",
+      "releaseDate": "2018-04-02",
+      "lastUpdateDate": "2023-12-28",
+      "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
+      "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
+      "rating": 8.3,
+      "description": "2018 · ⭐ 8.3 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "119100",
+      "tmdbId": 119100,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "孤独摇滚！",
+      "releaseDate": "2022-10-09",
+      "lastUpdateDate": "2022-12-25",
+      "posterPath": "/2cIZIoGhwLVQAcwBdKtgUNFf7z3.jpg",
+      "backdropPath": "/riRJGnbb18zVBEXpov8GJKnBczj.jpg",
+      "rating": 8.4,
+      "description": "2022 · ⭐ 8.4 · 日本\n作为网络吉他手“吉他英雄”而广受好评的后藤独，在现实中却是个什么都不会的沟通障碍者。独有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作经历的独，在人前完全发挥不出原本的实力。为了努力克服沟通障碍，独与“结束乐队”的成员们一同开始努力……",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "24835",
+      "tmdbId": 24835,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "CLANNAD",
+      "releaseDate": "2007-10-05",
+      "lastUpdateDate": "2009-03-13",
+      "posterPath": "/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
+      "backdropPath": "/vB7HwJNhlRA9tPViK32bK0hVCmb.jpg",
+      "rating": 8.3,
+      "description": "2007 · ⭐ 8.3 · 日本\n在某个小镇，主角冈崎朋也因为家庭的因素成为不良少年，一直与春原阳平为伍，在光坂高校过着潦倒的生活，但希望终有一天能够离开所在的小镇。某一天，他在学校坡道前发现了一个止步不前的女孩，在朋也认识了这个名为“古河渚”的女孩后，他的生活开始有了重大的变化。  第一季为主角和女主角们之间所发生的事件，第二季After story为主角在中学毕业之后，与渚共同生活的日子，其中还穿插了“幻想世界”，《CLANNAD》就是由这三个要素所组成的故事。",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "82766",
+      "tmdbId": 82766,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "强风吹拂",
+      "releaseDate": "2018-10-03",
+      "lastUpdateDate": "2019-03-27",
+      "posterPath": "/7BMDMjPUgdedCP53005KCxL1lzY.jpg",
+      "backdropPath": "/yntYLOifNqwJiKTOUbhzRw7mlt1.jpg",
+      "rating": 7.8,
+      "description": "2018 · ⭐ 7.8 · 日本\n夜晚，如同逃跑一般奔驰在城市中的藏原走。他的侧面，突然有辆自行车冲来。素不相识的男子，对阿走发问了，“喂！你很喜欢跑步吧！”男子的名字是清濑灰二。就这样，阿走在灰二的引导下，到达了名为竹青庄的老旧公寓。9名个性丰富的住民住在那里。阿走来到最后的空房间，虽然感到困惑，却仍然被强行留下。他怎么也没有想到，自己会成为这里的“第10个男人”……",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "1218925",
+      "tmdbId": 1218925,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "电锯人剧场版：蕾塞篇",
+      "releaseDate": "2025-09-19",
+      "lastUpdateDate": "2025-09-19",
+      "posterPath": "/yFsmS9rayF2iGogqB9McesEN5kG.jpg",
+      "backdropPath": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+      "rating": 8.5,
+      "description": "2025 · ⭐ 8.5 · 未知地区\n故事延续TV动画的最终章，讲述男主角电次在偶然邂逅的神秘少女蕾塞的庇护下，在快节奏的战斗中，奔向难以预测的命运。  电次，一个少年，与“电锯恶魔”签订契约，化身“电锯人”，成为隶属于公安部魔物对策特别课四课的魔物猎人，与魔物战斗。正兴奋地等待着与心仪的女性、公安部上司玛奇玛约会，却遭遇突如其来的暴雨，不得不在雨中避雨。在避雨的过程中，他邂逅了名为蕾塞的少女。在附近咖啡馆工作的蕾塞对电次露出了和善的笑容，两人迅速成为了好朋友。这次邂逅标志着电次的日常生活发生了重大改变。",
+      "genreTitle": "动作 / 爱情 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        10749,
+        14
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "18874",
+      "tmdbId": 18874,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "攻壳机动队：SSS",
+      "releaseDate": "2007-09-01",
+      "lastUpdateDate": "2007-09-01",
+      "posterPath": "/cZGAWVbnziB9jl7ef1G2eULA0bb.jpg",
+      "backdropPath": "/xl7yVV8WH71aOBfcTgnkoGOx2qz.jpg",
+      "rating": 7.5,
+      "description": "2007 · ⭐ 7.5 · 未知地区\n时间指向2034年，在“难民事件”之后的第2年，加入了20名新人而新生的公安9课再次被卷入了事件之中。这些事件就是于以梵之刺青为标志的13名恐怖分子相关的连续自杀事件以及机场人质劫持事件。最后，9课将劫持人质的罪犯逼入了绝境，他边说着：“傀儡廻来了 ”边自杀了。同时，数个离奇事件同时发生了……这其中一定存在着超巫师级的黑客之影…… “傀儡廻”到底是何方神圣？巴特和素子之间会如何？“傀儡廻”和素子的关系又是什么？而这一连串事件的元凶是谁？最后事件的结果会是？答案就将在这如同谜题套谜题的Solid State Society里被一一揭晓……",
+      "genreTitle": "动作 / 犯罪 / 科幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        53,
+        80,
+        878
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "128",
+      "tmdbId": 128,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "幽灵公主",
+      "releaseDate": "1997-07-12",
+      "lastUpdateDate": "1997-07-12",
+      "posterPath": "/mgxuL4rDqAHdcZvO3fXRhrcifpv.jpg",
+      "backdropPath": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+      "rating": 8.3,
+      "description": "1997 · ⭐ 8.3 · 未知地区\n室町时代，生活在偏远村落的少年阿席达卡为了保护族人，与一头被邪魔侵蚀的山猪神交战，却因此受到可怕的诅咒。为了寻找诅咒的来源和活下去的方法，他离开故乡前往西方。在旅途中，阿席达卡来到一片古老森林附近，发现以黑帽大人为首的人类为了炼铁不断开采资源，与守护森林的神祇陷入日益激烈的冲突。他也由此遇见了由山犬养大、憎恨人类破坏森林的少女小桑。面对为了生存开拓土地的人类与誓死守护家园的森林生灵，阿席达卡逐渐被卷入双方无法调和的争斗，并试图寻找一条不必以毁灭彼此为代价的道路……",
+      "genreTitle": "冒险 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        12,
+        14,
+        16
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "88803",
+      "tmdbId": 88803,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "冰海战记",
+      "releaseDate": "2019-07-08",
+      "lastUpdateDate": "2023-06-20",
+      "posterPath": "/9cP7wbBiD99Neu0d1Zae3ZONTjB.jpg",
+      "backdropPath": "/sPN7Ylc7swmyukJeQBNcRAl9usS.jpg",
+      "rating": 8.5,
+      "description": "2019 · ⭐ 8.5 · 日本\n公元10世纪末期，世界各地出现了只做战争掠夺的最强民族--维京人。被讴歌为最强战士的儿子托尔芬，自小便生活在战场上，并向往着梦幻大陆“文兰”这是一个发生在激荡时代的，真正的战士物语。",
+      "genreTitle": "动作冒险 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10768,
+        10759,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "31724",
+      "tmdbId": 31724,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "反叛的鲁路修",
+      "releaseDate": "2006-10-05",
+      "lastUpdateDate": "2008-09-28",
+      "posterPath": "/4MCL2WH5NU4lwaTD7Nbfnq9oGM6.jpg",
+      "backdropPath": "/5hS2OIuZSKGkR8R5l3bY5zh04Ce.jpg",
+      "rating": 8.4,
+      "description": "2006 · ⭐ 8.4 · 日本\n被神圣不列颠帝国侵略而亡国的日本——11区中，在生死边缘获得神秘魔女c.c.赋予的Geass力量，立志要粉碎帝国的黑色王子鲁路修·兰佩路基，与坚持公理的白色骑士枢木朱雀所掀起的巨大变化。",
+      "genreTitle": "科幻奇幻 / 动作冒险 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10759,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "81",
+      "tmdbId": 81,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "风之谷",
+      "releaseDate": "1984-03-11",
+      "lastUpdateDate": "1984-03-11",
+      "posterPath": "/jfTEuVl6iZBqGJWU9kfpkTvSbhA.jpg",
+      "backdropPath": "/z2jsAbXWGdJvadhovznjGg33VND.jpg",
+      "rating": 7.9,
+      "description": "1984 · ⭐ 7.9 · 未知地区\n在毁灭工业文明的“火之七日”过去一千年后，世界被散发有毒瘴气的“腐海”逐渐覆盖，生活其中的巨大虫群也让幸存的人类时刻面临威胁。依靠海风阻挡腐海孢子的风之谷，是少数仍能安宁生活的地方。风之谷公主娜乌西卡善于御风，并能够感知王虫等生物的心意，始终试图理解这片被人类畏惧的世界。一天，一架多鲁美奇亚运输机意外坠毁在风之谷，机上竟载着在“火之七日”中毁灭世界的古代兵器“巨神兵”。为了争夺巨神兵，多鲁美奇亚军队随后进入风之谷，使这个宁静的小国骤然卷入战争。面对人类之间不断升级的冲突，以及腐海与王虫带来的危机，娜乌西卡不得不为守护家园踏上新的旅程……",
+      "genreTitle": "冒险 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        12,
+        16,
+        14
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "63463",
+      "tmdbId": 63463,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "偶像大师",
+      "releaseDate": "2011-07-08",
+      "lastUpdateDate": "2011-12-23",
+      "posterPath": "/6Apjxs1eRlp2H4WZHQoDXktXd76.jpg",
+      "backdropPath": "/6ljZuz9ABmOQDVB58aV5xeKV62A.jpg",
+      "rating": 6.8,
+      "description": "2011 · ⭐ 6.8 · 日本\n偶像，是女孩子们一直以来的憧憬。但能站在顶点的，只有仅仅数人。13位少女，就此经她们所属的事务所“765 Production”，跨进了那个充满竞争的世界。出道约半年，事务所来了一位全新的制作人。他跟少女们都下定决心，向顶级偶像之路进发。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "83121",
+      "tmdbId": 83121,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "辉夜大小姐想让我告白",
+      "releaseDate": "2019-01-12",
+      "lastUpdateDate": "2022-06-25",
+      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
+      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+      "rating": 8.5,
+      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        35,
+        16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "31724",
+      "tmdbId": 31724,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "反叛的鲁路修",
+      "releaseDate": "2006-10-05",
+      "lastUpdateDate": "2008-09-28",
+      "posterPath": "/4MCL2WH5NU4lwaTD7Nbfnq9oGM6.jpg",
+      "backdropPath": "/5hS2OIuZSKGkR8R5l3bY5zh04Ce.jpg",
+      "rating": 8.4,
+      "description": "2006 · ⭐ 8.4 · 日本\n被神圣不列颠帝国侵略而亡国的日本——11区中，在生死边缘获得神秘魔女c.c.赋予的Geass力量，立志要粉碎帝国的黑色王子鲁路修·兰佩路基，与坚持公理的白色骑士枢木朱雀所掀起的巨大变化。",
+      "genreTitle": "科幻奇幻 / 动作冒险 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10759,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "65336",
+      "tmdbId": 65336,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "三月的狮子",
+      "releaseDate": "2016-10-08",
+      "lastUpdateDate": "2018-03-31",
+      "posterPath": "/4LTg5dLXnHwbNcFyOTnXvMpSs4q.jpg",
+      "backdropPath": "/mLzJpP9YRexGbvgiqunirAM5HAA.jpg",
+      "rating": 8.0,
+      "description": "2016 · ⭐ 8.0 · 日本\n独自居住在东京旧市街的17岁职业将棋棋士——桐山零。他是个幼时就因为意外失去家人，怀抱着深沉孤独的少年。出现在这样的他面前的，是明里、日向、桃三姐妹。与她们的相处后，零开始发生些许改变",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "76075",
+      "tmdbId": 76075,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "摇曳露营△",
+      "releaseDate": "2018-01-04",
+      "lastUpdateDate": "2024-06-20",
+      "posterPath": "/cDWn009t5VTNBXAliflpm1RdNLO.jpg",
+      "backdropPath": "/cm3lmKnEAYLs2eJmn4AcFIu18X4.jpg",
+      "rating": 8.2,
+      "description": "2018 · ⭐ 8.2 · 日本\n这是，某个冬日的故事。从静冈搬家到山梨的女高中生·抚子，为了观赏“在千圆纸币上都有图案的富士山”而骑着自行车来到本栖湖，但不巧天气是阴天。没能看到富士山，十分疲倦的抚子当场进入了梦乡。当她醒来的时候，时间已是深夜。在这初来乍到的地方，连回去的路都不知道。拯救了不安而害怕的抚子的是，一位爱好露营的女孩子·凛。为了让寒冷的身体取暖而点燃篝火的两人。噼啪噼啪的柴火爆音，沁入湖畔的静寂之中。围着篝火，一边啜着咖喱面一边对话的抚子和凛。终于，两人期盼已久的瞬间到来。“看到了……富士山……”抚子与凛，从这两人的相遇开始的户外系Girls Story。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "1429",
+      "tmdbId": 1429,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "进击的巨人",
+      "releaseDate": "2013-04-07",
+      "lastUpdateDate": "2022-04-04",
+      "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
+      "backdropPath": "/wg0GsFpeHAFPbbcfsntTQBggWCo.jpg",
+      "rating": 8.7,
+      "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
+      "genreTitle": "科幻奇幻 / 动作冒险",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10759
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "5895",
+      "tmdbId": 5895,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "特别的她",
+      "releaseDate": "2000-04-26",
+      "lastUpdateDate": "2023-10-15",
+      "posterPath": "/anr0fmIho046C7Wcz9oHkG52eca.jpg",
+      "backdropPath": "/uiBb01nmHwyVTSILSMKJ4WIvijc.jpg",
+      "rating": 7.9,
+      "description": "2000 · ⭐ 7.9 · 日本/美国\n近未来的日本，一个叫做“疏濑”的城市中，市民过着平凡的生活，只不过，在城市的一角，山冈上面耸立着医疗机器制造厂建造的外形酷似熨斗的工厂，每天固定时刻，那个工厂都像刚烫完东西一样散发出大量蒸汽。\n\n小学六年级学生直太，与高中女生真见美，直太那个留学的哥哥的女友，一起在河边打发时间。本该是继续平凡的日子，随着传说中的蜜蜂女——睛子驾驶的电车撞上直太而结束了。直太头上长出了奇怪的角！而睛子居然成为直太家的佣人进入了直太家。睛子的秘密与她口中常念起的“FLCL”的含义，令直太的生活有了翻天覆地的改变。",
+      "genreTitle": "喜剧 / 动作冒险 / 科幻奇幻",
+      "regionTitle": "日本/美国",
+      "rawGenres": [
+        16,
+        35,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP",
+        "US"
+      ]
+    },
+    {
+      "id": "72636",
+      "tmdbId": 72636,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "来自深渊",
+      "releaseDate": "2017-07-07",
+      "lastUpdateDate": "2022-09-28",
+      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
+      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
+      "rating": 8.3,
+      "description": "2017 · ⭐ 8.3 · 日本\n在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
+      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "31654",
+      "tmdbId": 31654,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "数码宝贝",
+      "releaseDate": "1999-03-07",
+      "lastUpdateDate": "2001-03-25",
+      "posterPath": "/6RuSTSBGvFYMjBxSpxmQ56kBicn.jpg",
+      "backdropPath": "/naP3oYVX0vSxpx0HjUkdeKbkfiA.jpg",
+      "rating": 8.1,
+      "description": "1999 · ⭐ 8.1 · 日本\n1999年，由于数码世界资料异常增生，导致数码世界和现实世界的连接发生紊乱。地球上相应地出现奇怪的自然现象：东南亚没有下雨，池塘全部干涸；中东却因为连场大雨发生洪水；美国则遇到有史以来最寒冷的冬天。11岁的少年八神太一（藤田淑子 配音），和伙伴石田大和（风间勇刀 配音）、武之内空（水谷优子 配音）、泉光子郎（天神有海 配音）、太刀川美美（前田爱 配音）、城户丈（菊池正美 配音）、高石武（小西寛子 配音）一起参加了夏令营，一次意外却被神秘地送到了一个多彩的数码世界。在那里，他们得到了叫做“数码宝贝”的搭档。进入数码世界后，八神太一一行人遇到了凶恶的怪兽贝壳兽，眼看大家都要被抓住的时候，太一的亚古兽忽然进化成为暴龙兽，拯救了他们。进化到底是怎么回事情？数码世界究竟是什么？无数的谜团出现在被召选的小朋友们面前，精彩的冒险就这样开始了……",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "357405",
+      "tmdbId": 357405,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "少女与战车：剧场版",
+      "releaseDate": "2015-11-21",
+      "lastUpdateDate": "2015-11-21",
+      "posterPath": "/idscINNSMvch2RsAEZXyef7qm4q.jpg",
+      "backdropPath": "/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
+      "rating": 6.9,
+      "description": "2015 · ⭐ 6.9 · 未知地区\n故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
+      "genreTitle": "动作 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        35
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "42500",
+      "tmdbId": 42500,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "幸运☆星",
+      "releaseDate": "2007-04-09",
+      "lastUpdateDate": "2007-09-17",
+      "posterPath": "/lO65hFJUwGav2LErTFoQfmomprk.jpg",
+      "backdropPath": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
+      "rating": 7.4,
+      "description": "2007 · ⭐ 7.4 · 日本\n高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "67851",
+      "tmdbId": 67851,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "传说巨神伊迪安 发动篇",
+      "releaseDate": "1982-07-10",
+      "lastUpdateDate": "1982-07-10",
+      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
+      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
+      "rating": 7.9,
+      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        878,
+        16,
+        28,
+        10752,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "62564",
+      "tmdbId": 62564,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "吹响吧！上低音号",
+      "releaseDate": "2015-04-08",
+      "lastUpdateDate": "2024-06-30",
+      "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
+      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
+      "rating": 8.0,
+      "description": "2015 · ⭐ 8.0 · 日本\n作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "37280",
+      "tmdbId": 37280,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "蜡笔小新：呼风唤雨！大人帝国的反击",
+      "releaseDate": "2001-04-21",
+      "lastUpdateDate": "2001-04-21",
+      "posterPath": "/AgU1NkeXlkizsIdg9atqyomO1P1.jpg",
+      "backdropPath": "/xGGqwdWOrCfOpwK6RGqswbihwxY.jpg",
+      "rating": 8.3,
+      "description": "2001 · ⭐ 8.3 · 未知地区\n这天在小新居住的春日部附近，突然新开了一家叫“20世纪博”的游乐园。游乐园里到处播放着从前20世纪的旧的电视节目和电影，这里，一切都是从前时光的回放。每一个到了这里的大人，都沉浸在过去的旧时光里，而对小孩子来说，这些的东西一点意思都没有。令小新万万想不到的是，进入了游乐园的爸爸妈妈都不在理会其他事情，只是一直沉醉在以往的时光里。城里的大人们都进去了，只剩下了小孩子！这到底是谁的阴谋，小新他们能否粉碎这阴谋？",
+      "genreTitle": "喜剧 / 冒险",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        35,
+        12
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "53787",
+      "tmdbId": 53787,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "水星领航员",
+      "releaseDate": "2005-10-06",
+      "lastUpdateDate": "2008-04-01",
+      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
+      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+      "rating": 8.6,
+      "description": "2005 · ⭐ 8.6 · 日本\n随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "105248",
+      "tmdbId": 105248,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "赛博朋克：边缘行者",
+      "releaseDate": "2022-09-13",
+      "lastUpdateDate": "2022-09-13",
+      "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
+      "backdropPath": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+      "rating": 8.5,
+      "description": "2022 · ⭐ 8.5 · 日本/PL/美国\n该剧集是一部独立的 10 集剧集，故事讲述了一名街头流浪儿在一个科技和形体改造泛滥的夜之城中挣扎求生，一无所有的他成为一名“边缘行者“（亦被称为“赛博浪客”的法外佣兵）来维持生计。",
+      "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
+      "regionTitle": "日本/PL/美国",
+      "rawGenres": [
+        16,
+        10759,
+        10765,
+        80
+      ],
+      "rawCountries": [
+        "JP",
+        "PL",
+        "US"
+      ]
+    },
+    {
+      "id": "30982",
+      "tmdbId": 30982,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "棋魂",
+      "releaseDate": "2001-10-10",
+      "lastUpdateDate": "2003-03-26",
+      "posterPath": "/cL7ATkPzwAHeFeiRFKoLG56fhb.jpg",
+      "backdropPath": "/bu0qFo9cD6AQ69KtTZoCypPKTny.jpg",
+      "rating": 7.8,
+      "description": "2001 · ⭐ 7.8 · 日本\n六年级的小学生进藤光（川上友子 配音）无意中翻出了爷爷家的旧棋盘。触碰棋盘的一瞬间也释放出了寄居在其上的平安时代棋士藤原佐为（千叶进步 配音）的灵魂。附身于小光体内的佐为视棋如命，小光在其软磨硬泡下开始下围棋，接触了一批厉害的棋士，其中不乏他的同龄人。小光开始对围棋产生兴趣并展现了他的天分，而佐为则成为了小光的秘密老师……",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "100363",
+      "tmdbId": 100363,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "我的三体",
+      "releaseDate": "2014-02-27",
+      "lastUpdateDate": "2024-09-01",
+      "posterPath": "/wZUio8U3OwiNOAE33naAFmeHRUQ.jpg",
+      "backdropPath": "/4WroLty7DMWH0oykKKvBmsuSQ7F.jpg",
+      "rating": 9.3,
+      "description": "2014 · ⭐ 9.3 · 中国大陆\n天文学家叶文洁被带到军方绝秘计划「红岸工程」，向宇宙发出地球文明的第一声啼鸣。四光年外的「三体文明」正逃离母星，接收到了地球发来的信息。对人性绝望的叶文洁向三体人暴露了地球的坐标，彻底改变了人类的命运。科学家汪淼进入神秘的网络游戏《三体》，接触到了地球上应对三体人到来而形成的一个秘密组织（ETO），获悉三体人为了得到一个能够稳定生存的世界决定入侵地球。庞大的三体舰队开始向地球进发，人类的末日悄然来临。",
+      "genreTitle": "科幻奇幻 / 悬疑 / 动作冒险",
+      "regionTitle": "中国大陆",
+      "rawGenres": [
+        16,
+        10765,
+        9648,
+        10759
+      ],
+      "rawCountries": [
+        "CN"
+      ]
+    },
+    {
+      "id": "330287",
+      "tmdbId": 330287,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "辉夜大小姐想让我告白：通往大人的阶梯",
+      "releaseDate": "2025-12-31",
+      "lastUpdateDate": "2025-12-31",
+      "posterPath": "/7W96rhjxEiDPftp39wHoWgLSUOZ.jpg",
+      "backdropPath": "/ZJpPJj5lFTLFhdaqt1vwj7xPY3.jpg",
+      "rating": 0.0,
+      "description": "2025 · ⭐ 0.0 · 日本\n「每一样都令人怀念，而全部都是无可取代的重要回忆。」这里是聚集秀才的菁英学校──秀知院学园。\n\n在那里的学生会中相遇的副会长四宫辉夜，与学生会长白银御行，两人经历长期的恋爱头脑战后，终于确定交往……。\n\n时光流逝──辉夜独自在房间里翻阅着一本图库。\n\n图库中的一张张照片，收录着她与白银，以及在秀知院学园度过的伙伴们之间的点滴回忆。\n\n随着她沉浸在怀念之情中，一页又一页翻过。\n\n而辉夜的回忆也再次鲜明地涌上心头……。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        35,
+        16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "207250",
+      "tmdbId": 207250,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "我心里危险的东西",
+      "releaseDate": "2023-04-02",
+      "lastUpdateDate": "2024-03-31",
+      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
+      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "rating": 8.6,
+      "description": "2023 · ⭐ 8.6 · 日本\n重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "42253",
+      "tmdbId": 42253,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "轻音少女",
+      "releaseDate": "2009-04-03",
+      "lastUpdateDate": "2010-09-15",
+      "posterPath": "/bdOc8sVK5B0mE16BLyiI9hNEdic.jpg",
+      "backdropPath": "/pYa81GUfKspR81chpcyVuTDqPCC.jpg",
+      "rating": 8.0,
+      "description": "2009 · ⭐ 8.0 · 日本\n春天，在新生决定社团的时候，田井中律硬拉着青梅竹马的秋山澪参观轻音部让其入部，在得知前辈们毕业后由于人数不足将面临闭部结局，秋山澪与琴吹䌷成为了轻音部成员，但离4人指标还差1位名额。这时，一名弄错了部名的少女平泽唯误打误撞之下填补了最后一位空位，但这位少女却是一个连乐谱也看不懂的新人，学习成绩又差。而就是这样的4名少女，却展开了奏响青春的音乐之旅。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "66862",
+      "tmdbId": 66862,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "昭和元禄落语心中",
+      "releaseDate": "2016-01-09",
+      "lastUpdateDate": "2017-03-25",
+      "posterPath": "/m4qKvXM6l15Yq48N8rITeVobix4.jpg",
+      "backdropPath": "/22YtPgohea5ADkePsnISEU34U99.jpg",
+      "rating": 8.0,
+      "description": "2016 · ⭐ 8.0 · 日本\n因无法忘记在刑务所的落语慰问会中见到的大名人八云的《死神》落语段子，出狱的与太郎径直前往寄席，拜倒在八云面前。成为八云住所雇工以及弟子的与太郎，却发现在八云之处住着一位名叫小夏的女性，八云与小夏似乎有着他人无从触及的因缘。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "37854",
+      "tmdbId": 37854,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "航海王",
+      "releaseDate": "1999-10-20",
+      "lastUpdateDate": "2026-09-27",
+      "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
+      "backdropPath": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
+      "rating": 8.8,
+      "description": "1999 · ⭐ 8.8 · 日本\n拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "genreTitle": "动作冒险 / 喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        10759,
+        35,
+        16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "53787",
+      "tmdbId": 53787,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "水星领航员",
+      "releaseDate": "2005-10-06",
+      "lastUpdateDate": "2008-04-01",
+      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
+      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+      "rating": 8.6,
+      "description": "2005 · ⭐ 8.6 · 日本\n随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "13398",
+      "tmdbId": 13398,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "东京教父",
+      "releaseDate": "2003-12-05",
+      "lastUpdateDate": "2003-12-05",
+      "posterPath": "/mnW3DcMh63tUcwHOwpNfE0KPhii.jpg",
+      "backdropPath": "/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg",
+      "rating": 7.9,
+      "description": "2003 · ⭐ 7.9 · 未知地区\n圣诞夜，退役自行车选手Gin，跨性别者花，离家出走的少女美由纪三人在东京的雪夜中无所事事。这是，他们发现垃圾堆中有一位哭泣的弃婴。孩子的襁褓中仅有一个酒吧的名片与照片。婴儿的父母身份成了谜团。花想收留孩子，并将孩子取名清子。但另外2人表示反对。于是三人开始了寻找清子的父母的旅程。圣诞夜幸福的气氛，伴随的却是怀中清子的哭泣。无家可归的三个人，开始为同样无家可归的清子找寻属于她的家。这一队流浪者，在一夜经历了诸多奇妙的事件。他们能找到清子的父母吗？",
+      "genreTitle": "剧情 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        35
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "46195",
+      "tmdbId": 46195,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "物语系列",
+      "releaseDate": "2009-07-03",
+      "lastUpdateDate": "2024-10-19",
+      "posterPath": "/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
+      "backdropPath": "/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
+      "rating": 8.1,
+      "description": "2009 · ⭐ 8.1 · 日本\n所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
+      "genreTitle": "喜剧 / 剧情 / 悬疑",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        9648
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "60863",
+      "tmdbId": 60863,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "排球少年！！",
+      "releaseDate": "2014-04-06",
+      "lastUpdateDate": "2020-12-19",
+      "posterPath": "/gpna2w6NF83I9LX2eQRCdBzz6kF.jpg",
+      "backdropPath": "/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "rating": 8.6,
+      "description": "2014 · ⭐ 8.6 · 日本\n童年时一次看电视转播的经历，在少年日向翔阳的心中种下了排球的种子。他在初中时代是排球部的主将，可是人丁寥落的排球部始终没有起色，唯一一场比赛也已惨败告终。在此之后，他终于如愿考入梦寐以求的学府乌野高中，并加入了该校的排球部。当年翔阳在电视上看到的正是乌野高中的比赛，如今这个学校的排球却正面临着衰败的命运。与宿命的对手和好友影山飞雄聚首于此，心怀排球梦想的少年们将团结一心，带领着乌野这名王者再度振翅高飞。",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "57041",
+      "tmdbId": 57041,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "银魂",
+      "releaseDate": "2006-04-04",
+      "lastUpdateDate": "2018-10-08",
+      "posterPath": "/wSV3CS1zwKf06HofZyHLUwAOiMi.jpg",
+      "backdropPath": "/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+      "rating": 8.2,
+      "description": "2006 · ⭐ 8.2 · 日本\n江户时代末期（本作的 20 年前）, 被称为“天人（あまんと）”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签订不平等条约，准许他们入国。其后更颁布了“废刀令”，夺走了武士的刀，使他们无力反抗。自此，天人横行霸道，幕府为天人所影响，甚至被控制，成为了“傀儡政权”。在这样的时代，有一个武士与同伴愉快地过著异想天开的生活。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "362585",
+      "tmdbId": 362585,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "伤物语3：冷血篇",
+      "releaseDate": "2017-01-06",
+      "lastUpdateDate": "2017-01-06",
+      "posterPath": "/mnnFLJehFfaV4lcIAmk88hslgeH.jpg",
+      "backdropPath": "/1Cs5jJDVpyBsp3NDPTGRwftFym.jpg",
+      "rating": 8.0,
+      "description": "2017 · ⭐ 8.0 · 未知地区\n在怪异专家忍野咩咩的帮助之下，阿良良木历战胜了3位强大的吸血鬼猎人——德拉曼兹路基、艾比所特以及奇洛金卡达。\r 他终于成功夺回吸血鬼姬丝秀忒・雅赛劳拉莉昂・刃下心的四肢。这一切都是为了让他变回普通的人类。\r 但当历再次来到姬丝秀忒身边时才发现吸血鬼让人惧怕的本质，历因此对自己犯下不可弥补的过失感到自责。此时，在后悔万分的历面前出现的不是别人，正是历的“友人”羽川翼，她给了历一个提案……",
+      "genreTitle": "奇幻 / 悬疑",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        14,
+        9648
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "40075",
+      "tmdbId": 40075,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "怪诞小镇",
+      "releaseDate": "2012-06-15",
+      "lastUpdateDate": "2016-02-15",
+      "posterPath": "/yIZXD8FVxLiuA1lutKIO1UOXoOn.jpg",
+      "backdropPath": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+      "rating": 8.6,
+      "description": "2012 · ⭐ 8.6 · 美国\n暑假到了，双胞胎姐弟俩梅宝（克里斯汀·沙尔配音）和迪普（杰森·雷特配音）被爸妈赶到一个偏僻小镇“重力泉”过暑假，在这里，他们的斯坦叔公经营着一家专门敲诈游客的旅游景点“神秘小屋”，其中有着各种各样稀奇古怪的东西。然而更让人感到毛骨悚然的，则是这个怪诞小镇里的森林。为人慎重、头脑聪明的迪普觉察到森林的异样，继而发现了一本埋在地下的神秘笔记本，里面记载着存在于神秘小镇的不为人知的秘密。乐天派的梅宝和机智的迪普，结识了神秘小屋的店员温蒂和苏斯，还遇到各种奇妙的小镇居民。在怪诞小镇重力泉，他们经历了一系列奇异事件，小矮人，湖怪，蜡像，通灵者，他们这个暑假注定不平凡。",
+      "genreTitle": "动作冒险 / 喜剧 / 家庭",
+      "regionTitle": "美国",
+      "rawGenres": [
+        10759,
+        16,
+        35,
+        10751,
+        9648,
+        10765
+      ],
+      "rawCountries": [
+        "US"
+      ]
+    },
+    {
+      "id": "12501",
+      "tmdbId": 12501,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "百变之星",
+      "releaseDate": "2003-04-03",
+      "lastUpdateDate": "2004-03-27",
+      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
+      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
+      "rating": 7.6,
+      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "78102",
+      "tmdbId": 78102,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "命运石之门 0",
+      "releaseDate": "2018-04-12",
+      "lastUpdateDate": "2018-09-26",
+      "posterPath": "/9u07yBllJTBRIcYxnfbgUxougk5.jpg",
+      "backdropPath": "/bSOHmFB4RnUoB6zcNiJmXOaoOXk.jpg",
+      "rating": 8.1,
+      "description": "2018 · ⭐ 8.1 · 日本\n2010年11月β世界线——\n\n主人公·冈部伦太郎跨越无数的苦难与悲哀，终究还是放弃拯救“她”的世界线。\n\n跌落失意谷底的冈部伦太郎。担心着他的同伴们。\n\n没能得到拯救的“她”将会变得如何？\n\n迎来新的角色，描绘而成的“零”之物语。",
+      "genreTitle": "科幻奇幻 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        10765,
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "12609",
+      "tmdbId": 12609,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "龙珠",
+      "releaseDate": "1986-02-26",
+      "lastUpdateDate": "1989-04-19",
+      "posterPath": "/mL9mLIRrYdjIQLv9wFlbo0lGTaA.jpg",
+      "backdropPath": "/30L49n4Dhn7dzuGG50GV3ybMhC3.jpg",
+      "rating": 8.3,
+      "description": "1986 · ⭐ 8.3 · 日本\n很久很久以前，曾流传着这样一个传说：世界各地散落着七颗龙珠，只要集齐这些珠子，就可召唤出神龙，而神龙可以帮助你实现任何一个愿望。住在深山中的小悟空本领高强，偶然的机会他随时尚少女布玛走出大山，四处寻找传说中的龙珠。期间碰上好色的龟仙人与乌龙、一碰女人就面红耳赤的乐平、自大的小和尚克林，经历了各种各样的艰险和奇遇，也惹出一连串爆笑的故事。当然还有许多邪恶的家伙为了满足私欲寻找龙珠，与小悟空他们展开了连番激斗……根据鸟山明同名漫画改编。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "1429",
+      "tmdbId": 1429,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "进击的巨人",
+      "releaseDate": "2013-04-07",
+      "lastUpdateDate": "2022-04-04",
+      "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
+      "backdropPath": "/wg0GsFpeHAFPbbcfsntTQBggWCo.jpg",
+      "rating": 8.7,
+      "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
+      "genreTitle": "科幻奇幻 / 动作冒险",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10759
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "72636",
+      "tmdbId": 72636,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "来自深渊",
+      "releaseDate": "2017-07-07",
+      "lastUpdateDate": "2022-09-28",
+      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
+      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
+      "rating": 8.3,
+      "description": "2017 · ⭐ 8.3 · 日本\n在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
+      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    }
+  ]
 }
