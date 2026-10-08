@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08 03:06:54",
+  "last_updated": "2026-10-08 14:45:32",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -623,27 +623,6 @@
       "rawCountries": []
     },
     {
-      "id": "301513",
-      "tmdbId": 301513,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "明日之丈 剧场版",
-      "releaseDate": "1980-03-08",
-      "lastUpdateDate": "1980-03-08",
-      "posterPath": "/kQ8VEBK9BX4W5TpaOEoT5XR1erq.jpg",
-      "backdropPath": "/ldB5kcildygAfxFcEsQOZQoJDvS.jpg",
-      "rating": 8.4,
-      "description": "1980 · ⭐ 8.4 · 未知地区\n在东京山谷的宿民街突然出现了一位少年。他的名字叫矢吹丈。有一天小丈遇到了，对他相当感兴趣的而沉溺于酒精中毒的前拳击手丹下段平，他们因此相遇。在他与小丈打过一架后，他从他的动作中发现他具备有拳击手的天生资质，他认为如果能将小丈好好磨练，那小丈一定可以成为一流的拳击手。但是小丈他却带领着居住在宿民街的孩子们，做出一些令人瞠目睁舌的行动，并且还利用段平对他的热情，竟然不惜利用犯罪来脏了自己的手，在他被警察逮捕之后，他被移送到鉴别所·此后还送到少年院这地方给予管教。 有一天，待在少年鉴别所的小丈他，收到一封段平给他的一封明信片，上面写着“为了明日”。在这明信片中，为他讲解了要如何使出左刺拳的拳击的技术方面的事情。然而觉得时间和体力都很空闲的小丈，因此就对那个建议开始了拳击的练习并给予吸收，在他自己吸收这拳不久后，他的体会力慢慢的提高，让他想起以往他从来没有对某件事情这么认真。在野菊岛的东光特等少年院里，他遇到了终生宿敌·力石彻，他与力石彻命运的相遇，却在这种情况下让小丈正式的踏进了拳击的道路之中。",
-      "genreTitle": "动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        28,
-        16,
-        18
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "46512",
       "tmdbId": 46512,
       "type": "tmdb",
@@ -666,6 +645,27 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "301513",
+      "tmdbId": 301513,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "明日之丈 剧场版",
+      "releaseDate": "1980-03-08",
+      "lastUpdateDate": "1980-03-08",
+      "posterPath": "/kQ8VEBK9BX4W5TpaOEoT5XR1erq.jpg",
+      "backdropPath": "/ldB5kcildygAfxFcEsQOZQoJDvS.jpg",
+      "rating": 8.4,
+      "description": "1980 · ⭐ 8.4 · 未知地区\n在东京山谷的宿民街突然出现了一位少年。他的名字叫矢吹丈。有一天小丈遇到了，对他相当感兴趣的而沉溺于酒精中毒的前拳击手丹下段平，他们因此相遇。在他与小丈打过一架后，他从他的动作中发现他具备有拳击手的天生资质，他认为如果能将小丈好好磨练，那小丈一定可以成为一流的拳击手。但是小丈他却带领着居住在宿民街的孩子们，做出一些令人瞠目睁舌的行动，并且还利用段平对他的热情，竟然不惜利用犯罪来脏了自己的手，在他被警察逮捕之后，他被移送到鉴别所·此后还送到少年院这地方给予管教。 有一天，待在少年鉴别所的小丈他，收到一封段平给他的一封明信片，上面写着“为了明日”。在这明信片中，为他讲解了要如何使出左刺拳的拳击的技术方面的事情。然而觉得时间和体力都很空闲的小丈，因此就对那个建议开始了拳击的练习并给予吸收，在他自己吸收这拳不久后，他的体会力慢慢的提高，让他想起以往他从来没有对某件事情这么认真。在野菊岛的东光特等少年院里，他遇到了终生宿敌·力石彻，他与力石彻命运的相遇，却在这种情况下让小丈正式的踏进了拳击的道路之中。",
+      "genreTitle": "动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        28,
+        16,
+        18
+      ],
+      "rawCountries": []
     },
     {
       "id": "42573",
@@ -1730,7 +1730,7 @@
       "releaseDate": "2006-10-05",
       "lastUpdateDate": "2008-09-28",
       "posterPath": "/4MCL2WH5NU4lwaTD7Nbfnq9oGM6.jpg",
-      "backdropPath": "/5hS2OIuZSKGkR8R5l3bY5zh04Ce.jpg",
+      "backdropPath": "/ez2DKt7E1PI06OoXwQS5pvl840B.jpg",
       "rating": 8.4,
       "description": "2006 · ⭐ 8.4 · 日本\n被神圣不列颠帝国侵略而亡国的日本——11区中，在生死边缘获得神秘魔女c.c.赋予的Geass力量，立志要粉碎帝国的黑色王子鲁路修·兰佩路基，与坚持公理的白色骑士枢木朱雀所掀起的巨大变化。",
       "genreTitle": "科幻奇幻 / 动作冒险 / 剧情",
@@ -1819,7 +1819,7 @@
       "releaseDate": "2006-10-05",
       "lastUpdateDate": "2008-09-28",
       "posterPath": "/4MCL2WH5NU4lwaTD7Nbfnq9oGM6.jpg",
-      "backdropPath": "/5hS2OIuZSKGkR8R5l3bY5zh04Ce.jpg",
+      "backdropPath": "/ez2DKt7E1PI06OoXwQS5pvl840B.jpg",
       "rating": 8.4,
       "description": "2006 · ⭐ 8.4 · 日本\n被神圣不列颠帝国侵略而亡国的日本——11区中，在生死边缘获得神秘魔女c.c.赋予的Geass力量，立志要粉碎帝国的黑色王子鲁路修·兰佩路基，与坚持公理的白色骑士枢木朱雀所掀起的巨大变化。",
       "genreTitle": "科幻奇幻 / 动作冒险 / 剧情",
@@ -1951,6 +1951,27 @@
       ]
     },
     {
+      "id": "357405",
+      "tmdbId": 357405,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "少女与战车：剧场版",
+      "releaseDate": "2015-11-21",
+      "lastUpdateDate": "2015-11-21",
+      "posterPath": "/idscINNSMvch2RsAEZXyef7qm4q.jpg",
+      "backdropPath": "/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
+      "rating": 6.9,
+      "description": "2015 · ⭐ 6.9 · 未知地区\n故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
+      "genreTitle": "动作 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        35
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "31654",
       "tmdbId": 31654,
       "type": "tmdb",
@@ -1972,27 +1993,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "357405",
-      "tmdbId": 357405,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "少女与战车：剧场版",
-      "releaseDate": "2015-11-21",
-      "lastUpdateDate": "2015-11-21",
-      "posterPath": "/idscINNSMvch2RsAEZXyef7qm4q.jpg",
-      "backdropPath": "/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
-      "rating": 6.9,
-      "description": "2015 · ⭐ 6.9 · 未知地区\n故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
-      "genreTitle": "动作 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        28,
-        35
-      ],
-      "rawCountries": []
     },
     {
       "id": "42500",
@@ -2199,28 +2199,6 @@
       ]
     },
     {
-      "id": "207250",
-      "tmdbId": 207250,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "我心里危险的东西",
-      "releaseDate": "2023-04-02",
-      "lastUpdateDate": "2024-03-31",
-      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
-      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "rating": 8.6,
-      "description": "2023 · ⭐ 8.6 · 日本\n重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "42253",
       "tmdbId": 42253,
       "type": "tmdb",
@@ -2232,6 +2210,28 @@
       "backdropPath": "/pYa81GUfKspR81chpcyVuTDqPCC.jpg",
       "rating": 8.0,
       "description": "2009 · ⭐ 8.0 · 日本\n春天，在新生决定社团的时候，田井中律硬拉着青梅竹马的秋山澪参观轻音部让其入部，在得知前辈们毕业后由于人数不足将面临闭部结局，秋山澪与琴吹䌷成为了轻音部成员，但离4人指标还差1位名额。这时，一名弄错了部名的少女平泽唯误打误撞之下填补了最后一位空位，但这位少女却是一个连乐谱也看不懂的新人，学习成绩又差。而就是这样的4名少女，却展开了奏响青春的音乐之旅。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "207250",
+      "tmdbId": 207250,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "我心里危险的东西",
+      "releaseDate": "2023-04-02",
+      "lastUpdateDate": "2024-03-31",
+      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
+      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "rating": 8.6,
+      "description": "2023 · ⭐ 8.6 · 日本\n重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
       "genreTitle": "喜剧",
       "regionTitle": "日本",
       "rawGenres": [
@@ -2495,29 +2495,6 @@
       ]
     },
     {
-      "id": "12609",
-      "tmdbId": 12609,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "龙珠",
-      "releaseDate": "1986-02-26",
-      "lastUpdateDate": "1989-04-19",
-      "posterPath": "/mL9mLIRrYdjIQLv9wFlbo0lGTaA.jpg",
-      "backdropPath": "/30L49n4Dhn7dzuGG50GV3ybMhC3.jpg",
-      "rating": 8.3,
-      "description": "1986 · ⭐ 8.3 · 日本\n很久很久以前，曾流传着这样一个传说：世界各地散落着七颗龙珠，只要集齐这些珠子，就可召唤出神龙，而神龙可以帮助你实现任何一个愿望。住在深山中的小悟空本领高强，偶然的机会他随时尚少女布玛走出大山，四处寻找传说中的龙珠。期间碰上好色的龟仙人与乌龙、一碰女人就面红耳赤的乐平、自大的小和尚克林，经历了各种各样的艰险和奇遇，也惹出一连串爆笑的故事。当然还有许多邪恶的家伙为了满足私欲寻找龙珠，与小悟空他们展开了连番激斗……根据鸟山明同名漫画改编。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "1429",
       "tmdbId": 1429,
       "type": "tmdb",
@@ -2535,6 +2512,29 @@
         16,
         10765,
         10759
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "12609",
+      "tmdbId": 12609,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "龙珠",
+      "releaseDate": "1986-02-26",
+      "lastUpdateDate": "1989-04-19",
+      "posterPath": "/mL9mLIRrYdjIQLv9wFlbo0lGTaA.jpg",
+      "backdropPath": "/30L49n4Dhn7dzuGG50GV3ybMhC3.jpg",
+      "rating": 8.3,
+      "description": "1986 · ⭐ 8.3 · 日本\n很久很久以前，曾流传着这样一个传说：世界各地散落着七颗龙珠，只要集齐这些珠子，就可召唤出神龙，而神龙可以帮助你实现任何一个愿望。住在深山中的小悟空本领高强，偶然的机会他随时尚少女布玛走出大山，四处寻找传说中的龙珠。期间碰上好色的龟仙人与乌龙、一碰女人就面红耳赤的乐平、自大的小和尚克林，经历了各种各样的艰险和奇遇，也惹出一连串爆笑的故事。当然还有许多邪恶的家伙为了满足私欲寻找龙珠，与小悟空他们展开了连番激斗……根据鸟山明同名漫画改编。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
       ],
       "rawCountries": [
         "JP"
