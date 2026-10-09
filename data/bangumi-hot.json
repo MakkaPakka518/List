@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09 03:03:23",
+  "last_updated": "2026-10-09 14:53:23",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -849,6 +849,30 @@
       ]
     },
     {
+      "id": "116727",
+      "tmdbId": 116727,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "奇巧计程车",
+      "releaseDate": "2021-04-06",
+      "lastUpdateDate": "2021-06-29",
+      "posterPath": "/zMv1e9Nrq2yHfzmqmBIKf0XH4Gp.jpg",
+      "backdropPath": "/m7RQ7l2FnCTEnH58Zm8SQzJGYQH.jpg",
+      "rating": 8.2,
+      "description": "2021 · ⭐ 8.2 · 日本\n平凡的出租车司机·小户川。没有亲戚，也不想与人扯上关系，有点古怪且寡言的司机。兴趣是在睡前听落语以及工作时听收音机。目前，唯一有联络的是医生朋友·刚力以及高中同级生·柿花。本该载着各式各样的乘客，平凡的每一日，小户川与一名失踪的女孩事件扯上了关系……",
+      "genreTitle": "喜剧 / 悬疑 / 犯罪",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        9648,
+        80
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "65733",
       "tmdbId": 65733,
       "type": "tmdb",
@@ -869,30 +893,6 @@
         10765,
         10762,
         10751
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "116727",
-      "tmdbId": 116727,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "奇巧计程车",
-      "releaseDate": "2021-04-06",
-      "lastUpdateDate": "2021-06-29",
-      "posterPath": "/zMv1e9Nrq2yHfzmqmBIKf0XH4Gp.jpg",
-      "backdropPath": "/m7RQ7l2FnCTEnH58Zm8SQzJGYQH.jpg",
-      "rating": 8.2,
-      "description": "2021 · ⭐ 8.2 · 日本\n平凡的出租车司机·小户川。没有亲戚，也不想与人扯上关系，有点古怪且寡言的司机。兴趣是在睡前听落语以及工作时听收音机。目前，唯一有联络的是医生朋友·刚力以及高中同级生·柿花。本该载着各式各样的乘客，平凡的每一日，小户川与一名失踪的女孩事件扯上了关系……",
-      "genreTitle": "喜剧 / 悬疑 / 犯罪",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        9648,
-        80
       ],
       "rawCountries": [
         "JP"
@@ -1311,6 +1311,29 @@
       ]
     },
     {
+      "id": "35415",
+      "tmdbId": 35415,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "蜂蜜与四叶草",
+      "releaseDate": "2005-04-15",
+      "lastUpdateDate": "2006-09-15",
+      "posterPath": "/r9BlrgxYUjouB1ybDBYoJbPezs7.jpg",
+      "backdropPath": "/rBN5ugU1xtl4Tzw9jBdT4vKQvZq.jpg",
+      "rating": 8.0,
+      "description": "2005 · ⭐ 8.0 · 日本\n美大学生竹本、真山、森田在破旧不堪的公寓中过着贫困而快乐的生活。\n\n一天，花本老师向3人介绍了他堂兄弟的女儿——小巧、惹人爱怜的插班生·叶久美。看到天真烂漫的叶久美，竹本和森田在一瞬间坠入情网。单纯得令周围人不耐烦、迟钝的竹本，以及用令人费解的方式让周围人困惑的森田。在完全相反的两人的爱情表现的交错中，森田自不必说，就连竹本甚至是叶久美也都没有察觉到对方的心情，就这样时间在流逝。\n\n另一方面，真山一直对至今追寻因交通事故而亡的丈夫身影的建筑设计师理花念念不忘。他同时又逐渐察觉到义无反顾爱着自己的同年级学生山田的心情。希望能填补理花心灵空缺的真山、真山的爱成为负担的理花、唯独对喜欢的真山无法表示关心的山田。\n\n以各自感到恋情、苦于思念的两对三角关系为中心，难过而又有些奇妙的“单相思物语”开始缓缓启动。",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "60863",
       "tmdbId": 60863,
       "type": "tmdb",
@@ -1334,22 +1357,21 @@
       ]
     },
     {
-      "id": "35415",
-      "tmdbId": 35415,
+      "id": "253476",
+      "tmdbId": 253476,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "蜂蜜与四叶草",
-      "releaseDate": "2005-04-15",
-      "lastUpdateDate": "2006-09-15",
-      "posterPath": "/r9BlrgxYUjouB1ybDBYoJbPezs7.jpg",
-      "backdropPath": "/rBN5ugU1xtl4Tzw9jBdT4vKQvZq.jpg",
-      "rating": 8.0,
-      "description": "2005 · ⭐ 8.0 · 日本\n美大学生竹本、真山、森田在破旧不堪的公寓中过着贫困而快乐的生活。\n\n一天，花本老师向3人介绍了他堂兄弟的女儿——小巧、惹人爱怜的插班生·叶久美。看到天真烂漫的叶久美，竹本和森田在一瞬间坠入情网。单纯得令周围人不耐烦、迟钝的竹本，以及用令人费解的方式让周围人困惑的森田。在完全相反的两人的爱情表现的交错中，森田自不必说，就连竹本甚至是叶久美也都没有察觉到对方的心情，就这样时间在流逝。\n\n另一方面，真山一直对至今追寻因交通事故而亡的丈夫身影的建筑设计师理花念念不忘。他同时又逐渐察觉到义无反顾爱着自己的同年级学生山田的心情。希望能填补理花心灵空缺的真山、真山的爱成为负担的理花、唯独对喜欢的真山无法表示关心的山田。\n\n以各自感到恋情、苦于思念的两对三角关系为中心，难过而又有些奇妙的“单相思物语”开始缓缓启动。",
-      "genreTitle": "喜剧 / 剧情",
+      "title": "异国日记",
+      "releaseDate": "2026-01-04",
+      "lastUpdateDate": "2026-03-29",
+      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
+      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
+      "rating": 8.6,
+      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
+      "genreTitle": "剧情",
       "regionTitle": "日本",
       "rawGenres": [
         16,
-        35,
         18
       ],
       "rawCountries": [
@@ -1401,28 +1423,6 @@
       ],
       "rawCountries": [
         "US"
-      ]
-    },
-    {
-      "id": "253476",
-      "tmdbId": 253476,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "异国日记",
-      "releaseDate": "2026-01-04",
-      "lastUpdateDate": "2026-03-29",
-      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
-      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
-      "rating": 8.6,
-      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
       ]
     },
     {
@@ -1494,6 +1494,29 @@
       ]
     },
     {
+      "id": "77694",
+      "tmdbId": 77694,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "赛马娘 Pretty Derby",
+      "releaseDate": "2018-04-02",
+      "lastUpdateDate": "2023-12-28",
+      "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
+      "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
+      "rating": 8.3,
+      "description": "2018 · ⭐ 8.3 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "37546",
       "tmdbId": 37546,
       "type": "tmdb",
@@ -1539,29 +1562,6 @@
         18
       ],
       "rawCountries": []
-    },
-    {
-      "id": "77694",
-      "tmdbId": 77694,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "赛马娘 Pretty Derby",
-      "releaseDate": "2018-04-02",
-      "lastUpdateDate": "2023-12-28",
-      "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
-      "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
-      "rating": 8.3,
-      "description": "2018 · ⭐ 8.3 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
-      "genreTitle": "喜剧 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
     },
     {
       "id": "119100",
@@ -1632,28 +1632,6 @@
       ]
     },
     {
-      "id": "1218925",
-      "tmdbId": 1218925,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "电锯人剧场版：蕾塞篇",
-      "releaseDate": "2025-09-19",
-      "lastUpdateDate": "2025-09-19",
-      "posterPath": "/yFsmS9rayF2iGogqB9McesEN5kG.jpg",
-      "backdropPath": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-      "rating": 8.5,
-      "description": "2025 · ⭐ 8.5 · 未知地区\n故事延续TV动画的最终章，讲述男主角电次在偶然邂逅的神秘少女蕾塞的庇护下，在快节奏的战斗中，奔向难以预测的命运。  电次，一个少年，与“电锯恶魔”签订契约，化身“电锯人”，成为隶属于公安部魔物对策特别课四课的魔物猎人，与魔物战斗。正兴奋地等待着与心仪的女性、公安部上司玛奇玛约会，却遭遇突如其来的暴雨，不得不在雨中避雨。在避雨的过程中，他邂逅了名为蕾塞的少女。在附近咖啡馆工作的蕾塞对电次露出了和善的笑容，两人迅速成为了好朋友。这次邂逅标志着电次的日常生活发生了重大改变。",
-      "genreTitle": "动作 / 爱情 / 奇幻",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        28,
-        10749,
-        14
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "18874",
       "tmdbId": 18874,
       "type": "tmdb",
@@ -1673,6 +1651,28 @@
         53,
         80,
         878
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "1218925",
+      "tmdbId": 1218925,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "电锯人剧场版：蕾塞篇",
+      "releaseDate": "2025-09-19",
+      "lastUpdateDate": "2025-09-19",
+      "posterPath": "/yFsmS9rayF2iGogqB9McesEN5kG.jpg",
+      "backdropPath": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+      "rating": 8.5,
+      "description": "2025 · ⭐ 8.5 · 未知地区\n故事延续TV动画的最终章，讲述男主角电次在偶然邂逅的神秘少女蕾塞的庇护下，在快节奏的战斗中，奔向难以预测的命运。  电次，一个少年，与“电锯恶魔”签订契约，化身“电锯人”，成为隶属于公安部魔物对策特别课四课的魔物猎人，与魔物战斗。正兴奋地等待着与心仪的女性、公安部上司玛奇玛约会，却遭遇突如其来的暴雨，不得不在雨中避雨。在避雨的过程中，他邂逅了名为蕾塞的少女。在附近咖啡馆工作的蕾塞对电次露出了和善的笑容，两人迅速成为了好朋友。这次邂逅标志着电次的日常生活发生了重大改变。",
+      "genreTitle": "动作 / 爱情 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        10749,
+        14
       ],
       "rawCountries": []
     },
@@ -1951,25 +1951,26 @@
       ]
     },
     {
-      "id": "357405",
-      "tmdbId": 357405,
+      "id": "42500",
+      "tmdbId": 42500,
       "type": "tmdb",
-      "mediaType": "movie",
-      "title": "少女与战车：剧场版",
-      "releaseDate": "2015-11-21",
-      "lastUpdateDate": "2015-11-21",
-      "posterPath": "/idscINNSMvch2RsAEZXyef7qm4q.jpg",
-      "backdropPath": "/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
-      "rating": 6.9,
-      "description": "2015 · ⭐ 6.9 · 未知地区\n故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
-      "genreTitle": "动作 / 喜剧",
-      "regionTitle": "未知地区",
+      "mediaType": "tv",
+      "title": "幸运☆星",
+      "releaseDate": "2007-04-09",
+      "lastUpdateDate": "2007-09-17",
+      "posterPath": "/lO65hFJUwGav2LErTFoQfmomprk.jpg",
+      "backdropPath": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
+      "rating": 7.4,
+      "description": "2007 · ⭐ 7.4 · 日本\n高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
       "rawGenres": [
         16,
-        28,
         35
       ],
-      "rawCountries": []
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "31654",
@@ -1995,26 +1996,25 @@
       ]
     },
     {
-      "id": "42500",
-      "tmdbId": 42500,
+      "id": "357405",
+      "tmdbId": 357405,
       "type": "tmdb",
-      "mediaType": "tv",
-      "title": "幸运☆星",
-      "releaseDate": "2007-04-09",
-      "lastUpdateDate": "2007-09-17",
-      "posterPath": "/lO65hFJUwGav2LErTFoQfmomprk.jpg",
-      "backdropPath": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
-      "rating": 7.4,
-      "description": "2007 · ⭐ 7.4 · 日本\n高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
+      "mediaType": "movie",
+      "title": "少女与战车：剧场版",
+      "releaseDate": "2015-11-21",
+      "lastUpdateDate": "2015-11-21",
+      "posterPath": "/idscINNSMvch2RsAEZXyef7qm4q.jpg",
+      "backdropPath": "/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
+      "rating": 6.9,
+      "description": "2015 · ⭐ 6.9 · 未知地区\n故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
+      "genreTitle": "动作 / 喜剧",
+      "regionTitle": "未知地区",
       "rawGenres": [
         16,
+        28,
         35
       ],
-      "rawCountries": [
-        "JP"
-      ]
+      "rawCountries": []
     },
     {
       "id": "67851",
@@ -2177,6 +2177,28 @@
       ]
     },
     {
+      "id": "207250",
+      "tmdbId": 207250,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "我心里危险的东西",
+      "releaseDate": "2023-04-02",
+      "lastUpdateDate": "2024-03-31",
+      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
+      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "rating": 8.6,
+      "description": "2023 · ⭐ 8.6 · 日本\n重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "330287",
       "tmdbId": 330287,
       "type": "tmdb",
@@ -2210,28 +2232,6 @@
       "backdropPath": "/pYa81GUfKspR81chpcyVuTDqPCC.jpg",
       "rating": 8.0,
       "description": "2009 · ⭐ 8.0 · 日本\n春天，在新生决定社团的时候，田井中律硬拉着青梅竹马的秋山澪参观轻音部让其入部，在得知前辈们毕业后由于人数不足将面临闭部结局，秋山澪与琴吹䌷成为了轻音部成员，但离4人指标还差1位名额。这时，一名弄错了部名的少女平泽唯误打误撞之下填补了最后一位空位，但这位少女却是一个连乐谱也看不懂的新人，学习成绩又差。而就是这样的4名少女，却展开了奏响青春的音乐之旅。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "207250",
-      "tmdbId": 207250,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "我心里危险的东西",
-      "releaseDate": "2023-04-02",
-      "lastUpdateDate": "2024-03-31",
-      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
-      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "rating": 8.6,
-      "description": "2023 · ⭐ 8.6 · 日本\n重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
       "genreTitle": "喜剧",
       "regionTitle": "日本",
       "rawGenres": [
