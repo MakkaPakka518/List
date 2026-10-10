@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10 02:33:45",
+  "last_updated": "2026-10-10 14:29:33",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -247,7 +247,7 @@
       "releaseDate": "2009-04-05",
       "lastUpdateDate": "2010-07-04",
       "posterPath": "/w1tRC9Xu5R4OP4eGkIXP1DGJi4S.jpg",
-      "backdropPath": "/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg",
+      "backdropPath": "/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
       "rating": 8.7,
       "description": "2009 · ⭐ 8.7 · 日本\n炼金术，一种建立在等价交换原则基础上的科学，将物质进行理解、分解、再构造，将一种物品变成另外一种。但是，这样先进的技术却不能进行人体炼成，这是炼金术绝对的禁忌。可是，拥有极高炼金术天赋的爱德华（朴璐美 配音）和阿尔冯斯（钉宫理恵 配音）兄弟，因为对母亲极大的思念不惜触犯禁忌。而最终的代价却是，爱德华失去了一条手臂和一条腿，弟弟阿尔冯斯只能将灵魂依附在一副巨大的装甲之内。终于明白一切的兄弟俩，为了恢复原状，寻求更多的炼金术知识，成为国家炼金术师踏上了寻找终极炼金物品——贤者之石的旅程。在不断的探索中，两兄弟终于发现了贤者之石背后的真相，对身处的这个军事化国家也有了更深入的了解。此时，面对国家、民族、家庭……炼金术的未来究竟在何处。",
       "genreTitle": "动作冒险 / 科幻奇幻 / 剧情",
@@ -610,7 +610,7 @@
       "releaseDate": "2001-07-20",
       "lastUpdateDate": "2001-07-20",
       "posterPath": "/dnwMqbndJpOEhoVqjlMU9U7LFle.jpg",
-      "backdropPath": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "backdropPath": "/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
       "rating": 8.5,
       "description": "2001 · ⭐ 8.5 · 未知地区\n10岁的千寻跟随父母搬家途中，意外穿过一条神秘隧道，闯入了一个属于神灵的奇异世界。父母因为擅自吃下供奉给神灵的食物而被变成猪，惊慌失措的千寻则在神秘少年白龙的帮助下得以留下。为了在这个世界生存并寻找救回父母的方法，她不得不到汤婆婆掌管的“油屋”浴场工作。在形形色色的神灵与不可思议的遭遇中，原本胆小任性的千寻开始学会独自面对困难，而她也必须找到离开这里、带父母重返人类世界的方法……",
       "genreTitle": "家庭 / 奇幻",
@@ -849,30 +849,6 @@
       ]
     },
     {
-      "id": "116727",
-      "tmdbId": 116727,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "奇巧计程车",
-      "releaseDate": "2021-04-06",
-      "lastUpdateDate": "2021-06-29",
-      "posterPath": "/zMv1e9Nrq2yHfzmqmBIKf0XH4Gp.jpg",
-      "backdropPath": "/m7RQ7l2FnCTEnH58Zm8SQzJGYQH.jpg",
-      "rating": 8.2,
-      "description": "2021 · ⭐ 8.2 · 日本\n平凡的出租车司机·小户川。没有亲戚，也不想与人扯上关系，有点古怪且寡言的司机。兴趣是在睡前听落语以及工作时听收音机。目前，唯一有联络的是医生朋友·刚力以及高中同级生·柿花。本该载着各式各样的乘客，平凡的每一日，小户川与一名失踪的女孩事件扯上了关系……",
-      "genreTitle": "喜剧 / 悬疑 / 犯罪",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        9648,
-        80
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "65733",
       "tmdbId": 65733,
       "type": "tmdb",
@@ -893,6 +869,30 @@
         10765,
         10762,
         10751
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "116727",
+      "tmdbId": 116727,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "奇巧计程车",
+      "releaseDate": "2021-04-06",
+      "lastUpdateDate": "2021-06-29",
+      "posterPath": "/zMv1e9Nrq2yHfzmqmBIKf0XH4Gp.jpg",
+      "backdropPath": "/m7RQ7l2FnCTEnH58Zm8SQzJGYQH.jpg",
+      "rating": 8.2,
+      "description": "2021 · ⭐ 8.2 · 日本\n平凡的出租车司机·小户川。没有亲戚，也不想与人扯上关系，有点古怪且寡言的司机。兴趣是在睡前听落语以及工作时听收音机。目前，唯一有联络的是医生朋友·刚力以及高中同级生·柿花。本该载着各式各样的乘客，平凡的每一日，小户川与一名失踪的女孩事件扯上了关系……",
+      "genreTitle": "喜剧 / 悬疑 / 犯罪",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        9648,
+        80
       ],
       "rawCountries": [
         "JP"
@@ -1311,29 +1311,6 @@
       ]
     },
     {
-      "id": "35415",
-      "tmdbId": 35415,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "蜂蜜与四叶草",
-      "releaseDate": "2005-04-15",
-      "lastUpdateDate": "2006-09-15",
-      "posterPath": "/r9BlrgxYUjouB1ybDBYoJbPezs7.jpg",
-      "backdropPath": "/rBN5ugU1xtl4Tzw9jBdT4vKQvZq.jpg",
-      "rating": 8.0,
-      "description": "2005 · ⭐ 8.0 · 日本\n美大学生竹本、真山、森田在破旧不堪的公寓中过着贫困而快乐的生活。\n\n一天，花本老师向3人介绍了他堂兄弟的女儿——小巧、惹人爱怜的插班生·叶久美。看到天真烂漫的叶久美，竹本和森田在一瞬间坠入情网。单纯得令周围人不耐烦、迟钝的竹本，以及用令人费解的方式让周围人困惑的森田。在完全相反的两人的爱情表现的交错中，森田自不必说，就连竹本甚至是叶久美也都没有察觉到对方的心情，就这样时间在流逝。\n\n另一方面，真山一直对至今追寻因交通事故而亡的丈夫身影的建筑设计师理花念念不忘。他同时又逐渐察觉到义无反顾爱着自己的同年级学生山田的心情。希望能填补理花心灵空缺的真山、真山的爱成为负担的理花、唯独对喜欢的真山无法表示关心的山田。\n\n以各自感到恋情、苦于思念的两对三角关系为中心，难过而又有些奇妙的“单相思物语”开始缓缓启动。",
-      "genreTitle": "喜剧 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "60863",
       "tmdbId": 60863,
       "type": "tmdb",
@@ -1357,21 +1334,22 @@
       ]
     },
     {
-      "id": "253476",
-      "tmdbId": 253476,
+      "id": "35415",
+      "tmdbId": 35415,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "异国日记",
-      "releaseDate": "2026-01-04",
-      "lastUpdateDate": "2026-03-29",
-      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
-      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
-      "rating": 8.6,
-      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
-      "genreTitle": "剧情",
+      "title": "蜂蜜与四叶草",
+      "releaseDate": "2005-04-15",
+      "lastUpdateDate": "2006-09-15",
+      "posterPath": "/r9BlrgxYUjouB1ybDBYoJbPezs7.jpg",
+      "backdropPath": "/rBN5ugU1xtl4Tzw9jBdT4vKQvZq.jpg",
+      "rating": 8.0,
+      "description": "2005 · ⭐ 8.0 · 日本\n美大学生竹本、真山、森田在破旧不堪的公寓中过着贫困而快乐的生活。\n\n一天，花本老师向3人介绍了他堂兄弟的女儿——小巧、惹人爱怜的插班生·叶久美。看到天真烂漫的叶久美，竹本和森田在一瞬间坠入情网。单纯得令周围人不耐烦、迟钝的竹本，以及用令人费解的方式让周围人困惑的森田。在完全相反的两人的爱情表现的交错中，森田自不必说，就连竹本甚至是叶久美也都没有察觉到对方的心情，就这样时间在流逝。\n\n另一方面，真山一直对至今追寻因交通事故而亡的丈夫身影的建筑设计师理花念念不忘。他同时又逐渐察觉到义无反顾爱着自己的同年级学生山田的心情。希望能填补理花心灵空缺的真山、真山的爱成为负担的理花、唯独对喜欢的真山无法表示关心的山田。\n\n以各自感到恋情、苦于思念的两对三角关系为中心，难过而又有些奇妙的“单相思物语”开始缓缓启动。",
+      "genreTitle": "喜剧 / 剧情",
       "regionTitle": "日本",
       "rawGenres": [
         16,
+        35,
         18
       ],
       "rawCountries": [
@@ -1423,6 +1401,28 @@
       ],
       "rawCountries": [
         "US"
+      ]
+    },
+    {
+      "id": "253476",
+      "tmdbId": 253476,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "异国日记",
+      "releaseDate": "2026-01-04",
+      "lastUpdateDate": "2026-03-29",
+      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
+      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
+      "rating": 8.6,
+      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
       ]
     },
     {
@@ -1494,29 +1494,6 @@
       ]
     },
     {
-      "id": "77694",
-      "tmdbId": 77694,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "赛马娘 Pretty Derby",
-      "releaseDate": "2018-04-02",
-      "lastUpdateDate": "2023-12-28",
-      "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
-      "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
-      "rating": 8.3,
-      "description": "2018 · ⭐ 8.3 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
-      "genreTitle": "喜剧 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "37546",
       "tmdbId": 37546,
       "type": "tmdb",
@@ -1546,13 +1523,13 @@
       "tmdbId": 283566,
       "type": "tmdb",
       "mediaType": "movie",
-      "title": "福音战士新剧场版：终",
+      "title": "天鹰战士：最后的冲击",
       "releaseDate": "2021-03-08",
       "lastUpdateDate": "2021-03-08",
       "posterPath": "/dhvOX84DwAp1LSe2r1jCbjBGBtB.jpg",
       "backdropPath": "/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
       "rating": 8.2,
-      "description": "2021 · ⭐ 8.2 · 未知地区\n成为“第三次冲击”元凶的碇真嗣，变得像废人一样……真嗣还能振作起来吗？2012年《福音战士新剧场版：Q》之后，这部动画讲述了被封印的故事的后续。",
+      "description": "2021 · ⭐ 8.2 · 未知地区\n反NERV组织WILLE的成员在红化的巴黎旧城区执行作战任务。与此同时，碇真嗣、明日香与绫波零在日本的大地上徘徊，故事迎来最终结局。",
       "genreTitle": "动作 / 科幻 / 剧情",
       "regionTitle": "未知地区",
       "rawGenres": [
@@ -1562,6 +1539,29 @@
         18
       ],
       "rawCountries": []
+    },
+    {
+      "id": "77694",
+      "tmdbId": 77694,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "赛马娘 Pretty Derby",
+      "releaseDate": "2018-04-02",
+      "lastUpdateDate": "2023-12-28",
+      "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
+      "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
+      "rating": 8.3,
+      "description": "2018 · ⭐ 8.3 · 日本\n这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "119100",
@@ -1887,7 +1887,7 @@
       "releaseDate": "2013-04-07",
       "lastUpdateDate": "2022-04-04",
       "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
-      "backdropPath": "/wg0GsFpeHAFPbbcfsntTQBggWCo.jpg",
+      "backdropPath": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
       "rating": 8.7,
       "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
       "genreTitle": "科幻奇幻 / 动作冒险",
@@ -1951,28 +1951,6 @@
       ]
     },
     {
-      "id": "42500",
-      "tmdbId": 42500,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "幸运☆星",
-      "releaseDate": "2007-04-09",
-      "lastUpdateDate": "2007-09-17",
-      "posterPath": "/lO65hFJUwGav2LErTFoQfmomprk.jpg",
-      "backdropPath": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
-      "rating": 7.4,
-      "description": "2007 · ⭐ 7.4 · 日本\n高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "31654",
       "tmdbId": 31654,
       "type": "tmdb",
@@ -2017,27 +1995,26 @@
       "rawCountries": []
     },
     {
-      "id": "67851",
-      "tmdbId": 67851,
+      "id": "42500",
+      "tmdbId": 42500,
       "type": "tmdb",
-      "mediaType": "movie",
-      "title": "传说巨神伊迪安 发动篇",
-      "releaseDate": "1982-07-10",
-      "lastUpdateDate": "1982-07-10",
-      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
-      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
-      "rating": 7.9,
-      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
-      "genreTitle": "科幻 / 动作 / 剧情",
-      "regionTitle": "未知地区",
+      "mediaType": "tv",
+      "title": "幸运☆星",
+      "releaseDate": "2007-04-09",
+      "lastUpdateDate": "2007-09-17",
+      "posterPath": "/lO65hFJUwGav2LErTFoQfmomprk.jpg",
+      "backdropPath": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
+      "rating": 7.4,
+      "description": "2007 · ⭐ 7.4 · 日本\n高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
       "rawGenres": [
-        878,
         16,
-        28,
-        10752,
-        18
+        35
       ],
-      "rawCountries": []
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "62564",
@@ -2060,6 +2037,29 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "67851",
+      "tmdbId": 67851,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "传说巨神伊迪安 发动篇",
+      "releaseDate": "1982-07-10",
+      "lastUpdateDate": "1982-07-10",
+      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
+      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
+      "rating": 7.9,
+      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        878,
+        16,
+        28,
+        10752,
+        18
+      ],
+      "rawCountries": []
     },
     {
       "id": "37280",
@@ -2177,28 +2177,6 @@
       ]
     },
     {
-      "id": "207250",
-      "tmdbId": 207250,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "我心里危险的东西",
-      "releaseDate": "2023-04-02",
-      "lastUpdateDate": "2024-03-31",
-      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
-      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "rating": 8.6,
-      "description": "2023 · ⭐ 8.6 · 日本\n重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "330287",
       "tmdbId": 330287,
       "type": "tmdb",
@@ -2232,6 +2210,28 @@
       "backdropPath": "/pYa81GUfKspR81chpcyVuTDqPCC.jpg",
       "rating": 8.0,
       "description": "2009 · ⭐ 8.0 · 日本\n春天，在新生决定社团的时候，田井中律硬拉着青梅竹马的秋山澪参观轻音部让其入部，在得知前辈们毕业后由于人数不足将面临闭部结局，秋山澪与琴吹䌷成为了轻音部成员，但离4人指标还差1位名额。这时，一名弄错了部名的少女平泽唯误打误撞之下填补了最后一位空位，但这位少女却是一个连乐谱也看不懂的新人，学习成绩又差。而就是这样的4名少女，却展开了奏响青春的音乐之旅。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "207250",
+      "tmdbId": 207250,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "我心里危险的东西",
+      "releaseDate": "2023-04-02",
+      "lastUpdateDate": "2024-03-31",
+      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
+      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "rating": 8.6,
+      "description": "2023 · ⭐ 8.6 · 日本\n重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
       "genreTitle": "喜剧",
       "regionTitle": "日本",
       "rawGenres": [
@@ -2422,32 +2422,6 @@
       "rawCountries": []
     },
     {
-      "id": "40075",
-      "tmdbId": 40075,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "怪诞小镇",
-      "releaseDate": "2012-06-15",
-      "lastUpdateDate": "2016-02-15",
-      "posterPath": "/yIZXD8FVxLiuA1lutKIO1UOXoOn.jpg",
-      "backdropPath": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
-      "rating": 8.6,
-      "description": "2012 · ⭐ 8.6 · 美国\n暑假到了，双胞胎姐弟俩梅宝（克里斯汀·沙尔配音）和迪普（杰森·雷特配音）被爸妈赶到一个偏僻小镇“重力泉”过暑假，在这里，他们的斯坦叔公经营着一家专门敲诈游客的旅游景点“神秘小屋”，其中有着各种各样稀奇古怪的东西。然而更让人感到毛骨悚然的，则是这个怪诞小镇里的森林。为人慎重、头脑聪明的迪普觉察到森林的异样，继而发现了一本埋在地下的神秘笔记本，里面记载着存在于神秘小镇的不为人知的秘密。乐天派的梅宝和机智的迪普，结识了神秘小屋的店员温蒂和苏斯，还遇到各种奇妙的小镇居民。在怪诞小镇重力泉，他们经历了一系列奇异事件，小矮人，湖怪，蜡像，通灵者，他们这个暑假注定不平凡。",
-      "genreTitle": "动作冒险 / 喜剧 / 家庭",
-      "regionTitle": "美国",
-      "rawGenres": [
-        10759,
-        16,
-        35,
-        10751,
-        9648,
-        10765
-      ],
-      "rawCountries": [
-        "US"
-      ]
-    },
-    {
       "id": "12501",
       "tmdbId": 12501,
       "type": "tmdb",
@@ -2466,6 +2440,29 @@
         35,
         18,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "1429",
+      "tmdbId": 1429,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "进击的巨人",
+      "releaseDate": "2013-04-07",
+      "lastUpdateDate": "2022-04-04",
+      "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
+      "backdropPath": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "rating": 8.7,
+      "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
+      "genreTitle": "科幻奇幻 / 动作冒险",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10759
       ],
       "rawCountries": [
         "JP"
@@ -2495,26 +2492,53 @@
       ]
     },
     {
-      "id": "1429",
-      "tmdbId": 1429,
+      "id": "72636",
+      "tmdbId": 72636,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "进击的巨人",
-      "releaseDate": "2013-04-07",
-      "lastUpdateDate": "2022-04-04",
-      "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
-      "backdropPath": "/wg0GsFpeHAFPbbcfsntTQBggWCo.jpg",
-      "rating": 8.7,
-      "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
-      "genreTitle": "科幻奇幻 / 动作冒险",
+      "title": "来自深渊",
+      "releaseDate": "2017-07-07",
+      "lastUpdateDate": "2022-09-28",
+      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
+      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
+      "rating": 8.3,
+      "description": "2017 · ⭐ 8.3 · 日本\n在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
+      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
         16,
-        10765,
-        10759
+        18,
+        10759,
+        10765
       ],
       "rawCountries": [
         "JP"
+      ]
+    },
+    {
+      "id": "40075",
+      "tmdbId": 40075,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "怪诞小镇",
+      "releaseDate": "2012-06-15",
+      "lastUpdateDate": "2016-02-15",
+      "posterPath": "/yIZXD8FVxLiuA1lutKIO1UOXoOn.jpg",
+      "backdropPath": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+      "rating": 8.6,
+      "description": "2012 · ⭐ 8.6 · 美国\n暑假到了，双胞胎姐弟俩梅宝（克里斯汀·沙尔配音）和迪普（杰森·雷特配音）被爸妈赶到一个偏僻小镇“重力泉”过暑假，在这里，他们的斯坦叔公经营着一家专门敲诈游客的旅游景点“神秘小屋”，其中有着各种各样稀奇古怪的东西。然而更让人感到毛骨悚然的，则是这个怪诞小镇里的森林。为人慎重、头脑聪明的迪普觉察到森林的异样，继而发现了一本埋在地下的神秘笔记本，里面记载着存在于神秘小镇的不为人知的秘密。乐天派的梅宝和机智的迪普，结识了神秘小屋的店员温蒂和苏斯，还遇到各种奇妙的小镇居民。在怪诞小镇重力泉，他们经历了一系列奇异事件，小矮人，湖怪，蜡像，通灵者，他们这个暑假注定不平凡。",
+      "genreTitle": "动作冒险 / 喜剧 / 家庭",
+      "regionTitle": "美国",
+      "rawGenres": [
+        10759,
+        16,
+        35,
+        10751,
+        9648,
+        10765
+      ],
+      "rawCountries": [
+        "US"
       ]
     },
     {
@@ -2533,30 +2557,6 @@
       "regionTitle": "日本",
       "rawGenres": [
         16,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "72636",
-      "tmdbId": 72636,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "来自深渊",
-      "releaseDate": "2017-07-07",
-      "lastUpdateDate": "2022-09-28",
-      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
-      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
-      "rating": 8.3,
-      "description": "2017 · ⭐ 8.3 · 日本\n在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
-      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
         10759,
         10765
       ],
