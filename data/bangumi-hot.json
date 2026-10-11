@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11 01:30:37",
+  "last_updated": "2026-10-11 14:35:34",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -1241,6 +1241,28 @@
       ]
     },
     {
+      "id": "22843",
+      "tmdbId": 22843,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "福音战士新剧场版：破",
+      "releaseDate": "2009-06-26",
+      "lastUpdateDate": "2009-06-26",
+      "posterPath": "/i0Nu8GF1XTwkbTI3g2k5ZBgsPiO.jpg",
+      "backdropPath": "/pzsVGcufDdBLmvagKyLFKaeA4O5.jpg",
+      "rating": 7.8,
+      "description": "2009 · ⭐ 7.8 · 未知地区\n在参拜母亲坟墓的回程途中，真嗣和葛城美里遭遇了第七使徒的攻击，关键时刻2号机势如破竹挫败对手，真嗣也由此结识了2号机的操纵者式波·明日香·兰格蕾。与沉默寡言的绫波丽不同，明日香自信张扬，甚至有些自大，在和真嗣相处的日子里，彼此闹出不少的笑话。他们三人分别驾驶着零号机、初号机和2号机，抵抗了第八使徒猛烈的攻击，在这一过程中，淡淡的情愫悄然在这三个青年男女的心中萌生。不久后，第九、十使徒相继降临，真嗣他们面临着生与死的残酷考验。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        28,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "1042",
       "tmdbId": 1042,
       "type": "tmdb",
@@ -1263,28 +1285,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "22843",
-      "tmdbId": 22843,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "福音战士新剧场版：破",
-      "releaseDate": "2009-06-26",
-      "lastUpdateDate": "2009-06-26",
-      "posterPath": "/i0Nu8GF1XTwkbTI3g2k5ZBgsPiO.jpg",
-      "backdropPath": "/pzsVGcufDdBLmvagKyLFKaeA4O5.jpg",
-      "rating": 7.8,
-      "description": "2009 · ⭐ 7.8 · 未知地区\n在参拜母亲坟墓的回程途中，真嗣和葛城美里遭遇了第七使徒的攻击，关键时刻2号机势如破竹挫败对手，真嗣也由此结识了2号机的操纵者式波·明日香·兰格蕾。与沉默寡言的绫波丽不同，明日香自信张扬，甚至有些自大，在和真嗣相处的日子里，彼此闹出不少的笑话。他们三人分别驾驶着零号机、初号机和2号机，抵抗了第八使徒猛烈的攻击，在这一过程中，淡淡的情愫悄然在这三个青年男女的心中萌生。不久后，第九、十使徒相继降临，真嗣他们面临着生与死的残酷考验。",
-      "genreTitle": "科幻 / 动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        878,
-        28,
-        18
-      ],
-      "rawCountries": []
     },
     {
       "id": "46195",
@@ -2177,28 +2177,6 @@
       ]
     },
     {
-      "id": "330287",
-      "tmdbId": 330287,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "辉夜大小姐想让我告白：通往大人的阶梯",
-      "releaseDate": "2025-12-31",
-      "lastUpdateDate": "2025-12-31",
-      "posterPath": "/7W96rhjxEiDPftp39wHoWgLSUOZ.jpg",
-      "backdropPath": "/ZJpPJj5lFTLFhdaqt1vwj7xPY3.jpg",
-      "rating": 0.0,
-      "description": "2025 · ⭐ 0.0 · 日本\n「每一样都令人怀念，而全部都是无可取代的重要回忆。」这里是聚集秀才的菁英学校──秀知院学园。\n\n在那里的学生会中相遇的副会长四宫辉夜，与学生会长白银御行，两人经历长期的恋爱头脑战后，终于确定交往……。\n\n时光流逝──辉夜独自在房间里翻阅着一本图库。\n\n图库中的一张张照片，收录着她与白银，以及在秀知院学园度过的伙伴们之间的点滴回忆。\n\n随着她沉浸在怀念之情中，一页又一页翻过。\n\n而辉夜的回忆也再次鲜明地涌上心头……。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        35,
-        16
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "42253",
       "tmdbId": 42253,
       "type": "tmdb",
@@ -2215,6 +2193,28 @@
       "rawGenres": [
         16,
         35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "330287",
+      "tmdbId": 330287,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "辉夜大小姐想让我告白：通往大人的阶梯",
+      "releaseDate": "2025-12-31",
+      "lastUpdateDate": "2025-12-31",
+      "posterPath": "/7W96rhjxEiDPftp39wHoWgLSUOZ.jpg",
+      "backdropPath": "/ZJpPJj5lFTLFhdaqt1vwj7xPY3.jpg",
+      "rating": 0.0,
+      "description": "2025 · ⭐ 0.0 · 日本\n「每一样都令人怀念，而全部都是无可取代的重要回忆。」这里是聚集秀才的菁英学校──秀知院学园。\n\n在那里的学生会中相遇的副会长四宫辉夜，与学生会长白银御行，两人经历长期的恋爱头脑战后，终于确定交往……。\n\n时光流逝──辉夜独自在房间里翻阅着一本图库。\n\n图库中的一张张照片，收录着她与白银，以及在秀知院学园度过的伙伴们之间的点滴回忆。\n\n随着她沉浸在怀念之情中，一页又一页翻过。\n\n而辉夜的回忆也再次鲜明地涌上心头……。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        35,
+        16
       ],
       "rawCountries": [
         "JP"
@@ -2422,24 +2422,23 @@
       "rawCountries": []
     },
     {
-      "id": "12501",
-      "tmdbId": 12501,
+      "id": "78102",
+      "tmdbId": 78102,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "百变之星",
-      "releaseDate": "2003-04-03",
-      "lastUpdateDate": "2004-03-27",
-      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
-      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
-      "rating": 7.6,
-      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
-      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "title": "命运石之门 0",
+      "releaseDate": "2018-04-12",
+      "lastUpdateDate": "2018-09-26",
+      "posterPath": "/9u07yBllJTBRIcYxnfbgUxougk5.jpg",
+      "backdropPath": "/bSOHmFB4RnUoB6zcNiJmXOaoOXk.jpg",
+      "rating": 8.1,
+      "description": "2018 · ⭐ 8.1 · 日本\n2010年11月β世界线——\n\n主人公·冈部伦太郎跨越无数的苦难与悲哀，终究还是放弃拯救“她”的世界线。\n\n跌落失意谷底的冈部伦太郎。担心着他的同伴们。\n\n没能得到拯救的“她”将会变得如何？\n\n迎来新的角色，描绘而成的“零”之物语。",
+      "genreTitle": "科幻奇幻 / 剧情",
       "regionTitle": "日本",
       "rawGenres": [
+        10765,
         16,
-        35,
-        18,
-        10765
+        18
       ],
       "rawCountries": [
         "JP"
@@ -2463,29 +2462,6 @@
         16,
         10765,
         10759
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "78102",
-      "tmdbId": 78102,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "命运石之门 0",
-      "releaseDate": "2018-04-12",
-      "lastUpdateDate": "2018-09-26",
-      "posterPath": "/9u07yBllJTBRIcYxnfbgUxougk5.jpg",
-      "backdropPath": "/bSOHmFB4RnUoB6zcNiJmXOaoOXk.jpg",
-      "rating": 8.1,
-      "description": "2018 · ⭐ 8.1 · 日本\n2010年11月β世界线——\n\n主人公·冈部伦太郎跨越无数的苦难与悲哀，终究还是放弃拯救“她”的世界线。\n\n跌落失意谷底的冈部伦太郎。担心着他的同伴们。\n\n没能得到拯救的“她”将会变得如何？\n\n迎来新的角色，描绘而成的“零”之物语。",
-      "genreTitle": "科幻奇幻 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        10765,
-        16,
-        18
       ],
       "rawCountries": [
         "JP"
@@ -2542,6 +2518,30 @@
       ]
     },
     {
+      "id": "12501",
+      "tmdbId": 12501,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "百变之星",
+      "releaseDate": "2003-04-03",
+      "lastUpdateDate": "2004-03-27",
+      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
+      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
+      "rating": 7.6,
+      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "12609",
       "tmdbId": 12609,
       "type": "tmdb",
@@ -2549,7 +2549,7 @@
       "title": "龙珠",
       "releaseDate": "1986-02-26",
       "lastUpdateDate": "1989-04-19",
-      "posterPath": "/mL9mLIRrYdjIQLv9wFlbo0lGTaA.jpg",
+      "posterPath": "/5Or7J4Bo04UZDrr60CGjq1mRUFe.jpg",
       "backdropPath": "/30L49n4Dhn7dzuGG50GV3ybMhC3.jpg",
       "rating": 8.3,
       "description": "1986 · ⭐ 8.3 · 日本\n很久很久以前，曾流传着这样一个传说：世界各地散落着七颗龙珠，只要集齐这些珠子，就可召唤出神龙，而神龙可以帮助你实现任何一个愿望。住在深山中的小悟空本领高强，偶然的机会他随时尚少女布玛走出大山，四处寻找传说中的龙珠。期间碰上好色的龟仙人与乌龙、一碰女人就面红耳赤的乐平、自大的小和尚克林，经历了各种各样的艰险和奇遇，也惹出一连串爆笑的故事。当然还有许多邪恶的家伙为了满足私欲寻找龙珠，与小悟空他们展开了连番激斗……根据鸟山明同名漫画改编。",
