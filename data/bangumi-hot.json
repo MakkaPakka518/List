@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14 03:35:35",
+  "last_updated": "2026-10-14 13:34:17",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -532,29 +532,6 @@
       ]
     },
     {
-      "id": "57041",
-      "tmdbId": 57041,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "银魂",
-      "releaseDate": "2006-04-04",
-      "lastUpdateDate": "2018-10-08",
-      "posterPath": "/wSV3CS1zwKf06HofZyHLUwAOiMi.jpg",
-      "backdropPath": "/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
-      "rating": 8.1,
-      "description": "2006 · ⭐ 8.1 · 日本\n江户时代末期（本作的 20 年前）, 被称为“天人（あまんと）”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签订不平等条约，准许他们入国。其后更颁布了“废刀令”，夺走了武士的刀，使他们无力反抗。自此，天人横行霸道，幕府为天人所影响，甚至被控制，成为了“傀儡政权”。在这样的时代，有一个武士与同伴愉快地过著异想天开的生活。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "57911",
       "tmdbId": 57911,
       "type": "tmdb",
@@ -575,6 +552,29 @@
         10765,
         10762,
         10751
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "57041",
+      "tmdbId": 57041,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "银魂",
+      "releaseDate": "2006-04-04",
+      "lastUpdateDate": "2018-10-08",
+      "posterPath": "/wSV3CS1zwKf06HofZyHLUwAOiMi.jpg",
+      "backdropPath": "/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+      "rating": 8.1,
+      "description": "2006 · ⭐ 8.1 · 日本\n江户时代末期（本作的 20 年前）, 被称为“天人（あまんと）”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签订不平等条约，准许他们入国。其后更颁布了“废刀令”，夺走了武士的刀，使他们无力反抗。自此，天人横行霸道，幕府为天人所影响，甚至被控制，成为了“傀儡政权”。在这样的时代，有一个武士与同伴愉快地过著异想天开的生活。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -1380,28 +1380,6 @@
       "rawCountries": []
     },
     {
-      "id": "253476",
-      "tmdbId": 253476,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "异国日记",
-      "releaseDate": "2026-01-04",
-      "lastUpdateDate": "2026-03-29",
-      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
-      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
-      "rating": 8.6,
-      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "60625",
       "tmdbId": 60625,
       "type": "tmdb",
@@ -1423,6 +1401,28 @@
       ],
       "rawCountries": [
         "US"
+      ]
+    },
+    {
+      "id": "253476",
+      "tmdbId": 253476,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "异国日记",
+      "releaseDate": "2026-01-04",
+      "lastUpdateDate": "2026-03-29",
+      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
+      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
+      "rating": 8.6,
+      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
       ]
     },
     {
@@ -1995,6 +1995,29 @@
       "rawCountries": []
     },
     {
+      "id": "67851",
+      "tmdbId": 67851,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "传说巨神伊迪安 发动篇",
+      "releaseDate": "1982-07-10",
+      "lastUpdateDate": "1982-07-10",
+      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
+      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
+      "rating": 7.9,
+      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        878,
+        16,
+        28,
+        10752,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "42500",
       "tmdbId": 42500,
       "type": "tmdb",
@@ -2034,29 +2057,6 @@
         16,
         35,
         12
-      ],
-      "rawCountries": []
-    },
-    {
-      "id": "67851",
-      "tmdbId": 67851,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "传说巨神伊迪安 发动篇",
-      "releaseDate": "1982-07-10",
-      "lastUpdateDate": "1982-07-10",
-      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
-      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
-      "rating": 7.9,
-      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
-      "genreTitle": "科幻 / 动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        878,
-        16,
-        28,
-        10752,
-        18
       ],
       "rawCountries": []
     },
