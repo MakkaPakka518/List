@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-10-16 01:26:14",
+  "last_updated": "2026-10-16 13:13:26",
   "total_matched": 112,
   "hot_anime": [
-    {
-      "id": "24835",
-      "tmdbId": 24835,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "CLANNAD",
-      "releaseDate": "2007-10-05",
-      "lastUpdateDate": "2009-03-13",
-      "posterPath": "/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
-      "backdropPath": "/vB7HwJNhlRA9tPViK32bK0hVCmb.jpg",
-      "rating": 8.3,
-      "description": "2007 · ⭐ 8.3 · 日本\n在某个小镇，主角冈崎朋也因为家庭的因素成为不良少年，一直与春原阳平为伍，在光坂高校过着潦倒的生活，但希望终有一天能够离开所在的小镇。某一天，他在学校坡道前发现了一个止步不前的女孩，在朋也认识了这个名为“古河渚”的女孩后，他的生活开始有了重大的变化。  第一季为主角和女主角们之间所发生的事件，第二季After story为主角在中学毕业之后，与渚共同生活的日子，其中还穿插了“幻想世界”，《CLANNAD》就是由这三个要素所组成的故事。",
-      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
     {
       "id": "1095",
       "tmdbId": 1095,
@@ -45,6 +21,30 @@
         10759,
         10765,
         80
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "24835",
+      "tmdbId": 24835,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "CLANNAD",
+      "releaseDate": "2007-10-05",
+      "lastUpdateDate": "2009-03-13",
+      "posterPath": "/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
+      "backdropPath": "/vB7HwJNhlRA9tPViK32bK0hVCmb.jpg",
+      "rating": 8.3,
+      "description": "2007 · ⭐ 8.3 · 日本\n在某个小镇，主角冈崎朋也因为家庭的因素成为不良少年，一直与春原阳平为伍，在光坂高校过着潦倒的生活，但希望终有一天能够离开所在的小镇。某一天，他在学校坡道前发现了一个止步不前的女孩，在朋也认识了这个名为“古河渚”的女孩后，他的生活开始有了重大的变化。  第一季为主角和女主角们之间所发生的事件，第二季After story为主角在中学毕业之后，与渚共同生活的日子，其中还穿插了“幻想世界”，《CLANNAD》就是由这三个要素所组成的故事。",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -1927,30 +1927,6 @@
       ]
     },
     {
-      "id": "72636",
-      "tmdbId": 72636,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "来自深渊",
-      "releaseDate": "2017-07-07",
-      "lastUpdateDate": "2022-09-28",
-      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
-      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
-      "rating": 8.3,
-      "description": "2017 · ⭐ 8.3 · 日本\n在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
-      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "31654",
       "tmdbId": 31654,
       "type": "tmdb",
@@ -1974,25 +1950,28 @@
       ]
     },
     {
-      "id": "357405",
-      "tmdbId": 357405,
+      "id": "72636",
+      "tmdbId": 72636,
       "type": "tmdb",
-      "mediaType": "movie",
-      "title": "少女与战车：剧场版",
-      "releaseDate": "2015-11-21",
-      "lastUpdateDate": "2015-11-21",
-      "posterPath": "/idscINNSMvch2RsAEZXyef7qm4q.jpg",
-      "backdropPath": "/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
-      "rating": 6.9,
-      "description": "2015 · ⭐ 6.9 · 未知地区\n故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
-      "genreTitle": "动作 / 喜剧",
-      "regionTitle": "未知地区",
+      "mediaType": "tv",
+      "title": "来自深渊",
+      "releaseDate": "2017-07-07",
+      "lastUpdateDate": "2022-09-28",
+      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
+      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
+      "rating": 8.3,
+      "description": "2017 · ⭐ 8.3 · 日本\n在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
+      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
       "rawGenres": [
         16,
-        28,
-        35
+        18,
+        10759,
+        10765
       ],
-      "rawCountries": []
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "67851",
@@ -2018,23 +1997,23 @@
       "rawCountries": []
     },
     {
-      "id": "37280",
-      "tmdbId": 37280,
+      "id": "357405",
+      "tmdbId": 357405,
       "type": "tmdb",
       "mediaType": "movie",
-      "title": "蜡笔小新：呼风唤雨！大人帝国的反击",
-      "releaseDate": "2001-04-21",
-      "lastUpdateDate": "2001-04-21",
-      "posterPath": "/AgU1NkeXlkizsIdg9atqyomO1P1.jpg",
-      "backdropPath": "/xGGqwdWOrCfOpwK6RGqswbihwxY.jpg",
-      "rating": 8.2,
-      "description": "2001 · ⭐ 8.2 · 未知地区\n这天在小新居住的春日部附近，突然新开了一家叫“20世纪博”的游乐园。游乐园里到处播放着从前20世纪的旧的电视节目和电影，这里，一切都是从前时光的回放。每一个到了这里的大人，都沉浸在过去的旧时光里，而对小孩子来说，这些的东西一点意思都没有。令小新万万想不到的是，进入了游乐园的爸爸妈妈都不在理会其他事情，只是一直沉醉在以往的时光里。城里的大人们都进去了，只剩下了小孩子！这到底是谁的阴谋，小新他们能否粉碎这阴谋？",
-      "genreTitle": "喜剧 / 冒险",
+      "title": "少女与战车：剧场版",
+      "releaseDate": "2015-11-21",
+      "lastUpdateDate": "2015-11-21",
+      "posterPath": "/idscINNSMvch2RsAEZXyef7qm4q.jpg",
+      "backdropPath": "/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
+      "rating": 6.9,
+      "description": "2015 · ⭐ 6.9 · 未知地区\n故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
+      "genreTitle": "动作 / 喜剧",
       "regionTitle": "未知地区",
       "rawGenres": [
         16,
-        35,
-        12
+        28,
+        35
       ],
       "rawCountries": []
     },
@@ -2059,6 +2038,27 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "37280",
+      "tmdbId": 37280,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "蜡笔小新：呼风唤雨！大人帝国的反击",
+      "releaseDate": "2001-04-21",
+      "lastUpdateDate": "2001-04-21",
+      "posterPath": "/AgU1NkeXlkizsIdg9atqyomO1P1.jpg",
+      "backdropPath": "/xGGqwdWOrCfOpwK6RGqswbihwxY.jpg",
+      "rating": 8.2,
+      "description": "2001 · ⭐ 8.2 · 未知地区\n这天在小新居住的春日部附近，突然新开了一家叫“20世纪博”的游乐园。游乐园里到处播放着从前20世纪的旧的电视节目和电影，这里，一切都是从前时光的回放。每一个到了这里的大人，都沉浸在过去的旧时光里，而对小孩子来说，这些的东西一点意思都没有。令小新万万想不到的是，进入了游乐园的爸爸妈妈都不在理会其他事情，只是一直沉醉在以往的时光里。城里的大人们都进去了，只剩下了小孩子！这到底是谁的阴谋，小新他们能否粉碎这阴谋？",
+      "genreTitle": "喜剧 / 冒险",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        35,
+        12
+      ],
+      "rawCountries": []
     },
     {
       "id": "62564",
@@ -2221,28 +2221,6 @@
       ]
     },
     {
-      "id": "207250",
-      "tmdbId": 207250,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "我心里危险的东西",
-      "releaseDate": "2023-04-02",
-      "lastUpdateDate": "2024-03-31",
-      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
-      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "rating": 8.6,
-      "description": "2023 · ⭐ 8.6 · 日本\n重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "66862",
       "tmdbId": 66862,
       "type": "tmdb",
@@ -2259,6 +2237,28 @@
       "rawGenres": [
         16,
         18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "207250",
+      "tmdbId": 207250,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "我心里危险的东西",
+      "releaseDate": "2023-04-02",
+      "lastUpdateDate": "2024-03-31",
+      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
+      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "rating": 8.6,
+      "description": "2023 · ⭐ 8.6 · 日本\n重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
       ],
       "rawCountries": [
         "JP"
@@ -2387,8 +2387,8 @@
       "lastUpdateDate": "2018-10-08",
       "posterPath": "/wSV3CS1zwKf06HofZyHLUwAOiMi.jpg",
       "backdropPath": "/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
-      "rating": 8.1,
-      "description": "2006 · ⭐ 8.1 · 日本\n江户时代末期（本作的 20 年前）, 被称为“天人（あまんと）”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签订不平等条约，准许他们入国。其后更颁布了“废刀令”，夺走了武士的刀，使他们无力反抗。自此，天人横行霸道，幕府为天人所影响，甚至被控制，成为了“傀儡政权”。在这样的时代，有一个武士与同伴愉快地过著异想天开的生活。",
+      "rating": 8.2,
+      "description": "2006 · ⭐ 8.2 · 日本\n江户时代末期（本作的 20 年前）, 被称为“天人（あまんと）”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签订不平等条约，准许他们入国。其后更颁布了“废刀令”，夺走了武士的刀，使他们无力反抗。自此，天人横行霸道，幕府为天人所影响，甚至被控制，成为了“傀儡政权”。在这样的时代，有一个武士与同伴愉快地过著异想天开的生活。",
       "genreTitle": "动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
@@ -2422,6 +2422,29 @@
       "rawCountries": []
     },
     {
+      "id": "1429",
+      "tmdbId": 1429,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "进击的巨人",
+      "releaseDate": "2013-04-07",
+      "lastUpdateDate": "2022-04-04",
+      "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
+      "backdropPath": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "rating": 8.7,
+      "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
+      "genreTitle": "科幻奇幻 / 动作冒险",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10759
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "12501",
       "tmdbId": 12501,
       "type": "tmdb",
@@ -2440,29 +2463,6 @@
         35,
         18,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "1429",
-      "tmdbId": 1429,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "进击的巨人",
-      "releaseDate": "2013-04-07",
-      "lastUpdateDate": "2022-04-04",
-      "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
-      "backdropPath": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "rating": 8.7,
-      "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
-      "genreTitle": "科幻奇幻 / 动作冒险",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765,
-        10759
       ],
       "rawCountries": [
         "JP"
