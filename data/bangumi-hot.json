@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18 00:00:21",
+  "last_updated": "2026-10-18 13:14:28",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -487,28 +487,6 @@
       "rawCountries": []
     },
     {
-      "id": "60811",
-      "tmdbId": 60811,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "乒乓",
-      "releaseDate": "2014-04-11",
-      "lastUpdateDate": "2014-06-20",
-      "posterPath": "/b2S7VqwBzSS9cz0S0FQxTPTKmct.jpg",
-      "backdropPath": "/1rEPk87q49PspQmBJ74bwsXBVkH.jpg",
-      "rating": 8.2,
-      "description": "2014 · ⭐ 8.2 · 日本\n　片濑高中的新生“阿扁”星野裕（片山福十郎 配音）和“笑爷”月本诚（内山昂辉 配音）是同出自一个乒乓球道场的朋友。阿扁个性张扬，爱说爱笑，由于对球技信心十足，因此根本不把乒乓球部的同期和前辈放在眼里。与之相对，笑爷内敛冷静，对于取胜这件事似乎根本没有半点强烈的欲望，潜意识中他更希望像机器人一般不被人注意到。为了迎接即将到来的高中联赛，乒乓球部顾问小泉老师（屋良有作 配音）选定月本进行操练。与此同时，附近的辻堂学院高中转来了被踢出国家队的中国选手孔文革（文晔星 饰），此人恃才傲物，完全不把技术底下的日本选手放在眼里。另一方面，高手云集的海王学院高中也蓄势待发，备战接下来的大赛。方寸球桌，战况激烈…… ",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "890",
       "tmdbId": 890,
       "type": "tmdb",
@@ -524,6 +502,28 @@
       "regionTitle": "日本",
       "rawGenres": [
         10765,
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "60811",
+      "tmdbId": 60811,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "乒乓",
+      "releaseDate": "2014-04-11",
+      "lastUpdateDate": "2014-06-20",
+      "posterPath": "/b2S7VqwBzSS9cz0S0FQxTPTKmct.jpg",
+      "backdropPath": "/1rEPk87q49PspQmBJ74bwsXBVkH.jpg",
+      "rating": 8.2,
+      "description": "2014 · ⭐ 8.2 · 日本\n　片濑高中的新生“阿扁”星野裕（片山福十郎 配音）和“笑爷”月本诚（内山昂辉 配音）是同出自一个乒乓球道场的朋友。阿扁个性张扬，爱说爱笑，由于对球技信心十足，因此根本不把乒乓球部的同期和前辈放在眼里。与之相对，笑爷内敛冷静，对于取胜这件事似乎根本没有半点强烈的欲望，潜意识中他更希望像机器人一般不被人注意到。为了迎接即将到来的高中联赛，乒乓球部顾问小泉老师（屋良有作 配音）选定月本进行操练。与此同时，附近的辻堂学院高中转来了被踢出国家队的中国选手孔文革（文晔星 饰），此人恃才傲物，完全不把技术底下的日本选手放在眼里。另一方面，高手云集的海王学院高中也蓄势待发，备战接下来的大赛。方寸球桌，战况激烈…… ",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
         16,
         18
       ],
@@ -1380,6 +1380,28 @@
       "rawCountries": []
     },
     {
+      "id": "253476",
+      "tmdbId": 253476,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "异国日记",
+      "releaseDate": "2026-01-04",
+      "lastUpdateDate": "2026-03-29",
+      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
+      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
+      "rating": 8.6,
+      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "60625",
       "tmdbId": 60625,
       "type": "tmdb",
@@ -1401,28 +1423,6 @@
       ],
       "rawCountries": [
         "US"
-      ]
-    },
-    {
-      "id": "253476",
-      "tmdbId": 253476,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "异国日记",
-      "releaseDate": "2026-01-04",
-      "lastUpdateDate": "2026-03-29",
-      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
-      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
-      "rating": 8.6,
-      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
       ]
     },
     {
@@ -1519,6 +1519,28 @@
       ]
     },
     {
+      "id": "283566",
+      "tmdbId": 283566,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "福音战士新剧场版：终",
+      "releaseDate": "2021-03-08",
+      "lastUpdateDate": "2021-03-08",
+      "posterPath": "/dhvOX84DwAp1LSe2r1jCbjBGBtB.jpg",
+      "backdropPath": "/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
+      "rating": 8.2,
+      "description": "2021 · ⭐ 8.2 · 未知地区\n反NERV组织WILLE的成员在红化的巴黎旧城区执行作战任务。与此同时，碇真嗣、明日香与绫波零在日本的大地上徘徊，故事迎来最终结局。",
+      "genreTitle": "动作 / 科幻 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        878,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "77694",
       "tmdbId": 77694,
       "type": "tmdb",
@@ -1540,28 +1562,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "283566",
-      "tmdbId": 283566,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "福音战士新剧场版：终",
-      "releaseDate": "2021-03-08",
-      "lastUpdateDate": "2021-03-08",
-      "posterPath": "/dhvOX84DwAp1LSe2r1jCbjBGBtB.jpg",
-      "backdropPath": "/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
-      "rating": 8.2,
-      "description": "2021 · ⭐ 8.2 · 未知地区\n反NERV组织WILLE的成员在红化的巴黎旧城区执行作战任务。与此同时，碇真嗣、明日香与绫波零在日本的大地上徘徊，故事迎来最终结局。",
-      "genreTitle": "动作 / 科幻 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        28,
-        878,
-        18
-      ],
-      "rawCountries": []
     },
     {
       "id": "119100",
@@ -2265,6 +2265,28 @@
       ]
     },
     {
+      "id": "53787",
+      "tmdbId": 53787,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "水星领航员",
+      "releaseDate": "2005-10-06",
+      "lastUpdateDate": "2008-04-01",
+      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
+      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+      "rating": 8.6,
+      "description": "2005 · ⭐ 8.6 · 日本\n随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "37854",
       "tmdbId": 37854,
       "type": "tmdb",
@@ -2282,28 +2304,6 @@
         10759,
         35,
         16
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "53787",
-      "tmdbId": 53787,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "水星领航员",
-      "releaseDate": "2005-10-06",
-      "lastUpdateDate": "2008-04-01",
-      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
-      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
-      "rating": 8.6,
-      "description": "2005 · ⭐ 8.6 · 日本\n随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
-      "genreTitle": "科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765
       ],
       "rawCountries": [
         "JP"
@@ -2468,6 +2468,28 @@
       ]
     },
     {
+      "id": "76075",
+      "tmdbId": 76075,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "摇曳露营△",
+      "releaseDate": "2018-01-04",
+      "lastUpdateDate": "2024-06-20",
+      "posterPath": "/cDWn009t5VTNBXAliflpm1RdNLO.jpg",
+      "backdropPath": "/cm3lmKnEAYLs2eJmn4AcFIu18X4.jpg",
+      "rating": 8.2,
+      "description": "2018 · ⭐ 8.2 · 日本\n这是，某个冬日的故事。从静冈搬家到山梨的女高中生·抚子，为了观赏“在千圆纸币上都有图案的富士山”而骑着自行车来到本栖湖，但不巧天气是阴天。没能看到富士山，十分疲倦的抚子当场进入了梦乡。当她醒来的时候，时间已是深夜。在这初来乍到的地方，连回去的路都不知道。拯救了不安而害怕的抚子的是，一位爱好露营的女孩子·凛。为了让寒冷的身体取暖而点燃篝火的两人。噼啪噼啪的柴火爆音，沁入湖畔的静寂之中。围着篝火，一边啜着咖喱面一边对话的抚子和凛。终于，两人期盼已久的瞬间到来。“看到了……富士山……”抚子与凛，从这两人的相遇开始的户外系Girls Story。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "72636",
       "tmdbId": 72636,
       "type": "tmdb",
@@ -2515,49 +2537,29 @@
       ]
     },
     {
-      "id": "12501",
-      "tmdbId": 12501,
+      "id": "40075",
+      "tmdbId": 40075,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "百变之星",
-      "releaseDate": "2003-04-03",
-      "lastUpdateDate": "2004-03-27",
-      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
-      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
-      "rating": 7.6,
-      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
-      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
-      "regionTitle": "日本",
+      "title": "怪诞小镇",
+      "releaseDate": "2012-06-15",
+      "lastUpdateDate": "2016-02-15",
+      "posterPath": "/yIZXD8FVxLiuA1lutKIO1UOXoOn.jpg",
+      "backdropPath": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+      "rating": 8.6,
+      "description": "2012 · ⭐ 8.6 · 美国\n暑假到了，双胞胎姐弟俩梅宝（克里斯汀·沙尔配音）和迪普（杰森·雷特配音）被爸妈赶到一个偏僻小镇“重力泉”过暑假，在这里，他们的斯坦叔公经营着一家专门敲诈游客的旅游景点“神秘小屋”，其中有着各种各样稀奇古怪的东西。然而更让人感到毛骨悚然的，则是这个怪诞小镇里的森林。为人慎重、头脑聪明的迪普觉察到森林的异样，继而发现了一本埋在地下的神秘笔记本，里面记载着存在于神秘小镇的不为人知的秘密。乐天派的梅宝和机智的迪普，结识了神秘小屋的店员温蒂和苏斯，还遇到各种奇妙的小镇居民。在怪诞小镇重力泉，他们经历了一系列奇异事件，小矮人，湖怪，蜡像，通灵者，他们这个暑假注定不平凡。",
+      "genreTitle": "动作冒险 / 喜剧 / 家庭",
+      "regionTitle": "美国",
       "rawGenres": [
+        10759,
         16,
         35,
-        18,
+        10751,
+        9648,
         10765
       ],
       "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "76075",
-      "tmdbId": 76075,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "摇曳露营△",
-      "releaseDate": "2018-01-04",
-      "lastUpdateDate": "2024-06-20",
-      "posterPath": "/cDWn009t5VTNBXAliflpm1RdNLO.jpg",
-      "backdropPath": "/cm3lmKnEAYLs2eJmn4AcFIu18X4.jpg",
-      "rating": 8.2,
-      "description": "2018 · ⭐ 8.2 · 日本\n这是，某个冬日的故事。从静冈搬家到山梨的女高中生·抚子，为了观赏“在千圆纸币上都有图案的富士山”而骑着自行车来到本栖湖，但不巧天气是阴天。没能看到富士山，十分疲倦的抚子当场进入了梦乡。当她醒来的时候，时间已是深夜。在这初来乍到的地方，连回去的路都不知道。拯救了不安而害怕的抚子的是，一位爱好露营的女孩子·凛。为了让寒冷的身体取暖而点燃篝火的两人。噼啪噼啪的柴火爆音，沁入湖畔的静寂之中。围着篝火，一边啜着咖喱面一边对话的抚子和凛。终于，两人期盼已久的瞬间到来。“看到了……富士山……”抚子与凛，从这两人的相遇开始的户外系Girls Story。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
+        "US"
       ]
     }
   ]
