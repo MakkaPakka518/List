@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20 02:52:26",
+  "last_updated": "2026-10-20 13:28:02",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -1653,28 +1653,6 @@
       "rawCountries": []
     },
     {
-      "id": "1218925",
-      "tmdbId": 1218925,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "电锯人剧场版：蕾塞篇",
-      "releaseDate": "2025-09-19",
-      "lastUpdateDate": "2025-09-19",
-      "posterPath": "/yFsmS9rayF2iGogqB9McesEN5kG.jpg",
-      "backdropPath": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-      "rating": 8.5,
-      "description": "2025 · ⭐ 8.5 · 未知地区\n故事延续TV动画的最终章，讲述男主角电次在偶然邂逅的神秘少女蕾塞的庇护下，在快节奏的战斗中，奔向难以预测的命运。  电次，一个少年，与“电锯恶魔”签订契约，化身“电锯人”，成为隶属于公安部魔物对策特别课四课的魔物猎人，与魔物战斗。正兴奋地等待着与心仪的女性、公安部上司玛奇玛约会，却遭遇突如其来的暴雨，不得不在雨中避雨。在避雨的过程中，他邂逅了名为蕾塞的少女。在附近咖啡馆工作的蕾塞对电次露出了和善的笑容，两人迅速成为了好朋友。这次邂逅标志着电次的日常生活发生了重大改变。",
-      "genreTitle": "动作 / 爱情 / 奇幻",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        28,
-        10749,
-        14
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "18874",
       "tmdbId": 18874,
       "type": "tmdb",
@@ -1694,6 +1672,28 @@
         53,
         80,
         878
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "1218925",
+      "tmdbId": 1218925,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "电锯人剧场版：蕾塞篇",
+      "releaseDate": "2025-09-19",
+      "lastUpdateDate": "2025-09-19",
+      "posterPath": "/yFsmS9rayF2iGogqB9McesEN5kG.jpg",
+      "backdropPath": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+      "rating": 8.5,
+      "description": "2025 · ⭐ 8.5 · 未知地区\n故事延续TV动画的最终章，讲述男主角电次在偶然邂逅的神秘少女蕾塞的庇护下，在快节奏的战斗中，奔向难以预测的命运。  电次，一个少年，与“电锯恶魔”签订契约，化身“电锯人”，成为隶属于公安部魔物对策特别课四课的魔物猎人，与魔物战斗。正兴奋地等待着与心仪的女性、公安部上司玛奇玛约会，却遭遇突如其来的暴雨，不得不在雨中避雨。在避雨的过程中，他邂逅了名为蕾塞的少女。在附近咖啡馆工作的蕾塞对电次露出了和善的笑容，两人迅速成为了好朋友。这次邂逅标志着电次的日常生活发生了重大改变。",
+      "genreTitle": "动作 / 爱情 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        10749,
+        14
       ],
       "rawCountries": []
     },
@@ -1927,6 +1927,29 @@
       ]
     },
     {
+      "id": "67851",
+      "tmdbId": 67851,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "传说巨神伊迪安 发动篇",
+      "releaseDate": "1982-07-10",
+      "lastUpdateDate": "1982-07-10",
+      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
+      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
+      "rating": 7.9,
+      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        878,
+        16,
+        28,
+        10752,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "31654",
       "tmdbId": 31654,
       "type": "tmdb",
@@ -1972,29 +1995,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "67851",
-      "tmdbId": 67851,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "传说巨神伊迪安 发动篇",
-      "releaseDate": "1982-07-10",
-      "lastUpdateDate": "1982-07-10",
-      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
-      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
-      "rating": 7.9,
-      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
-      "genreTitle": "科幻 / 动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        878,
-        16,
-        28,
-        10752,
-        18
-      ],
-      "rawCountries": []
     },
     {
       "id": "357405",
@@ -2113,7 +2113,7 @@
       "releaseDate": "2022-09-13",
       "lastUpdateDate": "2022-09-13",
       "posterPath": "/qDVAzbVljHxuwRb05FZXM9iko63.jpg",
-      "backdropPath": "/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
+      "backdropPath": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
       "rating": 8.5,
       "description": "2022 · ⭐ 8.5 · 日本/PL/美国\n该剧集是一部独立的 10 集剧集，故事讲述了一名街头流浪儿在一个科技和形体改造泛滥的夜之城中挣扎求生，一无所有的他成为一名“边缘行者“（亦被称为“赛博浪客”的法外佣兵）来维持生计。",
       "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
@@ -2199,28 +2199,6 @@
       ]
     },
     {
-      "id": "330287",
-      "tmdbId": 330287,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "辉夜大小姐想让我告白：通往大人的阶梯",
-      "releaseDate": "2025-12-31",
-      "lastUpdateDate": "2025-12-31",
-      "posterPath": "/7W96rhjxEiDPftp39wHoWgLSUOZ.jpg",
-      "backdropPath": "/ZJpPJj5lFTLFhdaqt1vwj7xPY3.jpg",
-      "rating": 0.0,
-      "description": "2025 · ⭐ 0.0 · 日本\n「每一样都令人怀念，而全部都是无可取代的重要回忆。」这里是聚集秀才的菁英学校──秀知院学园。\n\n在那里的学生会中相遇的副会长四宫辉夜，与学生会长白银御行，两人经历长期的恋爱头脑战后，终于确定交往……。\n\n时光流逝──辉夜独自在房间里翻阅着一本图库。\n\n图库中的一张张照片，收录着她与白银，以及在秀知院学园度过的伙伴们之间的点滴回忆。\n\n随着她沉浸在怀念之情中，一页又一页翻过。\n\n而辉夜的回忆也再次鲜明地涌上心头……。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        35,
-        16
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "66862",
       "tmdbId": 66862,
       "type": "tmdb",
@@ -2237,6 +2215,28 @@
       "rawGenres": [
         16,
         18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "330287",
+      "tmdbId": 330287,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "辉夜大小姐想让我告白：通往大人的阶梯",
+      "releaseDate": "2025-12-31",
+      "lastUpdateDate": "2025-12-31",
+      "posterPath": "/7W96rhjxEiDPftp39wHoWgLSUOZ.jpg",
+      "backdropPath": "/ZJpPJj5lFTLFhdaqt1vwj7xPY3.jpg",
+      "rating": 0.0,
+      "description": "2025 · ⭐ 0.0 · 日本\n「每一样都令人怀念，而全部都是无可取代的重要回忆。」这里是聚集秀才的菁英学校──秀知院学园。\n\n在那里的学生会中相遇的副会长四宫辉夜，与学生会长白银御行，两人经历长期的恋爱头脑战后，终于确定交往……。\n\n时光流逝──辉夜独自在房间里翻阅着一本图库。\n\n图库中的一张张照片，收录着她与白银，以及在秀知院学园度过的伙伴们之间的点滴回忆。\n\n随着她沉浸在怀念之情中，一页又一页翻过。\n\n而辉夜的回忆也再次鲜明地涌上心头……。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        35,
+        16
       ],
       "rawCountries": [
         "JP"
@@ -2468,6 +2468,30 @@
       ]
     },
     {
+      "id": "72636",
+      "tmdbId": 72636,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "来自深渊",
+      "releaseDate": "2017-07-07",
+      "lastUpdateDate": "2022-09-28",
+      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
+      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
+      "rating": 8.3,
+      "description": "2017 · ⭐ 8.3 · 日本\n在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
+      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "40075",
       "tmdbId": 40075,
       "type": "tmdb",
@@ -2494,30 +2518,6 @@
       ]
     },
     {
-      "id": "72636",
-      "tmdbId": 72636,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "来自深渊",
-      "releaseDate": "2017-07-07",
-      "lastUpdateDate": "2022-09-28",
-      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
-      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
-      "rating": 8.3,
-      "description": "2017 · ⭐ 8.3 · 日本\n在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
-      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "12609",
       "tmdbId": 12609,
       "type": "tmdb",
@@ -2541,22 +2541,24 @@
       ]
     },
     {
-      "id": "76075",
-      "tmdbId": 76075,
+      "id": "12501",
+      "tmdbId": 12501,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "摇曳露营△",
-      "releaseDate": "2018-01-04",
-      "lastUpdateDate": "2024-06-20",
-      "posterPath": "/cDWn009t5VTNBXAliflpm1RdNLO.jpg",
-      "backdropPath": "/cm3lmKnEAYLs2eJmn4AcFIu18X4.jpg",
-      "rating": 8.2,
-      "description": "2018 · ⭐ 8.2 · 日本\n这是，某个冬日的故事。从静冈搬家到山梨的女高中生·抚子，为了观赏“在千圆纸币上都有图案的富士山”而骑着自行车来到本栖湖，但不巧天气是阴天。没能看到富士山，十分疲倦的抚子当场进入了梦乡。当她醒来的时候，时间已是深夜。在这初来乍到的地方，连回去的路都不知道。拯救了不安而害怕的抚子的是，一位爱好露营的女孩子·凛。为了让寒冷的身体取暖而点燃篝火的两人。噼啪噼啪的柴火爆音，沁入湖畔的静寂之中。围着篝火，一边啜着咖喱面一边对话的抚子和凛。终于，两人期盼已久的瞬间到来。“看到了……富士山……”抚子与凛，从这两人的相遇开始的户外系Girls Story。",
-      "genreTitle": "喜剧",
+      "title": "百变之星",
+      "releaseDate": "2003-04-03",
+      "lastUpdateDate": "2004-03-27",
+      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
+      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
+      "rating": 7.6,
+      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
         16,
-        35
+        35,
+        18,
+        10765
       ],
       "rawCountries": [
         "JP"
