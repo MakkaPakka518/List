@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21 01:36:09",
+  "last_updated": "2026-10-21 13:28:14",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -1519,28 +1519,6 @@
       ]
     },
     {
-      "id": "283566",
-      "tmdbId": 283566,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "福音战士新剧场版：终",
-      "releaseDate": "2021-03-08",
-      "lastUpdateDate": "2021-03-08",
-      "posterPath": "/dhvOX84DwAp1LSe2r1jCbjBGBtB.jpg",
-      "backdropPath": "/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
-      "rating": 8.2,
-      "description": "2021 · ⭐ 8.2 · 未知地区\n反NERV组织WILLE的成员在红化的巴黎旧城区执行作战任务。与此同时，碇真嗣、明日香与绫波零在日本的大地上徘徊，故事迎来最终结局。",
-      "genreTitle": "动作 / 科幻 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        28,
-        878,
-        18
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "77694",
       "tmdbId": 77694,
       "type": "tmdb",
@@ -1562,6 +1540,28 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "283566",
+      "tmdbId": 283566,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "福音战士新剧场版：终",
+      "releaseDate": "2021-03-08",
+      "lastUpdateDate": "2021-03-08",
+      "posterPath": "/dhvOX84DwAp1LSe2r1jCbjBGBtB.jpg",
+      "backdropPath": "/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
+      "rating": 8.2,
+      "description": "2021 · ⭐ 8.2 · 未知地区\n反NERV组织WILLE的成员在红化的巴黎旧城区执行作战任务。与此同时，碇真嗣、明日香与绫波零在日本的大地上徘徊，故事迎来最终结局。",
+      "genreTitle": "动作 / 科幻 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        878,
+        18
+      ],
+      "rawCountries": []
     },
     {
       "id": "119100",
@@ -1632,27 +1632,6 @@
       ]
     },
     {
-      "id": "128",
-      "tmdbId": 128,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "幽灵公主",
-      "releaseDate": "1997-07-12",
-      "lastUpdateDate": "1997-07-12",
-      "posterPath": "/mgxuL4rDqAHdcZvO3fXRhrcifpv.jpg",
-      "backdropPath": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
-      "rating": 8.3,
-      "description": "1997 · ⭐ 8.3 · 未知地区\n室町时代，生活在偏远村落的少年阿席达卡为了保护族人，与一头被邪魔侵蚀的山猪神交战，却因此受到可怕的诅咒。为了寻找诅咒的来源和活下去的方法，他离开故乡前往西方。在旅途中，阿席达卡来到一片古老森林附近，发现以黑帽大人为首的人类为了炼铁不断开采资源，与守护森林的神祇陷入日益激烈的冲突。他也由此遇见了由山犬养大、憎恨人类破坏森林的少女小桑。面对为了生存开拓土地的人类与誓死守护家园的森林生灵，阿席达卡逐渐被卷入双方无法调和的争斗，并试图寻找一条不必以毁灭彼此为代价的道路……",
-      "genreTitle": "冒险 / 奇幻",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        12,
-        14,
-        16
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "18874",
       "tmdbId": 18874,
       "type": "tmdb",
@@ -1672,6 +1651,27 @@
         53,
         80,
         878
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "128",
+      "tmdbId": 128,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "幽灵公主",
+      "releaseDate": "1997-07-12",
+      "lastUpdateDate": "1997-07-12",
+      "posterPath": "/mgxuL4rDqAHdcZvO3fXRhrcifpv.jpg",
+      "backdropPath": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+      "rating": 8.3,
+      "description": "1997 · ⭐ 8.3 · 未知地区\n室町时代，生活在偏远村落的少年阿席达卡为了保护族人，与一头被邪魔侵蚀的山猪神交战，却因此受到可怕的诅咒。为了寻找诅咒的来源和活下去的方法，他离开故乡前往西方。在旅途中，阿席达卡来到一片古老森林附近，发现以黑帽大人为首的人类为了炼铁不断开采资源，与守护森林的神祇陷入日益激烈的冲突。他也由此遇见了由山犬养大、憎恨人类破坏森林的少女小桑。面对为了生存开拓土地的人类与誓死守护家园的森林生灵，阿席达卡逐渐被卷入双方无法调和的争斗，并试图寻找一条不必以毁灭彼此为代价的道路……",
+      "genreTitle": "冒险 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        12,
+        14,
+        16
       ],
       "rawCountries": []
     },
@@ -1927,29 +1927,6 @@
       ]
     },
     {
-      "id": "67851",
-      "tmdbId": 67851,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "传说巨神伊迪安 发动篇",
-      "releaseDate": "1982-07-10",
-      "lastUpdateDate": "1982-07-10",
-      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
-      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
-      "rating": 7.9,
-      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
-      "genreTitle": "科幻 / 动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        878,
-        16,
-        28,
-        10752,
-        18
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "31654",
       "tmdbId": 31654,
       "type": "tmdb",
@@ -2014,6 +1991,29 @@
         16,
         28,
         35
+      ],
+      "rawCountries": []
+    },
+    {
+      "id": "67851",
+      "tmdbId": 67851,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "传说巨神伊迪安 发动篇",
+      "releaseDate": "1982-07-10",
+      "lastUpdateDate": "1982-07-10",
+      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
+      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
+      "rating": 7.9,
+      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        878,
+        16,
+        28,
+        10752,
+        18
       ],
       "rawCountries": []
     },
@@ -2111,7 +2111,7 @@
       "mediaType": "tv",
       "title": "赛博朋克：边缘行者",
       "releaseDate": "2022-09-13",
-      "lastUpdateDate": "2022-09-13",
+      "lastUpdateDate": "2026-10-20",
       "posterPath": "/kL0jycZo9QAIhempGbsb88uw1E1.jpg",
       "backdropPath": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
       "rating": 8.5,
@@ -2468,6 +2468,30 @@
       ]
     },
     {
+      "id": "12501",
+      "tmdbId": 12501,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "百变之星",
+      "releaseDate": "2003-04-03",
+      "lastUpdateDate": "2004-03-27",
+      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
+      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
+      "rating": 7.6,
+      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "72636",
       "tmdbId": 72636,
       "type": "tmdb",
@@ -2484,6 +2508,29 @@
       "rawGenres": [
         16,
         18,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "12609",
+      "tmdbId": 12609,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "龙珠",
+      "releaseDate": "1986-02-26",
+      "lastUpdateDate": "1989-04-19",
+      "posterPath": "/5Or7J4Bo04UZDrr60CGjq1mRUFe.jpg",
+      "backdropPath": "/30L49n4Dhn7dzuGG50GV3ybMhC3.jpg",
+      "rating": 8.3,
+      "description": "1986 · ⭐ 8.3 · 日本\n很久很久以前，曾流传着这样一个传说：世界各地散落着七颗龙珠，只要集齐这些珠子，就可召唤出神龙，而神龙可以帮助你实现任何一个愿望。住在深山中的小悟空本领高强，偶然的机会他随时尚少女布玛走出大山，四处寻找传说中的龙珠。期间碰上好色的龟仙人与乌龙、一碰女人就面红耳赤的乐平、自大的小和尚克林，经历了各种各样的艰险和奇遇，也惹出一连串爆笑的故事。当然还有许多邪恶的家伙为了满足私欲寻找龙珠，与小悟空他们展开了连番激斗……根据鸟山明同名漫画改编。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
         10759,
         10765
       ],
@@ -2515,53 +2562,6 @@
       ],
       "rawCountries": [
         "US"
-      ]
-    },
-    {
-      "id": "12609",
-      "tmdbId": 12609,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "龙珠",
-      "releaseDate": "1986-02-26",
-      "lastUpdateDate": "1989-04-19",
-      "posterPath": "/5Or7J4Bo04UZDrr60CGjq1mRUFe.jpg",
-      "backdropPath": "/30L49n4Dhn7dzuGG50GV3ybMhC3.jpg",
-      "rating": 8.3,
-      "description": "1986 · ⭐ 8.3 · 日本\n很久很久以前，曾流传着这样一个传说：世界各地散落着七颗龙珠，只要集齐这些珠子，就可召唤出神龙，而神龙可以帮助你实现任何一个愿望。住在深山中的小悟空本领高强，偶然的机会他随时尚少女布玛走出大山，四处寻找传说中的龙珠。期间碰上好色的龟仙人与乌龙、一碰女人就面红耳赤的乐平、自大的小和尚克林，经历了各种各样的艰险和奇遇，也惹出一连串爆笑的故事。当然还有许多邪恶的家伙为了满足私欲寻找龙珠，与小悟空他们展开了连番激斗……根据鸟山明同名漫画改编。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "12501",
-      "tmdbId": 12501,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "百变之星",
-      "releaseDate": "2003-04-03",
-      "lastUpdateDate": "2004-03-27",
-      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
-      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
-      "rating": 7.6,
-      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
-      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
       ]
     }
   ]
