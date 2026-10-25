@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 00:19:37",
+  "last_updated": "2026-10-25 13:26:47",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -132,8 +132,8 @@
       "lastUpdateDate": "1999-09-22",
       "posterPath": "/xPu5caNX8TMujoPvQkep0rImPVX.jpg",
       "backdropPath": "/2OSDcB6sQYlxA0UffFaCLNgiUNE.jpg",
-      "rating": 8.3,
-      "description": "1999 · ⭐ 8.3 · 日本\n幕府末期动荡不安，少年心太被比古清十郎收为弟子，改名剑心，下山投身时代变革，成为刺客。一次任务中脸上留下伤疤。之后他遇见雪代巴，两人在乱世与宁静交错的生活中逐渐靠近，但在政治与仇恨的漩涡中，这段短暂的幸福终究难以保全。",
+      "rating": 8.1,
+      "description": "1999 · ⭐ 8.1 · 日本\n幕府末期动荡不安，少年心太被比古清十郎收为弟子，改名剑心，下山投身时代变革，成为刺客。一次任务中脸上留下伤疤。之后他遇见雪代巴，两人在乱世与宁静交错的生活中逐渐靠近，但在政治与仇恨的漩涡中，这段短暂的幸福终究难以保全。",
       "genreTitle": "动作冒险 / 剧情",
       "regionTitle": "日本",
       "rawGenres": [
@@ -263,28 +263,6 @@
       ]
     },
     {
-      "id": "132131",
-      "tmdbId": 132131,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "未麻的部屋：讲座",
-      "releaseDate": "2008-02-29",
-      "lastUpdateDate": "2008-02-29",
-      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
-      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
-      "rating": 8.0,
-      "description": "2008 · ⭐ 8.0 · 日本\n《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
-      "genreTitle": "纪录片",
-      "regionTitle": "日本",
-      "rawGenres": [
-        99,
-        16
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "64492",
       "tmdbId": 64492,
       "type": "tmdb",
@@ -302,6 +280,28 @@
         16,
         35,
         18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "132131",
+      "tmdbId": 132131,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "未麻的部屋：讲座",
+      "releaseDate": "2008-02-29",
+      "lastUpdateDate": "2008-02-29",
+      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
+      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
+      "rating": 8.0,
+      "description": "2008 · ⭐ 8.0 · 日本\n《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
+      "genreTitle": "纪录片",
+      "regionTitle": "日本",
+      "rawGenres": [
+        99,
+        16
       ],
       "rawCountries": [
         "JP"
@@ -623,6 +623,27 @@
       "rawCountries": []
     },
     {
+      "id": "301513",
+      "tmdbId": 301513,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "明日之丈 剧场版",
+      "releaseDate": "1980-03-08",
+      "lastUpdateDate": "1980-03-08",
+      "posterPath": "/kQ8VEBK9BX4W5TpaOEoT5XR1erq.jpg",
+      "backdropPath": "/ldB5kcildygAfxFcEsQOZQoJDvS.jpg",
+      "rating": 8.4,
+      "description": "1980 · ⭐ 8.4 · 未知地区\n在东京山谷的宿民街突然出现了一位少年。他的名字叫矢吹丈。有一天小丈遇到了，对他相当感兴趣的而沉溺于酒精中毒的前拳击手丹下段平，他们因此相遇。在他与小丈打过一架后，他从他的动作中发现他具备有拳击手的天生资质，他认为如果能将小丈好好磨练，那小丈一定可以成为一流的拳击手。但是小丈他却带领着居住在宿民街的孩子们，做出一些令人瞠目睁舌的行动，并且还利用段平对他的热情，竟然不惜利用犯罪来脏了自己的手，在他被警察逮捕之后，他被移送到鉴别所·此后还送到少年院这地方给予管教。 有一天，待在少年鉴别所的小丈他，收到一封段平给他的一封明信片，上面写着“为了明日”。在这明信片中，为他讲解了要如何使出左刺拳的拳击的技术方面的事情。然而觉得时间和体力都很空闲的小丈，因此就对那个建议开始了拳击的练习并给予吸收，在他自己吸收这拳不久后，他的体会力慢慢的提高，让他想起以往他从来没有对某件事情这么认真。在野菊岛的东光特等少年院里，他遇到了终生宿敌·力石彻，他与力石彻命运的相遇，却在这种情况下让小丈正式的踏进了拳击的道路之中。",
+      "genreTitle": "动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        28,
+        16,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "46512",
       "tmdbId": 46512,
       "type": "tmdb",
@@ -645,27 +666,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "301513",
-      "tmdbId": 301513,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "明日之丈 剧场版",
-      "releaseDate": "1980-03-08",
-      "lastUpdateDate": "1980-03-08",
-      "posterPath": "/kQ8VEBK9BX4W5TpaOEoT5XR1erq.jpg",
-      "backdropPath": "/ldB5kcildygAfxFcEsQOZQoJDvS.jpg",
-      "rating": 8.4,
-      "description": "1980 · ⭐ 8.4 · 未知地区\n在东京山谷的宿民街突然出现了一位少年。他的名字叫矢吹丈。有一天小丈遇到了，对他相当感兴趣的而沉溺于酒精中毒的前拳击手丹下段平，他们因此相遇。在他与小丈打过一架后，他从他的动作中发现他具备有拳击手的天生资质，他认为如果能将小丈好好磨练，那小丈一定可以成为一流的拳击手。但是小丈他却带领着居住在宿民街的孩子们，做出一些令人瞠目睁舌的行动，并且还利用段平对他的热情，竟然不惜利用犯罪来脏了自己的手，在他被警察逮捕之后，他被移送到鉴别所·此后还送到少年院这地方给予管教。 有一天，待在少年鉴别所的小丈他，收到一封段平给他的一封明信片，上面写着“为了明日”。在这明信片中，为他讲解了要如何使出左刺拳的拳击的技术方面的事情。然而觉得时间和体力都很空闲的小丈，因此就对那个建议开始了拳击的练习并给予吸收，在他自己吸收这拳不久后，他的体会力慢慢的提高，让他想起以往他从来没有对某件事情这么认真。在野菊岛的东光特等少年院里，他遇到了终生宿敌·力石彻，他与力石彻命运的相遇，却在这种情况下让小丈正式的踏进了拳击的道路之中。",
-      "genreTitle": "动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        28,
-        16,
-        18
-      ],
-      "rawCountries": []
     },
     {
       "id": "42573",
@@ -766,8 +766,8 @@
       "lastUpdateDate": "2011-04-22",
       "posterPath": "/qYPUVIhKYirbmVrdEJBZ3ZYpTeE.jpg",
       "backdropPath": "/uyGH4YtKi7iSyAxKWLFdQWc7oXT.jpg",
-      "rating": 8.0,
-      "description": "2011 · ⭐ 8.0 · 日本\n平凡的中学生鹿目圆有一个美满的家庭，在生活中她是个性格温顺又有爱心的好孩子。转学生晓美焰的出现打破了小圆平静的生活，这个性格酷酷又体弱多病的黑长直少女似乎对小圆有着什么难言之隐。命运中的相遇出现了，小圆在路边救下了一只浑身是伤的奇怪动物 ，没想到这只动物居然会说人类的语言。它告诉小圆它的名字叫丘比，并且提出了一个特殊的要求，它希望小圆能够和它签订契约成为魔法少女。魔法少女是这个世界中一种特殊的存在，她们肩负着和魔女战斗的使命，作为报酬，丘比可以实现她们任意的一个愿望。经过一系列事件后，小圆最终决定成为一名魔法少女。",
+      "rating": 8.1,
+      "description": "2011 · ⭐ 8.1 · 日本\n平凡的中学生鹿目圆有一个美满的家庭，在生活中她是个性格温顺又有爱心的好孩子。转学生晓美焰的出现打破了小圆平静的生活，这个性格酷酷又体弱多病的黑长直少女似乎对小圆有着什么难言之隐。命运中的相遇出现了，小圆在路边救下了一只浑身是伤的奇怪动物 ，没想到这只动物居然会说人类的语言。它告诉小圆它的名字叫丘比，并且提出了一个特殊的要求，它希望小圆能够和它签订契约成为魔法少女。魔法少女是这个世界中一种特殊的存在，她们肩负着和魔女战斗的使命，作为报酬，丘比可以实现她们任意的一个愿望。经过一系列事件后，小圆最终决定成为一名魔法少女。",
       "genreTitle": "剧情 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
@@ -2017,6 +2017,27 @@
       ]
     },
     {
+      "id": "37280",
+      "tmdbId": 37280,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "蜡笔小新：呼风唤雨！大人帝国的反击",
+      "releaseDate": "2001-04-21",
+      "lastUpdateDate": "2001-04-21",
+      "posterPath": "/AgU1NkeXlkizsIdg9atqyomO1P1.jpg",
+      "backdropPath": "/xGGqwdWOrCfOpwK6RGqswbihwxY.jpg",
+      "rating": 8.2,
+      "description": "2001 · ⭐ 8.2 · 未知地区\n这天在小新居住的春日部附近，突然新开了一家叫“20世纪博”的游乐园。游乐园里到处播放着从前20世纪的旧的电视节目和电影，这里，一切都是从前时光的回放。每一个到了这里的大人，都沉浸在过去的旧时光里，而对小孩子来说，这些的东西一点意思都没有。令小新万万想不到的是，进入了游乐园的爸爸妈妈都不在理会其他事情，只是一直沉醉在以往的时光里。城里的大人们都进去了，只剩下了小孩子！这到底是谁的阴谋，小新他们能否粉碎这阴谋？",
+      "genreTitle": "喜剧 / 冒险",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        35,
+        12
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "67851",
       "tmdbId": 67851,
       "type": "tmdb",
@@ -2036,27 +2057,6 @@
         28,
         10752,
         18
-      ],
-      "rawCountries": []
-    },
-    {
-      "id": "37280",
-      "tmdbId": 37280,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "蜡笔小新：呼风唤雨！大人帝国的反击",
-      "releaseDate": "2001-04-21",
-      "lastUpdateDate": "2001-04-21",
-      "posterPath": "/AgU1NkeXlkizsIdg9atqyomO1P1.jpg",
-      "backdropPath": "/xGGqwdWOrCfOpwK6RGqswbihwxY.jpg",
-      "rating": 8.2,
-      "description": "2001 · ⭐ 8.2 · 未知地区\n这天在小新居住的春日部附近，突然新开了一家叫“20世纪博”的游乐园。游乐园里到处播放着从前20世纪的旧的电视节目和电影，这里，一切都是从前时光的回放。每一个到了这里的大人，都沉浸在过去的旧时光里，而对小孩子来说，这些的东西一点意思都没有。令小新万万想不到的是，进入了游乐园的爸爸妈妈都不在理会其他事情，只是一直沉醉在以往的时光里。城里的大人们都进去了，只剩下了小孩子！这到底是谁的阴谋，小新他们能否粉碎这阴谋？",
-      "genreTitle": "喜剧 / 冒险",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        35,
-        12
       ],
       "rawCountries": []
     },
@@ -2113,7 +2113,7 @@
       "releaseDate": "2022-09-13",
       "lastUpdateDate": "2026-10-20",
       "posterPath": "/kL0jycZo9QAIhempGbsb88uw1E1.jpg",
-      "backdropPath": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+      "backdropPath": "/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
       "rating": 8.5,
       "description": "2022 · ⭐ 8.5 · 日本/PL/美国\n夜之城每一季都有新故事，也总有一群特立独行的新角色登场，讲述属于他们的传奇。",
       "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
@@ -2265,6 +2265,28 @@
       ]
     },
     {
+      "id": "53787",
+      "tmdbId": 53787,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "水星领航员",
+      "releaseDate": "2005-10-06",
+      "lastUpdateDate": "2008-04-01",
+      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
+      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+      "rating": 8.5,
+      "description": "2005 · ⭐ 8.5 · 日本\n随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "37854",
       "tmdbId": 37854,
       "type": "tmdb",
@@ -2282,28 +2304,6 @@
         10759,
         35,
         16
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "53787",
-      "tmdbId": 53787,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "水星领航员",
-      "releaseDate": "2005-10-06",
-      "lastUpdateDate": "2008-04-01",
-      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
-      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
-      "rating": 8.5,
-      "description": "2005 · ⭐ 8.5 · 日本\n随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
-      "genreTitle": "科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765
       ],
       "rawCountries": [
         "JP"
@@ -2494,30 +2494,6 @@
       ]
     },
     {
-      "id": "12501",
-      "tmdbId": 12501,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "百变之星",
-      "releaseDate": "2003-04-03",
-      "lastUpdateDate": "2004-03-27",
-      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
-      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
-      "rating": 7.6,
-      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
-      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "72636",
       "tmdbId": 72636,
       "type": "tmdb",
@@ -2535,6 +2511,30 @@
         16,
         18,
         10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "12501",
+      "tmdbId": 12501,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "百变之星",
+      "releaseDate": "2003-04-03",
+      "lastUpdateDate": "2004-03-27",
+      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
+      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
+      "rating": 7.6,
+      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
         10765
       ],
       "rawCountries": [
