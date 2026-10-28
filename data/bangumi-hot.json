@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28 14:24:41",
+  "last_updated": "2026-10-29 02:33:38",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -193,24 +193,24 @@
       ]
     },
     {
-      "id": "1095",
-      "tmdbId": 1095,
+      "id": "62070",
+      "tmdbId": 62070,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "攻壳机动队 STAND ALONE COMPLEX",
-      "releaseDate": "2002-10-01",
-      "lastUpdateDate": "2005-01-08",
-      "posterPath": "/cN5xiie7ZvN5JbXdsl1YA09Sh8i.jpg",
-      "backdropPath": "/2rvFW70UeOMCTXGmYHij1bwHCiu.jpg",
-      "rating": 8.2,
-      "description": "2002 · ⭐ 8.2 · 日本\n公元2030年，经历了4次世界大战的世界面临更严峻的挑战。随着人类义体化等科技的不断发展，犯罪行为也日渐离奇复杂。为了解决这类案件，日本内务省的直属部队——公安9课，这个对外不存在的特种部队，在队长草薙素子的带领下向恶势力发起制裁。而面对公安9课的，是高度发达的科技下创造的案件、权力政治斗争的阴谋、与以笑脸男为代表的Stand Alone Complex犯罪。 ",
-      "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
+      "title": "攻壳机动队 ARISE",
+      "releaseDate": "2015-04-05",
+      "lastUpdateDate": "2015-06-07",
+      "posterPath": "/qCX5Jb1uaKrFVTfOnT265tdzvJT.jpg",
+      "backdropPath": "/71R1H3crMMHhIv48Cott4Q7RFwy.jpg",
+      "rating": 7.1,
+      "description": "2015 · ⭐ 7.1 · 日本\n　　某年的圣诞夜，大批民众聚集到某栋大厦门外，抗议国家与库赞共和国的纯净水合作计划。与此同时，交通网络以及相关电子系统遭到入侵而全面失灵，随后更有维持治安的警察掏枪射击抗议民众。值此危急时刻，公安九课少校的草薙素子（坂本真绫 配音）率领队员巴特（松田健一郎 配音）、陀古萨（新垣樽助 配音）等人迅速展开行动，与恐怖分子和黑客展开连番恶斗。这支个性满满且身怀绝技的机动部队，还要追溯到2027年6月的某天。时任陆军机密部队501机关中佐的真室在街头被人杀害，公安9课课长荒卷大辅（塾一久 配音）在墓地与生化人草薙素子首次邂逅。后者接受荒卷的委托追查真相，在这一过程中和巴特等人邂逅。这正是一段传奇部队“攻壳机动队”成立前夕的故事……\n\n　　本片根据士郎正宗的原作改编。",
+      "genreTitle": "犯罪 / 动作冒险 / 科幻奇幻",
       "regionTitle": "日本",
       "rawGenres": [
         16,
+        80,
         10759,
-        10765,
-        80
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -1730,7 +1730,7 @@
       "releaseDate": "2006-10-05",
       "lastUpdateDate": "2008-09-28",
       "posterPath": "/4MCL2WH5NU4lwaTD7Nbfnq9oGM6.jpg",
-      "backdropPath": "/5hS2OIuZSKGkR8R5l3bY5zh04Ce.jpg",
+      "backdropPath": "/ez2DKt7E1PI06OoXwQS5pvl840B.jpg",
       "rating": 8.4,
       "description": "2006 · ⭐ 8.4 · 日本\n被神圣不列颠帝国侵略而亡国的日本——11区中，在生死边缘获得神秘魔女c.c.赋予的Geass力量，立志要粉碎帝国的黑色王子鲁路修·兰佩路基，与坚持公理的白色骑士枢木朱雀所掀起的巨大变化。",
       "genreTitle": "科幻奇幻 / 动作冒险 / 剧情",
@@ -1819,7 +1819,7 @@
       "releaseDate": "2006-10-05",
       "lastUpdateDate": "2008-09-28",
       "posterPath": "/4MCL2WH5NU4lwaTD7Nbfnq9oGM6.jpg",
-      "backdropPath": "/5hS2OIuZSKGkR8R5l3bY5zh04Ce.jpg",
+      "backdropPath": "/ez2DKt7E1PI06OoXwQS5pvl840B.jpg",
       "rating": 8.4,
       "description": "2006 · ⭐ 8.4 · 日本\n被神圣不列颠帝国侵略而亡国的日本——11区中，在生死边缘获得神秘魔女c.c.赋予的Geass力量，立志要粉碎帝国的黑色王子鲁路修·兰佩路基，与坚持公理的白色骑士枢木朱雀所掀起的巨大变化。",
       "genreTitle": "科幻奇幻 / 动作冒险 / 剧情",
