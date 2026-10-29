@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29 02:33:38",
+  "last_updated": "2026-10-29 14:35:06",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -263,28 +263,6 @@
       ]
     },
     {
-      "id": "132131",
-      "tmdbId": 132131,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "未麻的部屋：讲座",
-      "releaseDate": "2008-02-29",
-      "lastUpdateDate": "2008-02-29",
-      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
-      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
-      "rating": 8.0,
-      "description": "2008 · ⭐ 8.0 · 日本\n《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
-      "genreTitle": "纪录片",
-      "regionTitle": "日本",
-      "rawGenres": [
-        99,
-        16
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "64492",
       "tmdbId": 64492,
       "type": "tmdb",
@@ -302,6 +280,28 @@
         16,
         35,
         18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "132131",
+      "tmdbId": 132131,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "未麻的部屋：讲座",
+      "releaseDate": "2008-02-29",
+      "lastUpdateDate": "2008-02-29",
+      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
+      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
+      "rating": 8.0,
+      "description": "2008 · ⭐ 8.0 · 日本\n《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
+      "genreTitle": "纪录片",
+      "regionTitle": "日本",
+      "rawGenres": [
+        99,
+        16
       ],
       "rawCountries": [
         "JP"
@@ -1037,27 +1037,6 @@
       "rawCountries": []
     },
     {
-      "id": "39853",
-      "tmdbId": 39853,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "猫儿协奏曲",
-      "releaseDate": "1947-04-26",
-      "lastUpdateDate": "1947-04-26",
-      "posterPath": "/6SzmXunaQe0kzsF6o3JetgtJNjc.jpg",
-      "backdropPath": "/7vvjgWlWdSkiaKe47RypQX8k6WC.jpg",
-      "rating": 7.6,
-      "description": "1947 · ⭐ 7.6 · 未知地区\n身着燕尾服一本正经的钢琴家汤姆走上舞台，与乐队合作为观众演奏李斯特的《匈牙利狂想曲》。专心致志的汤姆丝毫没有料到，一位不速之客将打乱它的表演。此时此刻，小老鼠杰瑞正在钢琴内高音区睡觉，汤姆的演奏搅扰了它的睡眠，生气的杰瑞索性起身，干扰汤姆的演出。汤姆一面要应付小杰瑞的捣乱，一面又要努力演奏，手忙脚乱，应接不暇。在杰瑞的捣乱下，整场演出妙趣横生，当然对汤姆来说这无疑是一场恶梦……本片荣获1947年奥斯卡最佳动画短片奖。",
-      "genreTitle": "喜剧 / 音乐",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        35,
-        10402
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "44684",
       "tmdbId": 44684,
       "type": "tmdb",
@@ -1078,6 +1057,27 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "39853",
+      "tmdbId": 39853,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "猫儿协奏曲",
+      "releaseDate": "1947-04-26",
+      "lastUpdateDate": "1947-04-26",
+      "posterPath": "/6SzmXunaQe0kzsF6o3JetgtJNjc.jpg",
+      "backdropPath": "/7vvjgWlWdSkiaKe47RypQX8k6WC.jpg",
+      "rating": 7.6,
+      "description": "1947 · ⭐ 7.6 · 未知地区\n身着燕尾服一本正经的钢琴家汤姆走上舞台，与乐队合作为观众演奏李斯特的《匈牙利狂想曲》。专心致志的汤姆丝毫没有料到，一位不速之客将打乱它的表演。此时此刻，小老鼠杰瑞正在钢琴内高音区睡觉，汤姆的演奏搅扰了它的睡眠，生气的杰瑞索性起身，干扰汤姆的演出。汤姆一面要应付小杰瑞的捣乱，一面又要努力演奏，手忙脚乱，应接不暇。在杰瑞的捣乱下，整场演出妙趣横生，当然对汤姆来说这无疑是一场恶梦……本片荣获1947年奥斯卡最佳动画短片奖。",
+      "genreTitle": "喜剧 / 音乐",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        35,
+        10402
+      ],
+      "rawCountries": []
     },
     {
       "id": "60625",
@@ -1404,6 +1404,28 @@
       ]
     },
     {
+      "id": "253476",
+      "tmdbId": 253476,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "异国日记",
+      "releaseDate": "2026-01-04",
+      "lastUpdateDate": "2026-03-29",
+      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
+      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
+      "rating": 8.6,
+      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "13916",
       "tmdbId": 13916,
       "type": "tmdb",
@@ -1421,28 +1443,6 @@
         16,
         9648,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "253476",
-      "tmdbId": 253476,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "异国日记",
-      "releaseDate": "2026-01-04",
-      "lastUpdateDate": "2026-03-29",
-      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
-      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
-      "rating": 8.6,
-      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
       ],
       "rawCountries": [
         "JP"
@@ -1974,27 +1974,6 @@
       ]
     },
     {
-      "id": "357405",
-      "tmdbId": 357405,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "少女与战车：剧场版",
-      "releaseDate": "2015-11-21",
-      "lastUpdateDate": "2015-11-21",
-      "posterPath": "/idscINNSMvch2RsAEZXyef7qm4q.jpg",
-      "backdropPath": "/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
-      "rating": 6.9,
-      "description": "2015 · ⭐ 6.9 · 未知地区\n故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
-      "genreTitle": "动作 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        28,
-        35
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "42500",
       "tmdbId": 42500,
       "type": "tmdb",
@@ -2015,6 +1994,27 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "357405",
+      "tmdbId": 357405,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "少女与战车：剧场版",
+      "releaseDate": "2015-11-21",
+      "lastUpdateDate": "2015-11-21",
+      "posterPath": "/idscINNSMvch2RsAEZXyef7qm4q.jpg",
+      "backdropPath": "/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
+      "rating": 6.9,
+      "description": "2015 · ⭐ 6.9 · 未知地区\n故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
+      "genreTitle": "动作 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        35
+      ],
+      "rawCountries": []
     },
     {
       "id": "37280",
@@ -2199,28 +2199,6 @@
       ]
     },
     {
-      "id": "66862",
-      "tmdbId": 66862,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "昭和元禄落语心中",
-      "releaseDate": "2016-01-09",
-      "lastUpdateDate": "2017-03-25",
-      "posterPath": "/m4qKvXM6l15Yq48N8rITeVobix4.jpg",
-      "backdropPath": "/22YtPgohea5ADkePsnISEU34U99.jpg",
-      "rating": 8.0,
-      "description": "2016 · ⭐ 8.0 · 日本\n因无法忘记在刑务所的落语慰问会中见到的大名人八云的《死神》落语段子，出狱的与太郎径直前往寄席，拜倒在八云面前。成为八云住所雇工以及弟子的与太郎，却发现在八云之处住着一位名叫小夏的女性，八云与小夏似乎有着他人无从触及的因缘。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "330287",
       "tmdbId": 330287,
       "type": "tmdb",
@@ -2237,6 +2215,28 @@
       "rawGenres": [
         35,
         16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "66862",
+      "tmdbId": 66862,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "昭和元禄落语心中",
+      "releaseDate": "2016-01-09",
+      "lastUpdateDate": "2017-03-25",
+      "posterPath": "/m4qKvXM6l15Yq48N8rITeVobix4.jpg",
+      "backdropPath": "/22YtPgohea5ADkePsnISEU34U99.jpg",
+      "rating": 8.0,
+      "description": "2016 · ⭐ 8.0 · 日本\n因无法忘记在刑务所的落语慰问会中见到的大名人八云的《死神》落语段子，出狱的与太郎径直前往寄席，拜倒在八云面前。成为八云住所雇工以及弟子的与太郎，却发现在八云之处住着一位名叫小夏的女性，八云与小夏似乎有着他人无从触及的因缘。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
       ],
       "rawCountries": [
         "JP"
@@ -2422,29 +2422,6 @@
       "rawCountries": []
     },
     {
-      "id": "78102",
-      "tmdbId": 78102,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "命运石之门 0",
-      "releaseDate": "2018-04-12",
-      "lastUpdateDate": "2018-09-26",
-      "posterPath": "/9u07yBllJTBRIcYxnfbgUxougk5.jpg",
-      "backdropPath": "/bSOHmFB4RnUoB6zcNiJmXOaoOXk.jpg",
-      "rating": 8.1,
-      "description": "2018 · ⭐ 8.1 · 日本\n2010年11月β世界线——\n\n主人公·冈部伦太郎跨越无数的苦难与悲哀，终究还是放弃拯救“她”的世界线。\n\n跌落失意谷底的冈部伦太郎。担心着他的同伴们。\n\n没能得到拯救的“她”将会变得如何？\n\n迎来新的角色，描绘而成的“零”之物语。",
-      "genreTitle": "科幻奇幻 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        10765,
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "1429",
       "tmdbId": 1429,
       "type": "tmdb",
@@ -2462,6 +2439,29 @@
         16,
         10765,
         10759
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "78102",
+      "tmdbId": 78102,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "命运石之门 0",
+      "releaseDate": "2018-04-12",
+      "lastUpdateDate": "2018-09-26",
+      "posterPath": "/9u07yBllJTBRIcYxnfbgUxougk5.jpg",
+      "backdropPath": "/bSOHmFB4RnUoB6zcNiJmXOaoOXk.jpg",
+      "rating": 8.1,
+      "description": "2018 · ⭐ 8.1 · 日本\n2010年11月β世界线——\n\n主人公·冈部伦太郎跨越无数的苦难与悲哀，终究还是放弃拯救“她”的世界线。\n\n跌落失意谷底的冈部伦太郎。担心着他的同伴们。\n\n没能得到拯救的“她”将会变得如何？\n\n迎来新的角色，描绘而成的“零”之物语。",
+      "genreTitle": "科幻奇幻 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        10765,
+        16,
+        18
       ],
       "rawCountries": [
         "JP"
