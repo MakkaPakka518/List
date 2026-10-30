@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30 02:42:17",
+  "last_updated": "2026-10-30 14:34:37",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -2295,7 +2295,7 @@
       "releaseDate": "1999-10-20",
       "lastUpdateDate": "2026-09-27",
       "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-      "backdropPath": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
+      "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "rating": 8.8,
       "description": "1999 · ⭐ 8.8 · 日本\n拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
       "genreTitle": "动作冒险 / 喜剧",
@@ -2422,29 +2422,6 @@
       "rawCountries": []
     },
     {
-      "id": "1429",
-      "tmdbId": 1429,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "进击的巨人",
-      "releaseDate": "2013-04-07",
-      "lastUpdateDate": "2022-04-04",
-      "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
-      "backdropPath": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "rating": 8.7,
-      "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
-      "genreTitle": "科幻奇幻 / 动作冒险",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765,
-        10759
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "78102",
       "tmdbId": 78102,
       "type": "tmdb",
@@ -2462,6 +2439,29 @@
         10765,
         16,
         18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "1429",
+      "tmdbId": 1429,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "进击的巨人",
+      "releaseDate": "2013-04-07",
+      "lastUpdateDate": "2022-04-04",
+      "posterPath": "/1j3s19nko8OtGhCRwRMDGmr0m5O.jpg",
+      "backdropPath": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "rating": 8.7,
+      "description": "2013 · ⭐ 8.7 · 日本\n曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
+      "genreTitle": "科幻奇幻 / 动作冒险",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765,
+        10759
       ],
       "rawCountries": [
         "JP"
