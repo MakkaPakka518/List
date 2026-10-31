@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31 02:18:17",
+  "last_updated": "2026-10-31 14:24:11",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -443,6 +443,27 @@
       ]
     },
     {
+      "id": "12140",
+      "tmdbId": 12140,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "攻壳机动队2：无罪",
+      "releaseDate": "2004-03-06",
+      "lastUpdateDate": "2004-03-06",
+      "posterPath": "/jtWgvH1SqvaHtwRwOWnmIvpYOsV.jpg",
+      "backdropPath": "/8AGLGUYg9UqcDWXtAH0t7InsBd.jpg",
+      "rating": 7.4,
+      "description": "2004 · ⭐ 7.4 · 未知地区\n草薙素子之后，巴特与侦探出身的陀古萨结为搭档。近期发生多起机器人偶杀害主人继而自杀的事件，由于受害者家属均无公诉，且死者中有政客与公安官员，于是公安9课派出巴特小组调查此案。杀人人偶皆为荒凉地带公司出品的哈德莉机型，应部分顾客要求，该机型同时具备异性玩伴的功能，巴特从荒凉地带公司出货官遇害入手，卷入与黑帮的战斗，期间有人入侵他的大脑，使其自残。巴特决定直奔荒凉地带总部，他与陀古萨拜访了择捉岛上的黑客基姆，后者布下系统陷阱，幸有素子提出警告避免陀古萨陷入控制。依靠基姆这条线索，巴特登上了荒凉地带公司设立在海上的工厂船，素子再次降临他的身边，与其并肩作战。",
+      "genreTitle": "剧情 / 科幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        18,
+        878
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "26867",
       "tmdbId": 26867,
       "type": "tmdb",
@@ -464,27 +485,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "12140",
-      "tmdbId": 12140,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "攻壳机动队2：无罪",
-      "releaseDate": "2004-03-06",
-      "lastUpdateDate": "2004-03-06",
-      "posterPath": "/jtWgvH1SqvaHtwRwOWnmIvpYOsV.jpg",
-      "backdropPath": "/8AGLGUYg9UqcDWXtAH0t7InsBd.jpg",
-      "rating": 7.4,
-      "description": "2004 · ⭐ 7.4 · 未知地区\n草薙素子之后，巴特与侦探出身的陀古萨结为搭档。近期发生多起机器人偶杀害主人继而自杀的事件，由于受害者家属均无公诉，且死者中有政客与公安官员，于是公安9课派出巴特小组调查此案。杀人人偶皆为荒凉地带公司出品的哈德莉机型，应部分顾客要求，该机型同时具备异性玩伴的功能，巴特从荒凉地带公司出货官遇害入手，卷入与黑帮的战斗，期间有人入侵他的大脑，使其自残。巴特决定直奔荒凉地带总部，他与陀古萨拜访了择捉岛上的黑客基姆，后者布下系统陷阱，幸有素子提出警告避免陀古萨陷入控制。依靠基姆这条线索，巴特登上了荒凉地带公司设立在海上的工厂船，素子再次降临他的身边，与其并肩作战。",
-      "genreTitle": "剧情 / 科幻",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        18,
-        878
-      ],
-      "rawCountries": []
     },
     {
       "id": "60811",
@@ -1037,6 +1037,27 @@
       "rawCountries": []
     },
     {
+      "id": "39853",
+      "tmdbId": 39853,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "猫儿协奏曲",
+      "releaseDate": "1947-04-26",
+      "lastUpdateDate": "1947-04-26",
+      "posterPath": "/6SzmXunaQe0kzsF6o3JetgtJNjc.jpg",
+      "backdropPath": "/7vvjgWlWdSkiaKe47RypQX8k6WC.jpg",
+      "rating": 7.6,
+      "description": "1947 · ⭐ 7.6 · 未知地区\n身着燕尾服一本正经的钢琴家汤姆走上舞台，与乐队合作为观众演奏李斯特的《匈牙利狂想曲》。专心致志的汤姆丝毫没有料到，一位不速之客将打乱它的表演。此时此刻，小老鼠杰瑞正在钢琴内高音区睡觉，汤姆的演奏搅扰了它的睡眠，生气的杰瑞索性起身，干扰汤姆的演出。汤姆一面要应付小杰瑞的捣乱，一面又要努力演奏，手忙脚乱，应接不暇。在杰瑞的捣乱下，整场演出妙趣横生，当然对汤姆来说这无疑是一场恶梦……本片荣获1947年奥斯卡最佳动画短片奖。",
+      "genreTitle": "喜剧 / 音乐",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        35,
+        10402
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "44684",
       "tmdbId": 44684,
       "type": "tmdb",
@@ -1057,27 +1078,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "39853",
-      "tmdbId": 39853,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "猫儿协奏曲",
-      "releaseDate": "1947-04-26",
-      "lastUpdateDate": "1947-04-26",
-      "posterPath": "/6SzmXunaQe0kzsF6o3JetgtJNjc.jpg",
-      "backdropPath": "/7vvjgWlWdSkiaKe47RypQX8k6WC.jpg",
-      "rating": 7.6,
-      "description": "1947 · ⭐ 7.6 · 未知地区\n身着燕尾服一本正经的钢琴家汤姆走上舞台，与乐队合作为观众演奏李斯特的《匈牙利狂想曲》。专心致志的汤姆丝毫没有料到，一位不速之客将打乱它的表演。此时此刻，小老鼠杰瑞正在钢琴内高音区睡觉，汤姆的演奏搅扰了它的睡眠，生气的杰瑞索性起身，干扰汤姆的演出。汤姆一面要应付小杰瑞的捣乱，一面又要努力演奏，手忙脚乱，应接不暇。在杰瑞的捣乱下，整场演出妙趣横生，当然对汤姆来说这无疑是一场恶梦……本片荣获1947年奥斯卡最佳动画短片奖。",
-      "genreTitle": "喜剧 / 音乐",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        35,
-        10402
-      ],
-      "rawCountries": []
     },
     {
       "id": "60625",
@@ -1311,29 +1311,6 @@
       "rawCountries": []
     },
     {
-      "id": "60863",
-      "tmdbId": 60863,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "排球少年！！",
-      "releaseDate": "2014-04-06",
-      "lastUpdateDate": "2020-12-19",
-      "posterPath": "/gpna2w6NF83I9LX2eQRCdBzz6kF.jpg",
-      "backdropPath": "/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
-      "rating": 8.6,
-      "description": "2014 · ⭐ 8.6 · 日本\n童年时一次看电视转播的经历，在少年日向翔阳的心中种下了排球的种子。他在初中时代是排球部的主将，可是人丁寥落的排球部始终没有起色，唯一一场比赛也已惨败告终。在此之后，他终于如愿考入梦寐以求的学府乌野高中，并加入了该校的排球部。当年翔阳在电视上看到的正是乌野高中的比赛，如今这个学校的排球却正面临着衰败的命运。与宿命的对手和好友影山飞雄聚首于此，心怀排球梦想的少年们将团结一心，带领着乌野这名王者再度振翅高飞。",
-      "genreTitle": "喜剧 / 剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "120811",
       "tmdbId": 120811,
       "type": "tmdb",
@@ -1355,6 +1332,29 @@
         10402
       ],
       "rawCountries": []
+    },
+    {
+      "id": "60863",
+      "tmdbId": 60863,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "排球少年！！",
+      "releaseDate": "2014-04-06",
+      "lastUpdateDate": "2020-12-19",
+      "posterPath": "/gpna2w6NF83I9LX2eQRCdBzz6kF.jpg",
+      "backdropPath": "/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "rating": 8.6,
+      "description": "2014 · ⭐ 8.6 · 日本\n童年时一次看电视转播的经历，在少年日向翔阳的心中种下了排球的种子。他在初中时代是排球部的主将，可是人丁寥落的排球部始终没有起色，唯一一场比赛也已惨败告终。在此之后，他终于如愿考入梦寐以求的学府乌野高中，并加入了该校的排球部。当年翔阳在电视上看到的正是乌野高中的比赛，如今这个学校的排球却正面临着衰败的命运。与宿命的对手和好友影山飞雄聚首于此，心怀排球梦想的少年们将团结一心，带领着乌野这名王者再度振翅高飞。",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
     },
     {
       "id": "35415",
@@ -2017,6 +2017,29 @@
       "rawCountries": []
     },
     {
+      "id": "67851",
+      "tmdbId": 67851,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "传说巨神伊迪安 发动篇",
+      "releaseDate": "1982-07-10",
+      "lastUpdateDate": "1982-07-10",
+      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
+      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
+      "rating": 7.9,
+      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        878,
+        16,
+        28,
+        10752,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "37280",
       "tmdbId": 37280,
       "type": "tmdb",
@@ -2060,29 +2083,6 @@
       ]
     },
     {
-      "id": "67851",
-      "tmdbId": 67851,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "传说巨神伊迪安 发动篇",
-      "releaseDate": "1982-07-10",
-      "lastUpdateDate": "1982-07-10",
-      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
-      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
-      "rating": 7.9,
-      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
-      "genreTitle": "科幻 / 动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        878,
-        16,
-        28,
-        10752,
-        18
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "53787",
       "tmdbId": 53787,
       "type": "tmdb",
@@ -2113,7 +2113,7 @@
       "releaseDate": "2022-09-13",
       "lastUpdateDate": "2026-10-20",
       "posterPath": "/kL0jycZo9QAIhempGbsb88uw1E1.jpg",
-      "backdropPath": "/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
+      "backdropPath": "/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
       "rating": 8.5,
       "description": "2022 · ⭐ 8.5 · 日本/PL/美国\n夜之城每一季都有新故事，也总有一群特立独行的新角色登场，讲述属于他们的传奇。",
       "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
@@ -2128,6 +2128,28 @@
         "JP",
         "PL",
         "US"
+      ]
+    },
+    {
+      "id": "30982",
+      "tmdbId": 30982,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "棋魂",
+      "releaseDate": "2001-10-10",
+      "lastUpdateDate": "2003-03-26",
+      "posterPath": "/cL7ATkPzwAHeFeiRFKoLG56fhb.jpg",
+      "backdropPath": "/bu0qFo9cD6AQ69KtTZoCypPKTny.jpg",
+      "rating": 7.8,
+      "description": "2001 · ⭐ 7.8 · 日本\n六年级的小学生进藤光（川上友子 配音）无意中翻出了爷爷家的旧棋盘。触碰棋盘的一瞬间也释放出了寄居在其上的平安时代棋士藤原佐为（千叶进步 配音）的灵魂。附身于小光体内的佐为视棋如命，小光在其软磨硬泡下开始下围棋，接触了一批厉害的棋士，其中不乏他的同龄人。小光开始对围棋产生兴趣并展现了他的天分，而佐为则成为了小光的秘密老师……",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
       ]
     },
     {
@@ -2152,28 +2174,6 @@
       ],
       "rawCountries": [
         "CN"
-      ]
-    },
-    {
-      "id": "30982",
-      "tmdbId": 30982,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "棋魂",
-      "releaseDate": "2001-10-10",
-      "lastUpdateDate": "2003-03-26",
-      "posterPath": "/cL7ATkPzwAHeFeiRFKoLG56fhb.jpg",
-      "backdropPath": "/bu0qFo9cD6AQ69KtTZoCypPKTny.jpg",
-      "rating": 7.8,
-      "description": "2001 · ⭐ 7.8 · 日本\n六年级的小学生进藤光（川上友子 配音）无意中翻出了爷爷家的旧棋盘。触碰棋盘的一瞬间也释放出了寄居在其上的平安时代棋士藤原佐为（千叶进步 配音）的灵魂。附身于小光体内的佐为视棋如命，小光在其软磨硬泡下开始下围棋，接触了一批厉害的棋士，其中不乏他的同龄人。小光开始对围棋产生兴趣并展现了他的天分，而佐为则成为了小光的秘密老师……",
-      "genreTitle": "科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
       ]
     },
     {
@@ -2445,6 +2445,30 @@
       ]
     },
     {
+      "id": "12501",
+      "tmdbId": 12501,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "百变之星",
+      "releaseDate": "2003-04-03",
+      "lastUpdateDate": "2004-03-27",
+      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
+      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
+      "rating": 7.6,
+      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "1429",
       "tmdbId": 1429,
       "type": "tmdb",
@@ -2491,30 +2515,6 @@
       ],
       "rawCountries": [
         "US"
-      ]
-    },
-    {
-      "id": "12501",
-      "tmdbId": 12501,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "百变之星",
-      "releaseDate": "2003-04-03",
-      "lastUpdateDate": "2004-03-27",
-      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
-      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
-      "rating": 7.6,
-      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
-      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
       ]
     },
     {
