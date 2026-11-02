@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-11-02 02:09:57",
+  "last_updated": "2026-11-02 14:57:17",
   "total_matched": 112,
   "hot_anime": [
-    {
-      "id": "24835",
-      "tmdbId": 24835,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "CLANNAD",
-      "releaseDate": "2007-10-05",
-      "lastUpdateDate": "2009-03-13",
-      "posterPath": "/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
-      "backdropPath": "/vB7HwJNhlRA9tPViK32bK0hVCmb.jpg",
-      "rating": 8.3,
-      "description": "2007 · ⭐ 8.3 · 日本\n在某个小镇，主角冈崎朋也因为家庭的因素成为不良少年，一直与春原阳平为伍，在光坂高校过着潦倒的生活，但希望终有一天能够离开所在的小镇。某一天，他在学校坡道前发现了一个止步不前的女孩，在朋也认识了这个名为“古河渚”的女孩后，他的生活开始有了重大的变化。  第一季为主角和女主角们之间所发生的事件，第二季After story为主角在中学毕业之后，与渚共同生活的日子，其中还穿插了“幻想世界”，《CLANNAD》就是由这三个要素所组成的故事。",
-      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
     {
       "id": "1095",
       "tmdbId": 1095,
@@ -45,6 +21,30 @@
         10759,
         10765,
         80
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "24835",
+      "tmdbId": 24835,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "CLANNAD",
+      "releaseDate": "2007-10-05",
+      "lastUpdateDate": "2009-03-13",
+      "posterPath": "/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
+      "backdropPath": "/vB7HwJNhlRA9tPViK32bK0hVCmb.jpg",
+      "rating": 8.3,
+      "description": "2007 · ⭐ 8.3 · 日本\n在某个小镇，主角冈崎朋也因为家庭的因素成为不良少年，一直与春原阳平为伍，在光坂高校过着潦倒的生活，但希望终有一天能够离开所在的小镇。某一天，他在学校坡道前发现了一个止步不前的女孩，在朋也认识了这个名为“古河渚”的女孩后，他的生活开始有了重大的变化。  第一季为主角和女主角们之间所发生的事件，第二季After story为主角在中学毕业之后，与渚共同生活的日子，其中还穿插了“幻想世界”，《CLANNAD》就是由这三个要素所组成的故事。",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -146,29 +146,6 @@
       ]
     },
     {
-      "id": "18491",
-      "tmdbId": 18491,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "新世纪福音战士剧场版：Air／真心为你",
-      "releaseDate": "1997-07-19",
-      "lastUpdateDate": "1997-07-19",
-      "posterPath": "/23xbAHURR9uASY1LtGxmjEupsZO.jpg",
-      "backdropPath": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
-      "rating": 8.3,
-      "description": "1997 · ⭐ 8.3 · 未知地区\n《新世纪福音战士》系列第二部剧场版，于 1997 年 7 月 19 日在日本上映。全名：《新世纪福音战士剧场版：THE END OF EVANGELION》（日语：新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION - Air/まごころを、君に，英语：NEON GENESIS EVANGELION: THE END OF EVANGELION - AIR/SINCERELY YOURS）。剧情承接 TV 动画版第 24 集，包括了重新制作的第 25 、第 26 话。在这部剧场版中第 25 话的名字是 “AIR”（天空），而副标题是 “LOEV IS DESTRUCTIVE”（爱是一种伤害）；第 26 话的名字是 “YOUR SINCERELY”（真心为你），副标题是“ONE MORE FINAL: I NEED YOU”（再说最后一遍：我需要你）。剧场版的每一话都和电视版一样有一个 “EYE - CATCH” 镜头（即每集中间那个黑底白字的英文标题）。这部剧场版标志着整个旧世纪《新世纪福音战士》的终结。影片分成 “Air” 与 “真心为你” 两个部分。神秘的 EVA 零号机驾驶员绫波丽，在与碇元渡约定之时，来到了 NERV 底层中央教条的红色水池边。她的命运似乎就将在此结束。在危急时刻，葛城美里不但要完成加持良治交待的对“第二次浩劫”真相以及“人类补完计划”的探查工作，还要保护碇真嗣与明日香，以及防备 SEELE 对初号机与二号机的物理接触。出于对碇元渡的憎恨，赤木律子接受了 SEELE 引爆 MAGI 的提案，她能否成功 ？长期与 SEELE 共事的碇元度、冬月耕造、碇唯，为了防止人类“最终的悲剧”，而酝酿了的“人类补完计划”能否实现 ？尽在《新世纪福音战士》电影版第 2 部中解答。",
-      "genreTitle": "科幻 / 剧情 / 奇幻",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        878,
-        18,
-        14,
-        28
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "42509",
       "tmdbId": 42509,
       "type": "tmdb",
@@ -191,6 +168,29 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "18491",
+      "tmdbId": 18491,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "新世纪福音战士剧场版：Air／真心为你",
+      "releaseDate": "1997-07-19",
+      "lastUpdateDate": "1997-07-19",
+      "posterPath": "/23xbAHURR9uASY1LtGxmjEupsZO.jpg",
+      "backdropPath": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+      "rating": 8.3,
+      "description": "1997 · ⭐ 8.3 · 未知地区\n《新世纪福音战士》系列第二部剧场版，于 1997 年 7 月 19 日在日本上映。全名：《新世纪福音战士剧场版：THE END OF EVANGELION》（日语：新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION - Air/まごころを、君に，英语：NEON GENESIS EVANGELION: THE END OF EVANGELION - AIR/SINCERELY YOURS）。剧情承接 TV 动画版第 24 集，包括了重新制作的第 25 、第 26 话。在这部剧场版中第 25 话的名字是 “AIR”（天空），而副标题是 “LOEV IS DESTRUCTIVE”（爱是一种伤害）；第 26 话的名字是 “YOUR SINCERELY”（真心为你），副标题是“ONE MORE FINAL: I NEED YOU”（再说最后一遍：我需要你）。剧场版的每一话都和电视版一样有一个 “EYE - CATCH” 镜头（即每集中间那个黑底白字的英文标题）。这部剧场版标志着整个旧世纪《新世纪福音战士》的终结。影片分成 “Air” 与 “真心为你” 两个部分。神秘的 EVA 零号机驾驶员绫波丽，在与碇元渡约定之时，来到了 NERV 底层中央教条的红色水池边。她的命运似乎就将在此结束。在危急时刻，葛城美里不但要完成加持良治交待的对“第二次浩劫”真相以及“人类补完计划”的探查工作，还要保护碇真嗣与明日香，以及防备 SEELE 对初号机与二号机的物理接触。出于对碇元渡的憎恨，赤木律子接受了 SEELE 引爆 MAGI 的提案，她能否成功 ？长期与 SEELE 共事的碇元度、冬月耕造、碇唯，为了防止人类“最终的悲剧”，而酝酿了的“人类补完计划”能否实现 ？尽在《新世纪福音战士》电影版第 2 部中解答。",
+      "genreTitle": "科幻 / 剧情 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        18,
+        14,
+        28
+      ],
+      "rawCountries": []
     },
     {
       "id": "62070",
@@ -263,6 +263,28 @@
       ]
     },
     {
+      "id": "132131",
+      "tmdbId": 132131,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "未麻的部屋：讲座",
+      "releaseDate": "2008-02-29",
+      "lastUpdateDate": "2008-02-29",
+      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
+      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
+      "rating": 8.0,
+      "description": "2008 · ⭐ 8.0 · 日本\n《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
+      "genreTitle": "纪录片",
+      "regionTitle": "日本",
+      "rawGenres": [
+        99,
+        16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "64492",
       "tmdbId": 64492,
       "type": "tmdb",
@@ -280,28 +302,6 @@
         16,
         35,
         18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "132131",
-      "tmdbId": 132131,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "未麻的部屋：讲座",
-      "releaseDate": "2008-02-29",
-      "lastUpdateDate": "2008-02-29",
-      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
-      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
-      "rating": 8.0,
-      "description": "2008 · ⭐ 8.0 · 日本\n《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
-      "genreTitle": "纪录片",
-      "regionTitle": "日本",
-      "rawGenres": [
-        99,
-        16
       ],
       "rawCountries": [
         "JP"
@@ -1564,6 +1564,28 @@
       "rawCountries": []
     },
     {
+      "id": "119100",
+      "tmdbId": 119100,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "孤独摇滚！",
+      "releaseDate": "2022-10-09",
+      "lastUpdateDate": "2022-12-25",
+      "posterPath": "/2cIZIoGhwLVQAcwBdKtgUNFf7z3.jpg",
+      "backdropPath": "/riRJGnbb18zVBEXpov8GJKnBczj.jpg",
+      "rating": 8.4,
+      "description": "2022 · ⭐ 8.4 · 日本\n作为网络吉他手“吉他英雄”而广受好评的后藤独，在现实中却是个什么都不会的沟通障碍者。独有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作经历的独，在人前完全发挥不出原本的实力。为了努力克服沟通障碍，独与“结束乐队”的成员们一同开始努力……",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "24835",
       "tmdbId": 24835,
       "type": "tmdb",
@@ -1582,28 +1604,6 @@
         35,
         18,
         10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "119100",
-      "tmdbId": 119100,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "孤独摇滚！",
-      "releaseDate": "2022-10-09",
-      "lastUpdateDate": "2022-12-25",
-      "posterPath": "/2cIZIoGhwLVQAcwBdKtgUNFf7z3.jpg",
-      "backdropPath": "/riRJGnbb18zVBEXpov8GJKnBczj.jpg",
-      "rating": 8.4,
-      "description": "2022 · ⭐ 8.4 · 日本\n作为网络吉他手“吉他英雄”而广受好评的后藤独，在现实中却是个什么都不会的沟通障碍者。独有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作经历的独，在人前完全发挥不出原本的实力。为了努力克服沟通障碍，独与“结束乐队”的成员们一同开始努力……",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
       ],
       "rawCountries": [
         "JP"
@@ -1767,28 +1767,6 @@
       "rawCountries": []
     },
     {
-      "id": "63463",
-      "tmdbId": 63463,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "偶像大师",
-      "releaseDate": "2011-07-08",
-      "lastUpdateDate": "2011-12-23",
-      "posterPath": "/6Apjxs1eRlp2H4WZHQoDXktXd76.jpg",
-      "backdropPath": "/6ljZuz9ABmOQDVB58aV5xeKV62A.jpg",
-      "rating": 6.8,
-      "description": "2011 · ⭐ 6.8 · 日本\n偶像，是女孩子们一直以来的憧憬。但能站在顶点的，只有仅仅数人。13位少女，就此经她们所属的事务所“765 Production”，跨进了那个充满竞争的世界。出道约半年，事务所来了一位全新的制作人。他跟少女们都下定决心，向顶级偶像之路进发。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "83121",
       "tmdbId": 83121,
       "type": "tmdb",
@@ -1805,6 +1783,28 @@
       "rawGenres": [
         35,
         16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "63463",
+      "tmdbId": 63463,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "偶像大师",
+      "releaseDate": "2011-07-08",
+      "lastUpdateDate": "2011-12-23",
+      "posterPath": "/6Apjxs1eRlp2H4WZHQoDXktXd76.jpg",
+      "backdropPath": "/6ljZuz9ABmOQDVB58aV5xeKV62A.jpg",
+      "rating": 6.8,
+      "description": "2011 · ⭐ 6.8 · 日本\n偶像，是女孩子们一直以来的憧憬。但能站在顶点的，只有仅仅数人。13位少女，就此经她们所属的事务所“765 Production”，跨进了那个充满竞争的世界。出道约半年，事务所来了一位全新的制作人。他跟少女们都下定决心，向顶级偶像之路进发。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
       ],
       "rawCountries": [
         "JP"
@@ -1902,29 +1902,6 @@
       ]
     },
     {
-      "id": "31654",
-      "tmdbId": 31654,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "数码宝贝",
-      "releaseDate": "1999-03-07",
-      "lastUpdateDate": "2001-03-25",
-      "posterPath": "/6RuSTSBGvFYMjBxSpxmQ56kBicn.jpg",
-      "backdropPath": "/naP3oYVX0vSxpx0HjUkdeKbkfiA.jpg",
-      "rating": 8.1,
-      "description": "1999 · ⭐ 8.1 · 日本\n1999年，由于数码世界资料异常增生，导致数码世界和现实世界的连接发生紊乱。地球上相应地出现奇怪的自然现象：东南亚没有下雨，池塘全部干涸；中东却因为连场大雨发生洪水；美国则遇到有史以来最寒冷的冬天。11岁的少年八神太一（藤田淑子 配音），和伙伴石田大和（风间勇刀 配音）、武之内空（水谷优子 配音）、泉光子郎（天神有海 配音）、太刀川美美（前田爱 配音）、城户丈（菊池正美 配音）、高石武（小西寛子 配音）一起参加了夏令营，一次意外却被神秘地送到了一个多彩的数码世界。在那里，他们得到了叫做“数码宝贝”的搭档。进入数码世界后，八神太一一行人遇到了凶恶的怪兽贝壳兽，眼看大家都要被抓住的时候，太一的亚古兽忽然进化成为暴龙兽，拯救了他们。进化到底是怎么回事情？数码世界究竟是什么？无数的谜团出现在被召选的小朋友们面前，精彩的冒险就这样开始了……",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "5895",
       "tmdbId": 5895,
       "type": "tmdb",
@@ -1947,6 +1924,29 @@
       "rawCountries": [
         "JP",
         "US"
+      ]
+    },
+    {
+      "id": "31654",
+      "tmdbId": 31654,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "数码宝贝",
+      "releaseDate": "1999-03-07",
+      "lastUpdateDate": "2001-03-25",
+      "posterPath": "/6RuSTSBGvFYMjBxSpxmQ56kBicn.jpg",
+      "backdropPath": "/naP3oYVX0vSxpx0HjUkdeKbkfiA.jpg",
+      "rating": 8.1,
+      "description": "1999 · ⭐ 8.1 · 日本\n1999年，由于数码世界资料异常增生，导致数码世界和现实世界的连接发生紊乱。地球上相应地出现奇怪的自然现象：东南亚没有下雨，池塘全部干涸；中东却因为连场大雨发生洪水；美国则遇到有史以来最寒冷的冬天。11岁的少年八神太一（藤田淑子 配音），和伙伴石田大和（风间勇刀 配音）、武之内空（水谷优子 配音）、泉光子郎（天神有海 配音）、太刀川美美（前田爱 配音）、城户丈（菊池正美 配音）、高石武（小西寛子 配音）一起参加了夏令营，一次意外却被神秘地送到了一个多彩的数码世界。在那里，他们得到了叫做“数码宝贝”的搭档。进入数码世界后，八神太一一行人遇到了凶恶的怪兽贝壳兽，眼看大家都要被抓住的时候，太一的亚古兽忽然进化成为暴龙兽，拯救了他们。进化到底是怎么回事情？数码世界究竟是什么？无数的谜团出现在被召选的小朋友们面前，精彩的冒险就这样开始了……",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
       ]
     },
     {
@@ -1996,6 +1996,27 @@
       ]
     },
     {
+      "id": "357405",
+      "tmdbId": 357405,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "少女与战车：剧场版",
+      "releaseDate": "2015-11-21",
+      "lastUpdateDate": "2015-11-21",
+      "posterPath": "/idscINNSMvch2RsAEZXyef7qm4q.jpg",
+      "backdropPath": "/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
+      "rating": 6.9,
+      "description": "2015 · ⭐ 6.9 · 未知地区\n故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
+      "genreTitle": "动作 / 喜剧",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        28,
+        35
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "67851",
       "tmdbId": 67851,
       "type": "tmdb",
@@ -2015,27 +2036,6 @@
         28,
         10752,
         18
-      ],
-      "rawCountries": []
-    },
-    {
-      "id": "357405",
-      "tmdbId": 357405,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "少女与战车：剧场版",
-      "releaseDate": "2015-11-21",
-      "lastUpdateDate": "2015-11-21",
-      "posterPath": "/idscINNSMvch2RsAEZXyef7qm4q.jpg",
-      "backdropPath": "/z3gjCf4uwToqd1tkDyqtZ6zTcQe.jpg",
-      "rating": 6.9,
-      "description": "2015 · ⭐ 6.9 · 未知地区\n故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
-      "genreTitle": "动作 / 喜剧",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        28,
-        35
       ],
       "rawCountries": []
     },
@@ -2113,7 +2113,7 @@
       "releaseDate": "2022-09-13",
       "lastUpdateDate": "2026-10-20",
       "posterPath": "/kL0jycZo9QAIhempGbsb88uw1E1.jpg",
-      "backdropPath": "/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
+      "backdropPath": "/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
       "rating": 8.5,
       "description": "2022 · ⭐ 8.5 · 日本/PL/美国\n夜之城每一季都有新故事，也总有一群特立独行的新角色登场，讲述属于他们的传奇。",
       "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
@@ -2445,30 +2445,6 @@
       ]
     },
     {
-      "id": "12501",
-      "tmdbId": 12501,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "百变之星",
-      "releaseDate": "2003-04-03",
-      "lastUpdateDate": "2004-03-27",
-      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
-      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
-      "rating": 7.6,
-      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
-      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "1429",
       "tmdbId": 1429,
       "type": "tmdb",
@@ -2558,6 +2534,30 @@
       "rawGenres": [
         16,
         10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "12501",
+      "tmdbId": 12501,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "百变之星",
+      "releaseDate": "2003-04-03",
+      "lastUpdateDate": "2004-03-27",
+      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
+      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
+      "rating": 7.6,
+      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
+      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35,
+        18,
         10765
       ],
       "rawCountries": [
