@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03 05:59:08",
+  "last_updated": "2026-11-03 15:20:08",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -623,6 +623,27 @@
       "rawCountries": []
     },
     {
+      "id": "301513",
+      "tmdbId": 301513,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "明日之丈 剧场版",
+      "releaseDate": "1980-03-08",
+      "lastUpdateDate": "1980-03-08",
+      "posterPath": "/kQ8VEBK9BX4W5TpaOEoT5XR1erq.jpg",
+      "backdropPath": "/ldB5kcildygAfxFcEsQOZQoJDvS.jpg",
+      "rating": 8.4,
+      "description": "1980 · ⭐ 8.4 · 未知地区\n在东京山谷的宿民街突然出现了一位少年。他的名字叫矢吹丈。有一天小丈遇到了，对他相当感兴趣的而沉溺于酒精中毒的前拳击手丹下段平，他们因此相遇。在他与小丈打过一架后，他从他的动作中发现他具备有拳击手的天生资质，他认为如果能将小丈好好磨练，那小丈一定可以成为一流的拳击手。但是小丈他却带领着居住在宿民街的孩子们，做出一些令人瞠目睁舌的行动，并且还利用段平对他的热情，竟然不惜利用犯罪来脏了自己的手，在他被警察逮捕之后，他被移送到鉴别所·此后还送到少年院这地方给予管教。 有一天，待在少年鉴别所的小丈他，收到一封段平给他的一封明信片，上面写着“为了明日”。在这明信片中，为他讲解了要如何使出左刺拳的拳击的技术方面的事情。然而觉得时间和体力都很空闲的小丈，因此就对那个建议开始了拳击的练习并给予吸收，在他自己吸收这拳不久后，他的体会力慢慢的提高，让他想起以往他从来没有对某件事情这么认真。在野菊岛的东光特等少年院里，他遇到了终生宿敌·力石彻，他与力石彻命运的相遇，却在这种情况下让小丈正式的踏进了拳击的道路之中。",
+      "genreTitle": "动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        28,
+        16,
+        18
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "46512",
       "tmdbId": 46512,
       "type": "tmdb",
@@ -645,27 +666,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "301513",
-      "tmdbId": 301513,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "明日之丈 剧场版",
-      "releaseDate": "1980-03-08",
-      "lastUpdateDate": "1980-03-08",
-      "posterPath": "/kQ8VEBK9BX4W5TpaOEoT5XR1erq.jpg",
-      "backdropPath": "/ldB5kcildygAfxFcEsQOZQoJDvS.jpg",
-      "rating": 8.4,
-      "description": "1980 · ⭐ 8.4 · 未知地区\n在东京山谷的宿民街突然出现了一位少年。他的名字叫矢吹丈。有一天小丈遇到了，对他相当感兴趣的而沉溺于酒精中毒的前拳击手丹下段平，他们因此相遇。在他与小丈打过一架后，他从他的动作中发现他具备有拳击手的天生资质，他认为如果能将小丈好好磨练，那小丈一定可以成为一流的拳击手。但是小丈他却带领着居住在宿民街的孩子们，做出一些令人瞠目睁舌的行动，并且还利用段平对他的热情，竟然不惜利用犯罪来脏了自己的手，在他被警察逮捕之后，他被移送到鉴别所·此后还送到少年院这地方给予管教。 有一天，待在少年鉴别所的小丈他，收到一封段平给他的一封明信片，上面写着“为了明日”。在这明信片中，为他讲解了要如何使出左刺拳的拳击的技术方面的事情。然而觉得时间和体力都很空闲的小丈，因此就对那个建议开始了拳击的练习并给予吸收，在他自己吸收这拳不久后，他的体会力慢慢的提高，让他想起以往他从来没有对某件事情这么认真。在野菊岛的东光特等少年院里，他遇到了终生宿敌·力石彻，他与力石彻命运的相遇，却在这种情况下让小丈正式的踏进了拳击的道路之中。",
-      "genreTitle": "动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        28,
-        16,
-        18
-      ],
-      "rawCountries": []
     },
     {
       "id": "42573",
@@ -1380,6 +1380,28 @@
       ]
     },
     {
+      "id": "253476",
+      "tmdbId": 253476,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "异国日记",
+      "releaseDate": "2026-01-04",
+      "lastUpdateDate": "2026-03-29",
+      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
+      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
+      "rating": 8.6,
+      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "60625",
       "tmdbId": 60625,
       "type": "tmdb",
@@ -1401,28 +1423,6 @@
       ],
       "rawCountries": [
         "US"
-      ]
-    },
-    {
-      "id": "253476",
-      "tmdbId": 253476,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "异国日记",
-      "releaseDate": "2026-01-04",
-      "lastUpdateDate": "2026-03-29",
-      "posterPath": "/wGmYXXO7jTDHpaZPF9KRceEoDUs.jpg",
-      "backdropPath": "/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
-      "rating": 8.6,
-      "description": "2026 · ⭐ 8.6 · 日本\n怕生的小说家·高代槙生，因一时冲动，收养了在姐姐夫妇葬礼上失去双亲的侄女田汲朝。意料之外开始的同居生活，让槙生原本寂静的日常骤变。因不惯与人同住的性情，他对如何与十五岁的朝相处感到深深不安。另一边，失去双亲、无处可归的朝，在初次体会的孤独中，渐渐触碰到与母亲截然不同的、“不像大人”的槙生的生活方式。不擅交际、偏爱孤独的槙生，与天性烂漫率真的朝。性格与价值观都截然不同的两人，带着困惑，开始了磕磕绊绊的共同生活。这是两个孤独者，小心翼翼、摸索前行的年龄差同居物语。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
       ]
     },
     {
@@ -1767,28 +1767,6 @@
       "rawCountries": []
     },
     {
-      "id": "83121",
-      "tmdbId": 83121,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "辉夜大小姐想让我告白",
-      "releaseDate": "2019-01-12",
-      "lastUpdateDate": "2022-06-25",
-      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
-      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
-      "rating": 8.5,
-      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        35,
-        16
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "63463",
       "tmdbId": 63463,
       "type": "tmdb",
@@ -1805,6 +1783,28 @@
       "rawGenres": [
         16,
         18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "83121",
+      "tmdbId": 83121,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "辉夜大小姐想让我告白",
+      "releaseDate": "2019-01-12",
+      "lastUpdateDate": "2022-06-25",
+      "posterPath": "/jRAJKTd2GxiL8vlxBtCEhtpQAfe.jpg",
+      "backdropPath": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+      "rating": 8.5,
+      "description": "2019 · ⭐ 8.5 · 日本\n不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        35,
+        16
       ],
       "rawCountries": [
         "JP"
@@ -1902,6 +1902,29 @@
       ]
     },
     {
+      "id": "31654",
+      "tmdbId": 31654,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "数码宝贝",
+      "releaseDate": "1999-03-07",
+      "lastUpdateDate": "2001-03-25",
+      "posterPath": "/6RuSTSBGvFYMjBxSpxmQ56kBicn.jpg",
+      "backdropPath": "/naP3oYVX0vSxpx0HjUkdeKbkfiA.jpg",
+      "rating": 8.1,
+      "description": "1999 · ⭐ 8.1 · 日本\n1999年，由于数码世界资料异常增生，导致数码世界和现实世界的连接发生紊乱。地球上相应地出现奇怪的自然现象：东南亚没有下雨，池塘全部干涸；中东却因为连场大雨发生洪水；美国则遇到有史以来最寒冷的冬天。11岁的少年八神太一（藤田淑子 配音），和伙伴石田大和（风间勇刀 配音）、武之内空（水谷优子 配音）、泉光子郎（天神有海 配音）、太刀川美美（前田爱 配音）、城户丈（菊池正美 配音）、高石武（小西寛子 配音）一起参加了夏令营，一次意外却被神秘地送到了一个多彩的数码世界。在那里，他们得到了叫做“数码宝贝”的搭档。进入数码世界后，八神太一一行人遇到了凶恶的怪兽贝壳兽，眼看大家都要被抓住的时候，太一的亚古兽忽然进化成为暴龙兽，拯救了他们。进化到底是怎么回事情？数码世界究竟是什么？无数的谜团出现在被召选的小朋友们面前，精彩的冒险就这样开始了……",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10759,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "5895",
       "tmdbId": 5895,
       "type": "tmdb",
@@ -1927,29 +1950,6 @@
       ]
     },
     {
-      "id": "31654",
-      "tmdbId": 31654,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "数码宝贝",
-      "releaseDate": "1999-03-07",
-      "lastUpdateDate": "2001-03-25",
-      "posterPath": "/6RuSTSBGvFYMjBxSpxmQ56kBicn.jpg",
-      "backdropPath": "/naP3oYVX0vSxpx0HjUkdeKbkfiA.jpg",
-      "rating": 8.1,
-      "description": "1999 · ⭐ 8.1 · 日本\n1999年，由于数码世界资料异常增生，导致数码世界和现实世界的连接发生紊乱。地球上相应地出现奇怪的自然现象：东南亚没有下雨，池塘全部干涸；中东却因为连场大雨发生洪水；美国则遇到有史以来最寒冷的冬天。11岁的少年八神太一（藤田淑子 配音），和伙伴石田大和（风间勇刀 配音）、武之内空（水谷优子 配音）、泉光子郎（天神有海 配音）、太刀川美美（前田爱 配音）、城户丈（菊池正美 配音）、高石武（小西寛子 配音）一起参加了夏令营，一次意外却被神秘地送到了一个多彩的数码世界。在那里，他们得到了叫做“数码宝贝”的搭档。进入数码世界后，八神太一一行人遇到了凶恶的怪兽贝壳兽，眼看大家都要被抓住的时候，太一的亚古兽忽然进化成为暴龙兽，拯救了他们。进化到底是怎么回事情？数码世界究竟是什么？无数的谜团出现在被召选的小朋友们面前，精彩的冒险就这样开始了……",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "72636",
       "tmdbId": 72636,
       "type": "tmdb",
@@ -1972,6 +1972,29 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "67851",
+      "tmdbId": 67851,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "传说巨神伊迪安 发动篇",
+      "releaseDate": "1982-07-10",
+      "lastUpdateDate": "1982-07-10",
+      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
+      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
+      "rating": 7.9,
+      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        878,
+        16,
+        28,
+        10752,
+        18
+      ],
+      "rawCountries": []
     },
     {
       "id": "42500",
@@ -2013,29 +2036,6 @@
         16,
         28,
         35
-      ],
-      "rawCountries": []
-    },
-    {
-      "id": "67851",
-      "tmdbId": 67851,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "传说巨神伊迪安 发动篇",
-      "releaseDate": "1982-07-10",
-      "lastUpdateDate": "1982-07-10",
-      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
-      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
-      "rating": 7.9,
-      "description": "1982 · ⭐ 7.9 · 未知地区\n传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
-      "genreTitle": "科幻 / 动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        878,
-        16,
-        28,
-        10752,
-        18
       ],
       "rawCountries": []
     },
@@ -2243,28 +2243,6 @@
       ]
     },
     {
-      "id": "207250",
-      "tmdbId": 207250,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "我心里危险的东西",
-      "releaseDate": "2023-04-02",
-      "lastUpdateDate": "2024-03-31",
-      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
-      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "rating": 8.6,
-      "description": "2023 · ⭐ 8.6 · 日本\n重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "53787",
       "tmdbId": 53787,
       "type": "tmdb",
@@ -2281,6 +2259,28 @@
       "rawGenres": [
         16,
         10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "207250",
+      "tmdbId": 207250,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "我心里危险的东西",
+      "releaseDate": "2023-04-02",
+      "lastUpdateDate": "2024-03-31",
+      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
+      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "rating": 8.6,
+      "description": "2023 · ⭐ 8.6 · 日本\n重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
       ],
       "rawCountries": [
         "JP"
