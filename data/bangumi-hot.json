@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04 03:52:43",
+  "last_updated": "2026-11-04 15:01:59",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -146,6 +146,29 @@
       ]
     },
     {
+      "id": "18491",
+      "tmdbId": 18491,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "新世纪福音战士剧场版：Air／真心为你",
+      "releaseDate": "1997-07-19",
+      "lastUpdateDate": "1997-07-19",
+      "posterPath": "/23xbAHURR9uASY1LtGxmjEupsZO.jpg",
+      "backdropPath": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+      "rating": 8.3,
+      "description": "1997 · ⭐ 8.3 · 未知地区\n《新世纪福音战士》系列第二部剧场版，于 1997 年 7 月 19 日在日本上映。全名：《新世纪福音战士剧场版：THE END OF EVANGELION》（日语：新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION - Air/まごころを、君に，英语：NEON GENESIS EVANGELION: THE END OF EVANGELION - AIR/SINCERELY YOURS）。剧情承接 TV 动画版第 24 集，包括了重新制作的第 25 、第 26 话。在这部剧场版中第 25 话的名字是 “AIR”（天空），而副标题是 “LOEV IS DESTRUCTIVE”（爱是一种伤害）；第 26 话的名字是 “YOUR SINCERELY”（真心为你），副标题是“ONE MORE FINAL: I NEED YOU”（再说最后一遍：我需要你）。剧场版的每一话都和电视版一样有一个 “EYE - CATCH” 镜头（即每集中间那个黑底白字的英文标题）。这部剧场版标志着整个旧世纪《新世纪福音战士》的终结。影片分成 “Air” 与 “真心为你” 两个部分。神秘的 EVA 零号机驾驶员绫波丽，在与碇元渡约定之时，来到了 NERV 底层中央教条的红色水池边。她的命运似乎就将在此结束。在危急时刻，葛城美里不但要完成加持良治交待的对“第二次浩劫”真相以及“人类补完计划”的探查工作，还要保护碇真嗣与明日香，以及防备 SEELE 对初号机与二号机的物理接触。出于对碇元渡的憎恨，赤木律子接受了 SEELE 引爆 MAGI 的提案，她能否成功 ？长期与 SEELE 共事的碇元度、冬月耕造、碇唯，为了防止人类“最终的悲剧”，而酝酿了的“人类补完计划”能否实现 ？尽在《新世纪福音战士》电影版第 2 部中解答。",
+      "genreTitle": "科幻 / 剧情 / 奇幻",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        16,
+        878,
+        18,
+        14,
+        28
+      ],
+      "rawCountries": []
+    },
+    {
       "id": "42509",
       "tmdbId": 42509,
       "type": "tmdb",
@@ -168,29 +191,6 @@
       "rawCountries": [
         "JP"
       ]
-    },
-    {
-      "id": "18491",
-      "tmdbId": 18491,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "新世纪福音战士剧场版：Air／真心为你",
-      "releaseDate": "1997-07-19",
-      "lastUpdateDate": "1997-07-19",
-      "posterPath": "/23xbAHURR9uASY1LtGxmjEupsZO.jpg",
-      "backdropPath": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
-      "rating": 8.3,
-      "description": "1997 · ⭐ 8.3 · 未知地区\n《新世纪福音战士》系列第二部剧场版，于 1997 年 7 月 19 日在日本上映。全名：《新世纪福音战士剧场版：THE END OF EVANGELION》（日语：新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION - Air/まごころを、君に，英语：NEON GENESIS EVANGELION: THE END OF EVANGELION - AIR/SINCERELY YOURS）。剧情承接 TV 动画版第 24 集，包括了重新制作的第 25 、第 26 话。在这部剧场版中第 25 话的名字是 “AIR”（天空），而副标题是 “LOEV IS DESTRUCTIVE”（爱是一种伤害）；第 26 话的名字是 “YOUR SINCERELY”（真心为你），副标题是“ONE MORE FINAL: I NEED YOU”（再说最后一遍：我需要你）。剧场版的每一话都和电视版一样有一个 “EYE - CATCH” 镜头（即每集中间那个黑底白字的英文标题）。这部剧场版标志着整个旧世纪《新世纪福音战士》的终结。影片分成 “Air” 与 “真心为你” 两个部分。神秘的 EVA 零号机驾驶员绫波丽，在与碇元渡约定之时，来到了 NERV 底层中央教条的红色水池边。她的命运似乎就将在此结束。在危急时刻，葛城美里不但要完成加持良治交待的对“第二次浩劫”真相以及“人类补完计划”的探查工作，还要保护碇真嗣与明日香，以及防备 SEELE 对初号机与二号机的物理接触。出于对碇元渡的憎恨，赤木律子接受了 SEELE 引爆 MAGI 的提案，她能否成功 ？长期与 SEELE 共事的碇元度、冬月耕造、碇唯，为了防止人类“最终的悲剧”，而酝酿了的“人类补完计划”能否实现 ？尽在《新世纪福音战士》电影版第 2 部中解答。",
-      "genreTitle": "科幻 / 剧情 / 奇幻",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        16,
-        878,
-        18,
-        14,
-        28
-      ],
-      "rawCountries": []
     },
     {
       "id": "62070",
@@ -263,28 +263,6 @@
       ]
     },
     {
-      "id": "132131",
-      "tmdbId": 132131,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "未麻的部屋：讲座",
-      "releaseDate": "2008-02-29",
-      "lastUpdateDate": "2008-02-29",
-      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
-      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
-      "rating": 8.0,
-      "description": "2008 · ⭐ 8.0 · 日本\n《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
-      "genreTitle": "纪录片",
-      "regionTitle": "日本",
-      "rawGenres": [
-        99,
-        16
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "64492",
       "tmdbId": 64492,
       "type": "tmdb",
@@ -302,6 +280,28 @@
         16,
         35,
         18
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "132131",
+      "tmdbId": 132131,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "未麻的部屋：讲座",
+      "releaseDate": "2008-02-29",
+      "lastUpdateDate": "2008-02-29",
+      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
+      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
+      "rating": 8.0,
+      "description": "2008 · ⭐ 8.0 · 日本\n《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
+      "genreTitle": "纪录片",
+      "regionTitle": "日本",
+      "rawGenres": [
+        99,
+        16
       ],
       "rawCountries": [
         "JP"
@@ -536,7 +536,7 @@
       "tmdbId": 57911,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "哆啦A梦",
+      "title": "淫片网 448832𝟵.com  黄漫片网 448856𝟵.com",
       "releaseDate": "1979-04-02",
       "lastUpdateDate": "2005-06-24",
       "posterPath": "/wpU1TbyAg3o9xAgWaziv3WZhNY0.jpg",
@@ -623,27 +623,6 @@
       "rawCountries": []
     },
     {
-      "id": "301513",
-      "tmdbId": 301513,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "明日之丈 剧场版",
-      "releaseDate": "1980-03-08",
-      "lastUpdateDate": "1980-03-08",
-      "posterPath": "/kQ8VEBK9BX4W5TpaOEoT5XR1erq.jpg",
-      "backdropPath": "/ldB5kcildygAfxFcEsQOZQoJDvS.jpg",
-      "rating": 8.4,
-      "description": "1980 · ⭐ 8.4 · 未知地区\n在东京山谷的宿民街突然出现了一位少年。他的名字叫矢吹丈。有一天小丈遇到了，对他相当感兴趣的而沉溺于酒精中毒的前拳击手丹下段平，他们因此相遇。在他与小丈打过一架后，他从他的动作中发现他具备有拳击手的天生资质，他认为如果能将小丈好好磨练，那小丈一定可以成为一流的拳击手。但是小丈他却带领着居住在宿民街的孩子们，做出一些令人瞠目睁舌的行动，并且还利用段平对他的热情，竟然不惜利用犯罪来脏了自己的手，在他被警察逮捕之后，他被移送到鉴别所·此后还送到少年院这地方给予管教。 有一天，待在少年鉴别所的小丈他，收到一封段平给他的一封明信片，上面写着“为了明日”。在这明信片中，为他讲解了要如何使出左刺拳的拳击的技术方面的事情。然而觉得时间和体力都很空闲的小丈，因此就对那个建议开始了拳击的练习并给予吸收，在他自己吸收这拳不久后，他的体会力慢慢的提高，让他想起以往他从来没有对某件事情这么认真。在野菊岛的东光特等少年院里，他遇到了终生宿敌·力石彻，他与力石彻命运的相遇，却在这种情况下让小丈正式的踏进了拳击的道路之中。",
-      "genreTitle": "动作 / 剧情",
-      "regionTitle": "未知地区",
-      "rawGenres": [
-        28,
-        16,
-        18
-      ],
-      "rawCountries": []
-    },
-    {
       "id": "46512",
       "tmdbId": 46512,
       "type": "tmdb",
@@ -666,6 +645,27 @@
       "rawCountries": [
         "JP"
       ]
+    },
+    {
+      "id": "301513",
+      "tmdbId": 301513,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "明日之丈 剧场版",
+      "releaseDate": "1980-03-08",
+      "lastUpdateDate": "1980-03-08",
+      "posterPath": "/kQ8VEBK9BX4W5TpaOEoT5XR1erq.jpg",
+      "backdropPath": "/ldB5kcildygAfxFcEsQOZQoJDvS.jpg",
+      "rating": 8.4,
+      "description": "1980 · ⭐ 8.4 · 未知地区\n在东京山谷的宿民街突然出现了一位少年。他的名字叫矢吹丈。有一天小丈遇到了，对他相当感兴趣的而沉溺于酒精中毒的前拳击手丹下段平，他们因此相遇。在他与小丈打过一架后，他从他的动作中发现他具备有拳击手的天生资质，他认为如果能将小丈好好磨练，那小丈一定可以成为一流的拳击手。但是小丈他却带领着居住在宿民街的孩子们，做出一些令人瞠目睁舌的行动，并且还利用段平对他的热情，竟然不惜利用犯罪来脏了自己的手，在他被警察逮捕之后，他被移送到鉴别所·此后还送到少年院这地方给予管教。 有一天，待在少年鉴别所的小丈他，收到一封段平给他的一封明信片，上面写着“为了明日”。在这明信片中，为他讲解了要如何使出左刺拳的拳击的技术方面的事情。然而觉得时间和体力都很空闲的小丈，因此就对那个建议开始了拳击的练习并给予吸收，在他自己吸收这拳不久后，他的体会力慢慢的提高，让他想起以往他从来没有对某件事情这么认真。在野菊岛的东光特等少年院里，他遇到了终生宿敌·力石彻，他与力石彻命运的相遇，却在这种情况下让小丈正式的踏进了拳击的道路之中。",
+      "genreTitle": "动作 / 剧情",
+      "regionTitle": "未知地区",
+      "rawGenres": [
+        28,
+        16,
+        18
+      ],
+      "rawCountries": []
     },
     {
       "id": "42573",
@@ -1241,30 +1241,6 @@
       ]
     },
     {
-      "id": "1042",
-      "tmdbId": 1042,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "少女革命",
-      "releaseDate": "1997-04-02",
-      "lastUpdateDate": "1997-12-24",
-      "posterPath": "/pOjDuclpsWGV13Nj7XtZukuZj6f.jpg",
-      "backdropPath": "/802aSsZzIyOhbaL1bt19gp0RVYq.jpg",
-      "rating": 8.1,
-      "description": "1997 · ⭐ 8.1 · 日本\n天上欧蒂娜（川上伦子 配音）从小就失去了父母，某日，她遇见了一位英俊的王子，王子交给了欧蒂娜一枚戒指，告诉她这枚戒指或许能够使他们在遥远的未来再次相遇。王子英俊的身姿和温柔的话语在欧蒂娜的内心留下了深刻的印象，她希望自己最终也能如此优雅。  在戒指的指引下，欧蒂娜进入了凤学园就读，在这里，流行着名为一个王子游戏，在决斗中获胜的一方可以得到“蔷薇新娘”姬宫安茜（渊崎有里子 配音），成为她的支配者。西园寺荚一（草尾毅 饰）是安茜目前的主人，然而，欧蒂娜最终将他打败，得到了安茜，随着时间的推移，欧蒂娜和安茜之间产生了深厚的情义。",
-      "genreTitle": "剧情 / 悬疑 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18,
-        9648,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "46195",
       "tmdbId": 46195,
       "type": "tmdb",
@@ -1283,6 +1259,30 @@
         35,
         18,
         9648
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "1042",
+      "tmdbId": 1042,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "少女革命",
+      "releaseDate": "1997-04-02",
+      "lastUpdateDate": "1997-12-24",
+      "posterPath": "/pOjDuclpsWGV13Nj7XtZukuZj6f.jpg",
+      "backdropPath": "/802aSsZzIyOhbaL1bt19gp0RVYq.jpg",
+      "rating": 8.1,
+      "description": "1997 · ⭐ 8.1 · 日本\n天上欧蒂娜（川上伦子 配音）从小就失去了父母，某日，她遇见了一位英俊的王子，王子交给了欧蒂娜一枚戒指，告诉她这枚戒指或许能够使他们在遥远的未来再次相遇。王子英俊的身姿和温柔的话语在欧蒂娜的内心留下了深刻的印象，她希望自己最终也能如此优雅。  在戒指的指引下，欧蒂娜进入了凤学园就读，在这里，流行着名为一个王子游戏，在决斗中获胜的一方可以得到“蔷薇新娘”姬宫安茜（渊崎有里子 配音），成为她的支配者。西园寺荚一（草尾毅 饰）是安茜目前的主人，然而，欧蒂娜最终将他打败，得到了安茜，随着时间的推移，欧蒂娜和安茜之间产生了深厚的情义。",
+      "genreTitle": "剧情 / 悬疑 / 科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18,
+        9648,
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -1767,28 +1767,6 @@
       "rawCountries": []
     },
     {
-      "id": "63463",
-      "tmdbId": 63463,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "偶像大师",
-      "releaseDate": "2011-07-08",
-      "lastUpdateDate": "2011-12-23",
-      "posterPath": "/6Apjxs1eRlp2H4WZHQoDXktXd76.jpg",
-      "backdropPath": "/6ljZuz9ABmOQDVB58aV5xeKV62A.jpg",
-      "rating": 6.8,
-      "description": "2011 · ⭐ 6.8 · 日本\n偶像，是女孩子们一直以来的憧憬。但能站在顶点的，只有仅仅数人。13位少女，就此经她们所属的事务所“765 Production”，跨进了那个充满竞争的世界。出道约半年，事务所来了一位全新的制作人。他跟少女们都下定决心，向顶级偶像之路进发。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        18
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "83121",
       "tmdbId": 83121,
       "type": "tmdb",
@@ -1805,6 +1783,28 @@
       "rawGenres": [
         35,
         16
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "63463",
+      "tmdbId": 63463,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "偶像大师",
+      "releaseDate": "2011-07-08",
+      "lastUpdateDate": "2011-12-23",
+      "posterPath": "/6Apjxs1eRlp2H4WZHQoDXktXd76.jpg",
+      "backdropPath": "/6ljZuz9ABmOQDVB58aV5xeKV62A.jpg",
+      "rating": 6.8,
+      "description": "2011 · ⭐ 6.8 · 日本\n偶像，是女孩子们一直以来的憧憬。但能站在顶点的，只有仅仅数人。13位少女，就此经她们所属的事务所“765 Production”，跨进了那个充满竞争的世界。出道约半年，事务所来了一位全新的制作人。他跟少女们都下定决心，向顶级偶像之路进发。",
+      "genreTitle": "剧情",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        18
       ],
       "rawCountries": [
         "JP"
@@ -1974,6 +1974,28 @@
       ]
     },
     {
+      "id": "42500",
+      "tmdbId": 42500,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "幸运☆星",
+      "releaseDate": "2007-04-09",
+      "lastUpdateDate": "2007-09-17",
+      "posterPath": "/lO65hFJUwGav2LErTFoQfmomprk.jpg",
+      "backdropPath": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
+      "rating": 7.4,
+      "description": "2007 · ⭐ 7.4 · 日本\n高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "67851",
       "tmdbId": 67851,
       "type": "tmdb",
@@ -1995,28 +2017,6 @@
         18
       ],
       "rawCountries": []
-    },
-    {
-      "id": "42500",
-      "tmdbId": 42500,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "幸运☆星",
-      "releaseDate": "2007-04-09",
-      "lastUpdateDate": "2007-09-17",
-      "posterPath": "/lO65hFJUwGav2LErTFoQfmomprk.jpg",
-      "backdropPath": "/dZ5kvYcMgSb7M5lFehnNtKrwwwk.jpg",
-      "rating": 7.4,
-      "description": "2007 · ⭐ 7.4 · 日本\n高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35
-      ],
-      "rawCountries": [
-        "JP"
-      ]
     },
     {
       "id": "357405",
@@ -2131,6 +2131,28 @@
       ]
     },
     {
+      "id": "30982",
+      "tmdbId": 30982,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "棋魂",
+      "releaseDate": "2001-10-10",
+      "lastUpdateDate": "2003-03-26",
+      "posterPath": "/cL7ATkPzwAHeFeiRFKoLG56fhb.jpg",
+      "backdropPath": "/bu0qFo9cD6AQ69KtTZoCypPKTny.jpg",
+      "rating": 7.8,
+      "description": "2001 · ⭐ 7.8 · 日本\n六年级的小学生进藤光（川上友子 配音）无意中翻出了爷爷家的旧棋盘。触碰棋盘的一瞬间也释放出了寄居在其上的平安时代棋士藤原佐为（千叶进步 配音）的灵魂。附身于小光体内的佐为视棋如命，小光在其软磨硬泡下开始下围棋，接触了一批厉害的棋士，其中不乏他的同龄人。小光开始对围棋产生兴趣并展现了他的天分，而佐为则成为了小光的秘密老师……",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "100363",
       "tmdbId": 100363,
       "type": "tmdb",
@@ -2152,28 +2174,6 @@
       ],
       "rawCountries": [
         "CN"
-      ]
-    },
-    {
-      "id": "30982",
-      "tmdbId": 30982,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "棋魂",
-      "releaseDate": "2001-10-10",
-      "lastUpdateDate": "2003-03-26",
-      "posterPath": "/cL7ATkPzwAHeFeiRFKoLG56fhb.jpg",
-      "backdropPath": "/bu0qFo9cD6AQ69KtTZoCypPKTny.jpg",
-      "rating": 7.8,
-      "description": "2001 · ⭐ 7.8 · 日本\n六年级的小学生进藤光（川上友子 配音）无意中翻出了爷爷家的旧棋盘。触碰棋盘的一瞬间也释放出了寄居在其上的平安时代棋士藤原佐为（千叶进步 配音）的灵魂。附身于小光体内的佐为视棋如命，小光在其软磨硬泡下开始下围棋，接触了一批厉害的棋士，其中不乏他的同龄人。小光开始对围棋产生兴趣并展现了他的天分，而佐为则成为了小光的秘密老师……",
-      "genreTitle": "科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
       ]
     },
     {
@@ -2243,28 +2243,6 @@
       ]
     },
     {
-      "id": "53787",
-      "tmdbId": 53787,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "水星领航员",
-      "releaseDate": "2005-10-06",
-      "lastUpdateDate": "2008-04-01",
-      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
-      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
-      "rating": 8.5,
-      "description": "2005 · ⭐ 8.5 · 日本\n随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
-      "genreTitle": "科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
       "id": "207250",
       "tmdbId": 207250,
       "type": "tmdb",
@@ -2281,6 +2259,28 @@
       "rawGenres": [
         16,
         35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
+      "id": "53787",
+      "tmdbId": 53787,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "水星领航员",
+      "releaseDate": "2005-10-06",
+      "lastUpdateDate": "2008-04-01",
+      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
+      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+      "rating": 8.5,
+      "description": "2005 · ⭐ 8.5 · 日本\n随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        10765
       ],
       "rawCountries": [
         "JP"
@@ -2518,6 +2518,28 @@
       ]
     },
     {
+      "id": "76075",
+      "tmdbId": 76075,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "摇曳露营△",
+      "releaseDate": "2018-01-04",
+      "lastUpdateDate": "2024-06-20",
+      "posterPath": "/cDWn009t5VTNBXAliflpm1RdNLO.jpg",
+      "backdropPath": "/cm3lmKnEAYLs2eJmn4AcFIu18X4.jpg",
+      "rating": 8.2,
+      "description": "2018 · ⭐ 8.2 · 日本\n这是，某个冬日的故事。从静冈搬家到山梨的女高中生·抚子，为了观赏“在千圆纸币上都有图案的富士山”而骑着自行车来到本栖湖，但不巧天气是阴天。没能看到富士山，十分疲倦的抚子当场进入了梦乡。当她醒来的时候，时间已是深夜。在这初来乍到的地方，连回去的路都不知道。拯救了不安而害怕的抚子的是，一位爱好露营的女孩子·凛。为了让寒冷的身体取暖而点燃篝火的两人。噼啪噼啪的柴火爆音，沁入湖畔的静寂之中。围着篝火，一边啜着咖喱面一边对话的抚子和凛。终于，两人期盼已久的瞬间到来。“看到了……富士山……”抚子与凛，从这两人的相遇开始的户外系Girls Story。",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本",
+      "rawGenres": [
+        16,
+        35
+      ],
+      "rawCountries": [
+        "JP"
+      ]
+    },
+    {
       "id": "12609",
       "tmdbId": 12609,
       "type": "tmdb",
@@ -2534,30 +2556,6 @@
       "rawGenres": [
         16,
         10759,
-        10765
-      ],
-      "rawCountries": [
-        "JP"
-      ]
-    },
-    {
-      "id": "12501",
-      "tmdbId": 12501,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "百变之星",
-      "releaseDate": "2003-04-03",
-      "lastUpdateDate": "2004-03-27",
-      "posterPath": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
-      "backdropPath": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
-      "rating": 7.6,
-      "description": "2003 · ⭐ 7.6 · 日本\n从很小的时候起，苗木野空（广桥凉 配音）就对卡莱多剧团的表演充满了憧憬之情。如今，已经长大的她终于有能力开始追逐自己的梦想了，信心满满的空踏上了前往美国的旅途，她发誓要成为剧团的一份子，给更多的孩子带去欢乐。可惜事与愿违，刚刚踏上美国的土地，空就迷失了方向，在经历了一系列波折之后，迷糊的她居然错过了剧团的选拔考试。  　　就算无法成为剧团的一份子，也要亲眼看一看他们的表演。怀着这样的信念，空来到了剧团的后台，却在无意之中弄伤了马上就要上场表演的巨星蕾拉（ 大原沙耶香 配音）。无奈之下，经理只得让空代替蕾拉上台演出，没想到，初来乍到的空居然赢得了广大观众的喜爱。就这样，空被破格录取了，她在卡莱多剧团的表演生涯正式拉开了帷幕。面对强劲的竞争对手，空能够脱颖而出吗？",
-      "genreTitle": "喜剧 / 剧情 / 科幻奇幻",
-      "regionTitle": "日本",
-      "rawGenres": [
-        16,
-        35,
-        18,
         10765
       ],
       "rawCountries": [
