@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04 14:46:29",
+  "last_updated": "2026-11-05 03:56:15",
   "tv": [
     {
       "id": "285147",
@@ -143,7 +143,7 @@
       "description": "大蔚朝党争四起，沈苏禾被迫嫁二皇子，受尽欺辱家破人亡惨死寺中。一朝重生大婚当日，她决意伪装痴傻查真相，与煜王穆云峥联手查清冤案，扳倒皇后与四皇子，事后二人归隐相守。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 1.2743,
+      "popularity": 1.2427,
       "releaseDate": "2026-07-23",
       "lastUpdateDate": "2026-08-01",
       "posterPath": "/nkLOVsZql9IoWavTNNF0FaYwB9f.jpg",
@@ -1159,21 +1159,6 @@
       "genreTitle": "真人秀,家庭"
     },
     {
-      "id": "331569",
-      "type": "tmdb",
-      "title": "不想睡的星期五",
-      "description": "《不想睡的星期五》解锁不同城市夜生活玩法，打造最具城市灵魂的夜间大事件，每一夜都有新发现！全新定义新奇五夜生活，打造可复制的“最夯青年夜生活图鉴”。拒绝白天社会人面具，直击当代青年集体共鸣——夜晚不是一天的终点，而是属于“我自己”的新起点！",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 2.3873,
-      "releaseDate": "2026-08-14",
-      "lastUpdateDate": "2026-10-23",
-      "posterPath": "/ladRcczkCEFXFxycIleWgx9yV5q.jpg",
-      "backdropPath": "/y8kPD0sQqlL8lo7oYZVtYWP330Y.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "239038",
       "type": "tmdb",
       "title": "爱的修学旅行",
@@ -1185,6 +1170,21 @@
       "lastUpdateDate": "2026-10-21",
       "posterPath": "/3mcekQNoJFgciDfKRoKpW7JrD1X.jpg",
       "backdropPath": "/7qeO3CpGXGQx6AcHmsYm9SOTNIF.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
+      "id": "331569",
+      "type": "tmdb",
+      "title": "不想睡的星期五",
+      "description": "《不想睡的星期五》解锁不同城市夜生活玩法，打造最具城市灵魂的夜间大事件，每一夜都有新发现！全新定义新奇五夜生活，打造可复制的“最夯青年夜生活图鉴”。拒绝白天社会人面具，直击当代青年集体共鸣——夜晚不是一天的终点，而是属于“我自己”的新起点！",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 2.3873,
+      "releaseDate": "2026-08-14",
+      "lastUpdateDate": "2026-10-23",
+      "posterPath": "/ladRcczkCEFXFxycIleWgx9yV5q.jpg",
+      "backdropPath": "/y8kPD0sQqlL8lo7oYZVtYWP330Y.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
@@ -1249,21 +1249,6 @@
       "genreTitle": "脱口秀"
     },
     {
-      "id": "330052",
-      "type": "tmdb",
-      "title": "家乡美食大赛",
-      "description": "《家乡美食大赛》是湖南卫视、芒果TV出品，京东联合出品的美食综艺节目，总导演、制片人为王梓睿 ，由黄晓明担任首席掌勺官，李维嘉、沈梦辰担任掌勺主理人 。",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 1.6796,
-      "releaseDate": "2026-07-26",
-      "lastUpdateDate": "2026-10-25",
-      "posterPath": "/1ZOAVVMtbtnDmBxwlzfv8iU53ZP.jpg",
-      "backdropPath": "/xGroALdmj0l1lYsgh5cltCOb0n4.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "298320",
       "type": "tmdb",
       "title": "合伙人",
@@ -1275,6 +1260,21 @@
       "lastUpdateDate": "2026-10-31",
       "posterPath": "/5zxLdQp6XWiuHQjqfVmn2MMGUB7.jpg",
       "backdropPath": "/yZ81CoQyQqshENN79R55Mim48qd.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
+      "id": "330052",
+      "type": "tmdb",
+      "title": "家乡美食大赛",
+      "description": "《家乡美食大赛》是湖南卫视、芒果TV出品，京东联合出品的美食综艺节目，总导演、制片人为王梓睿 ，由黄晓明担任首席掌勺官，李维嘉、沈梦辰担任掌勺主理人 。",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 1.6796,
+      "releaseDate": "2026-07-26",
+      "lastUpdateDate": "2026-10-25",
+      "posterPath": "/1ZOAVVMtbtnDmBxwlzfv8iU53ZP.jpg",
+      "backdropPath": "/xGroALdmj0l1lYsgh5cltCOb0n4.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
@@ -1309,28 +1309,13 @@
       "genreTitle": ""
     },
     {
-      "id": "339488",
-      "type": "tmdb",
-      "title": "佳佳的花园",
-      "description": "《佳佳的花园》是靳梦佳为自己、也为同路人打造的一座城市之外的“精神自留地”。每期她邀请一位女性同行者来到花园，以“轻劳作+深对谈”的沉浸形式，在泥土与植物的包裹下，卸下心防，自然交心。从身体感知到心灵共鸣，传递真实、松弛、不完美的治愈力量，陪伴当代女性找到属于自己的生长节奏。",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 0.2202,
-      "releaseDate": "2026-10-02",
-      "lastUpdateDate": "2026-10-16",
-      "posterPath": "/osgHAsIInlQ3whr9NyUtlfbZCkh.jpg",
-      "backdropPath": "/rPq8LM6f0Ja0QJPEt8Yh5RdAPEr.jpg",
-      "mediaType": "tv",
-      "genreTitle": ""
-    },
-    {
       "id": "338938",
       "type": "tmdb",
       "title": "后会友期",
       "description": "《后会友期》延续真实生活的叙事，针对当代人际疏离的普遍现象，拟邀请四组许久未见的朋友，进行集体旅行。在旅途中共同经历极致的美景，极限的体验，在不同的人生境遇中，重新面对友情的课题，找寻与朋友，与自我，与时间的相处，领悟友谊的价值和意义。",
       "rating": 7.0,
       "voteCount": 1,
-      "popularity": 5.1539,
+      "popularity": 6.451,
       "releaseDate": "2026-10-22",
       "lastUpdateDate": "2026-10-29",
       "posterPath": "/pH1zpLMuagE8wji4kg3SEJ1RB3.jpg",
@@ -1720,7 +1705,7 @@
       "description": "《背后》是由郑方一主持、张泉灵担任对谈人的观察谈话类节目，在寻找背后故事的同时，也寻找答案和力量的观察谈话类节目。以“在路过的人生里照见背后的自己”为核心立意，聚焦当代社会对深度内容的渴求，在信息碎片化、情绪快餐化的当下，旨在通过“有温度的对谈”为观众提供一处心灵栖息地，唤醒人们对自我成长、精神力量的关注。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 5.7553,
+      "popularity": 4.9923,
       "releaseDate": "2025-05-18",
       "lastUpdateDate": "2026-10-24",
       "posterPath": "/9GULN35kQ4K8LYofJqF1VEixzgK.jpg",
