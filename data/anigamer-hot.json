@@ -1,0 +1,2162 @@
+{
+  "schemaVersion": 1,
+  "source": "AniGamer",
+  "sourceUrl": "https://ani.gamer.com.tw/animeList.php",
+  "updatedAt": "2026-11-05T20:56:58+00:00",
+  "lists": {
+    "monthly": {
+      "1": [
+        {
+          "sn": "114209",
+          "sourceTitle": "學生會也有洞！",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 283938,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "84866",
+          "sourceTitle": "黑色五葉草",
+          "year": "2017",
+          "mediaHint": "",
+          "tmdbId": 73223,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114184",
+          "sourceTitle": "被放逐的作弊賦予魔術師享受隨心所欲的第二人生。",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 313346,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114118",
+          "sourceTitle": "遭到流放的轉生重騎士憑藉遊戲知識大開無雙",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 270603,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114196",
+          "sourceTitle": "FX 戰士久留美",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 311842,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114186",
+          "sourceTitle": "亂世千金倪亞．利斯頓轉生為嬌弱千金的弒神武人華麗無雙錄",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 312850,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114210",
+          "sourceTitle": "用【循環利息】強制收回借出的魔力",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 333622,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114107",
+          "sourceTitle": "BLEACH 死神 千年血戰篇-禍進譚-",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 30984,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114181",
+          "sourceTitle": "轉生哥布林有問題嗎？",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 316694,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114208",
+          "sourceTitle": "魔法★探險家",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 335194,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114205",
+          "sourceTitle": "轉生後的大聖女，極力隱瞞聖女的身分",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 285899,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114195",
+          "sourceTitle": "轉生就是劍 第二季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 134667,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114190",
+          "sourceTitle": "世界最強的魔女，就此開始",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 321518,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114215",
+          "sourceTitle": "轉生貴族憑鑑定技能扭轉人生 第三季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 237150,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114206",
+          "sourceTitle": "黑色五葉草 Season 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 73223,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114212",
+          "sourceTitle": "一覺醒來就有了最強裝備跟太空船 決定以自家獨棟建築為目標當傭兵自由過活",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 283692,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114109",
+          "sourceTitle": "相反的你和我 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114040",
+          "sourceTitle": "關於我轉生變成史萊姆這檔事 第四季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "113895",
+          "sourceTitle": "野生的大魔王出現了！",
+          "year": "2025",
+          "mediaHint": "",
+          "tmdbId": 280042,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113377",
+          "sourceTitle": "重生者的魔法一定要特別",
+          "year": "2023",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114044",
+          "sourceTitle": "Re：從零開始的異世界生活 第四季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114038",
+          "sourceTitle": "黃泉雙使",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114217",
+          "sourceTitle": "和沒有信徒的女神大人一起攻略異世界",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 288588,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114115",
+          "sourceTitle": "無職轉生～到了異世界就拿出真本事～第三季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114200",
+          "sourceTitle": "螢火蟲的出嫁",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 320909,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114194",
+          "sourceTitle": "佐佐木與文鳥小嗶 Season 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 206630,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "22140",
+          "sourceTitle": "鋼之鍊金術師 BROTHERHOOD",
+          "year": "2009",
+          "mediaHint": "",
+          "tmdbId": 31911,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114133",
+          "sourceTitle": "我家的弟弟們真是讓您費心了",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 307585,
+          "mediaType": "tv"
+        }
+      ],
+      "2": [
+        {
+          "sn": "114187",
+          "sourceTitle": "冷淡的佐藤同學只對我撒嬌",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 316891,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114193",
+          "sourceTitle": "重生者的魔法一定要特別 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114050",
+          "sourceTitle": "夜櫻家大作戰 第二季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 216467,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113970",
+          "sourceTitle": "相反的你和我",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 278043,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114202",
+          "sourceTitle": "暗部共生少女",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 284580,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114138",
+          "sourceTitle": "我是不才惡女",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 286345,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114180",
+          "sourceTitle": "你好，身為魔女的我，被心上人委託製作迷情藥",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 313068,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "112421",
+          "sourceTitle": "火影忍者",
+          "year": "2002",
+          "mediaHint": "",
+          "tmdbId": 46260,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113275",
+          "sourceTitle": "無職轉生～到了異世界就拿出真本事～第二季",
+          "year": "2023",
+          "mediaHint": ""
+        },
+        {
+          "sn": "112541",
+          "sourceTitle": "無職轉生～到了異世界就拿出真本事～",
+          "year": "2021",
+          "mediaHint": "",
+          "tmdbId": 94664,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114112",
+          "sourceTitle": "擅長逃跑的殿下 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114135",
+          "sourceTitle": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 2nd Season",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 280049,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114197",
+          "sourceTitle": "冰劍的魔術師將要統一世界 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 200777,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114058",
+          "sourceTitle": "小書痴的下剋上  為了成為圖書管理員不擇手段！領主的養女",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 91768,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113716",
+          "sourceTitle": "我獨自升級 第二季 －起於闇影－",
+          "year": "2025",
+          "mediaHint": "",
+          "tmdbId": 127532,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "112499",
+          "sourceTitle": "KERORO 軍曹",
+          "year": "2004",
+          "mediaHint": "",
+          "tmdbId": 63164,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114041",
+          "sourceTitle": "入間同學入魔了！第四季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114047",
+          "sourceTitle": "鑽石王牌 act2 第二季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 60761,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114096",
+          "sourceTitle": "幼女戰記 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 69346,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113130",
+          "sourceTitle": "轉生就是劍",
+          "year": "2022",
+          "mediaHint": "",
+          "tmdbId": 134667,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114097",
+          "sourceTitle": "Clevatess Ⅱ－魔獸之王與虛假的勇者傳承－",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "113439",
+          "sourceTitle": "佐佐木與文鳥小嗶",
+          "year": "2024",
+          "mediaHint": "",
+          "tmdbId": 206630,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "104687",
+          "sourceTitle": "Re：從零開始的異世界生活 第二季",
+          "year": "2020",
+          "mediaHint": ""
+        },
+        {
+          "sn": "109286",
+          "sourceTitle": "Re：從零開始的異世界生活 新編集版",
+          "year": "2020",
+          "mediaHint": "",
+          "tmdbId": 65942,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "50007",
+          "sourceTitle": "獵人 Hunter x Hunter",
+          "year": "2011",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114125",
+          "sourceTitle": "GRAND BLUE 碧藍之海 3",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 79166,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113216",
+          "sourceTitle": "冰劍的魔術師將要統一世界",
+          "year": "2023",
+          "mediaHint": "",
+          "tmdbId": 200777,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113878",
+          "sourceTitle": "彈珠汽水瓶裡的千歲同學",
+          "year": "2025",
+          "mediaHint": "",
+          "tmdbId": 261343,
+          "mediaType": "tv"
+        }
+      ],
+      "3": [
+        {
+          "sn": "114201",
+          "sourceTitle": "KERORO 軍曹☆",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 308977,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114182",
+          "sourceTitle": "超巡！超條前輩",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 327765,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113667",
+          "sourceTitle": "轉生貴族憑鑑定技能扭轉人生 第二季",
+          "year": "2024",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114117",
+          "sourceTitle": "骸骨騎士大人異世界冒險中 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "112915",
+          "sourceTitle": "排球少年！！",
+          "year": "2014",
+          "mediaHint": "",
+          "tmdbId": 60863,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113521",
+          "sourceTitle": "轉生貴族憑鑑定技能扭轉人生",
+          "year": "2024",
+          "mediaHint": "",
+          "tmdbId": 237150,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "41319",
+          "sourceTitle": "魔法少女小圓",
+          "year": "2011",
+          "mediaHint": "",
+          "tmdbId": 39218,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113530",
+          "sourceTitle": "遊戲王 怪獸之決鬥",
+          "year": "2000",
+          "mediaHint": "",
+          "tmdbId": 902,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "16040",
+          "sourceTitle": "家庭教師 HITMAN REBORN！",
+          "year": "2006",
+          "mediaHint": "",
+          "tmdbId": 45857,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114189",
+          "sourceTitle": "偵探已經，死了。Season 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 117061,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113382",
+          "sourceTitle": "超超超超超喜歡你的 100 個女朋友",
+          "year": "2023",
+          "mediaHint": "",
+          "tmdbId": 223564,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "112522",
+          "sourceTitle": "進擊的巨人 The Final Season",
+          "year": "2020",
+          "mediaHint": "",
+          "tmdbId": 1429,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "112931",
+          "sourceTitle": "排球少年！！第二季",
+          "year": "2015",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114214",
+          "sourceTitle": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 303060,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114124",
+          "sourceTitle": "從 0 位居民開始的邊境領主大人",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 296437,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113366",
+          "sourceTitle": "葬送的芙莉蓮",
+          "year": "2023",
+          "mediaHint": "",
+          "tmdbId": 209867,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114191",
+          "sourceTitle": "魔法騎士雷阿斯",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 303272,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113642",
+          "sourceTitle": "Re：從零開始的異世界生活 第三季",
+          "year": "2024",
+          "mediaHint": ""
+        },
+        {
+          "sn": "113458",
+          "sourceTitle": "我獨自升級",
+          "year": "2024",
+          "mediaHint": "",
+          "tmdbId": 127532,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113701",
+          "sourceTitle": "Dr.STONE 新石紀 第四季",
+          "year": "2025",
+          "mediaHint": ""
+        },
+        {
+          "sn": "113489",
+          "sourceTitle": "關於我轉生變成史萊姆這檔事 第三季",
+          "year": "2024",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114098",
+          "sourceTitle": "女性向遊戲世界對路人角色很不友好 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "59221",
+          "sourceTitle": "進擊的巨人",
+          "year": "2013",
+          "mediaHint": "",
+          "tmdbId": 1429,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114123",
+          "sourceTitle": "不虐待我的繼母與繼姐",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114092",
+          "sourceTitle": "與奔馳於透明之夜的你，談一場看不見的戀愛。",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 309974,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "19664",
+          "sourceTitle": "機動戰士鋼彈 00 第二季",
+          "year": "2008",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114220",
+          "sourceTitle": "新網球王子 U-17 WORLD CUP 世界盃決賽成員決定戰",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114203",
+          "sourceTitle": "朱色假面",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 295420,
+          "mediaType": "tv"
+        }
+      ],
+      "4": [
+        {
+          "sn": "114134",
+          "sourceTitle": "鬼的新娘",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 293489,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114207",
+          "sourceTitle": "至高之力",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 317259,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114106",
+          "sourceTitle": "貓與龍",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 284029,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114108",
+          "sourceTitle": "花織即使是轉生也想打架",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 312266,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114218",
+          "sourceTitle": "魔法少女育成計畫 restart",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 337277,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114102",
+          "sourceTitle": "才女的侍從 在滿是高嶺之花的貴族學校暗中照顧（毫無生活自理能力的）學院第一大小姐",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 312849,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113281",
+          "sourceTitle": "咒術迴戰 第二季",
+          "year": "2023",
+          "mediaHint": "",
+          "tmdbId": 95479,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114211",
+          "sourceTitle": "大叔喜歡可愛小玩意",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 330505,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "89557",
+          "sourceTitle": "進擊的巨人 第三季",
+          "year": "2018",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114142",
+          "sourceTitle": "與妳相戀到生命盡頭",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 285574,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "538",
+          "sourceTitle": "機動戰士鋼彈 00",
+          "year": "2007",
+          "mediaHint": "",
+          "tmdbId": 21732,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "52206",
+          "sourceTitle": "刀劍神域 Sword Art Online",
+          "year": "2012",
+          "mediaHint": "",
+          "tmdbId": 45782,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "112671",
+          "sourceTitle": "86－不存在的戰區－",
+          "year": "2021",
+          "mediaHint": "",
+          "tmdbId": 100565,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "112447",
+          "sourceTitle": "棋靈王",
+          "year": "2001",
+          "mediaHint": "",
+          "tmdbId": 30982,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "112457",
+          "sourceTitle": "咒術迴戰",
+          "year": "2020",
+          "mediaHint": "",
+          "tmdbId": 95479,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114029",
+          "sourceTitle": "黑貓與魔女的教室",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 297557,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113964",
+          "sourceTitle": "咒術迴戰 死滅迴游 前篇",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 95479,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113954",
+          "sourceTitle": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 280049,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114227",
+          "sourceTitle": "鐵旅！meet with 鐵道少女",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 302020,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "94601",
+          "sourceTitle": "關於我轉生變成史萊姆這檔事",
+          "year": "2018",
+          "mediaHint": "",
+          "tmdbId": 82684,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "61653",
+          "sourceTitle": "鑽石王牌",
+          "year": "2013",
+          "mediaHint": "",
+          "tmdbId": 60761,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113492",
+          "sourceTitle": "夜櫻家大作戰",
+          "year": "2024",
+          "mediaHint": "",
+          "tmdbId": 216467,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113845",
+          "sourceTitle": "殺手旅店",
+          "year": "2025",
+          "mediaHint": "",
+          "tmdbId": 276288,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114099",
+          "sourceTitle": "盜墓王",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 297826,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114127",
+          "sourceTitle": "穹廬下的魔女",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 288971,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114119",
+          "sourceTitle": "世界最強後衛 ～迷宮國的新人探索者～",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 300267,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "18542",
+          "sourceTitle": "網球王子",
+          "year": "2001",
+          "mediaHint": "",
+          "tmdbId": 27845,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "112548",
+          "sourceTitle": "關於我轉生變成史萊姆這檔事 第二季",
+          "year": "2021",
+          "mediaHint": ""
+        }
+      ],
+      "5": [
+        {
+          "sn": "113237",
+          "sourceTitle": "【我推的孩子】",
+          "year": "2023",
+          "mediaHint": "",
+          "tmdbId": 203737,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113946",
+          "sourceTitle": "葬送的芙莉蓮 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "30960",
+          "sourceTitle": "FAIRY TAIL 魔導少年",
+          "year": "2009",
+          "mediaHint": "",
+          "tmdbId": 46261,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "76284",
+          "sourceTitle": "流浪神差 ARAGOTO",
+          "year": "2015",
+          "mediaHint": "",
+          "tmdbId": 64710,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114094",
+          "sourceTitle": "無用聖女的異世界美食之旅 憑藉隱藏技能召喚露營車",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 325158,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114179",
+          "sourceTitle": "青之蘆葦 第二季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 126437,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "94844",
+          "sourceTitle": "青春豬頭少年不會夢到兔女郎學姊",
+          "year": "2018",
+          "mediaHint": "",
+          "tmdbId": 82739,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113661",
+          "sourceTitle": "BLEACH 死神 千年血戰篇-相剋譚-",
+          "year": "2024",
+          "mediaHint": "",
+          "tmdbId": 30984,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "16535",
+          "sourceTitle": "死亡筆記本",
+          "year": "2006",
+          "mediaHint": "",
+          "tmdbId": 13916,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113154",
+          "sourceTitle": "我想成為影之強者！",
+          "year": "2022",
+          "mediaHint": "",
+          "tmdbId": 119495,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "112747",
+          "sourceTitle": "偵探已經，死了。",
+          "year": "2021",
+          "mediaHint": "",
+          "tmdbId": 117061,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113826",
+          "sourceTitle": "Silent Witch 沉默魔女的祕密",
+          "year": "2025",
+          "mediaHint": "",
+          "tmdbId": 281058,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "86598",
+          "sourceTitle": "慕留人 - 火影新世代 -",
+          "year": "2017",
+          "mediaHint": ""
+        },
+        {
+          "sn": "104329",
+          "sourceTitle": "小書痴的下剋上：為了成為圖書管理員不擇手段！",
+          "year": "2019",
+          "mediaHint": "",
+          "tmdbId": 91768,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114114",
+          "sourceTitle": "畫完這個再去死",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 287028,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "63959",
+          "sourceTitle": "流浪神差",
+          "year": "2014",
+          "mediaHint": "",
+          "tmdbId": 64710,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113886",
+          "sourceTitle": "我的英雄學院 FINAL SEASON",
+          "year": "2025",
+          "mediaHint": "",
+          "tmdbId": 65930,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114172",
+          "sourceTitle": "夏目友人帳 柒",
+          "year": "2024",
+          "mediaHint": "",
+          "tmdbId": 69500,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113834",
+          "sourceTitle": "青春豬頭少年不會夢到聖誕服女郎",
+          "year": "2025",
+          "mediaHint": ""
+        },
+        {
+          "sn": "112965",
+          "sourceTitle": "機動戰士鋼彈 SEED HD Remaster",
+          "year": "2011",
+          "mediaHint": ""
+        },
+        {
+          "sn": "113011",
+          "sourceTitle": "SPY×FAMILY 間諜家家酒",
+          "year": "2022",
+          "mediaHint": "",
+          "tmdbId": 120089,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114159",
+          "sourceTitle": "青之蘆葦",
+          "year": "2022",
+          "mediaHint": "",
+          "tmdbId": 126437,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113149",
+          "sourceTitle": "BLEACH 死神 千年血戰篇",
+          "year": "2022",
+          "mediaHint": "",
+          "tmdbId": 30984,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "113528",
+          "sourceTitle": "我的英雄學院 第七季",
+          "year": "2024",
+          "mediaHint": ""
+        },
+        {
+          "sn": "113835",
+          "sourceTitle": "戀上換裝娃娃 Season 2",
+          "year": "2025",
+          "mediaHint": "",
+          "tmdbId": 123249,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "112463",
+          "sourceTitle": "排球少年！！第四季 Part 2",
+          "year": "2020",
+          "mediaHint": ""
+        },
+        {
+          "sn": "113134",
+          "sourceTitle": "我的英雄學院 第六季",
+          "year": "2022",
+          "mediaHint": ""
+        },
+        {
+          "sn": "86802",
+          "sourceTitle": "幼女戰記",
+          "year": "2017",
+          "mediaHint": "",
+          "tmdbId": 69346,
+          "mediaType": "tv"
+        }
+      ]
+    },
+    "yearly": {
+      "1": [
+        {
+          "sn": "114188",
+          "sourceTitle": "闇機 DARK MACHINE",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 306565,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114217",
+          "sourceTitle": "和沒有信徒的女神大人一起攻略異世界",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 288588,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114200",
+          "sourceTitle": "螢火蟲的出嫁",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 320909,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114203",
+          "sourceTitle": "朱色假面",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 295420,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114227",
+          "sourceTitle": "鐵旅！meet with 鐵道少女",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 302020,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114202",
+          "sourceTitle": "暗部共生少女",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 284580,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114197",
+          "sourceTitle": "冰劍的魔術師將要統一世界 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 200777,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114220",
+          "sourceTitle": "新網球王子 U-17 WORLD CUP 世界盃決賽成員決定戰",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114192",
+          "sourceTitle": "獸王武神丹帝拜恩",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 323937,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114193",
+          "sourceTitle": "重生者的魔法一定要特別 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114194",
+          "sourceTitle": "佐佐木與文鳥小嗶 Season 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 206630,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114190",
+          "sourceTitle": "世界最強的魔女，就此開始",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 321518,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114189",
+          "sourceTitle": "偵探已經，死了。Season 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 117061,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114191",
+          "sourceTitle": "魔法騎士雷阿斯",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 303272,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114186",
+          "sourceTitle": "亂世千金倪亞．利斯頓轉生為嬌弱千金的弒神武人華麗無雙錄",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 312850,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114187",
+          "sourceTitle": "冷淡的佐藤同學只對我撒嬌",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 316891,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114183",
+          "sourceTitle": "Battle Spirits [Re] 絕界之空",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 316551,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114184",
+          "sourceTitle": "被放逐的作弊賦予魔術師享受隨心所欲的第二人生。",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 313346,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114218",
+          "sourceTitle": "魔法少女育成計畫 restart",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 337277,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114182",
+          "sourceTitle": "超巡！超條前輩",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 327765,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114209",
+          "sourceTitle": "學生會也有洞！",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 283938,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114179",
+          "sourceTitle": "青之蘆葦 第二季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 126437,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114180",
+          "sourceTitle": "你好，身為魔女的我，被心上人委託製作迷情藥",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 313068,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114216",
+          "sourceTitle": "來自遠方",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 329096,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114181",
+          "sourceTitle": "轉生哥布林有問題嗎？",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 316694,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114207",
+          "sourceTitle": "至高之力",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 317259,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114210",
+          "sourceTitle": "用【循環利息】強制收回借出的魔力",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 333622,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114214",
+          "sourceTitle": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 303060,
+          "mediaType": "tv"
+        }
+      ],
+      "2": [
+        {
+          "sn": "114219",
+          "sourceTitle": "小狸貓和小狐狸",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114208",
+          "sourceTitle": "魔法★探險家",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 335194,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114211",
+          "sourceTitle": "大叔喜歡可愛小玩意",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 330505,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114212",
+          "sourceTitle": "一覺醒來就有了最強裝備跟太空船 決定以自家獨棟建築為目標當傭兵自由過活",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 283692,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114201",
+          "sourceTitle": "KERORO 軍曹☆",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 308977,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114206",
+          "sourceTitle": "黑色五葉草 Season 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 73223,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114205",
+          "sourceTitle": "轉生後的大聖女，極力隱瞞聖女的身分",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 285899,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114204",
+          "sourceTitle": "The Anime「幻想水滸傳」",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 285710,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114198",
+          "sourceTitle": "黑化吧！聖女大人 第二季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 293124,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114196",
+          "sourceTitle": "FX 戰士久留美",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 311842,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114195",
+          "sourceTitle": "轉生就是劍 第二季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 134667,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114215",
+          "sourceTitle": "轉生貴族憑鑑定技能扭轉人生 第三季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 237150,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114166",
+          "sourceTitle": "怪獸 8 號 原創短篇動畫 鳴海的平日",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114229",
+          "sourceTitle": "套房裡的助教大人",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 324546,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114107",
+          "sourceTitle": "BLEACH 死神 千年血戰篇-禍進譚-",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 30984,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114112",
+          "sourceTitle": "擅長逃跑的殿下 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114138",
+          "sourceTitle": "我是不才惡女",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 286345,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114108",
+          "sourceTitle": "花織即使是轉生也想打架",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 312266,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114139",
+          "sourceTitle": "香蕉喵 10 週年紀念篇",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114099",
+          "sourceTitle": "盜墓王",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 297826,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114097",
+          "sourceTitle": "Clevatess Ⅱ－魔獸之王與虛假的勇者傳承－",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114105",
+          "sourceTitle": "澈底對你成癮",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 314561,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114123",
+          "sourceTitle": "不虐待我的繼母與繼姐",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114098",
+          "sourceTitle": "女性向遊戲世界對路人角色很不友好 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114096",
+          "sourceTitle": "幼女戰記 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 69346,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114104",
+          "sourceTitle": "拯救替身千金的是冷酷無情冰之王子的愛",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114236",
+          "sourceTitle": "赤河戀影",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 314054,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114125",
+          "sourceTitle": "GRAND BLUE 碧藍之海 3",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 79166,
+          "mediaType": "tv"
+        }
+      ],
+      "3": [
+        {
+          "sn": "114095",
+          "sourceTitle": "奇招百出的維多利亞",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 302519,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114143",
+          "sourceTitle": "感謝對戰。～大小姐才不玩格鬥遊戲～",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 117120,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114142",
+          "sourceTitle": "與妳相戀到生命盡頭",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 285574,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114092",
+          "sourceTitle": "與奔馳於透明之夜的你，談一場看不見的戀愛。",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 309974,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114094",
+          "sourceTitle": "無用聖女的異世界美食之旅 憑藉隱藏技能召喚露營車",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 325158,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114093",
+          "sourceTitle": "鬥球女彈子",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 295840,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114126",
+          "sourceTitle": "碧藍航線 微速前進！2！！",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 109805,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114140",
+          "sourceTitle": "Animatica「北斗之拳 拳王軍雜兵們的輓歌」",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114122",
+          "sourceTitle": "Grow Up Show ～向日葵馬戲團～",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 296101,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114102",
+          "sourceTitle": "才女的侍從 在滿是高嶺之花的貴族學校暗中照顧（毫無生活自理能力的）學院第一大小姐",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 312849,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114109",
+          "sourceTitle": "相反的你和我 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114144",
+          "sourceTitle": "再見菈菈",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 295071,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114119",
+          "sourceTitle": "世界最強後衛 ～迷宮國的新人探索者～",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 300267,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114127",
+          "sourceTitle": "穹廬下的魔女",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 288971,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114134",
+          "sourceTitle": "鬼的新娘",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 293489,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114137",
+          "sourceTitle": "魔法少女奈葉 EXCEEDS Gun Blaze Vengeance",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 287075,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114128",
+          "sourceTitle": "從後面來的神威先生",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 325052,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114135",
+          "sourceTitle": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 2nd Season",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 280049,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114116",
+          "sourceTitle": "BLACK TORCH 闇黑燈火",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 285993,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114115",
+          "sourceTitle": "無職轉生～到了異世界就拿出真本事～第三季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114133",
+          "sourceTitle": "我家的弟弟們真是讓您費心了",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 307585,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114117",
+          "sourceTitle": "骸骨騎士大人異世界冒險中 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114136",
+          "sourceTitle": "岩元前輩的推薦",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 324335,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114114",
+          "sourceTitle": "畫完這個再去死",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 287028,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114124",
+          "sourceTitle": "從 0 位居民開始的邊境領主大人",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 296437,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114120",
+          "sourceTitle": "少女怪獸焦糖戀心",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 308874,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114100",
+          "sourceTitle": "文豪野犬 汪！第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114141",
+          "sourceTitle": "令和妖神斑小姐",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 312507,
+          "mediaType": "tv"
+        }
+      ],
+      "4": [
+        {
+          "sn": "114121",
+          "sourceTitle": "BanG Dream！YUME∞MITA",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 300112,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114118",
+          "sourceTitle": "遭到流放的轉生重騎士憑藉遊戲知識大開無雙",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 270603,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114132",
+          "sourceTitle": "花樣少年少女 第二季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114113",
+          "sourceTitle": "THE WORLD IS DANCING 世界在起舞",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 312020,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114106",
+          "sourceTitle": "貓與龍",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 284029,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114235",
+          "sourceTitle": "羅溫的男人",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 319728,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114158",
+          "sourceTitle": "好好相處吧",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114066",
+          "sourceTitle": "想看她一臉嫌惡地露出褲褲 R",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 80867,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114052",
+          "sourceTitle": "CANDY CARIES 蛀在糖糖裡",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 312383,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114055",
+          "sourceTitle": "想結束這場「我愛你」的遊戲",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 293697,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114056",
+          "sourceTitle": "女僕小姐的貪吃日常",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 299134,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114050",
+          "sourceTitle": "夜櫻家大作戰 第二季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 216467,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114029",
+          "sourceTitle": "黑貓與魔女的教室",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 297557,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114025",
+          "sourceTitle": "一疊間漫畫咖啡廳日常",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 295751,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114021",
+          "sourceTitle": "殺手青春",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 300131,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114020",
+          "sourceTitle": "弱弱老師",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 284447,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114058",
+          "sourceTitle": "小書痴的下剋上  為了成為圖書管理員不擇手段！領主的養女",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 91768,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114039",
+          "sourceTitle": "上伊那牡丹，醉姿如百合",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 283905,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114018",
+          "sourceTitle": "淡島百景",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 291403,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114032",
+          "sourceTitle": "神之雫",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 306121,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114012",
+          "sourceTitle": "庫吉馬唱歌的家",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 283888,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114011",
+          "sourceTitle": "女騎士成為蠻族新娘",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 273467,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114054",
+          "sourceTitle": "終末起點 第 2 季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 274671,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114014",
+          "sourceTitle": "出租女友 第五季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114033",
+          "sourceTitle": "女神「異世界轉生想成為什麼」我「勇者的肋骨」",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 312522,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114034",
+          "sourceTitle": "我回來了，他又來打擾了！",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 306790,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114008",
+          "sourceTitle": "左撇子艾倫",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 305567,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114044",
+          "sourceTitle": "Re：從零開始的異世界生活 第四季",
+          "year": "2026",
+          "mediaHint": ""
+        }
+      ],
+      "5": [
+        {
+          "sn": "114007",
+          "sourceTitle": "我和班上第二可愛的女生成為朋友",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 290019,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114049",
+          "sourceTitle": "成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻 第二季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 213326,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114006",
+          "sourceTitle": "百鬼夜行抄",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 318478,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114059",
+          "sourceTitle": "複製品的我也會談戀愛",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 284568,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114037",
+          "sourceTitle": "婚姻劇毒",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 301944,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114024",
+          "sourceTitle": "MAO 摩緒",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 295999,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114035",
+          "sourceTitle": "淫獄團地",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 316427,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114005",
+          "sourceTitle": "木頭風紀委員和迷你裙 JK 的故事",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 288551,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114031",
+          "sourceTitle": "茉莉花同學的好感度壞得很徹底",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 315816,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114042",
+          "sourceTitle": "異世界悠閒農家 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 196285,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114030",
+          "sourceTitle": "GHOST CONCERT : 失落之歌",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 303796,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114036",
+          "sourceTitle": "杖與劍的魔劍譚 Season 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 245842,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114027",
+          "sourceTitle": "主播女孩重度依賴",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 305329,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114022",
+          "sourceTitle": "楠木邸的神明庭院",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 296870,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114026",
+          "sourceTitle": "容易對付的惡魔大人",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 285818,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114023",
+          "sourceTitle": "朱音落語",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 297438,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114038",
+          "sourceTitle": "黃泉雙使",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114028",
+          "sourceTitle": "魔法姊妹露露特莉莉",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 286361,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114047",
+          "sourceTitle": "鑽石王牌 act2 第二季",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 60761,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114041",
+          "sourceTitle": "入間同學入魔了！第四季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114019",
+          "sourceTitle": "大賢者里德爾的時間逆行",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 313395,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114053",
+          "sourceTitle": "輕鬆小熊",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114017",
+          "sourceTitle": "關於我在無意間被隔壁的天使變成廢柴這件事 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 154743,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114016",
+          "sourceTitle": "吞噬魔物的冒險者",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 310921,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114040",
+          "sourceTitle": "關於我轉生變成史萊姆這檔事 第四季",
+          "year": "2026",
+          "mediaHint": ""
+        },
+        {
+          "sn": "114051",
+          "sourceTitle": "凍結地球",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 296232,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114057",
+          "sourceTitle": "你又被殺了呢，偵探大人",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 312293,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114015",
+          "sourceTitle": "輪迴的花瓣",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 261780,
+          "mediaType": "tv"
+        }
+      ]
+    }
+  }
+}

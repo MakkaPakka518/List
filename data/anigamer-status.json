@@ -1,5 +1,7 @@
 {
-  "ok": false,
-  "updatedAt": "",
-  "reason": "动画疯 GitHub Workflow 尚未首次运行"
+  "ok": true,
+  "updatedAt": "2026-11-05T20:56:58+00:00",
+  "matched": 225,
+  "total": 280,
+  "unmatched": 55
 }
