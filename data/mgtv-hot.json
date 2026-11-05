@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05 15:06:17",
+  "last_updated": "2026-11-06 04:09:05",
   "tv": [
     {
       "id": "285147",
@@ -120,21 +120,6 @@
       "backdropPath": "/2XUxqW1mMbEiqtq0Ldy5C5dnMPh.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,剧情"
-    },
-    {
-      "id": "314830",
-      "type": "tmdb",
-      "title": "深情为饵",
-      "description": "陆早早突遭意外，竟穿越成民国少夫人苏沐晚，醒来，却是丈夫枪口相对、父母冤案、连环下毒……她于绝境中步步破局，与“醋精”少爷凌慎行从生死对立到情根深重，可就在浓情蜜意时，她骤然梦醒归现代，转角竟撞见那个熟悉的“他”！",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 1.8547,
-      "releaseDate": "2026-08-09",
-      "lastUpdateDate": "2026-08-18",
-      "posterPath": "/fSs7UTouEaDPAsslFYbGzTpHgwn.jpg",
-      "backdropPath": "/lJcVMBV8c1GiDBXrhLZsbQU3jbN.jpg",
-      "mediaType": "tv",
-      "genreTitle": "剧情"
     },
     {
       "id": "328859",
@@ -542,21 +527,6 @@
       "genreTitle": ""
     },
     {
-      "id": "283950",
-      "type": "tmdb",
-      "title": "女神蒙上眼",
-      "description": "雷厉风行的“常胜律师”唐盈盈（辛芷蕾 饰）将职场视为战场，全力以赴追求不败战绩。一桩捍卫女性权益的案件使她声名大噪，但她特立独行的工作作风也在业内饱受争议。精英律师康俊（林雨申 饰）空降律所，成为唐盈盈的上司。二人在工作中屡生过节，关系势同水火。但也是在与康俊的“较量”中，她逐步消除自身的傲慢与偏见，在碰撞中厘清中国式“人情与法理”的难题，以律师本心洞悉案件真相，脱胎换骨，重塑自我。\n\n剧集采用单元故事结构，通过十余个法律案件串联起职场博弈、情感纠葛与社会思辨，展现法律条文在现实生活中的应用，也通过委托人的命运抉择折射出当代社会的多元议题。在一桩桩案件的经办过程中，唐盈盈愈加深刻地体味到人性的善恶交织以及通往公平正义之路的幽微曲折。与此同时，律所前辈戴佩琳（郑希怡 饰）、助理律师林小云（张艺上 饰）各自遭遇人生危机，唐盈盈披甲上阵，与她们比肩而行，以法律武器捍卫女性合法权益。最终，在理想与现实交锋、道德与欲望纠葛的职业征途中，唐盈盈完成了人生的“第二次成长”。",
-      "rating": 9.0,
-      "voteCount": 4,
-      "popularity": 5.3943,
-      "releaseDate": "2026-01-25",
-      "lastUpdateDate": "2026-02-08",
-      "posterPath": "/u8cZ69HBzkSDE5K3t5eJlL1TWVB.jpg",
-      "backdropPath": "/bSFkPYtOPoI1xEZucMfxYoFx58k.jpg",
-      "mediaType": "tv",
-      "genreTitle": "剧情"
-    },
-    {
       "id": "295430",
       "type": "tmdb",
       "title": "其实不是初恋",
@@ -801,7 +771,7 @@
       "type": "tmdb",
       "title": "你比星光美丽",
       "description": "纪星（谭松韵 饰），名牌大学毕业，专业知识过硬，毕业后入职广厦，摩拳擦掌，要给自己的人生创一个未来。结果现实的生活回她一集老拳。入职三年，没熬出头，还踩遍职场的坑，双脚血淋。小辣椒一样的性格让她整顿完职场潇洒离职，开始创业。她初生牛犊，但强在头脑聪慧，创业路上，有挫折，也有收获。她遇到了她的伯乐，也是投资人，韩廷（许凯 饰）。韩廷腹黑冷冽，对商场新手纪星，每次出手指点，必击要害。本以为会是一场调教之旅，这个女孩却一直给他惊喜，甚至让他懂得了爱……",
-      "rating": 8.344,
+      "rating": 8.3,
       "voteCount": 16,
       "popularity": 7.7471,
       "releaseDate": "2024-07-02",
@@ -825,6 +795,36 @@
       "backdropPath": "/t1UUewDsKWxNlDkTSTjkWINfJQk.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情"
+    },
+    {
+      "id": "294294",
+      "type": "tmdb",
+      "title": "少年田野",
+      "description": "正值青春期的少年田野, 因深陷连环伤人事件而成为众人瞩目的焦点。随着检察官陈峰的深入调查,田野的身世之谜以及背后隐藏的复仇阴谋逐渐浮出水面。在陈峰的努力下,田野的真实身份被揭开,原来他竟是为了保护他人而甘愿顶罪的受害者。最终,在正义与爱的力量下, 田野得以重生,而案件背后的黑手也得到了应有的惩罚。",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 2.1195,
+      "releaseDate": "2025-10-13",
+      "lastUpdateDate": "2025-10-23",
+      "posterPath": "/vIs8JQ5Qb8TPTDSGcMZHJQIyNSi.jpg",
+      "backdropPath": "/X9W9KTTSVR1vTWfw3ShS3VY8wH.jpg",
+      "mediaType": "tv",
+      "genreTitle": "犯罪"
+    },
+    {
+      "id": "290770",
+      "type": "tmdb",
+      "title": "无尽之海",
+      "description": "武馆大小姐亦然意外陷入了时间循环,被永远的困在了5月18 日。为了找到打破循环的方法,她只得接近与此事相关的文物数字修复员程诺,却不料两人竟被一同困在循环中。而这一循环的背后,似乎与两人的宿命息息相关",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 1.4602,
+      "releaseDate": "2025-10-12",
+      "lastUpdateDate": "2025-10-18",
+      "posterPath": "/1CWI4dYpSGVKGFrNnwZJm82RMDy.jpg",
+      "backdropPath": "/iBWMYU14bqaxQmPaFCP36rOnjy1.jpg",
+      "mediaType": "tv",
+      "genreTitle": "悬疑,科幻奇幻"
     },
     {
       "id": "294294",
@@ -1182,9 +1182,9 @@
       "voteCount": 1,
       "popularity": 3.1957,
       "releaseDate": "2023-11-07",
-      "lastUpdateDate": "2026-10-21",
+      "lastUpdateDate": "2026-11-04",
       "posterPath": "/3mcekQNoJFgciDfKRoKpW7JrD1X.jpg",
-      "backdropPath": "/7qeO3CpGXGQx6AcHmsYm9SOTNIF.jpg",
+      "backdropPath": "/oDsJr57a2H29P4DVzZLUCztVMPZ.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
@@ -1270,7 +1270,7 @@
       "description": "节目由谢楠担任核心主理人，每期邀约一位专业领域学者和一位艺人好友，共赴一场博物馆夜游之约。以夜间专属的独特视角，解锁闭馆后博物馆的沉静肌理与万千气象；内容深耕展品背后的历史脉络与人文故事，锚定当下社会议题延伸跨界对谈，既传递「仰观宇宙之大，俯察品类之盛」的理性视野，也蕴藏「已识乾坤大，犹怜草木心」的人文温度。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 0.9577,
+      "popularity": 0.7814,
       "releaseDate": "2026-09-07",
       "lastUpdateDate": "2026-10-19",
       "posterPath": "/malkGx8sSZp6h4Z464AVR9gDB6A.jpg",
@@ -1570,7 +1570,7 @@
       "description": "《名侦探学院》作为《明星大侦探》第五季的衍生节目，是由芒果TV推出的选拔侦探助理参与《明星大侦探》节目录制的明星推理综艺秀。明星嘉宾在棋格上通过掷骰子决定前进步数，触发游戏时需要完成相应游戏，率先达到终点的嘉宾成为当期No.1，节目结合团队战与个人战的竞赛形式，激发明星嘉宾的智商与逻辑能力的较量。节目中抉择出的No.1将出现在《明星大侦探》第五季的现场。《名侦探学院》由蒲熠星、周峻纬、唐九洲、齐思钧、石凯、郭文韬、邵明明等组成首发阵容，于2019年11月3日首播。",
       "rating": 7.3,
       "voteCount": 3,
-      "popularity": 30.3272,
+      "popularity": 31.2836,
       "releaseDate": "2019-11-03",
       "lastUpdateDate": "2026-03-29",
       "posterPath": "/wuUvhZ2WLqX1z0b1NXkapWoov9j.jpg",
