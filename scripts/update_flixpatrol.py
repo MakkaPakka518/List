@@ -10,10 +10,18 @@ from scrapling.fetchers import StealthySession
 
 ROOT_URL = "https://flixpatrol.com/top10/"
 COUNTRY_URL = "https://flixpatrol.com/top10/streaming/{country}/"
-WORLD_URL = "https://flixpatrol.com/top10/streaming/world/today/full/"
+WORLD_URL = ROOT_URL
 OUTPUT_DIR = Path("data/flixpatrol")
 COUNTRY_LINK = re.compile(r"^/top10/[^/]+/([^/]+)/(20\d{2}-\d{2}-\d{2})/$")
 HEADING_INFO = re.compile(r"^(.*?) TOP 10 in (.*?) on ([A-Z][a-z]+ \d{1,2}, \d{4})$")
+MAIN_COUNTRIES = (
+    "world", "united-states", "hong-kong", "taiwan", "singapore", "malaysia",
+    "united-kingdom", "spain", "nigeria", "canada", "south-korea", "japan",
+    "australia", "new-zealand", "india", "thailand", "indonesia", "philippines",
+    "vietnam", "germany", "france", "italy", "netherlands", "sweden", "brazil",
+    "mexico", "argentina", "turkey", "united-arab-emirates", "saudi-arabia",
+    "south-africa",
+)
 
 
 def clean_text(value):
@@ -150,15 +158,13 @@ def main():
     ) as session:
         world_page = fetch_page(session, ROOT_URL)
         countries = extract_countries(world_page)
-        selected = requested or list(countries)
-        if requested:
-            selected = [slug for slug in selected if slug in countries]
+        selected = [slug for slug in (requested or MAIN_COUNTRIES) if slug in countries]
         print(f"Discovered {len(countries)} countries; fetching {len(selected)} pages")
 
         for index, slug in enumerate(selected, 1):
-            url = WORLD_URL if slug == "world" else COUNTRY_URL.format(country=slug)
             try:
-                data = parse_country_page(fetch_page(session, url), slug, countries[slug])
+                page = world_page if slug == "world" else fetch_page(session, COUNTRY_URL.format(country=slug))
+                data = parse_country_page(page, slug, countries[slug])
                 write_json(OUTPUT_DIR / f"{slug}.json", data)
                 results.append(data)
                 print(f"[{index}/{len(selected)}] {slug}: {len(data['platforms'])} platforms")
@@ -176,7 +182,7 @@ def main():
             platform_names.setdefault(slug, platform["name"])
     available = [
         {"slug": slug, "name": countries[slug], "file": f"{slug}.json"}
-        for slug in countries
+        for slug in selected
         if (OUTPUT_DIR / f"{slug}.json").exists()
     ]
     index_data = {

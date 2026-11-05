@@ -12,7 +12,7 @@
 | 芒果TV | 剧集 + 王牌综艺 | `data/mgtv-hot.json` |
 | 各平台剧场 | 迷雾/白夜/X/恋恋… 15 个剧场（已开播/即将） | `data/theater-data.json` |
 | 热门番剧 | bgm.tv 排名 + TMDB 匹配 | `data/bangumi-hot.json` |
-| FlixPatrol | 全球各国家/地区的 Netflix、Disney+、Apple TV、Prime、HBO 等每日 TOP 10 | `data/flixpatrol/*.json` |
+| FlixPatrol | 全球主要国家/地区的 Netflix、Disney+、Apple TV、Prime、HBO 等每日 TOP 10 | `data/flixpatrol/*.json` |
 
 每个条目都经过 TMDB 匹配，自带 `title / rating / posterPath / mediaType / releaseDate` 等完整字段。
 

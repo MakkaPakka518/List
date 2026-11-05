@@ -1,0 +1,1032 @@
+{
+  "schemaVersion": 1,
+  "source": "FlixPatrol",
+  "sourceUrl": "https://flixpatrol.com/top10/streaming/philippines/",
+  "updatedAt": "2026-11-05T17:03:14+00:00",
+  "chartDate": "2026-11-05",
+  "country": {
+    "slug": "philippines",
+    "name": "Philippines"
+  },
+  "platforms": {
+    "viu": {
+      "name": "Viu",
+      "charts": {
+        "tv": [
+          {
+            "rank": 1,
+            "title": "Family by Choice",
+            "sourcePath": "/title/family-by-choice/",
+            "movement": "–",
+            "days": "351 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 2,
+            "title": "Beauty Empire",
+            "sourcePath": "/title/beauty-empire/",
+            "movement": "–",
+            "days": "351 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 3,
+            "title": "Doctor John",
+            "sourcePath": "/title/doctor-john/",
+            "movement": "–",
+            "days": "351 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 4,
+            "title": "Exploration Method of Love",
+            "sourcePath": "/title/exploration-method-of-love/",
+            "movement": "–",
+            "days": "351 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 5,
+            "title": "Fireworks of My Heart",
+            "sourcePath": "/title/fireworks-of-my-heart/",
+            "movement": "–",
+            "days": "351 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 6,
+            "title": "Secret Love",
+            "sourcePath": "/title/secret-love/",
+            "movement": "–",
+            "days": "351 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 7,
+            "title": "Pyramid Game",
+            "sourcePath": "/title/pyramid-game/",
+            "movement": "–",
+            "days": "351 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 8,
+            "title": "Ski into Love",
+            "sourcePath": "/title/ski-into-love/",
+            "movement": "–",
+            "days": "351 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 9,
+            "title": "Falling Into Your Smile",
+            "sourcePath": "/title/falling-into-your-smile/",
+            "movement": "–",
+            "days": "351 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 10,
+            "title": "Queen Woo",
+            "sourcePath": "/title/queen-woo/",
+            "movement": "–",
+            "days": "351 d",
+            "mediaType": "tv"
+          }
+        ]
+      }
+    },
+    "netflix": {
+      "name": "Netflix",
+      "charts": {
+        "movies": [
+          {
+            "rank": 1,
+            "title": "Final Destination Bloodlines",
+            "sourcePath": "/title/final-destination-bloodlines/",
+            "movement": "–",
+            "days": "3 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Collision Course",
+            "sourcePath": "/title/collision-course-2026/",
+            "movement": "–",
+            "days": "4 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "Rush Hour",
+            "sourcePath": "/title/rush-hour/",
+            "movement": "–",
+            "days": "1 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "Sonic the Hedgehog 3",
+            "sourcePath": "/title/sonic-the-hedgehog-3/",
+            "movement": "–",
+            "days": "3 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "Rush Hour 2",
+            "sourcePath": "/title/rush-hour-2/",
+            "movement": "–",
+            "days": "1 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "The Hobbit: An Unexpected Journey",
+            "sourcePath": "/title/the-hobbit-an-unexpected-journey/",
+            "movement": "–",
+            "days": "3 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "The Hobbit: The Battle of the Five Armies",
+            "sourcePath": "/title/the-hobbit-the-battle-of-the-five-armies/",
+            "movement": "–",
+            "days": "3 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "The Hobbit: The Desolation of Smaug",
+            "sourcePath": "/title/the-hobbit-the-desolation-of-smaug/",
+            "movement": "–",
+            "days": "3 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "The Nun",
+            "sourcePath": "/title/the-nun/",
+            "movement": "–",
+            "days": "3 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "The Conjuring",
+            "sourcePath": "/title/the-conjuring/",
+            "movement": "–",
+            "days": "7 d",
+            "mediaType": "movie"
+          }
+        ],
+        "tv": [
+          {
+            "rank": 1,
+            "title": "Dead-End Job",
+            "sourcePath": "/title/dead-end-job/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 2,
+            "title": "Doctor X: Mafia in White",
+            "sourcePath": "/title/doctor-x-mafia-in-white/",
+            "movement": "–",
+            "days": "26 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 3,
+            "title": "Balaraw: Blood Island",
+            "sourcePath": "/title/balaraw-blood-island/",
+            "movement": "–",
+            "days": "6 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 4,
+            "title": "The Master Cutter",
+            "sourcePath": "/title/the-master-cutter/",
+            "movement": "–",
+            "days": "92 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 5,
+            "title": "100 Days of Deception",
+            "sourcePath": "/title/100-days-of-deception/",
+            "movement": "–",
+            "days": "24 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 6,
+            "title": "Raw",
+            "sourcePath": "/title/raw-1993/",
+            "movement": "–",
+            "days": "1 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 7,
+            "title": "Take Charge of My Heart",
+            "sourcePath": "/title/take-charge-of-my-heart/",
+            "movement": "–",
+            "days": "26 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 8,
+            "title": "Someone, Someday",
+            "sourcePath": "/title/someone-someday/",
+            "movement": "–",
+            "days": "88 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 9,
+            "title": "Lupin",
+            "sourcePath": "/title/lupin/",
+            "movement": "–",
+            "days": "10 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 10,
+            "title": "Mommy Guard",
+            "sourcePath": "/title/mommy-guard/",
+            "movement": "–",
+            "days": "14 d",
+            "mediaType": "tv"
+          }
+        ]
+      }
+    },
+    "hbo-max": {
+      "name": "HBO Max",
+      "charts": {
+        "movies": [
+          {
+            "rank": 1,
+            "title": "Se7en",
+            "sourcePath": "/title/se7en/",
+            "movement": "n/a",
+            "days": "",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Ghost in the Shell",
+            "sourcePath": "/title/ghost-in-the-shell/",
+            "movement": "+1",
+            "days": "2 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "The Super Mario Galaxy Movie",
+            "sourcePath": "/title/the-super-mario-galaxy-movie/",
+            "movement": "-1",
+            "days": "19 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "The Cat in the Hat",
+            "sourcePath": "/title/the-cat-in-the-hat-2003/",
+            "movement": "-3",
+            "days": "2 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "The Grinch",
+            "sourcePath": "/title/the-grinch/",
+            "movement": "+2",
+            "days": "1 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "Forbidden Fruits",
+            "sourcePath": "/title/forbidden-fruits/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "Crawlspace",
+            "sourcePath": "/title/crawlspace-2022/",
+            "movement": "+1",
+            "days": "1 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "Rise of the Guardians",
+            "sourcePath": "/title/rise-of-the-guardians/",
+            "movement": "+1",
+            "days": "1 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "Wardriver",
+            "sourcePath": "/title/wardriver/",
+            "movement": "-5",
+            "days": "12 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "Pacific Rim: Uprising",
+            "sourcePath": "/title/pacific-rim-uprising/",
+            "movement": "-5",
+            "days": "2 d",
+            "mediaType": "movie"
+          }
+        ],
+        "tv": [
+          {
+            "rank": 1,
+            "title": "Make Me Tingle",
+            "sourcePath": "/title/make-me-tingle/",
+            "movement": "+2",
+            "days": "20 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 2,
+            "title": "MobLand",
+            "sourcePath": "/title/mobland/",
+            "movement": "–",
+            "days": "132 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 3,
+            "title": "The Gilded Age",
+            "sourcePath": "/title/the-gilded-age/",
+            "movement": "-2",
+            "days": "77 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 4,
+            "title": "IT: Welcome to Derry",
+            "sourcePath": "/title/it-welcome-to-derry/",
+            "movement": "+1",
+            "days": "87 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 5,
+            "title": "MasterChef Asia",
+            "sourcePath": "/title/masterchef-asia/",
+            "movement": "-1",
+            "days": "41 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 6,
+            "title": "The Ordinary Jackpot",
+            "sourcePath": "/title/the-ordinary-jackpot/",
+            "movement": "n/a",
+            "days": "53 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 7,
+            "title": "War",
+            "sourcePath": "/title/war-2026/",
+            "movement": "-1",
+            "days": "33 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 8,
+            "title": "Strange: Junji Ito's Tales for Sleepless Nights",
+            "sourcePath": "/title/strange-junji-itos-tales-for-sleepless-nights/",
+            "movement": "+1",
+            "days": "24 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 9,
+            "title": "Lanterns",
+            "sourcePath": "/title/lanterns/",
+            "movement": "n/a",
+            "days": "77 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 10,
+            "title": "Youth",
+            "sourcePath": "/title/youth-2026-2/",
+            "movement": "–",
+            "days": "11 d",
+            "mediaType": "tv"
+          }
+        ]
+      }
+    },
+    "amazon-prime": {
+      "name": "Amazon Prime",
+      "charts": {
+        "overall": [
+          {
+            "rank": 1,
+            "title": "LOL: Last One Laughing Philippines",
+            "sourcePath": "/title/lol-last-one-laughing-philippines-2024/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 2,
+            "title": "Love in Disguise",
+            "sourcePath": "/title/love-in-disguise/",
+            "movement": "–",
+            "days": "15 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 3,
+            "title": "Apocalypse Z: New World",
+            "sourcePath": "/title/apocalypse-z-new-world/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "A Love Other Than Yours",
+            "sourcePath": "/title/a-love-other-than-yours/",
+            "movement": "–",
+            "days": "52 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 5,
+            "title": "Honor Thy Mother",
+            "sourcePath": "/title/honor-thy-mother/",
+            "movement": "–",
+            "days": "54 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 6,
+            "title": "The Terminal List",
+            "sourcePath": "/title/the-terminal-list/",
+            "movement": "–",
+            "days": "14 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 7,
+            "title": "Final Table",
+            "sourcePath": "/title/final-table/",
+            "movement": "–",
+            "days": "8 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 8,
+            "title": "Backrooms",
+            "sourcePath": "/title/backrooms/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "sourcePath": "/title/harry-potter-and-the-philosophers-stone/",
+            "movement": "–",
+            "days": "6 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "Sakamoto Days",
+            "sourcePath": "/title/sakamoto-days-2026/",
+            "movement": "–",
+            "days": "1 d",
+            "mediaType": "movie"
+          }
+        ],
+        "movies": [
+          {
+            "rank": 1,
+            "title": "Apocalypse Z: New World",
+            "sourcePath": "/title/apocalypse-z-new-world/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Backrooms",
+            "sourcePath": "/title/backrooms/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "sourcePath": "/title/harry-potter-and-the-philosophers-stone/",
+            "movement": "–",
+            "days": "6 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "Sakamoto Days",
+            "sourcePath": "/title/sakamoto-days-2026/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "In the Grey",
+            "sourcePath": "/title/in-the-grey/",
+            "movement": "–",
+            "days": "20 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "Apocalypse Z: The Beginning of the End",
+            "sourcePath": "/title/apocalypse-z-the-beginning-of-the-end/",
+            "movement": "–",
+            "days": "102 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "Drive - The Pretenders",
+            "sourcePath": "/title/drive-the-pretenders/",
+            "movement": "–",
+            "days": "7 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "Harry Potter and the Chamber of Secrets",
+            "sourcePath": "/title/harry-potter-and-the-chamber-of-secrets/",
+            "movement": "–",
+            "days": "2 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "Masterplan",
+            "sourcePath": "/title/masterplan/",
+            "movement": "–",
+            "days": "19 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "The Hallowed",
+            "sourcePath": "/title/the-hallowed/",
+            "movement": "–",
+            "days": "11 d",
+            "mediaType": "movie"
+          }
+        ],
+        "tv": [
+          {
+            "rank": 1,
+            "title": "LOL: Last One Laughing Philippines",
+            "sourcePath": "/title/lol-last-one-laughing-philippines-2024/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 2,
+            "title": "Love in Disguise",
+            "sourcePath": "/title/love-in-disguise/",
+            "movement": "–",
+            "days": "16 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 3,
+            "title": "A Love Other Than Yours",
+            "sourcePath": "/title/a-love-other-than-yours/",
+            "movement": "–",
+            "days": "52 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 4,
+            "title": "Honor Thy Mother",
+            "sourcePath": "/title/honor-thy-mother/",
+            "movement": "–",
+            "days": "54 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 5,
+            "title": "The Terminal List",
+            "sourcePath": "/title/the-terminal-list/",
+            "movement": "–",
+            "days": "14 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 6,
+            "title": "Final Table",
+            "sourcePath": "/title/final-table/",
+            "movement": "–",
+            "days": "10 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 7,
+            "title": "Carrie",
+            "sourcePath": "/title/carrie-2026/",
+            "movement": "–",
+            "days": "28 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 8,
+            "title": "Comedy Island Philippines",
+            "sourcePath": "/title/comedy-island-philippines/",
+            "movement": "–",
+            "days": "105 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 9,
+            "title": "Marry My Husband",
+            "sourcePath": "/title/marry-my-husband/",
+            "movement": "–",
+            "days": "1009 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 10,
+            "title": "The Loyalty Game",
+            "sourcePath": "/title/the-loyalty-game/",
+            "movement": "–",
+            "days": "121 d",
+            "mediaType": "tv"
+          }
+        ]
+      }
+    },
+    "apple-tv": {
+      "name": "Apple TV",
+      "charts": {
+        "movies": [
+          {
+            "rank": 1,
+            "title": "Sunshine",
+            "sourcePath": "/title/sunshine/",
+            "movement": "–",
+            "days": "3 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Mamma Mia!",
+            "sourcePath": "/title/mamma-mia/",
+            "movement": "–",
+            "days": "3 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "Matchbox",
+            "sourcePath": "/title/matchbox/",
+            "movement": "–",
+            "days": "26 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "Ready Player One",
+            "sourcePath": "/title/ready-player-one/",
+            "movement": "–",
+            "days": "34 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "Mad Max: Fury Road",
+            "sourcePath": "/title/mad-max-fury-road/",
+            "movement": "+1",
+            "days": "2 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "Spider-Man: Far from Home",
+            "sourcePath": "/title/spider-man-far-from-home/",
+            "movement": "+1",
+            "days": "34 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "Eat Pray Love",
+            "sourcePath": "/title/eat-pray-love/",
+            "movement": "+1",
+            "days": "1 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "Mayday",
+            "sourcePath": "/title/mayday-2026/",
+            "movement": "-3",
+            "days": "61 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "F1",
+            "sourcePath": "/title/f1/",
+            "movement": "–",
+            "days": "327 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "The Proposal",
+            "sourcePath": "/title/the-proposal/",
+            "movement": "–",
+            "days": "64 d",
+            "mediaType": "movie"
+          }
+        ],
+        "tv": [
+          {
+            "rank": 1,
+            "title": "Nocturne",
+            "sourcePath": "/title/nocturne-2026/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 2,
+            "title": "Stick",
+            "sourcePath": "/title/stick-2025/",
+            "movement": "n/a",
+            "days": "79 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 3,
+            "title": "Ted Lasso",
+            "sourcePath": "/title/ted-lasso/",
+            "movement": "-1",
+            "days": "1008 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 4,
+            "title": "Slow Horses",
+            "sourcePath": "/title/slow-horses/",
+            "movement": "-1",
+            "days": "550 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 5,
+            "title": "Silo",
+            "sourcePath": "/title/silo-2023/",
+            "movement": "–",
+            "days": "927 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 6,
+            "title": "Dark Matter",
+            "sourcePath": "/title/dark-matter-2024/",
+            "movement": "-2",
+            "days": "424 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 7,
+            "title": "Monarch: Legacy of Monsters",
+            "sourcePath": "/title/monarch-legacy-of-monsters/",
+            "movement": "–",
+            "days": "784 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 8,
+            "title": "Widow's Bay",
+            "sourcePath": "/title/widows-bay/",
+            "movement": "-2",
+            "days": "189 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 9,
+            "title": "Severance",
+            "sourcePath": "/title/severance-2022/",
+            "movement": "-1",
+            "days": "966 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 10,
+            "title": "Brothers",
+            "sourcePath": "/title/brothers-2026-2/",
+            "movement": "n/a",
+            "days": "29 d",
+            "mediaType": "tv"
+          }
+        ]
+      }
+    },
+    "itunes": {
+      "name": "Apple TV Store",
+      "charts": {
+        "movies": [
+          {
+            "rank": 1,
+            "title": "Resident Evil",
+            "sourcePath": "/title/resident-evil-2026/",
+            "movement": "–",
+            "days": "2 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Obsession",
+            "sourcePath": "/title/obsession-2026/",
+            "movement": "–",
+            "days": "115 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "Spider-Man: Brand New Day",
+            "sourcePath": "/title/spider-man-brand-new-day/",
+            "movement": "+1",
+            "days": "30 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "The End of Oak Street",
+            "sourcePath": "/title/the-end-of-oak-street/",
+            "movement": "-1",
+            "days": "44 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+            "sourcePath": "/title/the-hunger-games-the-ballad-of-songbirds-snakes/",
+            "movement": "–",
+            "days": "304 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "The Housemaid",
+            "sourcePath": "/title/the-housemaid-2025/",
+            "movement": "–",
+            "days": "241 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "The Odyssey",
+            "sourcePath": "/title/the-odyssey-2026/",
+            "movement": "+2",
+            "days": "22 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "Disclosure Day",
+            "sourcePath": "/title/disclosure-day/",
+            "movement": "–",
+            "days": "98 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "Avatar Aang: The Last Airbender",
+            "sourcePath": "/title/avatar-aang-the-last-airbender/",
+            "movement": "-2",
+            "days": "58 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "Insidious: Out of the Further",
+            "sourcePath": "/title/insidious-out-of-the-further/",
+            "movement": "+1",
+            "days": "30 d",
+            "mediaType": "movie"
+          }
+        ]
+      }
+    },
+    "google": {
+      "name": "Google",
+      "charts": {
+        "movies": [
+          {
+            "rank": 1,
+            "title": "Spider-Man: Brand New Day",
+            "sourcePath": "/title/spider-man-brand-new-day/",
+            "movement": "–",
+            "days": "18 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Insidious: Out of the Further",
+            "sourcePath": "/title/insidious-out-of-the-further/",
+            "movement": "–",
+            "days": "13 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "The End of Oak Street",
+            "sourcePath": "/title/the-end-of-oak-street/",
+            "movement": "–",
+            "days": "10 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "PAW Patrol: The Dino Movie",
+            "sourcePath": "/title/paw-patrol-the-dino-movie/",
+            "movement": "–",
+            "days": "18 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "Practical Magic 2",
+            "sourcePath": "/title/practical-magic-2/",
+            "movement": "–",
+            "days": "10 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "Love, Ngo",
+            "sourcePath": "/title/love-ngo/",
+            "movement": "–",
+            "days": "8 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "Obsession",
+            "sourcePath": "/title/obsession-2026/",
+            "movement": "–",
+            "days": "112 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "Avatar Aang: The Last Airbender",
+            "sourcePath": "/title/avatar-aang-the-last-airbender/",
+            "movement": "–",
+            "days": "18 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "Disclosure Day",
+            "sourcePath": "/title/disclosure-day/",
+            "movement": "–",
+            "days": "97 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+            "sourcePath": "/title/the-hunger-games-the-ballad-of-songbirds-snakes/",
+            "movement": "–",
+            "days": "142 d",
+            "mediaType": "movie"
+          }
+        ]
+      }
+    }
+  }
+}

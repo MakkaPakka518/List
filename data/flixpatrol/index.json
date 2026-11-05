@@ -1,16 +1,174 @@
 {
   "schemaVersion": 1,
   "source": "FlixPatrol",
-  "updatedAt": "2026-11-05T16:50:30+00:00",
+  "updatedAt": "2026-11-05T17:04:39+00:00",
   "chartDate": "2026-11-05",
   "countries": [
+    {
+      "slug": "world",
+      "name": "Worldwide",
+      "file": "world.json"
+    },
     {
       "slug": "united-states",
       "name": "United States",
       "file": "united-states.json"
+    },
+    {
+      "slug": "hong-kong",
+      "name": "Hong Kong",
+      "file": "hong-kong.json"
+    },
+    {
+      "slug": "taiwan",
+      "name": "Taiwan",
+      "file": "taiwan.json"
+    },
+    {
+      "slug": "singapore",
+      "name": "Singapore",
+      "file": "singapore.json"
+    },
+    {
+      "slug": "malaysia",
+      "name": "Malaysia",
+      "file": "malaysia.json"
+    },
+    {
+      "slug": "united-kingdom",
+      "name": "United Kingdom",
+      "file": "united-kingdom.json"
+    },
+    {
+      "slug": "spain",
+      "name": "Spain",
+      "file": "spain.json"
+    },
+    {
+      "slug": "nigeria",
+      "name": "Nigeria",
+      "file": "nigeria.json"
+    },
+    {
+      "slug": "canada",
+      "name": "Canada",
+      "file": "canada.json"
+    },
+    {
+      "slug": "south-korea",
+      "name": "South Korea",
+      "file": "south-korea.json"
+    },
+    {
+      "slug": "japan",
+      "name": "Japan",
+      "file": "japan.json"
+    },
+    {
+      "slug": "australia",
+      "name": "Australia",
+      "file": "australia.json"
+    },
+    {
+      "slug": "new-zealand",
+      "name": "New Zealand",
+      "file": "new-zealand.json"
+    },
+    {
+      "slug": "india",
+      "name": "India",
+      "file": "india.json"
+    },
+    {
+      "slug": "thailand",
+      "name": "Thailand",
+      "file": "thailand.json"
+    },
+    {
+      "slug": "indonesia",
+      "name": "Indonesia",
+      "file": "indonesia.json"
+    },
+    {
+      "slug": "philippines",
+      "name": "Philippines",
+      "file": "philippines.json"
+    },
+    {
+      "slug": "vietnam",
+      "name": "Vietnam",
+      "file": "vietnam.json"
+    },
+    {
+      "slug": "germany",
+      "name": "Germany",
+      "file": "germany.json"
+    },
+    {
+      "slug": "france",
+      "name": "France",
+      "file": "france.json"
+    },
+    {
+      "slug": "italy",
+      "name": "Italy",
+      "file": "italy.json"
+    },
+    {
+      "slug": "netherlands",
+      "name": "Netherlands",
+      "file": "netherlands.json"
+    },
+    {
+      "slug": "sweden",
+      "name": "Sweden",
+      "file": "sweden.json"
+    },
+    {
+      "slug": "brazil",
+      "name": "Brazil",
+      "file": "brazil.json"
+    },
+    {
+      "slug": "mexico",
+      "name": "Mexico",
+      "file": "mexico.json"
+    },
+    {
+      "slug": "argentina",
+      "name": "Argentina",
+      "file": "argentina.json"
+    },
+    {
+      "slug": "turkey",
+      "name": "Turkey",
+      "file": "turkey.json"
+    },
+    {
+      "slug": "united-arab-emirates",
+      "name": "United Arab Emirates",
+      "file": "united-arab-emirates.json"
+    },
+    {
+      "slug": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "file": "saudi-arabia.json"
+    },
+    {
+      "slug": "south-africa",
+      "name": "South Africa",
+      "file": "south-africa.json"
     }
   ],
   "platforms": [
+    {
+      "slug": "TrueID",
+      "name": "TrueID"
+    },
+    {
+      "slug": "abema",
+      "name": "Abema"
+    },
     {
       "slug": "amazon",
       "name": "Amazon"
@@ -20,8 +178,24 @@
       "name": "Amazon Channels"
     },
     {
+      "slug": "amazon-movies",
+      "name": "Amazon Movies"
+    },
+    {
       "slug": "amazon-prime",
       "name": "Amazon Prime"
+    },
+    {
+      "slug": "amazon-prime-movies",
+      "name": "Amazon Prime Movies"
+    },
+    {
+      "slug": "amazon-prime-tv-shows",
+      "name": "Amazon Prime Tv Shows"
+    },
+    {
+      "slug": "amazon-tv-shows",
+      "name": "Amazon Tv Shows"
     },
     {
       "slug": "amc-plus",
@@ -32,8 +206,52 @@
       "name": "Apple TV"
     },
     {
+      "slug": "apple-tv-movies",
+      "name": "Apple Tv Movies"
+    },
+    {
+      "slug": "apple-tv-tv-shows",
+      "name": "Apple Tv Tv Shows"
+    },
+    {
+      "slug": "binge",
+      "name": "Binge"
+    },
+    {
+      "slug": "canal",
+      "name": "Canal+"
+    },
+    {
+      "slug": "catchplay",
+      "name": "Catchplay"
+    },
+    {
+      "slug": "chili",
+      "name": "Chili"
+    },
+    {
+      "slug": "chili-movies",
+      "name": "Chili Movies"
+    },
+    {
+      "slug": "claro-video",
+      "name": "Claro Video"
+    },
+    {
+      "slug": "coupang-play",
+      "name": "Coupang Play"
+    },
+    {
+      "slug": "crave",
+      "name": "Crave"
+    },
+    {
       "slug": "crunchyroll",
       "name": "Crunchyroll"
+    },
+    {
+      "slug": "danime",
+      "name": "dAnime"
     },
     {
       "slug": "discovery-plus",
@@ -44,32 +262,152 @@
       "name": "Disney+"
     },
     {
+      "slug": "disney-movies",
+      "name": "Disney Movies"
+    },
+    {
+      "slug": "disney-tv-shows",
+      "name": "Disney Tv Shows"
+    },
+    {
+      "slug": "france-tv",
+      "name": "france.tv"
+    },
+    {
+      "slug": "friday",
+      "name": "friDay"
+    },
+    {
+      "slug": "globoplay",
+      "name": "Globoplay"
+    },
+    {
       "slug": "google",
       "name": "Google"
+    },
+    {
+      "slug": "google-movies",
+      "name": "Google Movies"
+    },
+    {
+      "slug": "hami-video",
+      "name": "Hami Video"
+    },
+    {
+      "slug": "hayu",
+      "name": "hayu"
     },
     {
       "slug": "hbo-max",
       "name": "HBO Max"
     },
     {
+      "slug": "hbo-max-movies",
+      "name": "Hbo Max Movies"
+    },
+    {
+      "slug": "hbo-max-tv-shows",
+      "name": "Hbo Max Tv Shows"
+    },
+    {
+      "slug": "hotstar",
+      "name": "Hotstar"
+    },
+    {
       "slug": "hulu",
       "name": "Hulu"
+    },
+    {
+      "slug": "hulu-nippon",
+      "name": "Hulu (Nippon)"
+    },
+    {
+      "slug": "infinity-plus",
+      "name": "Infinity+"
     },
     {
       "slug": "itunes",
       "name": "Apple TV Store"
     },
     {
+      "slug": "itunes-movies",
+      "name": "Itunes Movies"
+    },
+    {
+      "slug": "itunes-tv-shows",
+      "name": "Itunes Tv Shows"
+    },
+    {
+      "slug": "joyn",
+      "name": "Joyn"
+    },
+    {
+      "slug": "lemino",
+      "name": "Lemino"
+    },
+    {
+      "slug": "lionsgate-plus",
+      "name": "Lionsgate+"
+    },
+    {
+      "slug": "m6plus",
+      "name": "M6+"
+    },
+    {
+      "slug": "mewatch",
+      "name": "meWatch"
+    },
+    {
       "slug": "mgm-plus",
       "name": "MGM"
+    },
+    {
+      "slug": "mubi",
+      "name": "MUBI"
+    },
+    {
+      "slug": "myvideo",
+      "name": "MyVideo"
+    },
+    {
+      "slug": "neon-tv",
+      "name": "Neon TV"
     },
     {
       "slug": "netflix",
       "name": "Netflix"
     },
     {
+      "slug": "netflix-movies",
+      "name": "Netflix Movies"
+    },
+    {
+      "slug": "netflix-tv-shows",
+      "name": "Netflix Tv Shows"
+    },
+    {
+      "slug": "now",
+      "name": "NOW"
+    },
+    {
+      "slug": "ocs",
+      "name": "OCS"
+    },
+    {
+      "slug": "osn",
+      "name": "OSN"
+    },
+    {
       "slug": "paramount-plus",
       "name": "Paramount+"
+    },
+    {
+      "slug": "paramount-plus-movies",
+      "name": "Paramount Plus Movies"
+    },
+    {
+      "slug": "paramount-plus-tv-shows",
+      "name": "Paramount Plus Tv Shows"
     },
     {
       "slug": "peacock",
@@ -80,24 +418,88 @@
       "name": "Pluto"
     },
     {
+      "slug": "raiplay",
+      "name": "RAI"
+    },
+    {
+      "slug": "rakuten-tv",
+      "name": "Rakuten TV"
+    },
+    {
+      "slug": "rakuten-tv-movies",
+      "name": "Rakuten Tv Movies"
+    },
+    {
+      "slug": "rtl-plus",
+      "name": "RTL+"
+    },
+    {
+      "slug": "sbs",
+      "name": "SBS"
+    },
+    {
+      "slug": "shahid",
+      "name": "Shahid"
+    },
+    {
       "slug": "shudder",
       "name": "Shudder"
+    },
+    {
+      "slug": "skyshowtime",
+      "name": "SkyShowtime"
     },
     {
       "slug": "sony-pictures-core",
       "name": "Sony Pictures Core"
     },
     {
+      "slug": "stan",
+      "name": "Stan"
+    },
+    {
       "slug": "starz",
       "name": "Starz"
+    },
+    {
+      "slug": "telasa",
+      "name": "Telasa"
+    },
+    {
+      "slug": "tf1",
+      "name": "TF1"
     },
     {
       "slug": "tubi",
       "name": "Tubi"
     },
     {
+      "slug": "u-next",
+      "name": "U-Next"
+    },
+    {
+      "slug": "universal-plus",
+      "name": "Universal+"
+    },
+    {
+      "slug": "viaplay",
+      "name": "Viaplay"
+    },
+    {
+      "slug": "videoland",
+      "name": "Videoland"
+    },
+    {
+      "slug": "vidio",
+      "name": "Vidio"
+    },
+    {
       "slug": "viki",
       "name": "Viki TV"
+    },
+    {
+      "slug": "viu",
+      "name": "Viu"
     },
     {
       "slug": "vix",
@@ -106,6 +508,18 @@
     {
       "slug": "vudu",
       "name": "Vudu"
+    },
+    {
+      "slug": "wavve",
+      "name": "Wavve"
+    },
+    {
+      "slug": "wow",
+      "name": "WOW"
+    },
+    {
+      "slug": "zee5",
+      "name": "ZEE5"
     }
   ],
   "failures": []

@@ -1,0 +1,1094 @@
+{
+  "schemaVersion": 1,
+  "source": "FlixPatrol",
+  "sourceUrl": "https://flixpatrol.com/top10/streaming/india/",
+  "updatedAt": "2026-11-05T17:02:54+00:00",
+  "chartDate": "2026-11-05",
+  "country": {
+    "slug": "india",
+    "name": "India"
+  },
+  "platforms": {
+    "netflix": {
+      "name": "Netflix",
+      "charts": {
+        "movies": [
+          {
+            "rank": 1,
+            "title": "Baththa",
+            "sourcePath": "/title/baththa/",
+            "movement": "–",
+            "days": "6 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Don't Trouble the Trouble",
+            "sourcePath": "/title/dont-trouble-the-trouble/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "Sigma",
+            "sourcePath": "/title/sigma/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "Gajab Raat",
+            "sourcePath": "/title/gajab-raat/",
+            "movement": "–",
+            "days": "12 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "Meethe Mein Kya Hai",
+            "sourcePath": "/title/meethe-mein-kya-hai/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "Avaraachan & Sons",
+            "sourcePath": "/title/avaraachan-sons/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "Dorothy",
+            "sourcePath": "/title/dorothy/",
+            "movement": "–",
+            "days": "12 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "SI Yugandhar",
+            "sourcePath": "/title/si-yugandhar/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "The Paradise",
+            "sourcePath": "/title/the-paradise/",
+            "movement": "–",
+            "days": "13 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "Collision Course",
+            "sourcePath": "/title/collision-course-2026/",
+            "movement": "–",
+            "days": "1 d",
+            "mediaType": "movie"
+          }
+        ],
+        "tv": [
+          {
+            "rank": 1,
+            "title": "Akka",
+            "sourcePath": "/title/akka/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 2,
+            "title": "Dead-End Job",
+            "sourcePath": "/title/dead-end-job/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 3,
+            "title": "The Great Indian Kapil Show",
+            "sourcePath": "/title/the-great-indian-kapil-show/",
+            "movement": "–",
+            "days": "475 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 4,
+            "title": "Raw",
+            "sourcePath": "/title/raw-1993/",
+            "movement": "–",
+            "days": "1 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 5,
+            "title": "Dhindora",
+            "sourcePath": "/title/dhindora/",
+            "movement": "–",
+            "days": "7 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 6,
+            "title": "MTV Roadies",
+            "sourcePath": "/title/mtv-roadies/",
+            "movement": "–",
+            "days": "19 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 7,
+            "title": "Lupin",
+            "sourcePath": "/title/lupin/",
+            "movement": "–",
+            "days": "12 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 8,
+            "title": "Shaque: Trust No One",
+            "sourcePath": "/title/shaque-trust-no-one/",
+            "movement": "–",
+            "days": "41 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 9,
+            "title": "Least Eligible Bachelor",
+            "sourcePath": "/title/least-eligible-bachelor/",
+            "movement": "–",
+            "days": "26 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 10,
+            "title": "Doctor X: Mafia in White",
+            "sourcePath": "/title/doctor-x-mafia-in-white/",
+            "movement": "–",
+            "days": "18 d",
+            "mediaType": "tv"
+          }
+        ],
+        "kids_movies": [
+          {
+            "rank": 1,
+            "title": "Swapped",
+            "sourcePath": "/title/swapped-2026/",
+            "movement": "–",
+            "days": "187 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "KPop Demon Hunters",
+            "sourcePath": "/title/kpop-demon-hunters/",
+            "movement": "–",
+            "days": "496 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "Hotel Transylvania 2",
+            "sourcePath": "/title/hotel-transylvania-2/",
+            "movement": "–",
+            "days": "64 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "Hotel Transylvania 3: Summer Vacation",
+            "sourcePath": "/title/hotel-transylvania-3-summer-vacation/",
+            "movement": "–",
+            "days": "64 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "Hotel Transylvania",
+            "sourcePath": "/title/hotel-transylvania/",
+            "movement": "–",
+            "days": "63 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "The Angry Birds Movie 2",
+            "sourcePath": "/title/the-angry-birds-movie-2/",
+            "movement": "–",
+            "days": "461 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "We Can Be Heroes",
+            "sourcePath": "/title/we-can-be-heroes-2020/",
+            "movement": "+1",
+            "days": "683 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "A Minecraft Movie",
+            "sourcePath": "/title/a-minecraft-movie/",
+            "movement": "+1",
+            "days": "61 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "How to Train Your Dragon",
+            "sourcePath": "/title/how-to-train-your-dragon-2025/",
+            "movement": "-2",
+            "days": "22 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "The Angry Birds Movie",
+            "sourcePath": "/title/the-angry-birds-movie/",
+            "movement": "n/a",
+            "days": "173 d",
+            "mediaType": "movie"
+          }
+        ],
+        "kids_tv": [
+          {
+            "rank": 1,
+            "title": "Masha and the Bear",
+            "sourcePath": "/title/masha-and-the-bear/",
+            "movement": "–",
+            "days": "984 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 2,
+            "title": "Man Vs Baby",
+            "sourcePath": "/title/man-vs-baby/",
+            "movement": "–",
+            "days": "313 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 3,
+            "title": "Unicorn Academy: Secrets Revealed",
+            "sourcePath": "/title/unicorn-academy-secrets-revealed/",
+            "movement": "–",
+            "days": "199 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 4,
+            "title": "Hot Wheels Let's Race: Attack of the T-Rex",
+            "sourcePath": "/title/hot-wheels-lets-race-attack-of-the-t-rex/",
+            "movement": "–",
+            "days": "15 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 5,
+            "title": "Mighty Bheem's Playtime",
+            "sourcePath": "/title/mighty-bheems-playtime/",
+            "movement": "–",
+            "days": "911 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 6,
+            "title": "Spike",
+            "sourcePath": "/title/spike-1900/",
+            "movement": "–",
+            "days": "19 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 7,
+            "title": "Peppa Pig",
+            "sourcePath": "/title/peppa-pig/",
+            "movement": "–",
+            "days": "883 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 8,
+            "title": "Jurassic World Camp Cretaceous",
+            "sourcePath": "/title/jurassic-world-camp-cretaceous/",
+            "movement": "+1",
+            "days": "904 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 9,
+            "title": "Mermaid Magic",
+            "sourcePath": "/title/mermaid-magic/",
+            "movement": "-1",
+            "days": "62 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 10,
+            "title": "Mighty Little Bheem",
+            "sourcePath": "/title/mighty-little-bheem/",
+            "movement": "–",
+            "days": "397 d",
+            "mediaType": "tv"
+          }
+        ]
+      }
+    },
+    "amazon-prime": {
+      "name": "Amazon Prime",
+      "charts": {
+        "overall": [
+          {
+            "rank": 1,
+            "title": "Mirzapur: The Movie",
+            "sourcePath": "/title/mirzapur-the-movie/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Rise and Fall",
+            "sourcePath": "/title/rise-and-fall/",
+            "movement": "–",
+            "days": "39 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 3,
+            "title": "Comrade Kalyan",
+            "sourcePath": "/title/comrade-kalyan/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "Chaar Yaar",
+            "sourcePath": "/title/chaar-yaar/",
+            "movement": "–",
+            "days": "12 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 5,
+            "title": "Love in Disguise",
+            "sourcePath": "/title/love-in-disguise/",
+            "movement": "–",
+            "days": "3 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 6,
+            "title": "Jailer",
+            "sourcePath": "/title/jailer/",
+            "movement": "–",
+            "days": "29 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "Khalifa: The Ruler",
+            "sourcePath": "/title/khalifa-the-ruler/",
+            "movement": "–",
+            "days": "20 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "Dupahiya",
+            "sourcePath": "/title/dupahiya/",
+            "movement": "–",
+            "days": "32 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 9,
+            "title": "The Terminal List",
+            "sourcePath": "/title/the-terminal-list/",
+            "movement": "–",
+            "days": "13 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 10,
+            "title": "The Dark Heaven",
+            "sourcePath": "/title/the-dark-heaven/",
+            "movement": "–",
+            "days": "4 d",
+            "mediaType": "movie"
+          }
+        ],
+        "movies": [
+          {
+            "rank": 1,
+            "title": "Mirzapur: The Movie",
+            "sourcePath": "/title/mirzapur-the-movie/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Comrade Kalyan",
+            "sourcePath": "/title/comrade-kalyan/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "Jailer",
+            "sourcePath": "/title/jailer/",
+            "movement": "–",
+            "days": "120 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "Khalifa: The Ruler",
+            "sourcePath": "/title/khalifa-the-ruler/",
+            "movement": "–",
+            "days": "25 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "The Dark Heaven",
+            "sourcePath": "/title/the-dark-heaven/",
+            "movement": "–",
+            "days": "5 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "Awarapan 2",
+            "sourcePath": "/title/awarapan-2/",
+            "movement": "–",
+            "days": "26 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "Drive - The Pretenders",
+            "sourcePath": "/title/drive-the-pretenders/",
+            "movement": "–",
+            "days": "6 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "Apocalypse Z: New World",
+            "sourcePath": "/title/apocalypse-z-new-world/",
+            "movement": "–",
+            "days": "4 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "Anakapalli",
+            "sourcePath": "/title/anakapalli/",
+            "movement": "–",
+            "days": "1 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "Lenin Pandiyan",
+            "sourcePath": "/title/lenin-pandiyan/",
+            "movement": "–",
+            "days": "19 d",
+            "mediaType": "movie"
+          }
+        ],
+        "tv": [
+          {
+            "rank": 1,
+            "title": "Rise and Fall",
+            "sourcePath": "/title/rise-and-fall/",
+            "movement": "–",
+            "days": "39 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 2,
+            "title": "Chaar Yaar",
+            "sourcePath": "/title/chaar-yaar/",
+            "movement": "–",
+            "days": "12 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 3,
+            "title": "Love in Disguise",
+            "sourcePath": "/title/love-in-disguise/",
+            "movement": "–",
+            "days": "9 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 4,
+            "title": "Dupahiya",
+            "sourcePath": "/title/dupahiya/",
+            "movement": "–",
+            "days": "34 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 5,
+            "title": "The Terminal List",
+            "sourcePath": "/title/the-terminal-list/",
+            "movement": "–",
+            "days": "14 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 6,
+            "title": "Duniya Ki Thain Thain",
+            "sourcePath": "/title/duniya-ki-thain-thain/",
+            "movement": "–",
+            "days": "10 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 7,
+            "title": "The Traitors",
+            "sourcePath": "/title/the-traitors/",
+            "movement": "–",
+            "days": "20 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 8,
+            "title": "Waiting Hai",
+            "sourcePath": "/title/waiting-hai/",
+            "movement": "–",
+            "days": "49 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 9,
+            "title": "Carrie",
+            "sourcePath": "/title/carrie-2026/",
+            "movement": "–",
+            "days": "28 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 10,
+            "title": "Final Table",
+            "sourcePath": "/title/final-table/",
+            "movement": "–",
+            "days": "2 d",
+            "mediaType": "tv"
+          }
+        ]
+      }
+    },
+    "apple-tv": {
+      "name": "Apple TV",
+      "charts": {
+        "movies": [
+          {
+            "rank": 1,
+            "title": "F1",
+            "sourcePath": "/title/f1/",
+            "movement": "–",
+            "days": "327 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Tenzing",
+            "sourcePath": "/title/tenzing/",
+            "movement": "–",
+            "days": "19 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "Matchbox",
+            "sourcePath": "/title/matchbox/",
+            "movement": "–",
+            "days": "26 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "Mayday",
+            "sourcePath": "/title/mayday-2026/",
+            "movement": "–",
+            "days": "61 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "The Last First: Winter K2",
+            "sourcePath": "/title/the-last-first-winter-k2/",
+            "movement": "–",
+            "days": "33 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "The Gorge",
+            "sourcePath": "/title/the-gorge/",
+            "movement": "–",
+            "days": "604 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "The Family Plan",
+            "sourcePath": "/title/the-family-plan/",
+            "movement": "+1",
+            "days": "1013 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "Ghosted",
+            "sourcePath": "/title/ghosted-2023/",
+            "movement": "-1",
+            "days": "1013 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "The Family Plan 2",
+            "sourcePath": "/title/the-family-plan-2/",
+            "movement": "–",
+            "days": "348 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "Wolfs",
+            "sourcePath": "/title/wolfs/",
+            "movement": "–",
+            "days": "645 d",
+            "mediaType": "movie"
+          }
+        ],
+        "tv": [
+          {
+            "rank": 1,
+            "title": "Slow Horses",
+            "sourcePath": "/title/slow-horses/",
+            "movement": "–",
+            "days": "797 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 2,
+            "title": "Ted Lasso",
+            "sourcePath": "/title/ted-lasso/",
+            "movement": "–",
+            "days": "1013 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 3,
+            "title": "Nocturne",
+            "sourcePath": "/title/nocturne-2026/",
+            "movement": "+1",
+            "days": "5 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 4,
+            "title": "Dark Matter",
+            "sourcePath": "/title/dark-matter-2024/",
+            "movement": "-1",
+            "days": "419 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 5,
+            "title": "Silo",
+            "sourcePath": "/title/silo-2023/",
+            "movement": "–",
+            "days": "723 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 6,
+            "title": "Stick",
+            "sourcePath": "/title/stick-2025/",
+            "movement": "n/a",
+            "days": "65 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 7,
+            "title": "Brothers",
+            "sourcePath": "/title/brothers-2026-2/",
+            "movement": "n/a",
+            "days": "32 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 8,
+            "title": "The Morning Show",
+            "sourcePath": "/title/the-morning-show/",
+            "movement": "-2",
+            "days": "878 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 9,
+            "title": "Severance",
+            "sourcePath": "/title/severance-2022/",
+            "movement": "-2",
+            "days": "929 d",
+            "mediaType": "tv"
+          },
+          {
+            "rank": 10,
+            "title": "Monarch: Legacy of Monsters",
+            "sourcePath": "/title/monarch-legacy-of-monsters/",
+            "movement": "-1",
+            "days": "773 d",
+            "mediaType": "tv"
+          }
+        ]
+      }
+    },
+    "itunes": {
+      "name": "Apple TV Store",
+      "charts": {
+        "movies": [
+          {
+            "rank": 1,
+            "title": "Spider-Man: Brand New Day",
+            "sourcePath": "/title/spider-man-brand-new-day/",
+            "movement": "–",
+            "days": "29 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Resident Evil",
+            "sourcePath": "/title/resident-evil-2026/",
+            "movement": "–",
+            "days": "1 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "Obsession",
+            "sourcePath": "/title/obsession-2026/",
+            "movement": "–",
+            "days": "117 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "The Odyssey",
+            "sourcePath": "/title/the-odyssey-2026/",
+            "movement": "–",
+            "days": "22 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "Heart of the Beast",
+            "sourcePath": "/title/heart-of-the-beast/",
+            "movement": "+3",
+            "days": "9 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "The End of Oak Street",
+            "sourcePath": "/title/the-end-of-oak-street/",
+            "movement": "-1",
+            "days": "33 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "sourcePath": "/title/eternal-sunshine-of-the-spotless-mind/",
+            "movement": "-1",
+            "days": "90 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "The Furious",
+            "sourcePath": "/title/the-furious/",
+            "movement": "+1",
+            "days": "97 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "John Wick",
+            "sourcePath": "/title/john-wick/",
+            "movement": "n/a",
+            "days": "50 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "Dune: Part Two",
+            "sourcePath": "/title/dune-part-two/",
+            "movement": "-3",
+            "days": "413 d",
+            "mediaType": "movie"
+          }
+        ]
+      }
+    },
+    "google": {
+      "name": "Google",
+      "charts": {
+        "movies": [
+          {
+            "rank": 1,
+            "title": "Spider-Man: Brand New Day",
+            "sourcePath": "/title/spider-man-brand-new-day/",
+            "movement": "–",
+            "days": "18 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 2,
+            "title": "Aaina",
+            "sourcePath": "/title/aaina/",
+            "movement": "–",
+            "days": "51 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 3,
+            "title": "Obsession",
+            "sourcePath": "/title/obsession-2026/",
+            "movement": "–",
+            "days": "83 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 4,
+            "title": "Gangs of Wasseypur - Part 2",
+            "sourcePath": "/title/gangs-of-wasseypur-part-2/",
+            "movement": "–",
+            "days": "270 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 5,
+            "title": "F1",
+            "sourcePath": "/title/f1/",
+            "movement": "–",
+            "days": "285 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 6,
+            "title": "Gangs of Wasseypur – Part 1",
+            "sourcePath": "/title/gangs-of-wasseypur-–-part-1/",
+            "movement": "–",
+            "days": "250 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 7,
+            "title": "The Big-Hearted Will Take Away the Bride",
+            "sourcePath": "/title/the-big-hearted-will-take-away-the-bride/",
+            "movement": "–",
+            "days": "908 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 8,
+            "title": "Drishyam",
+            "sourcePath": "/title/drishyam/",
+            "movement": "–",
+            "days": "169 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 9,
+            "title": "Veer-Zaara",
+            "sourcePath": "/title/veer-zaara/",
+            "movement": "–",
+            "days": "908 d",
+            "mediaType": "movie"
+          },
+          {
+            "rank": 10,
+            "title": "Sultan",
+            "sourcePath": "/title/sultan/",
+            "movement": "–",
+            "days": "851 d",
+            "mediaType": "movie"
+          }
+        ]
+      }
+    },
+    "hotstar": {
+      "name": "Hotstar",
+      "charts": {
+        "overall": [
+          {
+            "rank": 1,
+            "title": "Bigg Boss Marathi",
+            "sourcePath": "/title/bigg-boss-marathi/",
+            "movement": "–",
+            "days": "349 d"
+          },
+          {
+            "rank": 2,
+            "title": "Aata Hou De Dhingaana",
+            "sourcePath": "/title/aata-hou-de-dhingaana/",
+            "movement": "–",
+            "days": "322 d"
+          },
+          {
+            "rank": 3,
+            "title": "Baipan Bhari Deva",
+            "sourcePath": "/title/baipan-bhari-deva/",
+            "movement": "–",
+            "days": "428 d"
+          },
+          {
+            "rank": 4,
+            "title": "Ved",
+            "sourcePath": "/title/ved/",
+            "movement": "–",
+            "days": "522 d"
+          },
+          {
+            "rank": 5,
+            "title": "The Legend of Hanuman",
+            "sourcePath": "/title/the-legend-of-hanuman/",
+            "movement": "–",
+            "days": "18 d"
+          },
+          {
+            "rank": 6,
+            "title": "Mirai",
+            "sourcePath": "/title/mirai-2025/",
+            "movement": "–",
+            "days": "64 d"
+          },
+          {
+            "rank": 7,
+            "title": "Zara Hatke Zara Bachke",
+            "sourcePath": "/title/zara-hatke-zara-bachke/",
+            "movement": "–",
+            "days": "29 d"
+          },
+          {
+            "rank": 8,
+            "title": "Duniyadari",
+            "sourcePath": "/title/duniyadari/",
+            "movement": "–",
+            "days": "271 d"
+          },
+          {
+            "rank": 9,
+            "title": "Birdcage Inn",
+            "sourcePath": "/title/birdcage-inn/",
+            "movement": "–",
+            "days": "1 d"
+          },
+          {
+            "rank": 10,
+            "title": "Motu Patlu Stone Age Adventures",
+            "sourcePath": "/title/motu-patlu-stone-age-adventures/",
+            "movement": "–",
+            "days": "11 d"
+          }
+        ]
+      }
+    },
+    "zee5": {
+      "name": "ZEE5",
+      "charts": {
+        "overall": [
+          {
+            "rank": 1,
+            "title": "Aasha",
+            "sourcePath": "/title/aasha/",
+            "movement": "–",
+            "days": "13 d"
+          },
+          {
+            "rank": 2,
+            "title": "Sumo Didi",
+            "sourcePath": "/title/sumo-didi/",
+            "movement": "–",
+            "days": "13 d"
+          },
+          {
+            "rank": 3,
+            "title": "Hi!",
+            "sourcePath": "/title/hi/",
+            "movement": "–",
+            "days": "41 d"
+          },
+          {
+            "rank": 4,
+            "title": "Pooja Meri Jaan",
+            "sourcePath": "/title/pooja-meri-jaan/",
+            "movement": "–",
+            "days": "34 d"
+          },
+          {
+            "rank": 5,
+            "title": "Agadha",
+            "sourcePath": "/title/agadha/",
+            "movement": "–",
+            "days": "41 d"
+          },
+          {
+            "rank": 6,
+            "title": "Jana Nayagan",
+            "sourcePath": "/title/jana-nayagan/",
+            "movement": "–",
+            "days": "16 d"
+          },
+          {
+            "rank": 7,
+            "title": "Parimala and Co",
+            "sourcePath": "/title/parimala-and-co/",
+            "movement": "–",
+            "days": "79 d"
+          },
+          {
+            "rank": 8,
+            "title": "Varavu",
+            "sourcePath": "/title/varavu/",
+            "movement": "–",
+            "days": "48 d"
+          },
+          {
+            "rank": 9,
+            "title": "Adkitta",
+            "sourcePath": "/title/adkitta/",
+            "movement": "–",
+            "days": "48 d"
+          },
+          {
+            "rank": 10,
+            "title": "Jeet Ki Zid",
+            "sourcePath": "/title/jeet-ki-zid/",
+            "movement": "–",
+            "days": "6 d"
+          }
+        ]
+      }
+    }
+  }
+}
