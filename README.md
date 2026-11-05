@@ -22,9 +22,10 @@ FlixPatrol 数据按国家拆分，`data/flixpatrol/index.json` 提供国家与�
 `.github/workflows/` 下 5 个工作流，各自按 cron 定时运行对应 `scripts/update_*.py`，抓取后**提交更新**到 `data/*.json`。
 
 ## widget.js（fw/rex 聚合模块）
-`widget.js` 是一个可直接加载的 ForwardWidget 模块，直接消费上面 5 个 `data/*.json`：
+`widget.js` 是一个可直接加载的 ForwardWidget 模块，直接消费仓库内的榜单 JSON：
 
-- **5 个子模块**：`loadGuduo` / `loadDouban` / `loadMangoTV` / `loadTheater` / `loadBangumi`
+- **6 个子模块**：`loadGuduo` / `loadDouban` / `loadMangoTV` / `loadTheater` / `loadBangumi` / `loadFlixPatrol`
+- FlixPatrol 子模块可选择国家/地区、平台和电影/剧集榜，并通过 rex 内置 TMDB 接口补全海报与详情
 - 每个模块带**排序方式**（默认原序 / 最近更新 / 最近发布 / 热度最高 / 高分优先）与**分页**
 - 条目为标准 `VideoItem`（`type:"tmdb"` + 数字 `id` + `mediaType`），点击走播放器内置 TMDB 详情页
 - 数据源默认指向本仓库 raw 地址，也可在模块 `globalParams.baseUrl` 里改
@@ -38,7 +39,7 @@ https://raw.githubusercontent.com/MakkaPakka518/List/main/widget.js
 
 ## 本地验证
 ```bash
-node test-widget.js   # 用真实 raw 数据回测 5 模块读取/映射/排序/分页
+node test-widget.js   # 用真实 raw 数据回测 6 模块读取/映射/排序/分页
 ```
 
 ## 目录

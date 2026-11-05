@@ -1,12 +1,12 @@
 // 全站榜单（List 仓库版）· fw/rex 聚合模块
 // 数据源： MakkaPakka518/List 仓库 data/*-hot.json（GitHub Actions 每日抓取提交）
-// 使用：在 Forward 里添加本文件的地址即可。5 个子模块：骨朵/豆瓣/芒果TV/各平台剧场/热门番剧
+// 使用：在 Forward 里添加本文件的地址即可。6 个子模块：骨朵/豆瓣/芒果TV/各平台剧场/热门番剧/FlixPatrol
 WidgetMetadata = {
   id: "makka.list.aggregator",
   title: "全站榜单 (List)",
-  version: "1.0.0",
+  version: "1.1.0",
   requiredVersion: "0.0.1",
-  description: "骨朵/豆瓣/芒果TV/各平台剧场/热门番剧 五源榜单（GitHub Actions 每日抓取）",
+  description: "骨朵/豆瓣/芒果TV/各平台剧场/热门番剧/FlixPatrol 全球流媒体榜单",
   author: "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
   site: "https://t.me/MakkaPakkaOvO",
   globalParams: [
@@ -66,6 +66,59 @@ WidgetMetadata = {
       params: [
         { name: "sort", title: "排序方式", type: "enumeration", value: "default", enumOptions: [{ title: "默認原序", value: "default" }, { title: "最近更新", value: "latestUpdate" }, { title: "最近發佈", value: "latestRelease" }, { title: "熱度最高", value: "hottest" }, { title: "高分優先", value: "highestRating" }] },
         { name: "page", title: "页码", type: "page", startPage: 1 },
+      ],
+    },
+    {
+      id: "loadFlixPatrol",
+      title: "FlixPatrol 全球榜",
+      functionName: "loadFlixPatrol",
+      cacheDuration: 3600,
+      params: [
+        {
+          name: "country",
+          title: "国家/地区",
+          type: "input",
+          value: "united-states",
+          placeholders: [
+            { title: "全球", value: "world" }, { title: "美国", value: "united-states" },
+            { title: "香港", value: "hong-kong" }, { title: "台湾", value: "taiwan" },
+            { title: "新加坡", value: "singapore" }, { title: "马来西亚", value: "malaysia" },
+            { title: "英国", value: "united-kingdom" }, { title: "西班牙", value: "spain" },
+            { title: "尼日利亚", value: "nigeria" }, { title: "加拿大", value: "canada" },
+            { title: "韩国", value: "south-korea" }, { title: "日本", value: "japan" },
+            { title: "澳大利亚", value: "australia" }, { title: "印度", value: "india" },
+            { title: "德国", value: "germany" }, { title: "法国", value: "france" },
+            { title: "巴西", value: "brazil" }, { title: "墨西哥", value: "mexico" },
+          ],
+        },
+        {
+          name: "platform",
+          title: "平台",
+          type: "enumeration",
+          value: "netflix",
+          enumOptions: [
+            { title: "全部平台", value: "all" }, { title: "Netflix", value: "netflix" },
+            { title: "Disney+", value: "disney" }, { title: "Apple TV", value: "apple-tv" },
+            { title: "Amazon Prime", value: "amazon-prime" }, { title: "HBO Max", value: "hbo-max" },
+            { title: "Paramount+", value: "paramount-plus" }, { title: "Hulu", value: "hulu" },
+            { title: "Peacock", value: "peacock" }, { title: "Apple TV Store", value: "itunes" },
+            { title: "自定义平台 slug", value: "custom" },
+          ],
+        },
+        { name: "platformSlug", title: "平台 slug", type: "input", value: "", belongTo: { paramName: "platform", value: ["custom"] } },
+        {
+          name: "chart",
+          title: "榜单",
+          type: "enumeration",
+          value: "all",
+          enumOptions: [
+            { title: "电影 + 剧集", value: "all" }, { title: "电影 TOP 10", value: "movies" },
+            { title: "剧集 TOP 10", value: "tv" }, { title: "综合 TOP 10", value: "overall" },
+            { title: "儿童电影", value: "kids_movies" }, { title: "儿童剧集", value: "kids_tv" },
+            { title: "Amazon Channels", value: "amazon_channels" },
+          ],
+        },
+        { name: "count", title: "数量", type: "count", value: "20" },
       ],
     },
   ],
@@ -144,4 +197,152 @@ async function loadBangumi(params = {}) {
   const res = await Widget.http.get((params.baseUrl || BASE) + "/bangumi-hot.json", { headers: UA_HEADERS });
   const list = (res.data && res.data.hot_anime) || [];
   return paginate(sortItems(list, params.sort), params.page);
+}
+
+const FLIX_ORIGIN = "https://flixpatrol.com";
+const FLIX_TMDB_CACHE = {};
+const FLIX_DETAIL_CACHE = {};
+
+function flixBody(response) {
+  let body = response && response.data !== undefined ? response.data : response;
+  if (typeof body === "string") {
+    try { body = JSON.parse(body); } catch (error) { return null; }
+  }
+  return body && typeof body === "object" ? body : null;
+}
+
+function flixSlug(value, fallback) {
+  const slug = String(value || fallback || "").trim().toLowerCase();
+  return /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug) ? slug : "";
+}
+
+function flixCount(value) {
+  const count = Number(value || 20);
+  return Number.isFinite(count) ? Math.min(40, Math.max(1, Math.floor(count))) : 20;
+}
+
+function flixTitleKey(value) {
+  return String(value || "").toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "");
+}
+
+function flixYear(item) {
+  const match = String(item && item.sourcePath || "").match(/-(19\d{2}|20\d{2})\/$/);
+  return match ? match[1] : "";
+}
+
+function flixMediaType(item, chart) {
+  if (item && (item.mediaType === "movie" || item.mediaType === "tv")) return item.mediaType;
+  if (chart === "movies" || chart === "kids_movies") return "movie";
+  if (chart === "tv" || chart === "kids_tv") return "tv";
+  return "";
+}
+
+function flixSourceUrl(item) {
+  const path = String(item && item.sourcePath || "");
+  return /^\/title\/[a-z0-9][a-z0-9-%]*\/$/.test(path) ? FLIX_ORIGIN + path : "";
+}
+
+async function flixFindTmdb(item, chart) {
+  const expectedType = flixMediaType(item, chart);
+  const cacheKey = `${expectedType || "multi"}:${flixTitleKey(item.title)}:${flixYear(item)}`;
+  if (Object.prototype.hasOwnProperty.call(FLIX_TMDB_CACHE, cacheKey)) return FLIX_TMDB_CACHE[cacheKey];
+  try {
+    const response = await Widget.tmdb.get(expectedType ? `search/${expectedType}` : "search/multi", {
+      params: { query: item.title, language: "zh-CN", include_adult: false },
+    });
+    const target = flixTitleKey(item.title);
+    const year = flixYear(item);
+    let best = null;
+    let bestScore = -1;
+    for (const candidate of response && response.results || []) {
+      const mediaType = expectedType || candidate.media_type;
+      const title = candidate.title || candidate.name || candidate.original_title || candidate.original_name || "";
+      if (!candidate.id || !["movie", "tv"].includes(mediaType) || flixTitleKey(title) !== target) continue;
+      const date = candidate.release_date || candidate.first_air_date || "";
+      const score = (year && date.startsWith(year) ? 1000 : 0) + Number(candidate.popularity || 0);
+      if (score > bestScore) {
+        best = { ...candidate, media_type: mediaType };
+        bestScore = score;
+      }
+    }
+    FLIX_TMDB_CACHE[cacheKey] = best;
+    return best;
+  } catch (error) {
+    console.warn("[loadFlixPatrol] TMDB 匹配失败:", error.message || error);
+    return null;
+  }
+}
+
+function flixChartName(chart) {
+  return ({ movies: "电影", tv: "剧集", overall: "综合", kids_movies: "儿童电影", kids_tv: "儿童剧集", amazon_channels: "Amazon Channels" })[chart] || chart;
+}
+
+function flixChartItems(platform, chart) {
+  const charts = platform && platform.charts || {};
+  if (chart === "all") {
+    return [...(charts.movies || []).map((item) => ({ item, chart: "movies" })), ...(charts.tv || []).map((item) => ({ item, chart: "tv" }))];
+  }
+  return (charts[chart] || []).map((item) => ({ item, chart }));
+}
+
+async function flixVideo(entry, platformName, countryName, chartDate) {
+  const item = entry.item;
+  const description = [
+    `#${item.rank}`, platformName, flixChartName(entry.chart), countryName, chartDate,
+    item.movement ? `变化 ${item.movement}` : "", item.days ? `在榜 ${item.days}` : "",
+  ].filter(Boolean).join(" · ");
+  const tmdb = await flixFindTmdb(item, entry.chart);
+  if (tmdb) {
+    return {
+      id: Number(tmdb.id), type: "tmdb", mediaType: tmdb.media_type, title: item.title,
+      posterPath: tmdb.poster_path || undefined, backdropPath: tmdb.backdrop_path || undefined,
+      releaseDate: tmdb.release_date || tmdb.first_air_date || undefined,
+      rating: tmdb.vote_average, description,
+    };
+  }
+  const link = flixSourceUrl(item);
+  if (!link) return null;
+  const result = { id: link, type: "url", title: item.title, description: `${description} · 未匹配到 TMDB`, link };
+  const mediaType = flixMediaType(item, entry.chart);
+  if (mediaType) result.mediaType = mediaType;
+  FLIX_DETAIL_CACHE[link] = result;
+  return result;
+}
+
+async function loadFlixPatrol(params = {}) {
+  try {
+    const country = flixSlug(params.country, "united-states");
+    const platformSlug = params.platform === "custom" ? flixSlug(params.platformSlug) : flixSlug(params.platform, "netflix");
+    if (!country || (!platformSlug && params.platform !== "all")) return [];
+    const response = await Widget.http.get(`${params.baseUrl || BASE}/flixpatrol/${country}.json`, { headers: UA_HEADERS });
+    const body = flixBody(response);
+    if (!body || body.schemaVersion !== 1 || !body.platforms) throw new Error("榜单 JSON 格式不正确");
+    const chart = ["all", "movies", "tv", "overall", "kids_movies", "kids_tv", "amazon_channels"].includes(params.chart) ? params.chart : "all";
+    let entries = [];
+    if (params.platform === "all") {
+      for (const slug of Object.keys(body.platforms)) {
+        const platform = body.platforms[slug];
+        entries.push(...flixChartItems(platform, chart).map((entry) => ({ ...entry, platformName: platform.name || slug })));
+      }
+    } else {
+      const platform = body.platforms[platformSlug];
+      if (!platform) return [];
+      entries = flixChartItems(platform, chart).map((entry) => ({ ...entry, platformName: platform.name || platformSlug }));
+    }
+    entries = entries.slice(0, flixCount(params.count));
+    const countryName = body.country && body.country.name || country;
+    const videos = await Promise.all(entries.map((entry) => flixVideo(entry, entry.platformName, countryName, body.chartDate || "")));
+    return videos.filter(Boolean);
+  } catch (error) {
+    console.error("[loadFlixPatrol] 失败:", error.message || error);
+    throw error;
+  }
+}
+
+async function loadDetail(link) {
+  const value = String(link || "").trim();
+  if (!/^https:\/\/flixpatrol\.com\/title\/[a-z0-9][a-z0-9-%]*\/$/.test(value)) return null;
+  if (FLIX_DETAIL_CACHE[value]) return FLIX_DETAIL_CACHE[value];
+  const slug = value.match(/\/title\/([^/]+)\//)[1].replace(/-19\d{2}$|-20\d{2}$/, "");
+  return { id: value, type: "url", title: slug.split("-").map((part) => part.charAt(0).toUpperCase() + part.slice(1)).join(" "), description: "FlixPatrol 榜单条目；未匹配到 TMDB。", link: value };
 }

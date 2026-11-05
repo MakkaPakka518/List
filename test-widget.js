@@ -4,7 +4,7 @@ const assert = require("assert");
 
 global.Widget = {
   http: { get: async (url) => ({ data: await (await fetch(url)).json() }) },
-  tmdb: { get: async () => { throw new Error("no tmdb"); } },
+  tmdb: { get: async () => ({ results: [] }) },
   storage: { _m: {}, get(k) { return this._m[k]; }, set(k, v) { this._m[k] = v; } },
 };
 global.WidgetMetadata = {};
@@ -13,10 +13,10 @@ eval(fs.readFileSync("./widget.js", "utf8"));
 (async () => {
   // 1. 元数据
   assert.ok(WidgetMetadata.id === "makka.list.aggregator", "id");
-  assert.equal(WidgetMetadata.modules.length, 5, "5 个模块");
+  assert.equal(WidgetMetadata.modules.length, 6, "6 个模块");
   const ids = WidgetMetadata.modules.map((m) => m.id).join(",");
-  assert.ok(ids.includes("loadGuduo") && ids.includes("loadTheater") && ids.includes("loadBangumi"), "模块齐全");
-  console.log("✓ 元数据：5 模块", ids);
+  assert.ok(ids.includes("loadGuduo") && ids.includes("loadTheater") && ids.includes("loadBangumi") && ids.includes("loadFlixPatrol"), "模块齐全");
+  console.log("✓ 元数据：6 模块", ids);
 
   // 2. 各模块真实读取
   const g = await loadGuduo({ category: "剧集" });
@@ -24,7 +24,11 @@ eval(fs.readFileSync("./widget.js", "utf8"));
   const m = await loadMangoTV({ sort_by: "tv" });
   const t = await loadTheater({ brand: "迷雾剧场", status: "all" });
   const b = await loadBangumi({});
-  console.log(`✓ 条数: guduo=${g.length} douban=${d.length} mgtv=${m.length} theater=${t.length} bangumi=${b.length}`);
+  const f = await loadFlixPatrol({ country: "hong-kong", platform: "netflix", chart: "movies", count: 10 });
+  console.log(`✓ 条数: guduo=${g.length} douban=${d.length} mgtv=${m.length} theater=${t.length} bangumi=${b.length} flixpatrol=${f.length}`);
+  assert.equal(f.length, 10, "FlixPatrol 香港 Netflix 电影榜");
+  assert.match(f[0].description, /Netflix · 电影 · Hong Kong/);
+  assert.equal(await loadDetail("https://evil.test/title/test/"), null);
 
   // 3. VideoItem 字段校验（用番剧，条目最全）
   assert.ok(b.length > 0, "番剧有数据");
