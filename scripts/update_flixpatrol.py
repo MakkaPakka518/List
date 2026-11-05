@@ -19,6 +19,7 @@ OUTPUT_DIR = Path("data/flixpatrol")
 TMDB_CACHE_FILE = OUTPUT_DIR / "tmdb-cache.json"
 COUNTRY_LINK = re.compile(r"^/top10/[^/]+/([^/]+)/(20\d{2}-\d{2}-\d{2})/$")
 HEADING_INFO = re.compile(r"^(.*?) TOP 10 in (.*?) on ([A-Z][a-z]+ \d{1,2}, \d{4})$")
+WORLD_HEADING_INFO = re.compile(r"^TOP (Movies|TV Shows) on (.*?) on ([A-Z][a-z]+ \d{1,2}, \d{4})$")
 MAIN_COUNTRIES = (
     "world", "united-states", "taiwan", "hong-kong", "singapore", "south-korea", "japan",
 )
@@ -285,7 +286,53 @@ def enrich_tmdb(results, session):
     print(f"TMDB enriched {matched}/{total} chart entries using source language en-US")
 
 
+def parse_world_page(page):
+    platforms = {}
+    chart_date = ""
+    for heading in page.css('h2[id^="toc-"]'):
+        texts = [clean_text(text) for text in heading.css("span::text").getall() if clean_text(text)]
+        match = WORLD_HEADING_INFO.match(texts[-1] if texts else "")
+        if not match:
+            continue
+        chart_title, platform_name, raw_date = match.groups()
+        chart = "movies" if chart_title == "Movies" else "tv"
+        chart_date = datetime.strptime(raw_date, "%B %d, %Y").date().isoformat()
+        raw_slug = str(heading.attrib.get("id", ""))[4:]
+        platform_slug = re.sub(r"-(?:movies|tv-shows)$", "", raw_slug)
+        items = []
+        for row in heading.parent.parent.css("table.card-table tr"):
+            cells = row.css("td")
+            links = row.css('a[href^="/title/"]')
+            rank_match = re.search(r"\d+", clean_text(cells[0].text)) if cells else None
+            if not links or not rank_match:
+                continue
+            items.append({
+                "rank": int(rank_match.group()),
+                "title": clean_text(" ".join(map(str, links[0].xpath(".//text()").getall()))),
+                "sourcePath": str(links[0].attrib.get("href", "")),
+                "movement": "",
+                "days": "",
+                "mediaType": "movie" if chart == "movies" else "tv",
+            })
+        if items:
+            platform = platforms.setdefault(platform_slug, {"name": platform_name, "charts": {}})
+            platform["charts"][chart] = items[:10]
+    if not platforms:
+        raise RuntimeError("No world charts found")
+    return {
+        "schemaVersion": 1,
+        "source": "FlixPatrol",
+        "sourceUrl": ROOT_URL,
+        "updatedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "chartDate": chart_date,
+        "country": {"slug": "world", "name": "Worldwide"},
+        "platforms": platforms,
+    }
+
+
 def parse_country_page(page, country_slug, fallback_name):
+    if country_slug == "world":
+        return parse_world_page(page)
     platforms = {}
     current_platform = None
     country_name = fallback_name

@@ -41,6 +41,16 @@ assert movie == {
 }
 assert data["platforms"]["netflix"]["charts"]["overall"][0]["mediaType"] == "movie"
 
+world = Selector("""
+<html><body><div class="content mb-12"><div><h2 id="toc-netflix-movies"><span></span><span>TOP Movies on Netflix on November 5, 2026</span></h2></div>
+<table class="card-table"><tr><td>1.</td><td><a href="/title/world-movie/"><div>World Movie</div></a></td><td>100</td></tr></table></div>
+<div class="content mb-12"><div><h2 id="toc-netflix-tv-shows"><span></span><span>TOP TV Shows on Netflix on November 5, 2026</span></h2></div>
+<table class="card-table"><tr><td>1.</td><td><a href="/title/world-show/"><div>World Show</div></a></td><td>90</td></tr></table></div></body></html>
+""")
+world_data = MODULE.parse_country_page(world, "world", "Worldwide")
+assert set(world_data["platforms"]["netflix"]["charts"]) == {"movies", "tv"}
+assert world_data["platforms"]["netflix"]["charts"]["movies"][0]["title"] == "World Movie"
+
 calls = []
 def fake_tmdb(path, params):
     calls.append((path, params))
