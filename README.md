@@ -27,7 +27,7 @@ FlixPatrol 数据按国家拆分，`data/flixpatrol/index.json` 提供国家与�
 `widget.js` 是一个可直接加载的 ForwardWidget 模块，直接消费仓库内的榜单 JSON：
 
 - **6 个子模块**：`loadGuduo` / `loadDouban` / `loadMangoTV` / `loadTheater` / `loadBangumi` / `loadFlixPatrol`
-- FlixPatrol 子模块可选择国家/地区、平台和电影/剧集榜；抓取任务优先按 TMDB 周趋势与热门排名匹配，再结合英文标题、媒体类型和年份校验，保存 TMDB ID、原生简介与海报
+- FlixPatrol 子模块可选择国家/地区、平台和电影/剧集榜；抓取任务按 TMDB 搜索相关度与热度顺序匹配，再用周趋势/热门池、英文标题、媒体类型和年份校验，保存 TMDB ID、原生简介与海报
 - 标题和简介按简体中文 → 繁体中文 → 原始语言/原始名称 → 英文的顺序回退
 - 海报优先使用 TMDB 无文字（无语言标记）海报，其次中文、英文和其他海报；每组候选都选择分辨率最高的原图
 - 每个模块带**排序方式**（默认原序 / 最近更新 / 最近发布 / 热度最高 / 高分优先）与**分页**

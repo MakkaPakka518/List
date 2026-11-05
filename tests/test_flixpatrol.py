@@ -45,14 +45,19 @@ calls = []
 def fake_tmdb(path, params):
     calls.append((path, params))
     if path == "search/movie":
+        if params["query"] == "The Day After Tomorrow":
+            return {"results": [
+                {"id": 435, "title": "The Day After Tomorrow", "release_date": "2004-05-26", "popularity": 50},
+                {"id": 1615365, "title": "The Day After Tomorrow", "release_date": "2026-01-01", "popularity": 500},
+            ]}
         return {"results": [
             {"id": 123, "title": "Test Movie", "release_date": "2026-01-02", "popularity": 10},
             {"id": 999, "title": "Test Movie", "release_date": "2000-01-02", "popularity": 999},
         ]}
     if path == "search/tv":
         return {"results": [
-            {"id": 111, "name": "Lupin", "first_air_date": "2007-01-01", "popularity": 999},
             {"id": 222, "name": "Lupin", "first_air_date": "2021-01-08", "popularity": 10},
+            {"id": 111, "name": "Lupin", "first_air_date": "2007-01-01", "popularity": 999},
         ]}
     media_type, tmdb_id = path.split("/")
     assert media_type in ("movie", "tv")
@@ -94,4 +99,8 @@ lupin_match = MODULE.match_tmdb(lupin, {("tv", 222): 0})
 assert lupin_match["tmdbId"] == 222
 assert lupin_match["releaseDate"] == "2021-01-08"
 assert lupin_match["tmdbTitle"] == "简体剧名"
+
+day_after = {"title": "The Day After Tomorrow", "sourcePath": "/title/the-day-after-tomorrow/", "mediaType": "movie"}
+day_after_match = MODULE.match_tmdb(day_after, {("movie", 1615365): 0})
+assert day_after_match["tmdbId"] == 435
 print("FlixPatrol parser tests passed")

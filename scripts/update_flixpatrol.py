@@ -198,13 +198,13 @@ def match_tmdb(item, rankings):
                 continue
             release_year = int(release_date[:4]) if release_date[:4].isdigit() else 0
             matches.append((
+                not exact,
+                search_rank,
                 trend_rank is None,
                 trend_rank if trend_rank is not None else 999999,
-                not exact,
                 -similarity,
                 -release_year,
                 -float(candidate.get("popularity") or 0),
-                search_rank,
                 candidate,
                 media_type,
             ))
@@ -218,14 +218,14 @@ def enrich_tmdb(results):
     if not os.environ.get("TMDB_API_KEY", "").strip():
         raise RuntimeError("TMDB_API_KEY is required to publish FlixPatrol data")
     cache = json.loads(TMDB_CACHE_FILE.read_text(encoding="utf-8")) if TMDB_CACHE_FILE.exists() else {}
-    cache = {key: value for key, value in cache.items() if key.startswith("v5:")}
+    cache = {key: value for key, value in cache.items() if key.startswith("v6:")}
     rankings = tmdb_rankings()
     references = {}
     for data in results:
         for platform in data["platforms"].values():
             for items in platform["charts"].values():
                 for item in items:
-                    key = f"v5:{item.get('mediaType', 'multi')}:{title_key(item.get('title'))}:{item_year(item)}"
+                    key = f"v6:{item.get('mediaType', 'multi')}:{title_key(item.get('title'))}:{item_year(item)}"
                     references.setdefault(key, []).append(item)
 
     missing = {key: items[0] for key, items in references.items() if key not in cache}

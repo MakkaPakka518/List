@@ -249,17 +249,16 @@ async function flixFindTmdb(item, chart) {
     });
     const target = flixTitleKey(item.title);
     const year = flixYear(item);
-    const matches = {};
+    let match = null;
     for (const candidate of response && response.results || []) {
       const mediaType = expectedType || candidate.media_type;
       const title = candidate.title || candidate.name || candidate.original_title || candidate.original_name || "";
       if (!candidate.id || !["movie", "tv"].includes(mediaType) || flixTitleKey(title) !== target) continue;
       const date = candidate.release_date || candidate.first_air_date || "";
       if (year && !date.startsWith(year)) continue;
-      matches[candidate.id] = { ...candidate, media_type: mediaType };
+      match = { ...candidate, media_type: mediaType };
+      break;
     }
-    const candidates = Object.values(matches);
-    const match = candidates.length === 1 ? candidates[0] : null;
     FLIX_TMDB_CACHE[cacheKey] = match;
     return match;
   } catch (error) {
@@ -343,5 +342,5 @@ async function loadDetail(link) {
   if (!/^https:\/\/flixpatrol\.com\/title\/[a-z0-9][a-z0-9-%]*\/$/.test(value)) return null;
   if (FLIX_DETAIL_CACHE[value]) return FLIX_DETAIL_CACHE[value];
   const slug = value.match(/\/title\/([^/]+)\//)[1].replace(/-19\d{2}$|-20\d{2}$/, "");
-  return { id: value, type: "url", title: slug.split("-").map((part) => part.charAt(0).toUpperCase() + part.slice(1)).join(" "), description: "FlixPatrol 榜单条目；未匹配到 TMDB。", link: value };
+  return { id: value, type: "url", title: slug.split("-").map((part) => part.charAt(0).toUpperCase() + part.slice(1)).join(" "), description: "", link: value };
 }
