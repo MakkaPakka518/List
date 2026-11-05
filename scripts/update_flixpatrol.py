@@ -20,8 +20,7 @@ TMDB_CACHE_FILE = OUTPUT_DIR / "tmdb-cache.json"
 COUNTRY_LINK = re.compile(r"^/top10/[^/]+/([^/]+)/(20\d{2}-\d{2}-\d{2})/$")
 HEADING_INFO = re.compile(r"^(.*?) TOP 10 in (.*?) on ([A-Z][a-z]+ \d{1,2}, \d{4})$")
 MAIN_COUNTRIES = (
-    "united-states", "hong-kong", "taiwan", "singapore", "malaysia",
-    "united-kingdom", "spain", "nigeria", "canada", "south-korea", "japan",
+    "world", "united-states", "taiwan", "hong-kong", "singapore", "south-korea", "japan",
 )
 
 
@@ -244,6 +243,7 @@ def enrich_tmdb(results, session):
                     references.setdefault(key, []).append(item)
 
     missing = {key: items[0] for key, items in references.items() if key not in cache}
+    print(f"TMDB resolving {len(references)} unique titles reused by {sum(len(items) for items in references.values())} chart entries")
     ambiguous = {}
     if missing:
         with ThreadPoolExecutor(max_workers=6) as executor:

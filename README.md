@@ -12,7 +12,7 @@
 | 芒果TV | 剧集 + 王牌综艺 | `data/mgtv-hot.json` |
 | 各平台剧场 | 迷雾/白夜/X/恋恋… 15 个剧场（已开播/即将） | `data/theater-data.json` |
 | 热门番剧 | bgm.tv 排名 + TMDB 匹配 | `data/bangumi-hot.json` |
-| FlixPatrol | 美国、香港、台湾、新加坡、马来西亚、英国、西班牙、尼日利亚、加拿大、韩国、日本的流媒体每日 TOP 10 | `data/flixpatrol/*.json` |
+| FlixPatrol | 全球、美国、台湾、香港、新加坡、韩国、日本的流媒体每日 TOP 10 | `data/flixpatrol/*.json` |
 
 每个条目都经过 TMDB 匹配，自带 `title / rating / posterPath / mediaType / releaseDate` 等完整字段。
 
@@ -30,6 +30,7 @@ FlixPatrol 数据按国家拆分，`data/flixpatrol/index.json` 提供国家与�
 - FlixPatrol 子模块可选择国家/地区、平台和电影/剧集榜；抓取任务按 TMDB 搜索相关度与热度顺序匹配，再用周趋势/热门池、英文标题、媒体类型和年份校验，保存 TMDB ID、原生简介与海报
 - 标题和简介按简体中文 → 繁体中文 → 原始语言/原始名称 → 英文的顺序回退
 - 海报优先使用 TMDB 无文字（无语言标记）海报，其次中文、英文和其他海报；每组候选都选择分辨率最高的原图
+- 同一部影片在多个地区重复上榜时只匹配一次 TMDB，再把结果复用到各地区条目
 - 每个模块带**排序方式**（默认原序 / 最近更新 / 最近发布 / 热度最高 / 高分优先）与**分页**
 - 条目为标准 `VideoItem`（`type:"tmdb"` + 数字 `id` + `mediaType`），点击走播放器内置 TMDB 详情页
 - 数据源默认指向本仓库 raw 地址，也可在模块 `globalParams.baseUrl` 里改

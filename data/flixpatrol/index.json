@@ -25,31 +25,6 @@
       "file": "singapore.json"
     },
     {
-      "slug": "malaysia",
-      "name": "Malaysia",
-      "file": "malaysia.json"
-    },
-    {
-      "slug": "united-kingdom",
-      "name": "United Kingdom",
-      "file": "united-kingdom.json"
-    },
-    {
-      "slug": "spain",
-      "name": "Spain",
-      "file": "spain.json"
-    },
-    {
-      "slug": "nigeria",
-      "name": "Nigeria",
-      "file": "nigeria.json"
-    },
-    {
-      "slug": "canada",
-      "name": "Canada",
-      "file": "canada.json"
-    },
-    {
       "slug": "south-korea",
       "name": "South Korea",
       "file": "south-korea.json"
