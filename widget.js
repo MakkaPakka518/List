@@ -1,10 +1,10 @@
 // 全站榜单（List 仓库版）· fw/rex 聚合模块
 // 数据源： MakkaPakka518/List 仓库 data/*-hot.json（GitHub Actions 每日抓取提交）
-// 使用：在 Forward 里添加本文件的地址即可。6 个子模块：骨朵/豆瓣/芒果TV/各平台剧场/热门番剧/FlixPatrol
+// 使用：在 Forward 里添加本文件的地址即可。7 个子模块：骨朵/豆瓣/芒果TV/各平台剧场/热门番剧/FlixPatrol/动画疯
 WidgetMetadata = {
   id: "makka.list.aggregator",
   title: "全站榜单 (List)",
-  version: "1.2.0",
+  version: "1.3.0",
   requiredVersion: "0.0.1",
   description: "骨朵/豆瓣/芒果TV/各平台剧场/热门番剧/FlixPatrol 全球流媒体榜单",
   author: "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
@@ -119,6 +119,17 @@ WidgetMetadata = {
           ],
         },
         { name: "count", title: "数量", type: "count", value: "20" },
+        { name: "language", title: "语言", type: "language", value: "zh-CN" },
+      ],
+    },
+    {
+      id: "loadAniGamer",
+      title: "动画疯人气榜",
+      functionName: "loadAniGamer",
+      cacheDuration: 3600,
+      params: [
+        { name: "sort", title: "排序", type: "enumeration", value: "monthly", enumOptions: [{ title: "月人气排行", value: "monthly" }, { title: "年份排序", value: "yearly" }] },
+        { name: "page", title: "页码", type: "page", startPage: 1 },
         { name: "language", title: "语言", type: "language", value: "zh-CN" },
       ],
     },
@@ -314,6 +325,27 @@ async function loadFlixPatrol(params = {}) {
   } catch (error) {
     console.error("[loadFlixPatrol] 失败:", error.message || error);
     throw error;
+  }
+}
+
+async function loadAniGamer(params = {}) {
+  const baseUrl = params.baseUrl || BASE;
+  try {
+    const response = await Widget.http.get(`${baseUrl}/anigamer-hot.json`, { headers: UA_HEADERS });
+    const body = typeof response.data === "string" ? JSON.parse(response.data) : response.data;
+    if (!body || body.schemaVersion !== 1 || !body.lists) throw new Error("动画疯榜单 JSON 格式不正确");
+    const sort = params.sort === "yearly" ? "yearly" : "monthly";
+    const page = String(Math.min(5, Math.max(1, Number(params.page) || 1)));
+    return (body.lists[sort] && body.lists[sort][page] || []).map(toVideo).filter(Boolean);
+  } catch (error) {
+    let reason = error.message || String(error);
+    try {
+      const statusResponse = await Widget.http.get(`${baseUrl}/anigamer-status.json`, { headers: UA_HEADERS });
+      const status = typeof statusResponse.data === "string" ? JSON.parse(statusResponse.data) : statusResponse.data;
+      if (status && status.ok === false && status.reason) reason = status.reason;
+    } catch (statusError) {}
+    console.error("[loadAniGamer] 失败:", reason);
+    throw new Error(`动画疯榜单更新失败：${reason}`);
   }
 }
 

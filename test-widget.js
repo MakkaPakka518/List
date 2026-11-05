@@ -12,9 +12,10 @@ const FLIXPATROL_FIXTURE = {
     releaseDate: "2026-01-02", rating: 8.2, description: "TMDB 原生简介",
   }] } } },
 };
+const ANIGAMER_FIXTURE = { schemaVersion: 1, lists: { monthly: { "1": [{ tmdbId: 202, mediaType: "tv" }] }, yearly: { "1": [{ tmdbId: 101, mediaType: "movie" }] } } };
 
 global.Widget = {
-  http: { get: async (url) => ({ data: url.includes("/flixpatrol/") ? FLIXPATROL_FIXTURE : await (await fetch(url)).json() }) },
+  http: { get: async (url) => ({ data: url.includes("/flixpatrol/") ? FLIXPATROL_FIXTURE : url.endsWith("/anigamer-hot.json") ? ANIGAMER_FIXTURE : await (await fetch(url)).json() }) },
   tmdb: { get: async () => { throw new Error("ID-only module must not request TMDB"); } },
   storage: { _m: {}, get(k) { return this._m[k]; }, set(k, v) { this._m[k] = v; } },
 };
@@ -24,11 +25,11 @@ eval(fs.readFileSync("./widget.js", "utf8"));
 (async () => {
   // 1. 元数据
   assert.ok(WidgetMetadata.id === "makka.list.aggregator", "id");
-  assert.equal(WidgetMetadata.modules.length, 6, "6 个模块");
+  assert.equal(WidgetMetadata.modules.length, 7, "7 个模块");
   const ids = WidgetMetadata.modules.map((m) => m.id).join(",");
-  assert.ok(ids.includes("loadGuduo") && ids.includes("loadTheater") && ids.includes("loadBangumi") && ids.includes("loadFlixPatrol"), "模块齐全");
+  assert.ok(ids.includes("loadGuduo") && ids.includes("loadTheater") && ids.includes("loadBangumi") && ids.includes("loadFlixPatrol") && ids.includes("loadAniGamer"), "模块齐全");
   assert.ok(WidgetMetadata.modules.every(module => module.params.some(param => param.type === "language")), "每个模块都声明 language 参数");
-  console.log("✓ 元数据：6 模块", ids);
+  console.log("✓ 元数据：7 模块", ids);
 
   const mapped = toVideo({ tmdbId: 123, mediaType: "tv", tmdbTitle: "TMDB 标题", title: "来源标题", description: "TMDB 简介", rank: 1, heat: 999, score: 9 });
   assert.deepEqual(mapped, { id: "tv.123", type: "tmdb" });
@@ -40,9 +41,11 @@ eval(fs.readFileSync("./widget.js", "utf8"));
   const t = await loadTheater({ brand: "迷雾剧场", status: "all" });
   const b = await loadBangumi({});
   const f = await loadFlixPatrol({ country: "hong-kong", platform: "netflix", chart: "movies", count: 10 });
-  console.log(`✓ 条数: guduo=${g.length} douban=${d.length} mgtv=${m.length} theater=${t.length} bangumi=${b.length} flixpatrol=${f.length}`);
+  const a = await loadAniGamer({ sort: "monthly", page: 1 });
+  console.log(`✓ 条数: guduo=${g.length} douban=${d.length} mgtv=${m.length} theater=${t.length} bangumi=${b.length} flixpatrol=${f.length} anigamer=${a.length}`);
   assert.equal(f.length, 1, "FlixPatrol 香港 Netflix 电影榜");
   assert.deepEqual(f[0], { id: "movie.123", type: "tmdb" });
+  assert.deepEqual(a, [{ id: "tv.202", type: "tmdb" }]);
   assert.equal(await loadDetail("https://evil.test/title/test/"), null);
 
   // 3. VideoItem 字段校验（用番剧，条目最全）
