@@ -126,7 +126,7 @@ async def search_tmdb(session, item, cache):
     
     cache_key = f"{clean_t}_{category}"
     if cache_key in cache:
-        return {**item, **cache[cache_key]}
+        return {"_category": category, **cache[cache_key]}
 
     api_headers = {"accept": "application/json"}
     if TMDB_API_KEY.startswith("eyJ"):
@@ -193,21 +193,25 @@ async def search_tmdb(session, item, cache):
     genre_names = [GENRE_MAP.get(g) for g in best_match.get("genre_ids", []) if GENRE_MAP.get(g)]
     
     info = {
+        "id": str(tmdb_id),
         "tmdbId": tmdb_id,
+        "type": "tmdb",
         "mediaType": media_type,
-        "tmdbTitle": best_match.get("name") or best_match.get("title"),
+        "title": best_match.get("name") or best_match.get("title"),
         "releaseDate": best_match.get("first_air_date") or best_match.get("release_date") or "",
         "posterPath": best_match.get("poster_path"),
+        "backdropPath": best_match.get("backdrop_path"),
         "rating": round(float(best_match.get("vote_average", 0)), 1),
-        "overview": best_match.get('overview') or '暂无简介',
+        "popularity": best_match.get("popularity"),
+        "description": best_match.get("overview") or "",
         "regionTitle": "/".join(country_names) if country_names else "未知地区",
         "genreTitle": " / ".join(genre_names[:3]) if genre_names else category
     }
     
     cache[cache_key] = info
-    print(f"✅ 成功匹配: [{raw_title}] -> TMDB: {info['tmdbTitle']} (评分: {info['rating']})")
+    print(f"✅ 成功匹配: [{raw_title}] -> TMDB: {info['title']} (评分: {info['rating']})")
     
-    return {**item, **info}
+    return {"_category": category, **info}
 
 # --- 5. 批处理引擎 ---
 async def batch_process_tmdb(session, items_list, size, cache):
@@ -246,10 +250,10 @@ async def main():
             "billboard_date": yesterday,
             "last_updated": datetime.datetime.now(tz_bj).strftime("%Y-%m-%d %H:%M:%S"),
             "categories": {
-                "剧集": [x for x in matched_items if x['category'] == '剧集'],
-                "综艺": [x for x in matched_items if x['category'] == '综艺'],
-                "动漫": [x for x in matched_items if x['category'] == '动漫'],
-                "电影": [x for x in matched_items if x['category'] == '电影']
+                "剧集": [{k: v for k, v in x.items() if k != "_category"} for x in matched_items if x['_category'] == '剧集'],
+                "综艺": [{k: v for k, v in x.items() if k != "_category"} for x in matched_items if x['_category'] == '综艺'],
+                "动漫": [{k: v for k, v in x.items() if k != "_category"} for x in matched_items if x['_category'] == '动漫'],
+                "电影": [{k: v for k, v in x.items() if k != "_category"} for x in matched_items if x['_category'] == '电影']
             }
         }
 

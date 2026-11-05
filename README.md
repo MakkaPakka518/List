@@ -16,6 +16,8 @@
 
 每个条目都经过 TMDB 匹配，自带 `title / rating / posterPath / mediaType / releaseDate` 等完整字段。
 
+来源站只决定入榜范围、分类和默认顺序；模块展示的标题、简介、海报、背景图、日期、评分和类型均来自 TMDB，不返回来源热度、来源评分或排名字段。
+
 FlixPatrol 数据按国家拆分，`data/flixpatrol/index.json` 提供国家与平台索引。榜单代表 FlixPatrol 已发布的最新日榜，不是未来预测；rex 根据条目的 TMDB ID 和客户端语言加载海报与详情。
 
 `update-flixpatrol.yml` 运行 `scripts/update_flixpatrol.py` 时必须传入仓库 Secret `TMDB_API_KEY`。脚本用 FlixPatrol 的英文源标题、媒体类型和 URL 年份严格匹配 TMDB，只保存 `tmdbId` 与 `mediaType`；海报和本地化元数据由 rex 按客户端语言加载。

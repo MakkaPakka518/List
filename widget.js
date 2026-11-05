@@ -128,7 +128,7 @@ function toVideo(it) {
     id: Number(it.tmdbId || it.id) || 0,
     type: "tmdb",
     mediaType: it.mediaType || (it.type === "movie" ? "movie" : "tv"),
-    title: it.title || it.tmdbTitle || "",
+    title: it.tmdbTitle || it.title || "",
     posterPath: it.posterPath,
     backdropPath: it.backdropPath,
     rating: it.rating,

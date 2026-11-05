@@ -221,11 +221,9 @@ async def search_tmdb(session, anime, cache):
         "posterPath": best_match.get("poster_path"),
         "backdropPath": best_match.get("backdrop_path"),
         "rating": round(float(score), 1),
-        "description": f"{release_date[:4]} · ⭐ {round(float(score), 1)} · {country_str}\n{best_match.get('overview') or '暂无简介'}",
+        "description": best_match.get("overview") or "",
         "genreTitle": genre_str,
-        "regionTitle": country_str,
-        "rawGenres": raw_genres,
-        "rawCountries": raw_countries
+        "regionTitle": country_str
     }
     
     cache[cache_key] = info

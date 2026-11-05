@@ -29,6 +29,13 @@ eval(fs.readFileSync("./widget.js", "utf8"));
   assert.ok(ids.includes("loadGuduo") && ids.includes("loadTheater") && ids.includes("loadBangumi") && ids.includes("loadFlixPatrol"), "模块齐全");
   console.log("✓ 元数据：6 模块", ids);
 
+  const mapped = toVideo({ tmdbId: 123, mediaType: "tv", tmdbTitle: "TMDB 标题", title: "来源标题", description: "TMDB 简介", rank: 1, heat: 999, score: 9 });
+  assert.equal(mapped.title, "TMDB 标题");
+  assert.equal(mapped.description, "TMDB 简介");
+  assert.equal(mapped.rank, undefined);
+  assert.equal(mapped.heat, undefined);
+  assert.equal(mapped.score, undefined);
+
   // 2. 各模块真实读取
   const g = await loadGuduo({ category: "剧集" });
   const d = await loadDouban({ channel: "tv" });
