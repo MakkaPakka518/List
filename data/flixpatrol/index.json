@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "FlixPatrol",
-  "updatedAt": "2026-11-05T18:54:27+00:00",
+  "updatedAt": "2026-11-05T19:03:33+00:00",
   "chartDate": "2026-11-05",
   "countries": [
     {
@@ -54,24 +54,8 @@
       "name": "Amazon Channels"
     },
     {
-      "slug": "amazon-movies",
-      "name": "Amazon Movies"
-    },
-    {
       "slug": "amazon-prime",
       "name": "Amazon Prime"
-    },
-    {
-      "slug": "amazon-prime-movies",
-      "name": "Amazon Prime Movies"
-    },
-    {
-      "slug": "amazon-prime-tv-shows",
-      "name": "Amazon Prime Tv Shows"
-    },
-    {
-      "slug": "amazon-tv-shows",
-      "name": "Amazon Tv Shows"
     },
     {
       "slug": "amc-plus",
@@ -82,20 +66,12 @@
       "name": "Apple TV"
     },
     {
-      "slug": "apple-tv-movies",
-      "name": "Apple Tv Movies"
-    },
-    {
-      "slug": "apple-tv-tv-shows",
-      "name": "Apple Tv Tv Shows"
-    },
-    {
       "slug": "catchplay",
       "name": "Catchplay"
     },
     {
-      "slug": "chili-movies",
-      "name": "Chili Movies"
+      "slug": "chili",
+      "name": "Chili"
     },
     {
       "slug": "coupang-play",
@@ -118,14 +94,6 @@
       "name": "Disney+"
     },
     {
-      "slug": "disney-movies",
-      "name": "Disney Movies"
-    },
-    {
-      "slug": "disney-tv-shows",
-      "name": "Disney Tv Shows"
-    },
-    {
       "slug": "friday",
       "name": "friDay"
     },
@@ -134,24 +102,12 @@
       "name": "Google"
     },
     {
-      "slug": "google-movies",
-      "name": "Google Movies"
-    },
-    {
       "slug": "hami-video",
       "name": "Hami Video"
     },
     {
       "slug": "hbo-max",
       "name": "HBO Max"
-    },
-    {
-      "slug": "hbo-max-movies",
-      "name": "Hbo Max Movies"
-    },
-    {
-      "slug": "hbo-max-tv-shows",
-      "name": "Hbo Max Tv Shows"
     },
     {
       "slug": "hulu",
@@ -164,14 +120,6 @@
     {
       "slug": "itunes",
       "name": "Apple TV Store"
-    },
-    {
-      "slug": "itunes-movies",
-      "name": "Itunes Movies"
-    },
-    {
-      "slug": "itunes-tv-shows",
-      "name": "Itunes Tv Shows"
     },
     {
       "slug": "lemino",
@@ -194,24 +142,8 @@
       "name": "Netflix"
     },
     {
-      "slug": "netflix-movies",
-      "name": "Netflix Movies"
-    },
-    {
-      "slug": "netflix-tv-shows",
-      "name": "Netflix Tv Shows"
-    },
-    {
       "slug": "paramount-plus",
       "name": "Paramount+"
-    },
-    {
-      "slug": "paramount-plus-movies",
-      "name": "Paramount Plus Movies"
-    },
-    {
-      "slug": "paramount-plus-tv-shows",
-      "name": "Paramount Plus Tv Shows"
     },
     {
       "slug": "peacock",
@@ -222,8 +154,8 @@
       "name": "Pluto"
     },
     {
-      "slug": "rakuten-tv-movies",
-      "name": "Rakuten Tv Movies"
+      "slug": "rakuten-tv",
+      "name": "Rakuten TV"
     },
     {
       "slug": "shudder",
