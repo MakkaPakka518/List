@@ -682,5 +682,1521 @@
   "v1:114035:2026:all": {
     "tmdbId": 316427,
     "mediaType": "tv"
+  },
+  "v1:113305:2023:all": {
+    "tmdbId": 30984,
+    "mediaType": "tv"
+  },
+  "v1:113693:2024:all": {
+    "tmdbId": 229858,
+    "mediaType": "tv"
+  },
+  "v1:113810:2025:all": {
+    "tmdbId": 258348,
+    "mediaType": "tv"
+  },
+  "v1:113899:2025:all": {
+    "tmdbId": 120089,
+    "mediaType": "tv"
+  },
+  "v1:113844:2025:all": {
+    "tmdbId": 256721,
+    "mediaType": "tv"
+  },
+  "v1:52205:2012:all": {
+    "tmdbId": 43167,
+    "mediaType": "tv"
+  },
+  "v1:113380:2023:all": {
+    "tmdbId": 205050,
+    "mediaType": "tv"
+  },
+  "v1:718:2008:all": {
+    "tmdbId": 30980,
+    "mediaType": "tv"
+  },
+  "v1:104400:2019:all": {
+    "tmdbId": 91801,
+    "mediaType": "tv"
+  },
+  "v1:113668:2024:all": {
+    "tmdbId": 258579,
+    "mediaType": "tv"
+  },
+  "v1:113021:2022:all": {
+    "tmdbId": 91768,
+    "mediaType": "tv"
+  },
+  "v1:76677:2016:all": {
+    "tmdbId": 65844,
+    "mediaType": "tv"
+  },
+  "v1:113051:2022:all": {
+    "tmdbId": 139512,
+    "mediaType": "tv"
+  },
+  "v1:113009:2022:all": {
+    "tmdbId": 123528,
+    "mediaType": "tv"
+  },
+  "v1:82626:2017:all": {
+    "tmdbId": 65844,
+    "mediaType": "tv"
+  },
+  "v1:113191:2023:all": {
+    "tmdbId": 196285,
+    "mediaType": "tv"
+  },
+  "v1:113950:2026:all": {
+    "tmdbId": 288589,
+    "mediaType": "tv"
+  },
+  "v1:113821:2025:all": {
+    "tmdbId": 281615,
+    "mediaType": "tv"
+  },
+  "v1:113955:2026:all": {
+    "tmdbId": 281161,
+    "mediaType": "tv"
+  },
+  "v1:113467:2024:all": {
+    "tmdbId": 222930,
+    "mediaType": "tv"
+  },
+  "v1:113947:2026:all": {
+    "tmdbId": 284495,
+    "mediaType": "tv"
+  },
+  "v1:114147:2025:all": {
+    "tmdbId": 261745,
+    "mediaType": "tv"
+  },
+  "v1:113295:2023:all": {
+    "tmdbId": 213326,
+    "mediaType": "tv"
+  },
+  "v1:113047:2019:all": {
+    "tmdbId": 83095,
+    "mediaType": "tv"
+  },
+  "v1:113517:2024:all": {
+    "tmdbId": 65844,
+    "mediaType": "tv"
+  },
+  "v1:108067:2020:all": {
+    "tmdbId": 97617,
+    "mediaType": "tv"
+  },
+  "v1:112560:2021:all": {
+    "tmdbId": 99618,
+    "mediaType": "tv"
+  },
+  "v1:113185:2023:all": {
+    "tmdbId": 213402,
+    "mediaType": "tv"
+  },
+  "v1:113240:2023:all": {
+    "tmdbId": 208493,
+    "mediaType": "tv"
+  },
+  "v1:113187:2023:all": {
+    "tmdbId": 207965,
+    "mediaType": "tv"
+  },
+  "v1:113704:2025:all": {
+    "tmdbId": 260822,
+    "mediaType": "tv"
+  },
+  "v1:112731:2021:all": {
+    "tmdbId": 111819,
+    "mediaType": "tv"
+  },
+  "v1:112744:2021:all": {
+    "tmdbId": 102088,
+    "mediaType": "tv"
+  },
+  "v1:113569:2024:all": {
+    "tmdbId": 245285,
+    "mediaType": "tv"
+  },
+  "v1:113745:2025:all": {
+    "tmdbId": 274737,
+    "mediaType": "tv"
+  },
+  "v1:113255:2023:all": {
+    "tmdbId": 214540,
+    "mediaType": "tv"
+  },
+  "v1:105434:2019:all": {
+    "tmdbId": 93256,
+    "mediaType": "tv"
+  },
+  "v1:102102:2020:all": {
+    "tmdbId": 94904,
+    "mediaType": "tv"
+  },
+  "v1:113698:2025:all": {
+    "tmdbId": 261298,
+    "mediaType": "tv"
+  },
+  "v1:112846:2021:all": {
+    "tmdbId": 118821,
+    "mediaType": "tv"
+  },
+  "v1:112519:2007:all": {
+    "tmdbId": 21729,
+    "mediaType": "tv"
+  },
+  "v1:113939:2026:all": {
+    "tmdbId": 274141,
+    "mediaType": "tv"
+  },
+  "v1:113960:2026:all": {
+    "tmdbId": 295366,
+    "mediaType": "tv"
+  },
+  "v1:91867:2018:all": {
+    "tmdbId": 45782,
+    "mediaType": "tv"
+  },
+  "v1:112770:2006:all": {
+    "tmdbId": 31724,
+    "mediaType": "tv"
+  },
+  "v1:113904:2025:all": {
+    "tmdbId": 284644,
+    "mediaType": "tv"
+  },
+  "v1:113647:2024:all": {
+    "tmdbId": 240411,
+    "mediaType": "tv"
+  },
+  "v1:113518:2024:all": {
+    "tmdbId": 207468,
+    "mediaType": "tv"
+  },
+  "v1:112823:2008:all": {
+    "tmdbId": 31724,
+    "mediaType": "tv"
+  },
+  "v1:102494:2019:all": {
+    "tmdbId": 86031,
+    "mediaType": "tv"
+  },
+  "v1:113921:2025:all": {
+    "tmdbId": 278604,
+    "mediaType": "tv"
+  },
+  "v1:113760:2025:all": {
+    "tmdbId": 88046,
+    "mediaType": "tv"
+  },
+  "v1:113198:2023:all": {
+    "tmdbId": 158373,
+    "mediaType": "tv"
+  },
+  "v1:78416:2015:all": {
+    "tmdbId": 1520936,
+    "mediaType": "movie"
+  },
+  "v1:112657:2021:all": {
+    "tmdbId": 116725,
+    "mediaType": "tv"
+  },
+  "v1:113662:2024:all": {
+    "tmdbId": 234538,
+    "mediaType": "tv"
+  },
+  "v1:113139:2022:all": {
+    "tmdbId": 196400,
+    "mediaType": "tv"
+  },
+  "v1:112745:2021:all": {
+    "tmdbId": 122827,
+    "mediaType": "tv"
+  },
+  "v1:112721:2021:all": {
+    "tmdbId": 121131,
+    "mediaType": "tv"
+  },
+  "v1:113957:2026:all": {
+    "tmdbId": 291414,
+    "mediaType": "tv"
+  },
+  "v1:113468:2024:all": {
+    "tmdbId": 238846,
+    "mediaType": "tv"
+  },
+  "v1:113089:2022:all": {
+    "tmdbId": 196040,
+    "mediaType": "tv"
+  },
+  "v1:113772:2025:all": {
+    "tmdbId": 284445,
+    "mediaType": "tv"
+  },
+  "v1:112862:2022:all": {
+    "tmdbId": 103409,
+    "mediaType": "tv"
+  },
+  "v1:91868:2018:all": {
+    "tmdbId": 78204,
+    "mediaType": "tv"
+  },
+  "v1:88978:2017:all": {
+    "tmdbId": 74091,
+    "mediaType": "tv"
+  },
+  "v1:113512:2024:all": {
+    "tmdbId": 218833,
+    "mediaType": "tv"
+  },
+  "v1:113656:2024:all": {
+    "tmdbId": 78204,
+    "mediaType": "tv"
+  },
+  "v1:103788:2019:all": {
+    "tmdbId": 88041,
+    "mediaType": "tv"
+  },
+  "v1:113736:2024:all": {
+    "tmdbId": 1146972,
+    "mediaType": "movie"
+  },
+  "v1:64621:2014:all": {
+    "tmdbId": 60834,
+    "mediaType": "tv"
+  },
+  "v1:79942:2016:all": {
+    "tmdbId": 381873,
+    "mediaType": "movie"
+  },
+  "v1:113091:2022:all": {
+    "tmdbId": 86031,
+    "mediaType": "tv"
+  },
+  "v1:113247:2023:all": {
+    "tmdbId": 196400,
+    "mediaType": "tv"
+  },
+  "v1:112890:1990:all": {
+    "tmdbId": 24710,
+    "mediaType": "tv"
+  },
+  "v1:113159:2022:all": {
+    "tmdbId": 154524,
+    "mediaType": "tv"
+  },
+  "v1:113095:2022:all": {
+    "tmdbId": 122369,
+    "mediaType": "tv"
+  },
+  "v1:113764:2025:all": {
+    "tmdbId": 274069,
+    "mediaType": "tv"
+  },
+  "v1:79961:2017:all": {
+    "tmdbId": 413594,
+    "mediaType": "movie"
+  },
+  "v1:113894:2025:all": {
+    "tmdbId": 294867,
+    "mediaType": "tv"
+  },
+  "v1:113558:2024:all": {
+    "tmdbId": 254987,
+    "mediaType": "tv"
+  },
+  "v1:113777:2025:all": {
+    "tmdbId": 231003,
+    "mediaType": "tv"
+  },
+  "v1:113118:2021:all": {
+    "tmdbId": 761898,
+    "mediaType": "movie"
+  },
+  "v1:113887:2025:all": {
+    "tmdbId": 283935,
+    "mediaType": "tv"
+  },
+  "v1:113928:1972:all": {
+    "tmdbId": 13549,
+    "mediaType": "tv"
+  },
+  "v1:113196:2023:all": {
+    "tmdbId": 204266,
+    "mediaType": "tv"
+  },
+  "v1:106466:2020:all": {
+    "tmdbId": 92588,
+    "mediaType": "tv"
+  },
+  "v1:112616:2009:all": {
+    "tmdbId": 23452,
+    "mediaType": "movie"
+  },
+  "v1:98118:2019:all": {
+    "tmdbId": 83116,
+    "mediaType": "tv"
+  },
+  "v1:38104:2011:all": {
+    "tmdbId": 46025,
+    "mediaType": "tv"
+  },
+  "v1:113488:2021:all": {
+    "tmdbId": 732203,
+    "mediaType": "movie"
+  },
+  "v1:113142:2022:all": {
+    "tmdbId": 119100,
+    "mediaType": "tv"
+  },
+  "v1:113729:2024:all": {
+    "tmdbId": 202284,
+    "mediaType": "tv"
+  },
+  "v1:113279:2022:all": {
+    "tmdbId": 893712,
+    "mediaType": "movie"
+  },
+  "v1:112953:2022:all": {
+    "tmdbId": 123249,
+    "mediaType": "tv"
+  },
+  "v1:114045:2026:all": {
+    "tmdbId": 72517,
+    "mediaType": "tv"
+  },
+  "v1:38204:2011:all": {
+    "tmdbId": 38603,
+    "mediaType": "tv"
+  },
+  "v1:113806:2025:all": {
+    "tmdbId": 79166,
+    "mediaType": "tv"
+  },
+  "v1:66639:2013:all": {
+    "tmdbId": 45782,
+    "mediaType": "tv"
+  },
+  "v1:17962:2008:all": {
+    "tmdbId": 42916,
+    "mediaType": "tv"
+  },
+  "v1:113854:2018:all": {
+    "tmdbId": 79166,
+    "mediaType": "tv"
+  },
+  "v1:102701:2019:all": {
+    "tmdbId": 60761,
+    "mediaType": "tv"
+  },
+  "v1:113702:2025:all": {
+    "tmdbId": 274580,
+    "mediaType": "tv"
+  },
+  "v1:112644:2014:all": {
+    "tmdbId": 61663,
+    "mediaType": "tv"
+  },
+  "v1:112952:2022:all": {
+    "tmdbId": 128826,
+    "mediaType": "tv"
+  },
+  "v1:113805:2025:all": {
+    "tmdbId": 277513,
+    "mediaType": "tv"
+  },
+  "v1:112566:2021:all": {
+    "tmdbId": 110070,
+    "mediaType": "tv"
+  },
+  "v1:252:2006:all": {
+    "tmdbId": 1043,
+    "mediaType": "tv"
+  },
+  "v1:71034:2015:all": {
+    "tmdbId": 62110,
+    "mediaType": "tv"
+  },
+  "v1:113294:2023:all": {
+    "tmdbId": 224207,
+    "mediaType": "tv"
+  },
+  "v1:112530:2013:all": {
+    "tmdbId": 61441,
+    "mediaType": "tv"
+  },
+  "v1:113577:2024:all": {
+    "tmdbId": 241535,
+    "mediaType": "tv"
+  },
+  "v1:75775:2015:all": {
+    "tmdbId": 60761,
+    "mediaType": "tv"
+  },
+  "v1:112916:2016:all": {
+    "tmdbId": 65930,
+    "mediaType": "tv"
+  },
+  "v1:114010:2026:all": {
+    "tmdbId": 274622,
+    "mediaType": "tv"
+  },
+  "v1:98176:2019:all": {
+    "tmdbId": 83121,
+    "mediaType": "tv"
+  },
+  "v1:113451:2024:all": {
+    "tmdbId": 139060,
+    "mediaType": "tv"
+  },
+  "v1:113564:2024:all": {
+    "tmdbId": 235758,
+    "mediaType": "tv"
+  },
+  "v1:113246:2023:all": {
+    "tmdbId": 207250,
+    "mediaType": "tv"
+  },
+  "v1:113373:2023:all": {
+    "tmdbId": 120089,
+    "mediaType": "tv"
+  },
+  "v1:113244:2023:all": {
+    "tmdbId": 208067,
+    "mediaType": "tv"
+  },
+  "v1:114164:2026:all": {
+    "tmdbId": 259819,
+    "mediaType": "tv"
+  },
+  "v1:113905:2025:all": {
+    "tmdbId": 271605,
+    "mediaType": "tv"
+  },
+  "v1:75930:2015:all": {
+    "tmdbId": 63926,
+    "mediaType": "tv"
+  },
+  "v1:113853:2025:all": {
+    "tmdbId": 293124,
+    "mediaType": "tv"
+  },
+  "v1:113962:2026:all": {
+    "tmdbId": 276393,
+    "mediaType": "tv"
+  },
+  "v1:113846:2025:all": {
+    "tmdbId": 244808,
+    "mediaType": "tv"
+  },
+  "v1:113300:2023:all": {
+    "tmdbId": 228663,
+    "mediaType": "tv"
+  },
+  "v1:114048:2026:all": {
+    "tmdbId": 304820,
+    "mediaType": "tv"
+  },
+  "v1:114157:2024:all": {
+    "tmdbId": 206629,
+    "mediaType": "tv"
+  },
+  "v1:113195:2023:all": {
+    "tmdbId": 154743,
+    "mediaType": "tv"
+  },
+  "v1:113768:2025:all": {
+    "tmdbId": 261868,
+    "mediaType": "tv"
+  },
+  "v1:53316:2012:all": {
+    "tmdbId": 65329,
+    "mediaType": "tv"
+  },
+  "v1:114174:2011:all": {
+    "tmdbId": 658565,
+    "mediaType": "movie"
+  },
+  "v1:113809:2025:all": {
+    "tmdbId": 283884,
+    "mediaType": "tv"
+  },
+  "v1:113441:2024:all": {
+    "tmdbId": 232926,
+    "mediaType": "tv"
+  },
+  "v1:113754:2025:all": {
+    "tmdbId": 274741,
+    "mediaType": "tv"
+  },
+  "v1:113937:2026:all": {
+    "tmdbId": 285933,
+    "mediaType": "tv"
+  },
+  "v1:102570:2019:all": {
+    "tmdbId": 85991,
+    "mediaType": "tv"
+  },
+  "v1:113640:2024:all": {
+    "tmdbId": 234910,
+    "mediaType": "tv"
+  },
+  "v1:42233:2011:all": {
+    "tmdbId": 39434,
+    "mediaType": "tv"
+  },
+  "v1:68499:2014:all": {
+    "tmdbId": 61379,
+    "mediaType": "tv"
+  },
+  "v1:96003:2018:all": {
+    "tmdbId": 82867,
+    "mediaType": "tv"
+  },
+  "v1:113971:2026:all": {
+    "tmdbId": 275902,
+    "mediaType": "tv"
+  },
+  "v1:113570:2024:all": {
+    "tmdbId": 216074,
+    "mediaType": "tv"
+  },
+  "v1:112527:2008:all": {
+    "tmdbId": 50712,
+    "mediaType": "tv"
+  },
+  "v1:113915:2025:all": {
+    "tmdbId": 283880,
+    "mediaType": "tv"
+  },
+  "v1:88688:2017:all": {
+    "tmdbId": 72517,
+    "mediaType": "tv"
+  },
+  "v1:113070:2022:all": {
+    "tmdbId": 72517,
+    "mediaType": "tv"
+  },
+  "v1:77921:2016:all": {
+    "tmdbId": 65249,
+    "mediaType": "tv"
+  },
+  "v1:113948:2026:all": {
+    "tmdbId": 263330,
+    "mediaType": "tv"
+  },
+  "v1:79653:2016:all": {
+    "tmdbId": 66103,
+    "mediaType": "tv"
+  },
+  "v1:113882:2025:all": {
+    "tmdbId": 274810,
+    "mediaType": "tv"
+  },
+  "v1:112664:2021:all": {
+    "tmdbId": 116727,
+    "mediaType": "tv"
+  },
+  "v1:97790:2019:all": {
+    "tmdbId": 83097,
+    "mediaType": "tv"
+  },
+  "v1:112673:2021:all": {
+    "tmdbId": 105009,
+    "mediaType": "tv"
+  },
+  "v1:113389:2023:all": {
+    "tmdbId": 216523,
+    "mediaType": "tv"
+  },
+  "v1:113825:2025:all": {
+    "tmdbId": 138357,
+    "mediaType": "tv"
+  },
+  "v1:113941:2026:all": {
+    "tmdbId": 283891,
+    "mediaType": "tv"
+  },
+  "v1:112672:2021:all": {
+    "tmdbId": 111576,
+    "mediaType": "tv"
+  },
+  "v1:113765:2025:all": {
+    "tmdbId": 50712,
+    "mediaType": "tv"
+  },
+  "v1:113357:2023:all": {
+    "tmdbId": 153450,
+    "mediaType": "tv"
+  },
+  "v1:112598:2010:all": {
+    "tmdbId": 42410,
+    "mediaType": "tv"
+  },
+  "v1:68316:2015:all": {
+    "tmdbId": 42410,
+    "mediaType": "tv"
+  },
+  "v1:112528:2010:all": {
+    "tmdbId": 50712,
+    "mediaType": "tv"
+  },
+  "v1:83565:2017:all": {
+    "tmdbId": 69225,
+    "mediaType": "tv"
+  },
+  "v1:113966:2026:all": {
+    "tmdbId": 271609,
+    "mediaType": "tv"
+  },
+  "v1:113509:2024:all": {
+    "tmdbId": 50712,
+    "mediaType": "tv"
+  },
+  "v1:112456:2020:all": {
+    "tmdbId": 100988,
+    "mediaType": "tv"
+  },
+  "v1:113700:2025:all": {
+    "tmdbId": 250994,
+    "mediaType": "tv"
+  },
+  "v1:112576:2005:all": {
+    "tmdbId": 8974,
+    "mediaType": "tv"
+  },
+  "v1:113578:2024:all": {
+    "tmdbId": 243501,
+    "mediaType": "tv"
+  },
+  "v1:71038:2015:all": {
+    "tmdbId": 63495,
+    "mediaType": "tv"
+  },
+  "v1:113829:2025:all": {
+    "tmdbId": 283705,
+    "mediaType": "tv"
+  },
+  "v1:113842:2025:all": {
+    "tmdbId": 277581,
+    "mediaType": "tv"
+  },
+  "v1:113609:2024:all": {
+    "tmdbId": 1244064,
+    "mediaType": "movie"
+  },
+  "v1:113301:2023:all": {
+    "tmdbId": 222785,
+    "mediaType": "tv"
+  },
+  "v1:112471:2020:all": {
+    "tmdbId": 101571,
+    "mediaType": "tv"
+  },
+  "v1:104281:2020:all": {
+    "tmdbId": 96203,
+    "mediaType": "tv"
+  },
+  "v1:112577:2006:all": {
+    "tmdbId": 8974,
+    "mediaType": "tv"
+  },
+  "v1:92024:2018:all": {
+    "tmdbId": 75775,
+    "mediaType": "tv"
+  },
+  "v1:113867:2022:all": {
+    "tmdbId": 137718,
+    "mediaType": "tv"
+  },
+  "v1:113884:2025:all": {
+    "tmdbId": 278059,
+    "mediaType": "tv"
+  },
+  "v1:112578:2008:all": {
+    "tmdbId": 8974,
+    "mediaType": "tv"
+  },
+  "v1:113910:2025:all": {
+    "tmdbId": 296287,
+    "mediaType": "tv"
+  },
+  "v1:113988:2025:all": {
+    "tmdbId": 291759,
+    "mediaType": "tv"
+  },
+  "v1:113599:2024:all": {
+    "tmdbId": 232252,
+    "mediaType": "tv"
+  },
+  "v1:113989:2025:all": {
+    "tmdbId": 293635,
+    "mediaType": "tv"
+  },
+  "v1:113253:2023:all": {
+    "tmdbId": 204412,
+    "mediaType": "tv"
+  },
+  "v1:82728:2016:all": {
+    "tmdbId": 67043,
+    "mediaType": "tv"
+  },
+  "v1:113750:2025:all": {
+    "tmdbId": 275623,
+    "mediaType": "tv"
+  },
+  "v1:113938:2026:all": {
+    "tmdbId": 276110,
+    "mediaType": "tv"
+  },
+  "v1:98172:2018:all": {
+    "tmdbId": 82766,
+    "mediaType": "tv"
+  },
+  "v1:113170:2022:all": {
+    "tmdbId": 919609,
+    "mediaType": "movie"
+  },
+  "v1:113138:2022:all": {
+    "tmdbId": 131041,
+    "mediaType": "tv"
+  },
+  "v1:112710:2000:all": {
+    "tmdbId": 42705,
+    "mediaType": "tv"
+  },
+  "v1:52157:2012:all": {
+    "tmdbId": 45783,
+    "mediaType": "tv"
+  },
+  "v1:66581:2014:all": {
+    "tmdbId": 77294,
+    "mediaType": "tv"
+  },
+  "v1:113387:2023:all": {
+    "tmdbId": 154526,
+    "mediaType": "tv"
+  },
+  "v1:113088:2022:all": {
+    "tmdbId": 205493,
+    "mediaType": "tv"
+  },
+  "v1:114063:2025:all": {
+    "tmdbId": 262700,
+    "mediaType": "tv"
+  },
+  "v1:113523:2024:all": {
+    "tmdbId": 231873,
+    "mediaType": "tv"
+  },
+  "v1:51108:2012:all": {
+    "tmdbId": 67249,
+    "mediaType": "tv"
+  },
+  "v1:113643:2024:all": {
+    "tmdbId": 205493,
+    "mediaType": "tv"
+  },
+  "v1:112743:2021:all": {
+    "tmdbId": 120013,
+    "mediaType": "tv"
+  },
+  "v1:112568:2021:all": {
+    "tmdbId": 110309,
+    "mediaType": "tv"
+  },
+  "v1:113684:2014:all": {
+    "tmdbId": 67460,
+    "mediaType": "tv"
+  },
+  "v1:25054:2009:all": {
+    "tmdbId": 42705,
+    "mediaType": "tv"
+  },
+  "v1:103449:2019:all": {
+    "tmdbId": 88045,
+    "mediaType": "tv"
+  },
+  "v1:113552:2016:all": {
+    "tmdbId": 366170,
+    "mediaType": "movie"
+  },
+  "v1:112622:2018:all": {
+    "tmdbId": 77694,
+    "mediaType": "tv"
+  },
+  "v1:113657:2024:all": {
+    "tmdbId": 243452,
+    "mediaType": "tv"
+  },
+  "v1:113740:2017:all": {
+    "tmdbId": 71360,
+    "mediaType": "tv"
+  },
+  "v1:113482:2015:all": {
+    "tmdbId": 347183,
+    "mediaType": "movie"
+  },
+  "v1:111121:2020:all": {
+    "tmdbId": 99778,
+    "mediaType": "tv"
+  },
+  "v1:112971:2022:all": {
+    "tmdbId": 136841,
+    "mediaType": "tv"
+  },
+  "v1:113485:2017:all": {
+    "tmdbId": 461763,
+    "mediaType": "movie"
+  },
+  "v1:113402:2023:all": {
+    "tmdbId": 218684,
+    "mediaType": "tv"
+  },
+  "v1:107217:2020:all": {
+    "tmdbId": 91848,
+    "mediaType": "tv"
+  },
+  "v1:113484:2017:all": {
+    "tmdbId": 461762,
+    "mediaType": "movie"
+  },
+  "v1:113483:2015:all": {
+    "tmdbId": 347186,
+    "mediaType": "movie"
+  },
+  "v1:113977:2008:all": {
+    "tmdbId": 22366,
+    "mediaType": "tv"
+  },
+  "v1:112626:2018:all": {
+    "tmdbId": 77939,
+    "mediaType": "tv"
+  },
+  "v1:112676:2021:all": {
+    "tmdbId": 112601,
+    "mediaType": "tv"
+  },
+  "v1:113027:2022:all": {
+    "tmdbId": 130765,
+    "mediaType": "tv"
+  },
+  "v1:113476:2024:all": {
+    "tmdbId": 106301,
+    "mediaType": "tv"
+  },
+  "v1:113243:2023:all": {
+    "tmdbId": 87456,
+    "mediaType": "tv"
+  },
+  "v1:113551:2004:all": {
+    "tmdbId": 11052,
+    "mediaType": "movie"
+  },
+  "v1:113822:2025:all": {
+    "tmdbId": 106301,
+    "mediaType": "tv"
+  },
+  "v1:113593:2024:all": {
+    "tmdbId": 106301,
+    "mediaType": "tv"
+  },
+  "v1:113725:2025:all": {
+    "tmdbId": 106301,
+    "mediaType": "tv"
+  },
+  "v1:42143:2011:all": {
+    "tmdbId": 259169,
+    "mediaType": "movie"
+  },
+  "v1:113780:2025:all": {
+    "tmdbId": 1385332,
+    "mediaType": "movie"
+  },
+  "v1:113712:2025:all": {
+    "tmdbId": 245876,
+    "mediaType": "tv"
+  },
+  "v1:112609:2015:all": {
+    "tmdbId": 334372,
+    "mediaType": "movie"
+  },
+  "v1:29784:2005:all": {
+    "tmdbId": 47341,
+    "mediaType": "movie"
+  },
+  "v1:113583:2024:all": {
+    "tmdbId": 236000,
+    "mediaType": "tv"
+  },
+  "v1:113576:2024:all": {
+    "tmdbId": 243743,
+    "mediaType": "tv"
+  },
+  "v1:113024:2022:all": {
+    "tmdbId": 137390,
+    "mediaType": "tv"
+  },
+  "v1:113888:2025:all": {
+    "tmdbId": 285788,
+    "mediaType": "tv"
+  },
+  "v1:112968:2022:all": {
+    "tmdbId": 127549,
+    "mediaType": "tv"
+  },
+  "v1:113980:2023:all": {
+    "tmdbId": 234443,
+    "mediaType": "tv"
+  },
+  "v1:113443:2024:all": {
+    "tmdbId": 237045,
+    "mediaType": "tv"
+  },
+  "v1:113534:2024:all": {
+    "tmdbId": 235978,
+    "mediaType": "tv"
+  },
+  "v1:113472:2024:all": {
+    "tmdbId": 222787,
+    "mediaType": "tv"
+  },
+  "v1:113590:2024:all": {
+    "tmdbId": 249409,
+    "mediaType": "tv"
+  },
+  "v1:113017:2022:all": {
+    "tmdbId": 122287,
+    "mediaType": "tv"
+  },
+  "v1:114160:2025:all": {
+    "tmdbId": 299989,
+    "mediaType": "tv"
+  },
+  "v1:113979:2021:all": {
+    "tmdbId": 197383,
+    "mediaType": "tv"
+  },
+  "v1:114073:2025:all": {
+    "tmdbId": 261148,
+    "mediaType": "tv"
+  },
+  "v1:113358:2023:all": {
+    "tmdbId": 216269,
+    "mediaType": "tv"
+  },
+  "v1:113042:2021:all": {
+    "tmdbId": 820530,
+    "mediaType": "movie"
+  },
+  "v1:113510:2024:all": {
+    "tmdbId": 218291,
+    "mediaType": "tv"
+  },
+  "v1:86010:2018:all": {
+    "tmdbId": 76063,
+    "mediaType": "tv"
+  },
+  "v1:112667:2021:all": {
+    "tmdbId": 118610,
+    "mediaType": "tv"
+  },
+  "v1:113982:2021:all": {
+    "tmdbId": 42499,
+    "mediaType": "tv"
+  },
+  "v1:114173:2026:all": {
+    "tmdbId": 1542877,
+    "mediaType": "movie"
+  },
+  "v1:112423:2020:all": {
+    "tmdbId": 658565,
+    "mediaType": "movie"
+  },
+  "v1:114151:2025:all": {
+    "tmdbId": 1311031,
+    "mediaType": "movie"
+  },
+  "v1:101403:2019:all": {
+    "tmdbId": 572154,
+    "mediaType": "movie"
+  },
+  "v1:113784:2024:all": {
+    "tmdbId": 1333100,
+    "mediaType": "movie"
+  },
+  "v1:113603:2023:all": {
+    "tmdbId": 1086591,
+    "mediaType": "movie"
+  },
+  "v1:112438:2018:all": {
+    "tmdbId": 532321,
+    "mediaType": "movie"
+  },
+  "v1:113435:2023:all": {
+    "tmdbId": 1056803,
+    "mediaType": "movie"
+  },
+  "v1:113537:2019:all": {
+    "tmdbId": 592350,
+    "mediaType": "movie"
+  },
+  "v1:113620:2023:all": {
+    "tmdbId": 1062807,
+    "mediaType": "movie"
+  },
+  "v1:112439:2019:all": {
+    "tmdbId": 566451,
+    "mediaType": "movie"
+  },
+  "v1:112727:2019:all": {
+    "tmdbId": 390634,
+    "mediaType": "movie"
+  },
+  "v1:113256:2023:all": {
+    "tmdbId": 997317,
+    "mediaType": "movie"
+  },
+  "v1:112767:2020:all": {
+    "tmdbId": 635302,
+    "mediaType": "movie"
+  },
+  "v1:71768:2017:all": {
+    "tmdbId": 283984,
+    "mediaType": "movie"
+  },
+  "v1:113231:2022:all": {
+    "tmdbId": 876792,
+    "mediaType": "movie"
+  },
+  "v1:113119:2021:all": {
+    "tmdbId": 829920,
+    "mediaType": "movie"
+  },
+  "v1:112633:2011:all": {
+    "tmdbId": 92321,
+    "mediaType": "movie"
+  },
+  "v1:113538:2021:all": {
+    "tmdbId": 768744,
+    "mediaType": "movie"
+  },
+  "v1:113532:2022:all": {
+    "tmdbId": 566466,
+    "mediaType": "movie"
+  },
+  "v1:112596:2008:all": {
+    "tmdbId": 20986,
+    "mediaType": "movie"
+  },
+  "v1:113211:2022:all": {
+    "tmdbId": 938567,
+    "mediaType": "movie"
+  },
+  "v1:112996:2021:all": {
+    "tmdbId": 637462,
+    "mediaType": "movie"
+  },
+  "v1:91974:2018:all": {
+    "tmdbId": 507411,
+    "mediaType": "movie"
+  },
+  "v1:112715:2020:all": {
+    "tmdbId": 637202,
+    "mediaType": "movie"
+  },
+  "v1:68751:2014:all": {
+    "tmdbId": 379088,
+    "mediaType": "movie"
+  },
+  "v1:113105:2021:all": {
+    "tmdbId": 745115,
+    "mediaType": "movie"
+  },
+  "v1:113055:2022:all": {
+    "tmdbId": 896499,
+    "mediaType": "movie"
+  },
+  "v1:113545:2017:all": {
+    "tmdbId": 461083,
+    "mediaType": "movie"
+  },
+  "v1:52207:2013:all": {
+    "tmdbId": 219250,
+    "mediaType": "movie"
+  },
+  "v1:92275:2018:all": {
+    "tmdbId": 492999,
+    "mediaType": "movie"
+  },
+  "v1:112939:2021:all": {
+    "tmdbId": 798581,
+    "mediaType": "movie"
+  },
+  "v1:112940:2021:all": {
+    "tmdbId": 843252,
+    "mediaType": "movie"
+  },
+  "v1:113225:2022:all": {
+    "tmdbId": 913612,
+    "mediaType": "movie"
+  },
+  "v1:113993:2025:all": {
+    "tmdbId": 1362429,
+    "mediaType": "movie"
+  },
+  "v1:113516:2023:all": {
+    "tmdbId": 1108298,
+    "mediaType": "movie"
+  },
+  "v1:68752:2015:all": {
+    "tmdbId": 330081,
+    "mediaType": "movie"
+  },
+  "v1:112724:2020:all": {
+    "tmdbId": 721686,
+    "mediaType": "movie"
+  },
+  "v1:113515:2023:all": {
+    "tmdbId": 1108298,
+    "mediaType": "movie"
+  },
+  "v1:114070:2025:all": {
+    "tmdbId": 1448628,
+    "mediaType": "movie"
+  },
+  "v1:113164:2022:all": {
+    "tmdbId": 973737,
+    "mediaType": "movie"
+  },
+  "v1:113861:2023:all": {
+    "tmdbId": 1106904,
+    "mediaType": "movie"
+  },
+  "v1:113126:2022:all": {
+    "tmdbId": 922495,
+    "mediaType": "movie"
+  },
+  "v1:113273:2005:all": {
+    "tmdbId": 408973,
+    "mediaType": "movie"
+  },
+  "v1:113416:2023:all": {
+    "tmdbId": 82684,
+    "mediaType": "tv"
+  },
+  "v1:113022:2021:all": {
+    "tmdbId": 741335,
+    "mediaType": "movie"
+  },
+  "v1:113863:2023:all": {
+    "tmdbId": 1117609,
+    "mediaType": "movie"
+  },
+  "v1:112492:2004:all": {
+    "tmdbId": 383856,
+    "mediaType": "movie"
+  },
+  "v1:113925:1996:all": {
+    "tmdbId": 23374,
+    "mediaType": "tv"
+  },
+  "v1:112575:2019:all": {
+    "tmdbId": 82958,
+    "mediaType": "tv"
+  },
+  "v1:101412:2019:all": {
+    "tmdbId": 60843,
+    "mediaType": "tv"
+  },
+  "v1:113414:2023:all": {
+    "tmdbId": 103511,
+    "mediaType": "tv"
+  },
+  "v1:113218:2023:all": {
+    "tmdbId": 102655,
+    "mediaType": "tv"
+  },
+  "v1:112780:2003:all": {
+    "tmdbId": 45288,
+    "mediaType": "movie"
+  },
+  "v1:113864:1995:all": {
+    "tmdbId": 23374,
+    "mediaType": "tv"
+  },
+  "v1:113632:2024:all": {
+    "tmdbId": 248707,
+    "mediaType": "tv"
+  },
+  "v1:113317:2023:all": {
+    "tmdbId": 221165,
+    "mediaType": "tv"
+  },
+  "v1:109401:2020:all": {
+    "tmdbId": 95213,
+    "mediaType": "tv"
+  },
+  "v1:113923:2025:all": {
+    "tmdbId": 297743,
+    "mediaType": "tv"
+  },
+  "v1:114130:2021:all": {
+    "tmdbId": 109805,
+    "mediaType": "tv"
+  },
+  "v1:113172:2022:all": {
+    "tmdbId": 203124,
+    "mediaType": "tv"
+  },
+  "v1:113773:2025:all": {
+    "tmdbId": 154494,
+    "mediaType": "tv"
+  },
+  "v1:113562:2024:all": {
+    "tmdbId": 256797,
+    "mediaType": "tv"
+  },
+  "v1:112547:2021:all": {
+    "tmdbId": 117166,
+    "mediaType": "tv"
+  },
+  "v1:113672:2023:all": {
+    "tmdbId": 233408,
+    "mediaType": "tv"
+  },
+  "v1:113922:2025:all": {
+    "tmdbId": 296933,
+    "mediaType": "tv"
+  },
+  "v1:112910:2020:all": {
+    "tmdbId": 106126,
+    "mediaType": "tv"
+  },
+  "v1:112647:2021:all": {
+    "tmdbId": 121301,
+    "mediaType": "tv"
+  },
+  "v1:112738:2021:all": {
+    "tmdbId": 119404,
+    "mediaType": "tv"
+  },
+  "v1:113535:2024:all": {
+    "tmdbId": 334049,
+    "mediaType": "tv"
+  },
+  "v1:112559:2021:all": {
+    "tmdbId": 112501,
+    "mediaType": "tv"
+  },
+  "v1:113192:2023:all": {
+    "tmdbId": 210511,
+    "mediaType": "tv"
+  },
+  "v1:114071:2023:all": {
+    "tmdbId": 252717,
+    "mediaType": "tv"
+  },
+  "v1:112692:2018:all": {
+    "tmdbId": 78474,
+    "mediaType": "tv"
+  },
+  "v1:114067:2025:all": {
+    "tmdbId": 81879,
+    "mediaType": "tv"
+  },
+  "v1:114076:2023:all": {
+    "tmdbId": 325942,
+    "mediaType": "tv"
+  },
+  "v1:82775:2016:all": {
+    "tmdbId": 67656,
+    "mediaType": "tv"
+  },
+  "v1:113633:2024:all": {
+    "tmdbId": 67656,
+    "mediaType": "tv"
+  },
+  "v1:113981:2024:all": {
+    "tmdbId": 275695,
+    "mediaType": "tv"
+  },
+  "v1:113787:2023:all": {
+    "tmdbId": 113217,
+    "mediaType": "tv"
+  },
+  "v1:113400:2023:all": {
+    "tmdbId": 234642,
+    "mediaType": "tv"
+  },
+  "v1:113998:2026:all": {
+    "tmdbId": 313635,
+    "mediaType": "tv"
+  },
+  "v1:112707:2008:all": {
+    "tmdbId": 69500,
+    "mediaType": "tv"
+  },
+  "v1:113680:2023:all": {
+    "tmdbId": 962299,
+    "mediaType": "movie"
+  },
+  "v1:52001:2012:all": {
+    "tmdbId": 69500,
+    "mediaType": "tv"
+  },
+  "v1:82696:2016:all": {
+    "tmdbId": 69500,
+    "mediaType": "tv"
+  },
+  "v1:86651:2017:all": {
+    "tmdbId": 69500,
+    "mediaType": "tv"
+  },
+  "v1:112623:2018:all": {
+    "tmdbId": 76075,
+    "mediaType": "tv"
+  },
+  "v1:88120:2018:all": {
+    "tmdbId": 76124,
+    "mediaType": "tv"
+  },
+  "v1:113524:2024:all": {
+    "tmdbId": 76075,
+    "mediaType": "tv"
+  },
+  "v1:112413:2018:all": {
+    "tmdbId": 76059,
+    "mediaType": "tv"
+  },
+  "v1:113766:2025:all": {
+    "tmdbId": 249854,
+    "mediaType": "tv"
+  },
+  "v1:93488:2018:all": {
+    "tmdbId": 80671,
+    "mediaType": "tv"
+  },
+  "v1:112418:2018:all": {
+    "tmdbId": 76047,
+    "mediaType": "tv"
+  },
+  "v1:113385:2023:all": {
+    "tmdbId": 229612,
+    "mediaType": "tv"
+  },
+  "v1:105122:2020:all": {
+    "tmdbId": 94631,
+    "mediaType": "tv"
+  },
+  "v1:112613:2021:all": {
+    "tmdbId": 101242,
+    "mediaType": "tv"
+  },
+  "v1:113721:2025:all": {
+    "tmdbId": 271264,
+    "mediaType": "tv"
+  },
+  "v1:112857:2018:all": {
+    "tmdbId": 111072,
+    "mediaType": "tv"
+  },
+  "v1:82751:2016:all": {
+    "tmdbId": 67616,
+    "mediaType": "tv"
+  },
+  "v1:110719:2020:all": {
+    "tmdbId": 105225,
+    "mediaType": "tv"
+  },
+  "v1:113595:2024:all": {
+    "tmdbId": 257046,
+    "mediaType": "tv"
+  },
+  "v1:112876:2021:all": {
+    "tmdbId": 121947,
+    "mediaType": "tv"
+  },
+  "v1:112665:2021:all": {
+    "tmdbId": 127264,
+    "mediaType": "tv"
+  },
+  "v1:113227:2023:all": {
+    "tmdbId": 195081,
+    "mediaType": "tv"
+  },
+  "v1:113420:2020:all": {
+    "tmdbId": 100368,
+    "mediaType": "tv"
+  },
+  "v1:113129:2022:all": {
+    "tmdbId": 114410,
+    "mediaType": "tv"
+  },
+  "v1:114080:2023:all": {
+    "tmdbId": 207564,
+    "mediaType": "tv"
+  },
+  "v1:113984:2026:all": {
+    "tmdbId": 290667,
+    "mediaType": "tv"
+  },
+  "v1:113449:2024:all": {
+    "tmdbId": 229443,
+    "mediaType": "tv"
+  },
+  "v1:114075:2016:all": {
+    "tmdbId": 66990,
+    "mediaType": "tv"
+  },
+  "v1:113986:2026:all": {
+    "tmdbId": 294280,
+    "mediaType": "tv"
+  },
+  "v1:113987:2026:all": {
+    "tmdbId": 295483,
+    "mediaType": "tv"
+  },
+  "v1:113945:2026:all": {
+    "tmdbId": 285291,
+    "mediaType": "tv"
+  },
+  "v1:89151:2017:all": {
+    "tmdbId": 74096,
+    "mediaType": "tv"
+  },
+  "v1:114089:2025:all": {
+    "tmdbId": 258055,
+    "mediaType": "tv"
+  },
+  "v1:113985:2026:all": {
+    "tmdbId": 303434,
+    "mediaType": "tv"
+  },
+  "v1:113869:2025:all": {
+    "tmdbId": 299555,
+    "mediaType": "tv"
+  },
+  "v1:113143:2022:all": {
+    "tmdbId": 211057,
+    "mediaType": "tv"
+  },
+  "v1:113466:2024:all": {
+    "tmdbId": 236338,
+    "mediaType": "tv"
+  },
+  "v1:112749:2021:all": {
+    "tmdbId": 103962,
+    "mediaType": "tv"
+  },
+  "v1:112402:2020:all": {
+    "tmdbId": 99080,
+    "mediaType": "tv"
+  },
+  "v1:113153:2022:all": {
+    "tmdbId": 99080,
+    "mediaType": "tv"
   }
 }
