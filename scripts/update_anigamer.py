@@ -79,15 +79,27 @@ def parse_page(page):
     return items
 
 
-def fetch_page(proxy, sort, page, tag="全部", category="全部", target="全部"):
+def fetch_page(proxy, sort, page, tag="全部", category="全部", target="全部", allow_empty=False):
     params = urlencode({"tags": tag, "category": category, "target": target, "sort": sort, "page": page})
-    response = Fetcher.get(f"{BASE_URL}?{params}", proxy=proxy, timeout=60)
-    if response.status != 200:
-        raise RuntimeError(f"动画疯 HTTP {response.status}: sort={sort} page={page}")
-    items = parse_page(response)
-    if not items:
-        raise RuntimeError(f"动画疯页面结构变化或榜单为空: sort={sort} page={page}")
-    return items
+    last_status = None
+    for attempt in range(3):
+        response = Fetcher.get(
+            f"{BASE_URL}?{params}",
+            proxy=proxy,
+            timeout=60,
+            headers={"Referer": BASE_URL},
+        )
+        last_status = response.status
+        if response.status == 200:
+            items = parse_page(response)
+            if items:
+                return items
+        time.sleep(2 ** attempt)
+    if allow_empty and last_status == 200:
+        return []
+    if last_status != 200:
+        raise RuntimeError(f"动画疯 HTTP {last_status}: sort={sort} page={page}")
+    raise RuntimeError(f"动画疯页面结构变化或榜单首页为空: sort={sort} page={page}")
 
 
 def tmdb_get(path, params):
@@ -145,9 +157,11 @@ def main():
 
     for name, sort in (("monthly", "2"), ("yearly", "1")):
         for page in PAGES:
-            items = fetch_page(proxy, sort, page)
+            items = fetch_page(proxy, sort, page, allow_empty=page > 1)
             lists[name][str(page)] = items
             remember(items)
+            if not items:
+                break
             time.sleep(0.5)
 
     query_names = {"tags": "tag", "categories": "category", "targets": "target"}
@@ -156,9 +170,11 @@ def main():
             filters["monthly"][group][value] = {}
             for page in FILTER_PAGES:
                 kwargs = {query_names[group]: value}
-                items = fetch_page(proxy, "2", page, **kwargs)
+                items = fetch_page(proxy, "2", page, allow_empty=page > 1, **kwargs)
                 filters["monthly"][group][value][str(page)] = items
                 remember(items)
+                if not items:
+                    break
                 time.sleep(0.5)
 
     cache = json.loads(CACHE_FILE.read_text(encoding="utf-8")) if CACHE_FILE.exists() else {}
