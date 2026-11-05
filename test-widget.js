@@ -12,7 +12,7 @@ const FLIXPATROL_FIXTURE = {
     releaseDate: "2026-01-02", rating: 8.2, description: "TMDB 原生简介",
   }] } } },
 };
-const ANIGAMER_FIXTURE = { schemaVersion: 1, lists: { monthly: { "1": [{ tmdbId: 202, mediaType: "tv" }] }, yearly: { "1": [{ tmdbId: 101, mediaType: "movie" }] } } };
+const ANIGAMER_FIXTURE = { schemaVersion: 1, lists: { monthly: { "1": [{ tmdbId: 202, mediaType: "tv" }] }, yearly: { "1": [{ tmdbId: 101, mediaType: "movie" }] } }, filters: { monthly: { tags: {}, categories: { "電影": { "1": [{ tmdbId: 303, mediaType: "movie" }] } }, targets: {} } } };
 
 global.Widget = {
   http: { get: async (url) => ({ data: url.includes("/flixpatrol/") ? FLIXPATROL_FIXTURE : url.endsWith("/anigamer-hot.json") ? ANIGAMER_FIXTURE : await (await fetch(url)).json() }) },
@@ -46,6 +46,7 @@ eval(fs.readFileSync("./widget.js", "utf8"));
   assert.equal(f.length, 1, "FlixPatrol 香港 Netflix 电影榜");
   assert.deepEqual(f[0], { id: "movie.123", type: "tmdb" });
   assert.deepEqual(a, [{ id: "tv.202", type: "tmdb" }]);
+  assert.deepEqual(await loadAniGamer({ sort: "monthly", filter: "categories", category: "電影", page: 1 }), [{ id: "movie.303", type: "tmdb" }]);
   assert.equal(await loadDetail("https://evil.test/title/test/"), null);
 
   // 3. VideoItem 字段校验（用番剧，条目最全）

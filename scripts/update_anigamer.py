@@ -17,6 +17,12 @@ DATA_FILE = Path("data/anigamer-hot.json")
 CACHE_FILE = Path("data/anigamer-tmdb-cache.json")
 STATUS_FILE = Path("data/anigamer-status.json")
 PAGES = range(1, 6)
+FILTER_PAGES = range(1, 4)
+FILTERS = {
+    "tags": ["動作", "冒險", "奇幻", "異世界", "科幻", "校園", "喜劇", "戀愛", "懸疑", "運動", "特攝", "BL", "GL"],
+    "categories": ["電影", "OVA", "雙語", "泡麵番", "真人演出"],
+    "targets": ["闔家觀賞", "付費會員", "年齡限制"],
+}
 
 
 def now():
@@ -73,8 +79,8 @@ def parse_page(page):
     return items
 
 
-def fetch_page(proxy, sort, page):
-    params = urlencode({"tags": "全部", "category": "全部", "target": "全部", "sort": sort, "page": page})
+def fetch_page(proxy, sort, page, tag="全部", category="全部", target="全部"):
+    params = urlencode({"tags": tag, "category": category, "target": target, "sort": sort, "page": page})
     response = Fetcher.get(f"{BASE_URL}?{params}", proxy=proxy, timeout=60)
     if response.status != 200:
         raise RuntimeError(f"动画疯 HTTP {response.status}: sort={sort} page={page}")
@@ -129,15 +135,31 @@ def main():
         raise RuntimeError("TMDB_API_KEY Secret 未配置")
 
     lists = {"monthly": {}, "yearly": {}}
+    filters = {"monthly": {group: {} for group in FILTERS}}
     unique = {}
+
+    def remember(items):
+        for item in items:
+            key = f"v1:{item['sn']}:{item['year']}:{item['mediaHint'] or 'all'}"
+            unique.setdefault(key, item)
+
     for name, sort in (("monthly", "2"), ("yearly", "1")):
         for page in PAGES:
             items = fetch_page(proxy, sort, page)
             lists[name][str(page)] = items
-            for item in items:
-                key = f"v1:{item['sn']}:{item['year']}:{item['mediaHint'] or 'all'}"
-                unique.setdefault(key, item)
+            remember(items)
             time.sleep(0.5)
+
+    query_names = {"tags": "tag", "categories": "category", "targets": "target"}
+    for group, values in FILTERS.items():
+        for value in values:
+            filters["monthly"][group][value] = {}
+            for page in FILTER_PAGES:
+                kwargs = {query_names[group]: value}
+                items = fetch_page(proxy, "2", page, **kwargs)
+                filters["monthly"][group][value][str(page)] = items
+                remember(items)
+                time.sleep(0.5)
 
     cache = json.loads(CACHE_FILE.read_text(encoding="utf-8")) if CACHE_FILE.exists() else {}
     missing = {key: item for key, item in unique.items() if key not in cache}
@@ -151,7 +173,10 @@ def main():
 
     matched = 0
     total = 0
-    for pages in lists.values():
+    collections = list(lists.values())
+    for group in filters["monthly"].values():
+        collections.extend(group.values())
+    for pages in collections:
         for items in pages.values():
             for item in items:
                 total += 1
@@ -166,6 +191,7 @@ def main():
         "sourceUrl": BASE_URL,
         "updatedAt": now(),
         "lists": lists,
+        "filters": filters,
     }
     write_json(DATA_FILE, output)
     write_json(CACHE_FILE, cache)

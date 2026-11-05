@@ -24,4 +24,5 @@ MODULE.tmdb_get = lambda path, params: calls.append((path, params)) or {"results
 assert MODULE.match_tmdb(items[0]) == {"tmdbId": 202, "mediaType": "tv"}
 assert calls[0][0] == "search/tv"
 assert calls[0][1]["language"] == "zh-TW"
+assert MODULE.FILTERS["categories"] == ["電影", "OVA", "雙語", "泡麵番", "真人演出"]
 print("AniGamer scraper tests passed")
