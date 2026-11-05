@@ -13,6 +13,7 @@
 | 各平台剧场 | 迷雾/白夜/X/恋恋… 15 个剧场（已开播/即将） | `data/theater-data.json` |
 | 热门番剧 | bgm.tv 排名 + TMDB 匹配 | `data/bangumi-hot.json` |
 | FlixPatrol | 全球、美国、台湾、香港、新加坡、韩国、日本的流媒体每日 TOP 10 | `data/flixpatrol/*.json` |
+| 动画疯 | 通过仓库 Secret 中的台湾 SOCKS5 抓取月人气与年份榜，并匹配 TMDB ID | `data/anigamer-hot.json` |
 
 每个条目都经过 TMDB 匹配，自带 `title / rating / posterPath / mediaType / releaseDate` 等完整字段。
 
@@ -21,6 +22,8 @@
 FlixPatrol 数据按国家拆分，`data/flixpatrol/index.json` 提供国家与平台索引。榜单代表 FlixPatrol 已发布的最新日榜，不是未来预测；rex 根据条目的 TMDB ID 和客户端语言加载海报与详情。
 
 `update-flixpatrol.yml` 运行 `scripts/update_flixpatrol.py` 时必须传入仓库 Secret `TMDB_API_KEY`。脚本用 FlixPatrol 的英文源标题、媒体类型和 URL 年份严格匹配 TMDB，只保存 `tmdbId` 与 `mediaType`；海报和本地化元数据由 rex 按客户端语言加载。
+
+动画疯任务只在 `update-anigamer.yml` 中注入 `ANIGAMER_PROXY_URL`，代理不会写入代码或数据。失败时 Workflow 标红，并把脱敏原因写入 `data/anigamer-status.json`；成功后发布 `data/anigamer-hot.json`，Rex 模块只读取 TMDB 身份。
 
 ## 数据更新
 `.github/workflows/` 下 5 个工作流，各自按 cron 定时运行对应 `scripts/update_*.py`，抓取后**提交更新**到 `data/*.json`。
