@@ -1,0 +1,59 @@
+name: Update AniGamer Ranking
+
+on:
+  schedule:
+    - cron: "20 0,12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-anigamer
+  cancel-in-progress: false
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Scrapling
+        run: |
+          python -m pip install --upgrade pip
+          pip install "scrapling[fetchers]==0.5.1"
+
+      - name: Fetch AniGamer ranking through Taiwan proxy
+        id: fetch
+        continue-on-error: true
+        env:
+          ANIGAMER_PROXY_URL: ${{ secrets.ANIGAMER_PROXY_URL }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python scripts/update_anigamer.py
+
+      - name: Commit data and status
+        if: always()
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add data/anigamer-status.json
+          test ! -f data/anigamer-hot.json || git add data/anigamer-hot.json
+          test ! -f data/anigamer-tmdb-cache.json || git add data/anigamer-tmdb-cache.json
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: update AniGamer ranking"
+          git pull --rebase origin main
+          git push
+
+      - name: Fail when fetch failed
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo "AniGamer fetch failed. See data/anigamer-status.json for the sanitized reason."
+          exit 1
