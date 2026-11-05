@@ -5,11 +5,6 @@
   "chartDate": "2026-11-05",
   "countries": [
     {
-      "slug": "world",
-      "name": "Worldwide",
-      "file": "world.json"
-    },
-    {
       "slug": "united-states",
       "name": "United States",
       "file": "united-states.json"
@@ -63,101 +58,6 @@
       "slug": "japan",
       "name": "Japan",
       "file": "japan.json"
-    },
-    {
-      "slug": "australia",
-      "name": "Australia",
-      "file": "australia.json"
-    },
-    {
-      "slug": "new-zealand",
-      "name": "New Zealand",
-      "file": "new-zealand.json"
-    },
-    {
-      "slug": "india",
-      "name": "India",
-      "file": "india.json"
-    },
-    {
-      "slug": "thailand",
-      "name": "Thailand",
-      "file": "thailand.json"
-    },
-    {
-      "slug": "indonesia",
-      "name": "Indonesia",
-      "file": "indonesia.json"
-    },
-    {
-      "slug": "philippines",
-      "name": "Philippines",
-      "file": "philippines.json"
-    },
-    {
-      "slug": "vietnam",
-      "name": "Vietnam",
-      "file": "vietnam.json"
-    },
-    {
-      "slug": "germany",
-      "name": "Germany",
-      "file": "germany.json"
-    },
-    {
-      "slug": "france",
-      "name": "France",
-      "file": "france.json"
-    },
-    {
-      "slug": "italy",
-      "name": "Italy",
-      "file": "italy.json"
-    },
-    {
-      "slug": "netherlands",
-      "name": "Netherlands",
-      "file": "netherlands.json"
-    },
-    {
-      "slug": "sweden",
-      "name": "Sweden",
-      "file": "sweden.json"
-    },
-    {
-      "slug": "brazil",
-      "name": "Brazil",
-      "file": "brazil.json"
-    },
-    {
-      "slug": "mexico",
-      "name": "Mexico",
-      "file": "mexico.json"
-    },
-    {
-      "slug": "argentina",
-      "name": "Argentina",
-      "file": "argentina.json"
-    },
-    {
-      "slug": "turkey",
-      "name": "Turkey",
-      "file": "turkey.json"
-    },
-    {
-      "slug": "united-arab-emirates",
-      "name": "United Arab Emirates",
-      "file": "united-arab-emirates.json"
-    },
-    {
-      "slug": "saudi-arabia",
-      "name": "Saudi Arabia",
-      "file": "saudi-arabia.json"
-    },
-    {
-      "slug": "south-africa",
-      "name": "South Africa",
-      "file": "south-africa.json"
     }
   ],
   "platforms": [

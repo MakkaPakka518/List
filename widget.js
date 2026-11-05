@@ -80,15 +80,12 @@ WidgetMetadata = {
           type: "input",
           value: "united-states",
           placeholders: [
-            { title: "全球", value: "world" }, { title: "美国", value: "united-states" },
+            { title: "美国", value: "united-states" },
             { title: "香港", value: "hong-kong" }, { title: "台湾", value: "taiwan" },
             { title: "新加坡", value: "singapore" }, { title: "马来西亚", value: "malaysia" },
             { title: "英国", value: "united-kingdom" }, { title: "西班牙", value: "spain" },
             { title: "尼日利亚", value: "nigeria" }, { title: "加拿大", value: "canada" },
             { title: "韩国", value: "south-korea" }, { title: "日本", value: "japan" },
-            { title: "澳大利亚", value: "australia" }, { title: "印度", value: "india" },
-            { title: "德国", value: "germany" }, { title: "法国", value: "france" },
-            { title: "巴西", value: "brazil" }, { title: "墨西哥", value: "mexico" },
           ],
         },
         {
@@ -285,26 +282,26 @@ function flixChartItems(platform, chart) {
 
 async function flixVideo(entry, platformName, countryName, chartDate) {
   const item = entry.item;
-  const description = [
-    `#${item.rank}`, platformName, flixChartName(entry.chart), countryName, chartDate,
-    item.movement ? `变化 ${item.movement}` : "", item.days ? `在榜 ${item.days}` : "",
-  ].filter(Boolean).join(" · ");
   if (Number(item.tmdbId) > 0 && (item.mediaType === "movie" || item.mediaType === "tv")) {
     return {
-      id: Number(item.tmdbId), type: "tmdb", mediaType: item.mediaType, title: item.title,
-      description,
+      id: Number(item.tmdbId), type: "tmdb", mediaType: item.mediaType, title: item.tmdbTitle || item.title,
+      posterPath: item.posterPath || undefined, backdropPath: item.backdropPath || undefined,
+      releaseDate: item.releaseDate || undefined, rating: item.rating,
+      description: item.description || "",
     };
   }
   const tmdb = await flixFindTmdb(item, entry.chart);
   if (tmdb) {
     return {
-      id: Number(tmdb.id), type: "tmdb", mediaType: tmdb.media_type, title: item.title,
-      description,
+      id: Number(tmdb.id), type: "tmdb", mediaType: tmdb.media_type, title: tmdb.title || tmdb.name || item.title,
+      posterPath: tmdb.poster_path || undefined, backdropPath: tmdb.backdrop_path || undefined,
+      releaseDate: tmdb.release_date || tmdb.first_air_date || undefined, rating: tmdb.vote_average,
+      description: tmdb.overview || "",
     };
   }
   const link = flixSourceUrl(item);
   if (!link) return null;
-  const result = { id: link, type: "url", title: item.title, description: `${description} · 未匹配到 TMDB`, link };
+  const result = { id: link, type: "url", title: item.title, description: "", link };
   const mediaType = flixMediaType(item, entry.chart);
   if (mediaType) result.mediaType = mediaType;
   FLIX_DETAIL_CACHE[link] = result;

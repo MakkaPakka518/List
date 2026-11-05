@@ -42,24 +42,56 @@ assert movie == {
 assert data["platforms"]["netflix"]["charts"]["overall"][0]["mediaType"] == "movie"
 
 calls = []
-MODULE.tmdb_get = lambda path, params: calls.append((path, params)) or {"results": [{
-    "id": 123,
-    "title": "测试电影",
-    "original_title": "Test Movie",
-    "release_date": "2026-01-02",
-    "poster_path": "/poster.jpg",
-    "backdrop_path": "/backdrop.jpg",
-    "vote_average": 8.2,
-    "popularity": 10,
-}, {
-    "id": 999,
-    "title": "Test Movie",
-    "release_date": "2000-01-02",
-    "poster_path": "/wrong.jpg",
-}]}
-matched = MODULE.match_tmdb(movie)
+def fake_tmdb(path, params):
+    calls.append((path, params))
+    if path == "search/movie":
+        return {"results": [
+            {"id": 123, "title": "Test Movie", "release_date": "2026-01-02", "popularity": 10},
+            {"id": 999, "title": "Test Movie", "release_date": "2000-01-02", "popularity": 999},
+        ]}
+    if path == "search/tv":
+        return {"results": [
+            {"id": 111, "name": "Lupin", "first_air_date": "2007-01-01", "popularity": 999},
+            {"id": 222, "name": "Lupin", "first_air_date": "2021-01-08", "popularity": 10},
+        ]}
+    media_type, tmdb_id = path.split("/")
+    assert media_type in ("movie", "tv")
+    return {
+        "id": int(tmdb_id),
+        "poster_path": f"/{tmdb_id}.jpg",
+        "backdrop_path": f"/{tmdb_id}-back.jpg",
+        "release_date": "2026-01-02" if media_type == "movie" else None,
+        "first_air_date": "2021-01-08" if media_type == "tv" else None,
+        "vote_average": 8.2,
+        "translations": {"translations": [
+            {"iso_639_1": "zh", "iso_3166_1": "CN", "data": {"title": "简体电影", "name": "简体剧名", "overview": "简体简介"}},
+            {"iso_639_1": "zh", "iso_3166_1": "TW", "data": {"title": "繁體電影", "name": "繁體劇名", "overview": "繁體簡介"}},
+            {"iso_639_1": "en", "iso_3166_1": "US", "data": {"title": "English Movie", "name": "English Show", "overview": "English overview"}},
+        ]},
+        "images": {
+            "posters": [
+                {"file_path": "/zh-small.jpg", "iso_639_1": "zh", "width": 500, "height": 750},
+                {"file_path": "/zh-4k.jpg", "iso_639_1": "zh", "width": 2160, "height": 3240},
+                {"file_path": "/clean-4k.jpg", "iso_639_1": None, "width": 2000, "height": 3000},
+                {"file_path": "/en-4k.jpg", "iso_639_1": "en", "width": 3000, "height": 4500},
+            ],
+            "backdrops": [{"file_path": "/back-4k.jpg", "iso_639_1": None, "width": 3840, "height": 2160}],
+        },
+    }
+
+MODULE.tmdb_get = fake_tmdb
+matched = MODULE.match_tmdb(movie, {("movie", 123): 0})
 assert calls[0][0] == "search/movie"
 assert calls[0][1]["language"] == "en-US"
 assert matched["tmdbId"] == 123
-assert matched == {"tmdbId": 123, "mediaType": "movie"}
+assert matched["posterPath"] == "/clean-4k.jpg"
+assert matched["backdropPath"] == "/back-4k.jpg"
+assert matched["tmdbTitle"] == "简体电影"
+assert matched["description"] == "简体简介"
+
+lupin = {"title": "Lupin", "sourcePath": "/title/lupin/", "mediaType": "tv"}
+lupin_match = MODULE.match_tmdb(lupin, {("tv", 222): 0})
+assert lupin_match["tmdbId"] == 222
+assert lupin_match["releaseDate"] == "2021-01-08"
+assert lupin_match["tmdbTitle"] == "简体剧名"
 print("FlixPatrol parser tests passed")

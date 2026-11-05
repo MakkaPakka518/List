@@ -4,6 +4,7 @@ import re
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
+from difflib import SequenceMatcher
 from pathlib import Path
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
@@ -19,12 +20,8 @@ TMDB_CACHE_FILE = OUTPUT_DIR / "tmdb-cache.json"
 COUNTRY_LINK = re.compile(r"^/top10/[^/]+/([^/]+)/(20\d{2}-\d{2}-\d{2})/$")
 HEADING_INFO = re.compile(r"^(.*?) TOP 10 in (.*?) on ([A-Z][a-z]+ \d{1,2}, \d{4})$")
 MAIN_COUNTRIES = (
-    "world", "united-states", "hong-kong", "taiwan", "singapore", "malaysia",
+    "united-states", "hong-kong", "taiwan", "singapore", "malaysia",
     "united-kingdom", "spain", "nigeria", "canada", "south-korea", "japan",
-    "australia", "new-zealand", "india", "thailand", "indonesia", "philippines",
-    "vietnam", "germany", "france", "italy", "netherlands", "sweden", "brazil",
-    "mexico", "argentina", "turkey", "united-arab-emirates", "saudi-arabia",
-    "south-africa",
 )
 
 
@@ -90,46 +87,151 @@ def tmdb_get(path, params):
             time.sleep(2 ** attempt)
 
 
-def match_tmdb(item):
+def tmdb_rankings():
+    rankings = {}
+    for media_type in ("movie", "tv"):
+        rank = 0
+        for path in (f"trending/{media_type}/week", f"{media_type}/popular"):
+            for page in range(1, 6):
+                for candidate in tmdb_get(path, {"language": "en-US", "page": page}).get("results", []):
+                    key = (media_type, candidate.get("id"))
+                    if candidate.get("id") and key not in rankings:
+                        rankings[key] = rank
+                    rank += 1
+    return rankings
+
+
+def tmdb_metadata(candidate, media_type):
+    localized = tmdb_get(f"{media_type}/{candidate['id']}", {
+        "language": "zh-CN",
+        "append_to_response": "translations,images",
+        "include_image_language": "zh,null,en",
+    })
+    translations = localized.get("translations", {}).get("translations", [])
+
+    def translation(language, countries=()):
+        matches = [entry for entry in translations if entry.get("iso_639_1") == language]
+        if countries:
+            preferred = [entry for entry in matches if entry.get("iso_3166_1") in countries]
+            if preferred:
+                matches = preferred
+        return matches[0].get("data", {}) if matches else {}
+
+    simplified = translation("zh", ("CN", "SG"))
+    traditional = translation("zh", ("TW", "HK"))
+    original = translation(candidate.get("original_language", ""))
+    english = translation("en", ("US", "GB"))
+    title_field = "title" if media_type == "movie" else "name"
+    tmdb_title = (
+        simplified.get(title_field)
+        or traditional.get(title_field)
+        or candidate.get("original_title")
+        or candidate.get("original_name")
+        or original.get(title_field)
+        or english.get(title_field)
+        or localized.get(title_field)
+        or candidate.get(title_field)
+    )
+    overview = (
+        simplified.get("overview")
+        or traditional.get("overview")
+        or original.get("overview")
+        or english.get("overview")
+        or localized.get("overview")
+        or candidate.get("overview")
+        or ""
+    )
+    images = localized.get("images", {})
+
+    def largest(values):
+        return max(values, key=lambda image: (int(image.get("width") or 0) * int(image.get("height") or 0), float(image.get("vote_average") or 0)), default={}).get("file_path")
+
+    posters = images.get("posters", [])
+    localized_poster = localized.get("poster_path")
+    localized_image = next((image for image in posters if image.get("file_path") == localized_poster), None)
+    chinese_posters = [image for image in posters if image.get("iso_639_1") == "zh"]
+    neutral_posters = [image for image in posters if image.get("iso_639_1") is None]
+    english_posters = [image for image in posters if image.get("iso_639_1") == "en"]
+    poster_path = (
+        largest(neutral_posters)
+        or (localized_poster if localized_image and localized_image.get("iso_639_1") == "zh" else None)
+        or largest(chinese_posters)
+        or largest(english_posters)
+        or largest(posters)
+        or localized_poster
+        or candidate.get("poster_path")
+    )
+    backdrops = images.get("backdrops", [])
+    backdrop_path = largest(backdrops) or localized.get("backdrop_path") or candidate.get("backdrop_path")
+    release_date = localized.get("release_date") or localized.get("first_air_date") or candidate.get("release_date") or candidate.get("first_air_date") or ""
+    return {
+        "tmdbId": candidate.get("id"),
+        "tmdbTitle": tmdb_title,
+        "mediaType": media_type,
+        "posterPath": poster_path,
+        "backdropPath": backdrop_path,
+        "releaseDate": release_date,
+        "rating": localized.get("vote_average") if localized.get("vote_average") is not None else candidate.get("vote_average"),
+        "description": overview,
+    }
+
+
+def match_tmdb(item, rankings):
     expected_type = item.get("mediaType") if item.get("mediaType") in ("movie", "tv") else ""
     target = title_key(item.get("title"))
     year = item_year(item)
-    matches = {}
+    matches = []
     for media_type in ([expected_type] if expected_type else ["movie", "tv"]):
         params = {"query": item.get("title", ""), "language": "en-US", "include_adult": "false"}
         if year:
             params["year" if media_type == "movie" else "first_air_date_year"] = year
-        for candidate in tmdb_get(f"search/{media_type}", params).get("results", []):
+        for search_rank, candidate in enumerate(tmdb_get(f"search/{media_type}", params).get("results", [])):
             names = [candidate.get(key) for key in ("title", "name", "original_title", "original_name")]
             normalized = [title_key(name) for name in names if name]
-            if target not in normalized:
-                continue
+            similarity = max((SequenceMatcher(None, target, name).ratio() for name in normalized), default=0)
+            exact = target in normalized
             release_date = candidate.get("release_date") or candidate.get("first_air_date") or ""
             if year and not release_date.startswith(year):
                 continue
-            matches[candidate.get("id")] = {
-                "tmdbId": candidate.get("id"),
-                "mediaType": media_type,
-            }
-    return next(iter(matches.values())) if len(matches) == 1 else None
+            trend_rank = rankings.get((media_type, candidate.get("id")))
+            if not exact and similarity < (0.45 if trend_rank is not None else 0.72):
+                continue
+            release_year = int(release_date[:4]) if release_date[:4].isdigit() else 0
+            matches.append((
+                trend_rank is None,
+                trend_rank if trend_rank is not None else 999999,
+                not exact,
+                -similarity,
+                -release_year,
+                -float(candidate.get("popularity") or 0),
+                search_rank,
+                candidate,
+                media_type,
+            ))
+    if not matches:
+        return None
+    matches.sort(key=lambda value: value[:7])
+    return tmdb_metadata(matches[0][7], matches[0][8])
 
 
 def enrich_tmdb(results):
     if not os.environ.get("TMDB_API_KEY", "").strip():
         raise RuntimeError("TMDB_API_KEY is required to publish FlixPatrol data")
     cache = json.loads(TMDB_CACHE_FILE.read_text(encoding="utf-8")) if TMDB_CACHE_FILE.exists() else {}
+    cache = {key: value for key, value in cache.items() if key.startswith("v5:")}
+    rankings = tmdb_rankings()
     references = {}
     for data in results:
         for platform in data["platforms"].values():
             for items in platform["charts"].values():
                 for item in items:
-                    key = f"v3:{item.get('mediaType', 'multi')}:{title_key(item.get('title'))}:{item_year(item)}"
+                    key = f"v5:{item.get('mediaType', 'multi')}:{title_key(item.get('title'))}:{item_year(item)}"
                     references.setdefault(key, []).append(item)
 
     missing = {key: items[0] for key, items in references.items() if key not in cache}
     if missing:
         with ThreadPoolExecutor(max_workers=6) as executor:
-            futures = {executor.submit(match_tmdb, item): key for key, item in missing.items()}
+            futures = {executor.submit(match_tmdb, item, rankings): key for key, item in missing.items()}
             for index, future in enumerate(as_completed(futures), 1):
                 key = futures[future]
                 try:
@@ -278,6 +380,10 @@ def main():
     enrich_tmdb(results)
     for data in results:
         write_json(OUTPUT_DIR / f"{data['country']['slug']}.json", data)
+    keep_files = {f"{slug}.json" for slug in selected} | {"index.json", TMDB_CACHE_FILE.name}
+    for path in OUTPUT_DIR.glob("*.json"):
+        if path.name not in keep_files:
+            path.unlink()
 
     platform_names = {}
     for data in results:

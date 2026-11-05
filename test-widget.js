@@ -8,7 +8,8 @@ const FLIXPATROL_FIXTURE = {
   country: { slug: "hong-kong", name: "Hong Kong" },
   platforms: { netflix: { name: "Netflix", charts: { movies: [{
     rank: 1, title: "Test Movie", sourcePath: "/title/test-movie-2026/", mediaType: "movie",
-    tmdbId: 123,
+    tmdbId: 123, tmdbTitle: "测试电影", posterPath: "/poster.jpg", backdropPath: "/backdrop.jpg",
+    releaseDate: "2026-01-02", rating: 8.2, description: "TMDB 原生简介",
   }] } } },
 };
 
@@ -39,8 +40,8 @@ eval(fs.readFileSync("./widget.js", "utf8"));
   assert.equal(f.length, 1, "FlixPatrol 香港 Netflix 电影榜");
   assert.equal(f[0].id, 123);
   assert.equal(f[0].type, "tmdb");
-  assert.equal(f[0].posterPath, undefined);
-  assert.match(f[0].description, /Netflix · 电影 · Hong Kong/);
+  assert.equal(f[0].posterPath, "/poster.jpg");
+  assert.equal(f[0].description, "TMDB 原生简介");
   assert.equal(await loadDetail("https://evil.test/title/test/"), null);
 
   // 3. VideoItem 字段校验（用番剧，条目最全）
