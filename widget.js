@@ -4,7 +4,7 @@
 WidgetMetadata = {
   id: "makka.list.aggregator",
   title: "全站榜单 (List)",
-  version: "1.1.0",
+  version: "1.2.0",
   requiredVersion: "0.0.1",
   description: "骨朵/豆瓣/芒果TV/各平台剧场/热门番剧/FlixPatrol 全球流媒体榜单",
   author: "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
@@ -22,6 +22,7 @@ WidgetMetadata = {
         { name: "category", title: "分類", type: "enumeration", value: "剧集", enumOptions: [{ title: "劇集", value: "剧集" }, { title: "綜藝", value: "综艺" }, { title: "動漫", value: "动漫" }, { title: "電影", value: "电影" }] },
         { name: "sort", title: "排序方式", type: "enumeration", value: "default", enumOptions: [{ title: "默認原序", value: "default" }, { title: "最近更新", value: "latestUpdate" }, { title: "最近發佈", value: "latestRelease" }, { title: "熱度最高", value: "hottest" }, { title: "高分優先", value: "highestRating" }] },
         { name: "page", title: "页码", type: "page", startPage: 1 },
+        { name: "language", title: "语言", type: "language", value: "zh-CN" },
       ],
     },
     {
@@ -33,6 +34,7 @@ WidgetMetadata = {
         { name: "channel", title: "榜單分類", type: "enumeration", value: "tv", enumOptions: [{ title: "全部劇集", value: "tv" }, { title: "大陸劇集", value: "tv_domestic" }, { title: "歐美劇集", value: "tv_american" }, { title: "日本劇集", value: "tv_japanese" }, { title: "南韓劇集", value: "tv_korean" }, { title: "動漫番劇", value: "tv_animation" }, { title: "紀錄片", value: "tv_documentary" }, { title: "大陸綜藝", value: "show_domestic" }, { title: "國外綜藝", value: "show_foreign" }] },
         { name: "sort", title: "排序方式", type: "enumeration", value: "default", enumOptions: [{ title: "默認原序", value: "default" }, { title: "最近更新", value: "latestUpdate" }, { title: "最近發佈", value: "latestRelease" }, { title: "熱度最高", value: "hottest" }, { title: "高分優先", value: "highestRating" }] },
         { name: "page", title: "页码", type: "page", startPage: 1 },
+        { name: "language", title: "语言", type: "language", value: "zh-CN" },
       ],
     },
     {
@@ -44,6 +46,7 @@ WidgetMetadata = {
         { name: "sort_by", title: "類型", type: "enumeration", value: "tv", enumOptions: [{ title: "全部劇集", value: "tv" }, { title: "王牌綜藝", value: "show" }] },
         { name: "sort", title: "排序方式", type: "enumeration", value: "default", enumOptions: [{ title: "默認原序", value: "default" }, { title: "最近更新", value: "latestUpdate" }, { title: "最近發佈", value: "latestRelease" }, { title: "熱度最高", value: "hottest" }, { title: "高分優先", value: "highestRating" }] },
         { name: "page", title: "页码", type: "page", startPage: 1 },
+        { name: "language", title: "语言", type: "language", value: "zh-CN" },
       ],
     },
     {
@@ -56,6 +59,7 @@ WidgetMetadata = {
         { name: "status", title: "播出狀態", type: "enumeration", value: "all", enumOptions: [{ title: "全部", value: "all" }, { title: "已開播", value: "aired" }, { title: "即將推出", value: "upcoming" }] },
         { name: "sort", title: "排序方式", type: "enumeration", value: "default", enumOptions: [{ title: "默認原序", value: "default" }, { title: "最近更新", value: "latestUpdate" }, { title: "最近發佈", value: "latestRelease" }, { title: "熱度最高", value: "hottest" }, { title: "高分優先", value: "highestRating" }] },
         { name: "page", title: "页码", type: "page", startPage: 1 },
+        { name: "language", title: "语言", type: "language", value: "zh-CN" },
       ],
     },
     {
@@ -66,6 +70,7 @@ WidgetMetadata = {
       params: [
         { name: "sort", title: "排序方式", type: "enumeration", value: "default", enumOptions: [{ title: "默認原序", value: "default" }, { title: "最近更新", value: "latestUpdate" }, { title: "最近發佈", value: "latestRelease" }, { title: "熱度最高", value: "hottest" }, { title: "高分優先", value: "highestRating" }] },
         { name: "page", title: "页码", type: "page", startPage: 1 },
+        { name: "language", title: "语言", type: "language", value: "zh-CN" },
       ],
     },
     {
@@ -114,6 +119,7 @@ WidgetMetadata = {
           ],
         },
         { name: "count", title: "数量", type: "count", value: "20" },
+        { name: "language", title: "语言", type: "language", value: "zh-CN" },
       ],
     },
   ],
@@ -124,17 +130,10 @@ const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 const UA_HEADERS = { "User-Agent": UA, "Accept-Language": "zh-CN,zh;q=0.9" };
 
 function toVideo(it) {
-  return {
-    id: Number(it.tmdbId || it.id) || 0,
-    type: "tmdb",
-    mediaType: it.mediaType || (it.type === "movie" ? "movie" : "tv"),
-    title: it.tmdbTitle || it.title || "",
-    posterPath: it.posterPath,
-    backdropPath: it.backdropPath,
-    rating: it.rating,
-    releaseDate: it.releaseDate,
-    description: it.description || it.overview || "",
-  };
+  const mediaType = it && (it.mediaType || (it.type === "movie" ? "movie" : "tv"));
+  const tmdbId = Number(it && (it.tmdbId || it.id));
+  if (!tmdbId || !["movie", "tv"].includes(mediaType)) return null;
+  return { id: `${mediaType}.${tmdbId}`, type: "tmdb" };
 }
 
 // 排序：默认原序 / 最近更新(lastUpdateDate) / 最近发布(releaseDate) / 热度(popularity) / 高分(rating)
@@ -156,7 +155,7 @@ function sortItems(list, sort) {
 function paginate(list, page, size = 24) {
   const p = Number(page || 1);
   const start = (p - 1) * size;
-  return (list || []).slice(start, start + size).map(toVideo);
+  return (list || []).slice(start, start + size).map(toVideo).filter(Boolean);
 }
 
 async function loadGuduo(params = {}) {
@@ -277,32 +276,12 @@ function flixChartItems(platform, chart) {
   return (charts[chart] || []).map((item) => ({ item, chart }));
 }
 
-async function flixVideo(entry, platformName, countryName, chartDate) {
+function flixVideo(entry) {
   const item = entry.item;
-  if (Number(item.tmdbId) > 0 && (item.mediaType === "movie" || item.mediaType === "tv")) {
-    return {
-      id: Number(item.tmdbId), type: "tmdb", mediaType: item.mediaType, title: item.tmdbTitle || item.title,
-      posterPath: item.posterPath || undefined, backdropPath: item.backdropPath || undefined,
-      releaseDate: item.releaseDate || undefined, rating: item.rating,
-      description: item.description || "",
-    };
-  }
-  const tmdb = await flixFindTmdb(item, entry.chart);
-  if (tmdb) {
-    return {
-      id: Number(tmdb.id), type: "tmdb", mediaType: tmdb.media_type, title: tmdb.title || tmdb.name || item.title,
-      posterPath: tmdb.poster_path || undefined, backdropPath: tmdb.backdrop_path || undefined,
-      releaseDate: tmdb.release_date || tmdb.first_air_date || undefined, rating: tmdb.vote_average,
-      description: tmdb.overview || "",
-    };
-  }
-  const link = flixSourceUrl(item);
-  if (!link) return null;
-  const result = { id: link, type: "url", title: item.title, description: "", link };
   const mediaType = flixMediaType(item, entry.chart);
-  if (mediaType) result.mediaType = mediaType;
-  FLIX_DETAIL_CACHE[link] = result;
-  return result;
+  const tmdbId = Number(item && item.tmdbId);
+  if (!tmdbId || !["movie", "tv"].includes(mediaType)) return null;
+  return { id: `${mediaType}.${tmdbId}`, type: "tmdb" };
 }
 
 async function loadFlixPatrol(params = {}) {
@@ -326,9 +305,12 @@ async function loadFlixPatrol(params = {}) {
       entries = flixChartItems(platform, chart).map((entry) => ({ ...entry, platformName: platform.name || platformSlug }));
     }
     entries = entries.slice(0, flixCount(params.count));
-    const countryName = body.country && body.country.name || country;
-    const videos = await Promise.all(entries.map((entry) => flixVideo(entry, entry.platformName, countryName, body.chartDate || "")));
-    return videos.filter(Boolean);
+    const seen = new Set();
+    return entries.map(flixVideo).filter(item => {
+      if (!item || seen.has(item.id)) return false;
+      seen.add(item.id);
+      return true;
+    });
   } catch (error) {
     console.error("[loadFlixPatrol] 失败:", error.message || error);
     throw error;
