@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "FlixPatrol",
   "sourceUrl": "https://flixpatrol.com/top10/streaming/hong-kong/",
-  "updatedAt": "2026-11-05T17:36:42+00:00",
+  "updatedAt": "2026-11-05T18:04:26+00:00",
   "chartDate": "2026-11-05",
   "country": {
     "slug": "hong-kong",
@@ -20,7 +20,13 @@
             "movement": "–",
             "days": "351 d",
             "mediaType": "tv",
-            "tmdbId": 256920
+            "tmdbId": 256920,
+            "tmdbTitle": "許我耀眼",
+            "posterPath": "/ch4lPB2ZG02IW9ig5yn9mZ1gEN3.jpg",
+            "backdropPath": "/9rwooIkuM6zHiAkZhLzNvZ0awgY.jpg",
+            "releaseDate": "2025-09-26",
+            "rating": 8.2,
+            "description": "当红主播许妍和都市精英沈皓明是一对人人艳羡的夫妻，看似十分般配的两人，由于出生环境的差异，始终难以融入对方的圈层。许妍靠着光鲜的主持人身份和“精心装点”的身世顺利和沈皓明步入婚姻，而这一切尽在沈皓明的掌握下。冲突来临，许妍脱离沈皓明的掌控一去不回头。沈皓明却发现自己早已陷入爱情，想要全力追回许妍。经历种种，两人终于撕掉外表的伪装，重新靠近，会见彼此的内在，也重新认识自己。"
           },
           {
             "rank": 2,
@@ -28,7 +34,14 @@
             "sourcePath": "/title/moon-river/",
             "movement": "–",
             "days": "351 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 274570,
+            "tmdbTitle": "月亮在江边流淌",
+            "posterPath": "/5cewUJS53YTN2wOrjFvidDLBu7W.jpg",
+            "backdropPath": "/2i4WbWTwMNTHAVuoAcAUrI05PP1.jpg",
+            "releaseDate": "2025-11-07",
+            "rating": 8.9,
+            "description": "讲述失去笑容的朝鲜王世子，拥有冷峻气质与压倒性的气场​​，背负着丧失挚爱与朝廷斗争的伤痛。以及乐观开朗的女摊贩，虽然失去部分过去记忆，仍坚强面对生活。在某日二人意外灵魂互换，进而展开对自身与他人命运的重新审视，并因灵魂互换而展开浪漫奇幻爱情故事。"
           },
           {
             "rank": 3,
@@ -37,7 +50,13 @@
             "movement": "–",
             "days": "351 d",
             "mediaType": "tv",
-            "tmdbId": 287010
+            "tmdbId": 287010,
+            "tmdbTitle": "华丽的日子",
+            "posterPath": "/l9jeH33hqJHLZecsNNafdAFC6lv.jpg",
+            "backdropPath": "/e63U4YkhRvnPssCTYTxtiS9wYik.jpg",
+            "releaseDate": "2025-08-09",
+            "rating": 5.0,
+            "description": "《华丽的日子》（朝鲜语：화려한 날들／華麗한 날들）是韩国KBS 2TV预计于2025年8月9日开播的周末电视剧，由金亨硕执导、苏贤京执笔，丁一宇、郑仁仙、尹贤旻主演。"
           },
           {
             "rank": 4,
@@ -46,7 +65,13 @@
             "movement": "–",
             "days": "351 d",
             "mediaType": "tv",
-            "tmdbId": 137870
+            "tmdbId": 137870,
+            "tmdbTitle": "星汉灿烂·月升沧海",
+            "posterPath": "/gZ77hG8hB4lyc3JUPkCEJ4d1UDr.jpg",
+            "backdropPath": "/7koo7BXU9YfvYVEE5hpBKtq3I2.jpg",
+            "releaseDate": "2022-07-05",
+            "rating": 7.7,
+            "description": "程家女名少商，因战乱自幼被父母留在祖母身边成为“留守儿童”，婶娘狼心纵容，意图将其养成废人。面对重重陷阱，程少商为活命，假荒诞、真苦学，掩盖锋芒等待父母归来。可拨开乌云见月明时，却因多年疏离致使亲情已难再拾。缺爱的程少商，遇新帝义子凌不疑、白鹿山才子袁慎、世家子弟楼垚，三人各有优劣。在选择适婚者上，程少商既自卑又务实，尽管情感之路颇多坎坷，但她从不后悔自己的每次选择。在与凌不疑的相处之中，也阴差阳错卷入了凌不疑的家庭与身世之谜中。种种事件，程少商屡立奇功，也从凌不疑的家庭关系中学会与父母相处之道，以及如何经营自己的爱情。同时程少商与凌不疑也在这些经历中各自变化成长，慢慢与自己和家庭和解，并坚守内心的正义，携手化解国家危机，成就一段佳话。"
           },
           {
             "rank": 5,
@@ -55,7 +80,13 @@
             "movement": "–",
             "days": "351 d",
             "mediaType": "tv",
-            "tmdbId": 220269
+            "tmdbId": 220269,
+            "tmdbTitle": "折腰",
+            "posterPath": "/pgGCWEsizY61mYXASN1iERSNId9.jpg",
+            "backdropPath": "/hew9LSQW4wk63aN1Z7cEBTISL9B.jpg",
+            "releaseDate": "2025-05-13",
+            "rating": 8.813,
+            "description": "聪慧机敏系家国的乔家女郎小乔（宋祖儿 饰），与有勇有谋心纯善的魏家主公魏劭（刘宇宁 饰）联姻，起初二人因祖辈恩怨有所隔阂，过着相互试探与攻守的婚后日常，夫妻俩的多番较量中有笑也有泪；在历经诸多危机后，小乔和魏劭逐渐被对方的才智谋略与豁达胸襟所吸引，回过神时早已水滴石穿，心系彼此。二人凭借夫妻默契化解了家族矛盾，携手还百姓和平与安宁。"
           },
           {
             "rank": 6,
@@ -64,7 +95,13 @@
             "movement": "–",
             "days": "351 d",
             "mediaType": "tv",
-            "tmdbId": 281548
+            "tmdbId": 281548,
+            "tmdbTitle": "金昭玉醉",
+            "posterPath": "/6rRNxvnSYS2GOUTMuuvRa4vUAVm.jpg",
+            "backdropPath": "/fQ7grsqh1BE2oGk3JoWpj5o8WpS.jpg",
+            "releaseDate": "2025-09-26",
+            "rating": 6.2,
+            "description": "本剧讲述了惨遭暗害的巡天门门主萧锦玉，意外重生于软弱眼盲的楚王妃陆昭之身，凭借自身智勇，携手名义上的“双生弟弟”萧仞，为陆昭与自己复仇的故事。伪骨禁忌、替身文学、疯批反杀、权谋暗涌，全员演技派，反转不停，苏爽到底！"
           },
           {
             "rank": 7,
@@ -73,7 +110,13 @@
             "movement": "–",
             "days": "351 d",
             "mediaType": "tv",
-            "tmdbId": 253193
+            "tmdbId": 253193,
+            "tmdbTitle": "書卷一夢",
+            "posterPath": "/yhA6rjgNj2DrQtPGjKU8C52qbzk.jpg",
+            "backdropPath": "/9yc7Vv85J8Bqp9rZhJ7W966oi8L.jpg",
+            "releaseDate": "2025-06-26",
+            "rating": 8.1,
+            "description": "当意外穿越进剧本世界，成为被反派男主用完即弃、凌虐致死的女主角应该怎么办？宋小鱼想都不用想，当然是能跑多远跑多远啊。然而无论如何努力，“剧情”始终都会将她推往男主南珩身边，上演一个又一个剧本名场面。而在这个纸片世界里，亦有无数个早就被“设定”好的人物角色。有人被困深宫重院，有人囿于高门家宅，有人为雌竞所累，有人因权势奔走。有人渴望爱与自由，却只能戴着镣铐惶惶起舞，有人做着扶摇直上的大鹏之梦，却在日复一日的束缚与平庸中被消磨着激情。这不仅是人怂怕死的躺平咸鱼宋小鱼和心狠手辣的夺命卷王南珩间的鏖战，更是每个“小我”纸片人与既定命运的战斗。"
           },
           {
             "rank": 8,
@@ -82,7 +125,13 @@
             "movement": "–",
             "days": "351 d",
             "mediaType": "tv",
-            "tmdbId": 243224
+            "tmdbId": 243224,
+            "tmdbTitle": "凡人修仙传",
+            "posterPath": "/llz7Gji8AyDghQ1Zf6hWaW8RvFi.jpg",
+            "backdropPath": "/o0nLIPEvJb09MPxYxHw4BQR2YoJ.jpg",
+            "releaseDate": "2025-07-27",
+            "rating": 7.6,
+            "description": "该剧改编自忘语的同名小说，讲述了一个资质平庸的山村穷小子，在机缘巧合下进入修仙门派，依靠自己的谋略与谨慎，一路不断努力突破、热血修仙的故事。"
           },
           {
             "rank": 9,
@@ -91,7 +140,13 @@
             "movement": "–",
             "days": "351 d",
             "mediaType": "tv",
-            "tmdbId": 286198
+            "tmdbId": 286198,
+            "tmdbTitle": "申社长计划",
+            "posterPath": "/mE6Z3mp7LqsU6u9RmNZ8LVNgBju.jpg",
+            "backdropPath": "/ptO0ic2EaZdVxMwJXUcDRSEQse.jpg",
+            "releaseDate": "2025-09-15",
+            "rating": 7.5,
+            "description": "在这个沟通不畅、人们因琐事极易爆发冲突的现代社会，日常的停车纠纷、楼层噪音与情感争执等小矛盾往往一触即发，甚至可能演变成无法挽回的悲剧。而在双方剑拔弩张、拳头即将挥出的关键时刻，经营炸鸡店的神秘话术达人申社长（韩石圭 饰）总会带领店员赵必立（裴贤圣 饰）与李施温（李甄 饰）现身介入调解。申社长凭借一句句精准而痛快的话语，运用无可辩驳的逻辑与强大的说服力，即使面对再强势难缠的对手，也能令其束手无策地接受建议，从而和平化解危机。人们也因此期待，这个特别的团队将为这个充满火药味的世界带来意想不到的改变。"
           },
           {
             "rank": 10,
@@ -99,7 +154,14 @@
             "sourcePath": "/title/only-for-love/",
             "movement": "–",
             "days": "351 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 233194,
+            "tmdbTitle": "以爱为营",
+            "posterPath": "/iC2y43gKjr22jRHxOGXy6wKAml5.jpg",
+            "backdropPath": "/tchhr4PIgdILmgUqbfm2fbi9b26.jpg",
+            "releaseDate": "2023-11-03",
+            "rating": 8.1,
+            "description": "事业得意的财经记者郑书意为拿下头版，几经努力争取到铭豫云创总裁时宴的专访，两人互相留下了深刻印象。郑书意通过对各行各业的深入调研，写下了多篇客观精炼的报道，时宴也不断寻找有潜质和社会责任感的初创企业进行投资，希望尽己所能回馈社会。时宴发现郑书意通过报道传达出的观点总与自己不谋而合，接受了郑书意对铭豫云创做系列报道的邀约。郑书意与时宴一起分析行业，交流观点，借助新媒体渠道将最新的金融资讯带给读者，二人也共同面对投资与采访过程中遇到的种种困难与挑战，两颗心在一来二去的交锋中，慢慢靠近。"
           }
         ]
       }
@@ -115,7 +177,13 @@
             "movement": "–",
             "days": "3 d",
             "mediaType": "movie",
-            "tmdbId": 574475
+            "tmdbId": 574475,
+            "tmdbTitle": "死神来了6：血脉诅咒",
+            "posterPath": "/eTelUyanDy97K6ipQBWh0ZGEPmj.jpg",
+            "backdropPath": "/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+            "releaseDate": "2025-05-14",
+            "rating": 7.03,
+            "description": "　大学生斯蒂芬妮（凯特琳·桑塔·胡安娜 Kaitlyn Santa Juana 饰）长期被噩梦困扰，她决定返回家乡寻找噩梦起源，却意外发现曾发生在外婆艾莉丝身上的离奇旧事，并牵连出流淌在整个家族血脉中的秘密：死神诅咒。当她试图破解诅咒密码，却发现死神的镰刀早已垂下…… 随着身边亲人一个个离奇惨死，斯蒂芬妮还能带领幸存者逃脱死神的宿命猎杀吗？"
           },
           {
             "rank": 2,
@@ -123,7 +191,14 @@
             "sourcePath": "/title/collision-course-2026/",
             "movement": "–",
             "days": "5 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1571955,
+            "tmdbTitle": "失控撞劫",
+            "posterPath": "/bRkK2KbLUpYaauUGUtw45LRnaXL.jpg",
+            "backdropPath": "/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+            "releaseDate": "2026-10-30",
+            "rating": 6.564,
+            "description": "2013年，西班牙。抢劫银行后，逃离现场时发生的事故暴露出每个盗贼隐藏的一面，揭开了早在抢劫前就已开始的背叛和谎言。"
           },
           {
             "rank": 3,
@@ -131,7 +206,14 @@
             "sourcePath": "/title/rush-hour/",
             "movement": "–",
             "days": "1 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1603330,
+            "tmdbTitle": "Rush Hour",
+            "posterPath": "/kNb9JOMxZY0Kie4rEXGbEWEFoGL.jpg",
+            "backdropPath": "/x1TqF2VoFI0mUSG5cr3EOZopH3z.jpg",
+            "releaseDate": "2024-03-06",
+            "rating": 0.0,
+            "description": "A young woman’s heart is torn between her musician boyfriend who is on the brink of fame, and a man who understands her more than anyone."
           },
           {
             "rank": 4,
@@ -140,7 +222,13 @@
             "movement": "–",
             "days": "3 d",
             "mediaType": "movie",
-            "tmdbId": 49051
+            "tmdbId": 49051,
+            "tmdbTitle": "霍比特人1：意外之旅",
+            "posterPath": "/n79NAzaIC3YFHfjRBKpWFYH10V.jpg",
+            "backdropPath": "/e9XpCB9XoTSvek6O7PNvJMhSlIK.jpg",
+            "releaseDate": "2012-12-12",
+            "rating": 7.388,
+            "description": "中土最后一座矮人王国埃尔波尔，巍峨壮丽，庄严雄伟。老国王索尔积聚大量财富，却引来恶龙史茅革的觊觎和荼毒，最终导致这座城池陷落。许多年后，灰袍巫师甘道夫（伊恩·麦凯伦 Ian McKellen 饰）找到弗罗多的舅舅——霍比特人比尔博·巴金斯（马丁·弗里曼 Martin John C. Freeman 饰），邀请他加入由13名矮人组成的远征队伍。原来史茅革已多年不见声息，背负家国仇恨的矮人王子索林（理查德·阿米蒂奇 Richard Armitage 饰）希望借此机会收复故土。经过一番考虑，巴金斯决定加入。令他想不到的是，远征旅途多灾多难，与索林结下深仇大恨的苍白半兽人及其爪牙阴魂不散，更有食人鬼和石人制造的无数艰险。而在旅途中，巴金斯也意外得到了日后影响整个中土的重要宝物…"
           },
           {
             "rank": 5,
@@ -149,7 +237,13 @@
             "movement": "–",
             "days": "1 d",
             "mediaType": "movie",
-            "tmdbId": 5175
+            "tmdbId": 5175,
+            "tmdbTitle": "尖峰时刻2",
+            "posterPath": "/8tMCgpyObB8Lb9YUPcSC7mQvOXT.jpg",
+            "backdropPath": "/v84twmzP4XKc2X797h4vbhLVJlY.jpg",
+            "releaseDate": "2001-08-03",
+            "rating": 6.785,
+            "description": "李督察（成龙 饰）和从洛杉矶赶来香港度假的老搭档詹姆斯•卡特（克里斯•塔克 Chris Tucker 饰）真是一刻不得闲，因美国领事馆遭到炸弹袭击，两名工作人员身亡，李督察只得带上卡特去拜访三合会头目、也是自己父亲的昔日搭档邓力奇（尊龙 饰），邓力奇的手下胡莉（章子怡 饰）等人先后出面袭击李与卡特，不久李被美国方面禁止参与此案，而香港警局也遭到了炸弹袭击。失散的李和卡特分别来到了邓力奇的游艇，得知三合会出现了内讧，话音刚落，胡莉将邓力奇射杀在海中……暂时失去线索的二人奔赴洛杉矶，在当地大亨荣士勋家中发现了胡莉的踪迹和美国的卧底特工，原来邓、胡等人卷入了一场巨额假钞案，李与卡特决定拿回胡莉手中的印版……"
           },
           {
             "rank": 6,
@@ -158,7 +252,13 @@
             "movement": "–",
             "days": "3 d",
             "mediaType": "movie",
-            "tmdbId": 939243
+            "tmdbId": 939243,
+            "tmdbTitle": "刺猬索尼克3",
+            "posterPath": "/4V0h8ZGgJtXsHA5CLlfXMgZliGc.jpg",
+            "backdropPath": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+            "releaseDate": "2024-12-19",
+            "rating": 7.595,
+            "description": "前所未有的劲敌“暗影”（基努·里维斯 Keanu Reeves 配音）高能袭来，轻松击败索尼克（本·施瓦茨 Ben Schwartz 配音）和他的伙伴纳克鲁斯（伊德里斯·艾尔巴 Idris Elba 配音），索尼克只好去找昔日老对手蛋头博士（金·凯瑞 Jim Carrey 饰）共同联手对抗“暗影”，而退休的蛋头博士已日渐发福，他们能否联手抗敌？"
           },
           {
             "rank": 7,
@@ -167,7 +267,13 @@
             "movement": "–",
             "days": "3 d",
             "mediaType": "movie",
-            "tmdbId": 122917
+            "tmdbId": 122917,
+            "tmdbTitle": "霍比特人3：五军之战",
+            "posterPath": "/qeNgbW17n3zXOPeWpvm8hJg5Yb5.jpg",
+            "backdropPath": "/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+            "releaseDate": "2014-12-10",
+            "rating": 7.341,
+            "description": "在上一部结尾处，比尔博一行人对巨龙史矛革声称将要重新收复自己的家园，但却不知不觉地被一股强大致命的力量推向世界黑暗的更深处，而巨龙史矛革的重现将自身无尽的愤怒对准了长湖镇的男女老少。索林迷恋自己收回的财富，他牺牲了队友的友谊，却把霍比特人推向了绝望与危险的境地，殊不知有更大的危险在前方等待。劲敌索伦派出了第四军团的半兽人在孤山秘密埋伏袭击，但只有灰袍巫师甘道夫洞悉了这一危险。面对不断高涨的黑暗势力的冲突，矮人、精灵以及人类必须决定是否联合，否则均将会被毁灭。比尔博在五军联合的史诗战中为自己的生命而决斗，而迷失的索林也将面对财富的欲望完成自我救赎。"
           },
           {
             "rank": 8,
@@ -176,7 +282,13 @@
             "movement": "–",
             "days": "3 d",
             "mediaType": "movie",
-            "tmdbId": 11088
+            "tmdbId": 11088,
+            "tmdbTitle": "各怀鬼胎",
+            "posterPath": "/5yKomryA4Oak54fPjBS9TXBmYji.jpg",
+            "backdropPath": "/bT5pk1CyXY2qQtSgt2WAiXBRhX1.jpg",
+            "releaseDate": "2001-11-09",
+            "rating": 6.32,
+            "description": "　　摩尔是个强盗，他有大把大把的钞票，还有年轻漂亮的妻子。看起来过得还不错！不过在一次行动中他不小心被录进了安全摄像机的磁带里，他的工作也就自此露了馅。这到还罢了，可是倒霉的事情却接踵而至。  　　负责给他销赃的伯格曼失信于他，将赃款独吞，而他的妻子也可能要离他而去，转投别的男人的怀抱。  　　摩尔发现自己已经一文不值，不仅被出卖，而且遭到勒索。摩尔无奈之余，被逼再为伯格曼干一票“最后的大买卖”。"
           },
           {
             "rank": 9,
@@ -185,7 +297,13 @@
             "movement": "–",
             "days": "3 d",
             "mediaType": "movie",
-            "tmdbId": 57158
+            "tmdbId": 57158,
+            "tmdbTitle": "霍比特人2：史矛革之战",
+            "posterPath": "/tMcStaukYIRT2BscxZJzULW9zPm.jpg",
+            "backdropPath": "/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg",
+            "releaseDate": "2013-12-11",
+            "rating": 7.579,
+            "description": "距离孤山越来越近，矮人远征军的道路却变得异常艰险。他们躲过了苍白半兽人的不懈追杀，在幽暗密林前和甘道夫（伊恩·麦凯伦 Ian McKellen 饰）兵分两路，后者前往多尔哥多探寻索伦的动向，而霍比特人比尔博·巴金斯（马丁·弗里曼 Martin John C. Freeman 饰）和矮人们先是遭到巨大蜘蛛的袭击，随后又被精灵王子莱戈拉斯（奥兰多·布鲁姆 Orlando Bloom 饰）及其木精灵同伴捕获。比尔博急中生智，利用魔戒救出伙伴，继而引发了木精灵、半兽人和矮人远征军之间精彩纷呈的三方会战。借助巴德（卢克·伊万斯 Luke Evans 饰）的帮助，疲惫的矮人们暂时落脚长湖镇。近在咫尺的孤山城堡，沉睡在财宝中的巨龙即将醒来……"
           },
           {
             "rank": 10,
@@ -194,7 +312,13 @@
             "movement": "–",
             "days": "2 d",
             "mediaType": "movie",
-            "tmdbId": 9944
+            "tmdbId": 9944,
+            "tmdbTitle": "塘鹅暗杀令",
+            "posterPath": "/lmR3mJFbT7hdHGREJ92h4JS6VLu.jpg",
+            "backdropPath": "/IcZ40BPUYdRLBp9iGco9hh8fAm.jpg",
+            "releaseDate": "1993-09-17",
+            "rating": 6.598,
+            "description": "两名高等法院的法官遭杀手谋杀，法学院高材生达比随后开始调查此案，起草一份该案的报告，名为《塘鹅报告》。达比找到了记者格兰，因为他是最后一名见到其中一名法官的人，希望能得到他的帮助调查此案。一天格兰接到了一个神秘人来电，此人自称知道谁是该案凶手，格兰跟踪到了此人，可惜未能拦下他。此时，总统暗中命令相关人士不要插手此案。格兰由此起疑，随后调查到了总统和马氏集团关系密切，而且一切证据都表明，马氏与两位法官的死有着千丝万缕的关系！"
           }
         ],
         "tv": [
@@ -205,7 +329,13 @@
             "movement": "–",
             "days": "5 d",
             "mediaType": "tv",
-            "tmdbId": 289517
+            "tmdbId": 289517,
+            "tmdbTitle": "末路兼职",
+            "posterPath": "/7T2OOuoxdW1sxfSjvg7ezueaFin.jpg",
+            "backdropPath": "/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+            "releaseDate": "2026-10-30",
+            "rating": 7.66,
+            "description": "负债累累的年轻男子接下了一家神秘机构提供的高薪兼职工作，却发现为了赚更多钱干的这份差事竟变成了一场噩梦。"
           },
           {
             "rank": 2,
@@ -214,7 +344,13 @@
             "movement": "–",
             "days": "19 d",
             "mediaType": "tv",
-            "tmdbId": 300146
+            "tmdbId": 300146,
+            "tmdbTitle": "嫁金釵",
+            "posterPath": "/hksEcCAEBmiXdVu5pe2hvv49ZXR.jpg",
+            "backdropPath": "/214MZMPdA3F2GZlm9c3aYE91sYt.jpg",
+            "releaseDate": "2026-10-16",
+            "rating": 6.708,
+            "description": "改编自笑佳人的同名小说。阿丑因容貌酷似侯府千金，意外成为国公府世子陆濯的冲喜新娘。陆濯苏醒后对她百般提防，另一名与她容貌相同的女子也对她恨之入骨。身处危机四伏的国公府，阿丑步步谋划，逐渐改写命运，并揭开身世之谜。"
           },
           {
             "rank": 3,
@@ -223,7 +359,13 @@
             "movement": "–",
             "days": "26 d",
             "mediaType": "tv",
-            "tmdbId": 293610
+            "tmdbId": 293610,
+            "tmdbTitle": "Doctor X：白色黑手党时代",
+            "posterPath": "/s9WHSL8tBYeLppWorXx0YSUMKjr.jpg",
+            "backdropPath": "/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+            "releaseDate": "2026-10-09",
+            "rating": 9.0,
+            "description": "一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。"
           },
           {
             "rank": 4,
@@ -232,7 +374,13 @@
             "movement": "–",
             "days": "24 d",
             "mediaType": "tv",
-            "tmdbId": 293607
+            "tmdbId": 293607,
+            "tmdbTitle": "百日谎言",
+            "posterPath": "/mZmAXmA08pKl3jVM9GGOc8QKI1P.jpg",
+            "backdropPath": "/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
+            "releaseDate": "2026-10-10",
+            "rating": 8.538,
+            "description": "天才扒手佳景在朝鲜总督府伪装就业100天，作为假密探活跃在朝鲜，最后成为真正的密探的过程以及与朝鲜翻译官泰雄展开浪漫爱情故事的谍报罗曼史电视剧。"
           },
           {
             "rank": 5,
@@ -241,7 +389,13 @@
             "movement": "–",
             "days": "7 d",
             "mediaType": "tv",
-            "tmdbId": 81102
+            "tmdbId": 81102,
+            "tmdbTitle": "深夜食堂",
+            "posterPath": "/pePgRBbwyQrUS3ZZuI6qnI0oME8.jpg",
+            "backdropPath": "/k5E8s31umGRMVyulQbKRJ9E12GS.jpg",
+            "releaseDate": "2017-06-12",
+            "rating": 5.4,
+            "description": "这是一间营业时间从午夜十二点到早上七点的特殊食堂。这里的老板，不太爱说话，却总叫人吃得热泪盈眶。在这里，自卑的舞蹈演员偶遇隐退多年舞界前辈，前辈不惜讲述自己不堪回首的经历不断鼓舞年轻人，最终令其重拾自信；轻言绝交的闺蜜因为吃到共同喜爱的美食，回忆起从前的友谊，重归于好 ；乐观的绝症患者遇到同命相连的女孩，两人相爱并相互给予力量，陪伴彼此完美地走过了最后一程；一味追求事业成功的白领，在这里结交了真正暖心的朋友，发现真情比成功更有意义。食物、故事、真情，汇聚了整部剧的主题，教会人们坦然面对得失，对生活充满期许和热情。每一个故事背后都饱含深情，情节跌宕起伏，令人流连忘返 。"
           },
           {
             "rank": 6,
@@ -249,7 +403,14 @@
             "sourcePath": "/title/the-apothecary-diaries/",
             "movement": "–",
             "days": "149 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 220542,
+            "tmdbTitle": "药屋少女的呢喃",
+            "posterPath": "/tKZeL5kDZbOo8ao1szJZuZT0kqO.jpg",
+            "backdropPath": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+            "releaseDate": "2023-10-22",
+            "rating": 8.7,
+            "description": "花街出身的药师少女猫猫被拐入后宫做下人，凭借对毒药与药物的丰富知识和敏锐的洞察力，卷入宫中接连发生的疑难事件，并与神秘宦官壬氏一同揭开重重谜团。"
           },
           {
             "rank": 7,
@@ -258,7 +419,13 @@
             "movement": "–",
             "days": "9 d",
             "mediaType": "tv",
-            "tmdbId": 332713
+            "tmdbId": 332713,
+            "tmdbTitle": "非常律师南田南",
+            "posterPath": "/6mxIXlNKq3benG4h8VqLPxzGZGo.jpg",
+            "backdropPath": "/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
+            "releaseDate": "2026-10-19",
+            "rating": 6.0,
+            "description": "患有自闭症的新晋律师南田南凭借非凡的记忆力和独特的见解在法庭内外应对各种挑战。"
           },
           {
             "rank": 8,
@@ -267,7 +434,13 @@
             "movement": "–",
             "days": "9 d",
             "mediaType": "tv",
-            "tmdbId": 313346
+            "tmdbId": 313346,
+            "tmdbTitle": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
+            "posterPath": "/6ns3vUJEA52MN4kB14gJQTflB0B.jpg",
+            "backdropPath": "/l1ypuYOFqNMNRm802JBP3hxozhc.jpg",
+            "releaseDate": "2026-10-07",
+            "rating": 9.7,
+            "description": "强化赋予魔术师雷恩，某天突然被公会流放。但他非但没有绝望，反而觉得“现在我什么都能做了”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。这是一个失去归宿的人们，自己去抓住生存方式的故事。雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了！！"
           },
           {
             "rank": 9,
@@ -275,7 +448,14 @@
             "sourcePath": "/title/lupin/",
             "movement": "–",
             "days": "9 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 96677,
+            "tmdbTitle": "亞森·羅蘋",
+            "posterPath": "/o7vDLIoSHARBsxc9Y8RlTVcSIYb.jpg",
+            "backdropPath": "/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+            "releaseDate": "2021-01-08",
+            "rating": 7.678,
+            "description": "灵感源自莫里斯·勒布朗创作的亚森·罗宾系列小说。绅士怪盗阿桑·迪奥普受到亚森·罗宾冒险的启发，凭借智慧与魅力智胜敌人，保护所爱之人。"
           },
           {
             "rank": 10,
@@ -284,7 +464,13 @@
             "movement": "–",
             "days": "14 d",
             "mediaType": "tv",
-            "tmdbId": 298546
+            "tmdbId": 298546,
+            "tmdbTitle": "新手上路",
+            "posterPath": "/bs9jfDTo5zazsimGN3DTO7K2iXI.jpg",
+            "backdropPath": "/8XzT2RtggYp9qfASQfEX83Os45P.jpg",
+            "releaseDate": "2026-10-18",
+            "rating": 7.25,
+            "description": "孩子被歹徒绑架后，心力交瘁新手妈妈张如意加入了一支由黑帮分子、鬼魂和神祗组成的奇特队伍，展开了一场疯狂的营救行动。"
           }
         ],
         "kids_movies": [
@@ -295,7 +481,13 @@
             "movement": "–",
             "days": "3 d",
             "mediaType": "movie",
-            "tmdbId": 939243
+            "tmdbId": 939243,
+            "tmdbTitle": "刺猬索尼克3",
+            "posterPath": "/4V0h8ZGgJtXsHA5CLlfXMgZliGc.jpg",
+            "backdropPath": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+            "releaseDate": "2024-12-19",
+            "rating": 7.595,
+            "description": "前所未有的劲敌“暗影”（基努·里维斯 Keanu Reeves 配音）高能袭来，轻松击败索尼克（本·施瓦茨 Ben Schwartz 配音）和他的伙伴纳克鲁斯（伊德里斯·艾尔巴 Idris Elba 配音），索尼克只好去找昔日老对手蛋头博士（金·凯瑞 Jim Carrey 饰）共同联手对抗“暗影”，而退休的蛋头博士已日渐发福，他们能否联手抗敌？"
           },
           {
             "rank": 2,
@@ -304,7 +496,13 @@
             "movement": "+1",
             "days": "247 d",
             "mediaType": "movie",
-            "tmdbId": 438695
+            "tmdbId": 438695,
+            "tmdbTitle": "欢乐好声音2",
+            "posterPath": "/cGKv8ZViX2Xrnzl1ul97Cq3gP6x.jpg",
+            "backdropPath": "/6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg",
+            "releaseDate": "2021-12-01",
+            "rating": 7.831,
+            "description": "野心勃勃的考拉巴斯特穆恩，以及他旗下的全明星动物艺人，即将呈献史上最华丽耀眼的舞台大秀…而且是在绚烂夺目的世界娱乐之都举行。但是有一个难关：他们必须先说服全世界最孤僻的摇滚巨星－由音乐传奇人物波诺首度为动画片献声演出－加入他们的表演行列。巴斯特（金奖影帝马修麦康纳 配音）以及他旗下的艺人将他的新穆恩剧院，转变成当地最火红的表演场地，但是他现在有一个更大的野心，那就是在光芒万丈的红滩市的克里斯托塔剧院，举办一场全新歌舞大秀的首演会。完全没有任何娱乐圈的人脉可言，巴斯特和他旗下的艺人－包括总是忧心忡忡的猪妈妈萝希坦（金奖影后瑞丝薇斯朋 配音）、摇滚女豪猪爱希（斯嘉丽约翰逊 配音）、认真努力的大猩猩强尼（泰隆艾格顿 配音）、内向害羞的大象米娜（托蕾凯莉 配音），当然还有爱现猪仔刚特（尼克克罗尔 配音）－必须偷偷溜进由一匹冷血无情的娱乐大亨野狼吉米克里斯托（艾美奖得主巴比卡纳佛 配音）一手打造经营，举世闻名的克里斯托娱乐公司的办公室。为了得到克里斯托先生的注意被逼到狗急跳墙的刚特，突然灵光一闪，给了巴斯特一个超浮夸的点子，巴斯特也逼不得已採用了这个点子，那就是向克里斯托先生挂保证，他们全新的歌舞大秀将由传奇摇滚狮子歌王柯雷卡洛威（波诺 配音）领衔主演。但问题是，巴斯特从来没见过柯雷，而且这名传奇摇滚歌王早就在十几年前，因为痛失爱妻从音乐界引退，独自隐居了十几年，再也没有人见过他。当刚特正在帮助巴斯特设计出一场举世无双的舞台歌舞秀经典杰作，来自克里斯托先生的压力（以及可怕的威胁）也越来越大，巴斯特就展开一场寻找传奇摇滚狮子歌王柯雷卡洛威的大冒险，希望能够说服他重返舞台。原本只是巴斯特想要扬名立万的春秋大梦，却转变成一个现代寓言，提醒了每一个人，音乐的力量强大到足以疗癒一颗最悲伤的破碎的心。"
           },
           {
             "rank": 3,
@@ -312,7 +510,14 @@
             "sourcePath": "/title/sing/",
             "movement": "+2",
             "days": "82 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 335797,
+            "tmdbTitle": "欢乐好声音",
+            "posterPath": "/7KjT0xvr2D9se2TPK7JwRGCRp1O.jpg",
+            "backdropPath": "/4VmlcpqORiI1Z7R6MWVaFVaDLKc.jpg",
+            "releaseDate": "2016-11-23",
+            "rating": 7.124,
+            "description": "马修·麦康纳希（Matthew McConaughey）为剧院老板巴斯特（Buster Moon）——一只考拉配音，这家剧院是他父亲建立的，曾经十分辉煌，但现在门庭冷落。为了重振剧院，考拉经理决定举办一场全世界最伟大的歌唱大赛，冠军将获得10万美元的奖金！这在动物王国已经算是巨款了！  这场歌唱大赛最终选出了五位决赛选手，他们分别是：  瑞茜·威瑟斯彭（Reese Witherspoon）配音的猪妈妈罗茜塔（Rosita），她年轻时一直有音乐梦想，后来一窝生了25只猪仔后梦想就烟消云散了。如今她参赛一方面是为圆梦，另一方面也是因为经济上入不敷出。  斯嘉丽·约翰森（Scarlett Johansson）配音的少女豪猪艾什（Ash），她和男友建立了一个庞克摇滚乐队，但男友总是打击她，让她觉得自己没有音乐才华。如今她要摆脱傲慢的男友，开始自己的单飞事业。  塞斯·麦克法兰（Seth MacFarlane）配音的老鼠歌手麦克（Mike），他有着辛纳特拉的动听歌喉，但心机很深，无时无刻不在利用遇到的每个人。  托瑞·凯利（Tori Kelly）配音的小象米纳（Meena），胆子很小，有舞台恐惧症。  塔伦·埃格顿（Taron Egerton）配音的年轻大猩猩强尼（Johnny），父亲一心想让他继承自己家族的黑帮事业，但他不愿子承父业、只想唱歌。  此外，约翰·C·莱利（John C. Reilly）也将加盟本片，为考拉老板最好的朋友黑绵羊艾迪（Eddie）配音，他不看好歌唱比赛这个主意。"
           },
           {
             "rank": 4,
@@ -321,7 +526,13 @@
             "movement": "-2",
             "days": "12 d",
             "mediaType": "movie",
-            "tmdbId": 481084
+            "tmdbId": 481084,
+            "tmdbTitle": "亚当斯一家",
+            "posterPath": "/mBQVywFyke372KFnTTMcUSiy0Hp.jpg",
+            "backdropPath": "/xS89uFXPKKwyWJgM7ljAmuAtDMh.jpg",
+            "releaseDate": "2019-10-10",
+            "rating": 6.613,
+            "description": "　　米高梅定格动画版《亚当斯一家》组建团队，除此前确定的奥斯卡·伊萨克，查理兹·塞隆、艾莉森·珍妮、科洛·莫瑞兹、菲恩·伍法德、尼克·克罗尔、贝特·迈德尔也加盟。讲述一个诡异古怪的家庭与一个狡猾的真人秀主持人对峙，这个家庭同时也在为新生命的到来做准备，将举办一场亚当斯式的庆祝派对。\r 　　伊萨克和塞隆为戈麦斯＆莫提西亚·亚当斯夫妇配音，莫瑞兹配Wednesday ，伍法德配Pugsley ，迈德尔配祖母，克罗尔配Fester叔叔，珍妮配反派Margaux Needler。\r 　　康拉德·弗农(《香肠派对》《马达加斯加3》《怪物史瑞克2》)和格雷格·蒂曼(《香肠派对》)执导，漫画家、该系列电视剧、电影的制作人查尔斯·亚当斯和Matt Lieberman、Pamela Pettler(《僵尸新娘》《怪兽屋》《机器人9号》)共同编写剧本，北美2019年10月11日北美上映。\r 　　原版漫画由查尔斯·亚当斯创作，围绕戈麦斯＆莫提西亚·亚当斯夫妇及他们的孩子Wednesday、Pugsley和一群亲戚展开故事。亚当斯一家属于典型哥特式家庭，富有但古怪，亲人之间的复杂关系和家产争夺让他们的生活陷入混乱之中。1964年首次被改编成真人版电视剧，之后又陆续开发了动画版，三部真人电影分别于1991、1993、1998年上映，还被改编成音乐剧登陆百老汇。"
           },
           {
             "rank": 5,
@@ -330,7 +541,13 @@
             "movement": "-1",
             "days": "12 d",
             "mediaType": "movie",
-            "tmdbId": 639721
+            "tmdbId": 639721,
+            "tmdbTitle": "亚当斯一家2",
+            "posterPath": "/73ClbVDODQmsTHlUTzf3uGUYU4f.jpg",
+            "backdropPath": "/wfrfxivLOBtGMC98tIr2LSOeKSe.jpg",
+            "releaseDate": "2021-10-01",
+            "rating": 6.929,
+            "description": "大家最喜欢的恐怖家庭，在全新动画喜剧续集电影《亚当斯一家2》再度回归。在这部全新动画片中，我们可以发现高魔子和魔帝女对于小孩子渐渐长大而感到心烦意乱，不参加家庭聚餐，并完全沉浸在“尖叫时间”中。为了找回和他们的连结，他们决定把星期三、普斯利、肥斯特叔叔和其他家庭成员一起塞进他们闹鬼的露营车，然后出发去度过最后一个悲惨的家庭假期。横跨美国的冒险迫使他们离开熟悉的环境，还遇到了他们非常特别的表哥伊特，以及许多新的古怪角色。还有什么可能会出错？"
           },
           {
             "rank": 6,
@@ -339,7 +556,13 @@
             "movement": "–",
             "days": "495 d",
             "mediaType": "movie",
-            "tmdbId": 803796
+            "tmdbId": 803796,
+            "tmdbTitle": "K-Pop 猎魔女团",
+            "posterPath": "/cCQ3bKsT0Ld81cgSieKAxZLBDJR.jpg",
+            "backdropPath": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+            "releaseDate": "2025-06-20",
+            "rating": 7.971,
+            "description": "K-pop 超级明星鲁米、米拉和佐伊如果不是在座无虚席的体育场举办演唱会，就是在利用自己的秘密力量保护粉丝们免受超自然威胁。"
           },
           {
             "rank": 7,
@@ -348,7 +571,13 @@
             "movement": "–",
             "days": "977 d",
             "mediaType": "movie",
-            "tmdbId": 129
+            "tmdbId": 129,
+            "tmdbTitle": "千与千寻",
+            "posterPath": "/b1h8uxUY46g8G1k6FmliMZW1ZK0.jpg",
+            "backdropPath": "/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
+            "releaseDate": "2001-07-20",
+            "rating": 8.536,
+            "description": "10岁的千寻跟随父母搬家途中，意外穿过一条神秘隧道，闯入了一个属于神灵的奇异世界。父母因为擅自吃下供奉给神灵的食物而被变成猪，惊慌失措的千寻则在神秘少年白龙的帮助下得以留下。为了在这个世界生存并寻找救回父母的方法，她不得不到汤婆婆掌管的“油屋”浴场工作。在形形色色的神灵与不可思议的遭遇中，原本胆小任性的千寻开始学会独自面对困难，而她也必须找到离开这里、带父母重返人类世界的方法……"
           },
           {
             "rank": 8,
@@ -356,7 +585,14 @@
             "sourcePath": "/title/barbie-in-the-nutcracker/",
             "movement": "–",
             "days": "3 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1760311,
+            "tmdbTitle": "芭比与胡桃夹子的梦幻之旅",
+            "posterPath": "/mNDMKW02K1dprHF56oKGNrEBflR.jpg",
+            "backdropPath": "/evGVyMugYXACdxZg4QB4kXW3N9r.jpg",
+            "releaseDate": "2026-10-31",
+            "rating": 1.0,
+            "description": "这部时长45分钟的全新演绎，为经典故事注入了现代动画风格与耳目一新的叙事方式。在这场全新的冒险中，“布鲁克林”芭比（Barbie “Brooklyn” Roberts）化身为“糖梅公主”，而“马里布”芭比（Barbie “Malibu” Roberts）则饰演克拉拉（Clara）。她们一同踏上一段奇妙的音乐梦幻之旅，在充满节日奇迹、勇气与友谊的世界中展开探索。"
           },
           {
             "rank": 9,
@@ -365,7 +601,13 @@
             "movement": "n/a",
             "days": "159 d",
             "mediaType": "movie",
-            "tmdbId": 808
+            "tmdbId": 808,
+            "tmdbTitle": "怪物史瑞克",
+            "posterPath": "/qeDN3klRAyDBemG3jSzv8n30zjL.jpg",
+            "backdropPath": "/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
+            "releaseDate": "2001-05-18",
+            "rating": 7.782,
+            "description": "从前，在一片遥远的沼泽里，住着一个脾气暴躁的怪物史莱克（迈克·迈尔斯 配音）。他珍贵的独居生活，突然被一群恼人的童话人物入侵而彻底打乱。[梦工厂]"
           },
           {
             "rank": 10,
@@ -374,7 +616,13 @@
             "movement": "–",
             "days": "670 d",
             "mediaType": "movie",
-            "tmdbId": 8392
+            "tmdbId": 8392,
+            "tmdbTitle": "龙猫",
+            "posterPath": "/9nNx5LMyxQzQaIU11Bp4k8fEgJl.jpg",
+            "backdropPath": "/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+            "releaseDate": "1988-04-16",
+            "rating": 8.069,
+            "description": "小月和四岁的妹妹小梅随父亲搬到乡间生活，以便离因病住院的母亲更近。姐妹俩对新家和周围的一切充满好奇，也逐渐发现这里栖息着只有孩子才能看见的奇妙精灵。小梅在森林深处偶遇巨大而温和的龙猫，随后小月也与它成为朋友，并在龙猫和伙伴们的陪伴下经历了一连串不可思议的奇遇。可当母亲原定回家的计划因病情变化而取消，姐妹俩平静的生活也迎来了一场意外考验……"
           }
         ],
         "kids_tv": [
@@ -393,7 +641,13 @@
             "movement": "+2",
             "days": "212 d",
             "mediaType": "tv",
-            "tmdbId": 258124
+            "tmdbId": 258124,
+            "tmdbTitle": "Danny Go!",
+            "posterPath": "/yR7jq2srT6EquiOtSNwrMSmIE3b.jpg",
+            "backdropPath": "/5bXbnbJ5kL8KujfnJIwqyHFN8b1.jpg",
+            "releaseDate": "2019-08-21",
+            "rating": 8.0,
+            "description": "谁准备好跳舞、唱歌和玩耍了？快来加入 Danny Go 和小伙伴们，一起体验户外冒险、放松身心的活动以及孩子们喜爱的互动学习游戏吧！"
           },
           {
             "rank": 3,
@@ -402,7 +656,13 @@
             "movement": "-2",
             "days": "31 d",
             "mediaType": "tv",
-            "tmdbId": 103540
+            "tmdbId": 103540,
+            "tmdbTitle": "波西傑克森",
+            "posterPath": "/yBkhoqyh5MZeYzdcwJwFVd19GGk.jpg",
+            "backdropPath": "/sAxx25ijwYQ8xsT56wu2IzvIRss.jpg",
+            "releaseDate": "2023-12-19",
+            "rating": 7.3,
+            "description": "波西·杰克逊正在执行一项危险的任务。他必须战胜怪物，智取众神，穿越美洲，归还宙斯的闪电权杖，并阻止一场全面战争。在任务搭档安娜贝丝和格洛弗的帮助下，波西的旅程将引导他更接近他所追寻的答案：如何融入他感觉格格不入的世界，以及他是否能弄清楚自己注定要成为什么样的人。"
           },
           {
             "rank": 4,
@@ -411,7 +671,13 @@
             "movement": "+1",
             "days": "42 d",
             "mediaType": "tv",
-            "tmdbId": 286940
+            "tmdbId": 286940,
+            "tmdbTitle": "旺卡的金奖券争夺战",
+            "posterPath": "/wBOnjSNyaAbBVqT0vkiXaVAr2UN.jpg",
+            "backdropPath": "/vlG9Kc5Y82CwafLceR9CUkTe7U0.jpg",
+            "releaseDate": "2026-09-23",
+            "rating": 6.563,
+            "description": "在这场独一无二的真人秀竞赛中，幸运的玩家将走进旺卡的巧克力工厂，面对难以预料的游戏、考验和诱惑。"
           },
           {
             "rank": 5,
@@ -419,7 +685,14 @@
             "sourcePath": "/title/peppa-pig/",
             "movement": "-2",
             "days": "1008 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 12225,
+            "tmdbTitle": "小猪佩奇",
+            "posterPath": "/6uod2gwSZRfxqfrKXsndHoibJkk.jpg",
+            "backdropPath": "/qKyczRO7EUJ0NHxIscmaZbmINYp.jpg",
+            "releaseDate": "2004-05-31",
+            "rating": 6.527,
+            "description": "　　佩奇是一只可爱的粉红色小猪，她有一个名叫乔治的弟弟，乔治不喜欢吃蔬菜，最喜欢的东西是巧克力蛋糕和恐龙。猪爸爸有着一个胖胖的大肚子，在一家绘图公司上班，他的上司兔先生的女儿和佩奇同在一间幼儿园上学。猪妈妈喜欢做蛋糕，而它们一家人全部都喜欢的事情，就是穿上各自的靴子，在泥坑里跳来跳去！佩奇和乔治在幼儿园里有着一大群快乐的好朋友们，它们的老师是慈祥善良的羚羊夫人。在老师和朋友们的陪伴下，小猪佩奇的每一天都是如此的快乐和幸福！"
           },
           {
             "rank": 6,
@@ -428,7 +701,13 @@
             "movement": "+1",
             "days": "45 d",
             "mediaType": "tv",
-            "tmdbId": 194916
+            "tmdbId": 194916,
+            "tmdbTitle": "吉伊卡哇",
+            "posterPath": "/icJ1JBXAmRVyjoVpX74VRFWjHae.jpg",
+            "backdropPath": "/wbgkqOVHzYnh1OyLPi2tIUd1dcp.jpg",
+            "releaseDate": "2022-04-04",
+            "rating": 8.3,
+            "description": "这个故事讲述了一个叫做吉伊卡哇的“某种小而可爱的生物”（なんか小さくてかわいいやつ）有时快乐，有时悲伤，有点压力的日常生活。吉伊卡哇喜欢和小八猫和兔子一起享受美味的食物，每天为了工作的回报而辛勤劳作，但仍然保持着微笑。"
           },
           {
             "rank": 7,
@@ -437,7 +716,13 @@
             "movement": "-1",
             "days": "619 d",
             "mediaType": "tv",
-            "tmdbId": 282238
+            "tmdbId": 282238,
+            "tmdbTitle": "Ms. Rachel",
+            "posterPath": "/bylLFLb56ZJsZTgvFC6D1EH4xU9.jpg",
+            "backdropPath": "/HeCU5pnPLGkrx9J1B2dDSqvUa2.jpg",
+            "releaseDate": "2025-01-27",
+            "rating": 7.3,
+            "description": "跟随 Ms. Rachel 一起学习、玩耍和成长，她将在一系列有趣的互动课程中，教授字母、数字、颜色、形状等各种知识！"
           },
           {
             "rank": 8,
@@ -446,7 +731,13 @@
             "movement": "–",
             "days": "602 d",
             "mediaType": "tv",
-            "tmdbId": 111474
+            "tmdbId": 111474,
+            "tmdbTitle": "盖比的娃娃屋",
+            "posterPath": "/u2XTz6fPauBckRSqolvZ0wXURwn.jpg",
+            "backdropPath": "/fTP0yRdtICD97ZK1QOgHj5FfXjq.jpg",
+            "releaseDate": "2021-01-05",
+            "rating": 7.9,
+            "description": "可爱的猫咪、古怪的技能和多彩的魔法！加入猫咪爱好者盖比和她的朋友猫熊喵，与他们一起踏上动画冒险之旅。"
           },
           {
             "rank": 9,
@@ -455,7 +746,13 @@
             "movement": "n/a",
             "days": "233 d",
             "mediaType": "tv",
-            "tmdbId": 306074
+            "tmdbId": 306074,
+            "tmdbTitle": "马克·罗伯的科学实验室",
+            "posterPath": "/mMY3TCSdo4bvoQntHEOeoY1JI7K.jpg",
+            "backdropPath": "/1mgmLGUnXgloGBF6wsWiHDLeOaj.jpg",
+            "releaseDate": "2025-11-19",
+            "rating": 9.7,
+            "description": "欢迎来到科学游乐场 CrunchLabs，曾为美国宇航局工程师的 YouTube 博主马克·罗伯在这里将创造力发挥到极致，应对一项项挑战。"
           },
           {
             "rank": 10,
@@ -464,7 +761,13 @@
             "movement": "n/a",
             "days": "50 d",
             "mediaType": "tv",
-            "tmdbId": 300594
+            "tmdbId": 300594,
+            "tmdbTitle": "这是蛋糕吗？万圣节篇",
+            "posterPath": "/iarRkNE7Z1U18mDIVvKNibqsxMa.jpg",
+            "backdropPath": "/hWPLvmYb8jvkSHrlfgvw29HmwUW.jpg",
+            "releaseDate": "2025-10-08",
+            "rating": 7.0,
+            "description": "是真蛋糕还是假蛋糕？不给糖就捣蛋？在热门竞技类系列节目的应季特别版中，技艺精湛的烘焙师们将制作超逼真的万圣节蛋糕。"
           }
         ]
       }
@@ -479,7 +782,14 @@
             "sourcePath": "/title/ghost-in-the-shell/",
             "movement": "–",
             "days": "2 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 315837,
+            "tmdbTitle": "攻壳机动队",
+            "posterPath": "/8IkonHWR13kbhtUkOnXlUXAne31.jpg",
+            "backdropPath": "/dDVqfmCzSy3TKSmiS2pJ9QB5E3P.jpg",
+            "releaseDate": "2017-03-29",
+            "rating": 6.118,
+            "description": "近未来，人类的各种器官均可实现移植，一时间机器人、生化人、仿生人充斥世间，与人类真假莫辨。某座繁华都市的大厦内，汉卡公司高管正与非洲来宾洽谈业务，突然宴会变成血腥大屠杀，暴走的机器人大开杀戒。隶属公安九课的米拉·基里安少佐（斯嘉丽·约翰逊 Scarlett Johansson 饰）带领巴特（皮鲁·埃斯贝克 Pilou Asbæk 饰）等手下赶往现场，平息事态。根据对暴走艺伎机器人的调查发现，被称作“久世”的神秘之人策划了这一系列的行动，而且他的目标全部指向了掌握着生化前沿尖端科技的汉卡公司及其研发人员。经过一番凶险的周旋，少佐逐渐逼近真相，同时也渐渐解开了发生在自己身上的惊天秘密……"
           },
           {
             "rank": 2,
@@ -488,7 +798,13 @@
             "movement": "+5",
             "days": "1 d",
             "mediaType": "movie",
-            "tmdbId": 807
+            "tmdbId": 807,
+            "tmdbTitle": "七宗罪",
+            "posterPath": "/ctthGIrHLXXAy893Qnvj3SXhhPz.jpg",
+            "backdropPath": "/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+            "releaseDate": "1995-09-22",
+            "rating": 8.4,
+            "description": "“暴食”、“贪婪”、“懒惰”、“嫉妒”、“骄傲”、“淫欲”、“愤怒”，这是天主教教义所指的人性七宗罪。城市中发生的连坏杀人案，死者恰好都是犯有这些教义的人。凶手故弄玄虚的作案手法，令资深冷静的警员沙摩塞（摩根•弗里曼 Morgan Freeman 饰）和血气方刚的新扎警员米尔斯（布拉德•皮特 Brad Pitt 饰）都陷入了破案的谜团中。他们去图书馆研读但丁的《神曲》，企图从人间地狱的描绘中找到线索，最后从宗教文学哲学的世界中找到了凶手作案计划和手段的蛛丝马迹。凶手前来投案自首，这令众人都松了一口气，以为案件就此结束，怎料还是逃不出七宗罪的杀人逻辑，这次凶手瞄准的目标，是那个犯了“愤怒”罪的人……"
           },
           {
             "rank": 3,
@@ -497,7 +813,13 @@
             "movement": "-1",
             "days": "19 d",
             "mediaType": "movie",
-            "tmdbId": 1226863
+            "tmdbId": 1226863,
+            "tmdbTitle": "超级马力欧银河大电影",
+            "posterPath": "/pcTweebSCQYIbdpjbN3r0Tw8iI2.jpg",
+            "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+            "releaseDate": "2026-04-01",
+            "rating": 8.2,
+            "description": "击败酷霸后，马力欧和路易吉在蘑菇王国开始了新的生活，并结识了新伙伴耀西。与此同时，酷霸Jr.为了救出父亲、重振酷霸家族，将目标指向生活在彗星天文台、守护奇可们的罗莎塔公主。随着碧姬公主的生日庆典被突如其来的危机打破，马力欧、路易吉、碧姬公主、奇诺比奥和耀西踏上跨越银河的全新冒险，在一个个陌生世界中追寻罗莎塔的下落，并阻止酷霸Jr.的计划……"
           },
           {
             "rank": 4,
@@ -505,7 +827,14 @@
             "sourcePath": "/title/forbidden-fruits/",
             "movement": "–",
             "days": "5 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1450527,
+            "tmdbTitle": "禁果",
+            "posterPath": "/dAJzcenJ3HqJlLlHt84wzqGEGLN.jpg",
+            "backdropPath": "/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg",
+            "releaseDate": "2026-03-26",
+            "rating": 5.8,
+            "description": "　　在一家名为“自由伊甸园”的商店里。店员“苹果”、“樱桃”和“无花果”私下维持着一个神秘的女巫社团，而新入职店员“南瓜”的出现，开始让这份姐妹情谊遭受质疑。面对新人的挑战，这群各怀鬼胎的女性不得不直面潜藏心底的幽暗，冲突也随之演变成血腥的暴力。"
           },
           {
             "rank": 5,
@@ -514,7 +843,13 @@
             "movement": "-2",
             "days": "12 d",
             "mediaType": "movie",
-            "tmdbId": 938150
+            "tmdbId": 938150,
+            "tmdbTitle": "Wi-Fi窃贼",
+            "posterPath": "/4sP4eLKsDTEZKB351AWSgHsaBks.jpg",
+            "backdropPath": "/fcNno43tiFnaycu1mO9TqfbPL45.jpg",
+            "releaseDate": "2026-03-04",
+            "rating": 7.389,
+            "description": "他是一个“Wi-Fi窃贼”：一个从银行而非个人那里偷窃的黑客——直到他被盯上。如今，金钱变得暴力，而被卷入其中的那个女人，要么能救他，要么会让他们两人都丧命。"
           },
           {
             "rank": 6,
@@ -523,7 +858,13 @@
             "movement": "-1",
             "days": "1 d",
             "mediaType": "movie",
-            "tmdbId": 10588
+            "tmdbId": 10588,
+            "tmdbTitle": "戴帽子的猫",
+            "posterPath": "/810PM5BGRjtY7c1u1Jcd7mgQNCF.jpg",
+            "backdropPath": "/ihOd5W6qOgrBSLj0uDTnGs8k1aa.jpg",
+            "releaseDate": "2003-11-21",
+            "rating": 5.398,
+            "description": "妈妈（凯利·普雷斯顿 Kelly Preston 饰）的有事外出让康拉德（史宾塞·布瑞斯林 Spencer Breslin 饰）和塞丽（达科塔·范宁 Dakota Fanning 饰）感到闷闷不乐，妈妈一走，变得空空荡荡的房子里除了“无聊”，再无他物。令兄妹两没有想到的是，门铃竟然响了，打开门，门外站着的不是妈妈，不是陌生人，竟然是一只戴着帽子直立行走会说英语的巨猫（麦克·梅尔斯 Mike Myers 饰）。巨猫的到来让康拉德和塞丽感到十分快乐，它古灵精怪的性格和滑稽可笑的动作时常逗得兄妹两捧腹大笑。可是，随着时间的推移，这只巨猫的行为开始古怪和令人讨厌起来，更让兄妹两头疼的是，妈妈即将回家了，可巨猫似乎丝毫没有在此之前离开的打算。"
           },
           {
             "rank": 7,
@@ -532,7 +873,13 @@
             "movement": "-1",
             "days": "2 d",
             "mediaType": "movie",
-            "tmdbId": 268896
+            "tmdbId": 268896,
+            "tmdbTitle": "环太平洋：雷霆再起",
+            "posterPath": "/kPkvianwGwCyixpgSo0j7DJWT8E.jpg",
+            "backdropPath": "/oMaj75G2WFw66xI1TREg1hrToSg.jpg",
+            "releaseDate": "2018-03-21",
+            "rating": 6.1,
+            "description": "在对抗外星人的入侵并成功封住虫洞的十年后，人类从废墟中站起来。他们忘记了恐惧，纵情狂欢，其中便包括斯特克·潘特考斯特将军的儿子杰克。在一次偷到废弃机甲零件的过程中，他偶然遭遇以一己之力组装迷你机甲的少女阿玛拉。此后，在姐姐森麻子的安排下，杰克和阿玛拉在莫玉兰基地接受机甲驾驶员的培训工作。与此同时，总部位于上海的邵氏集团，在总裁邵丽雯的主持下，正致力于以无人机甲取代传统机甲。就在这关键时刻，一个与复仇流浪者极其相似的黑色机甲突然出现，并向人类展开了无情杀戮。人们发现，遥远的外星“先驱”仍在蠢蠢欲动，时刻等待着消灭地球人的时机……"
           },
           {
             "rank": 8,
@@ -541,7 +888,13 @@
             "movement": "+1",
             "days": "1 d",
             "mediaType": "movie",
-            "tmdbId": 879538
+            "tmdbId": 879538,
+            "tmdbTitle": "匍匐求生",
+            "posterPath": "/gUlYwTsMhnKNTRLVuL8Basvm7RT.jpg",
+            "backdropPath": "/YSVzAgOhK1ulo2Vp0X6IZj1cuC.jpg",
+            "releaseDate": "2022-03-31",
+            "rating": 5.8,
+            "description": "在一间小屋里目睹了一起残忍的谋杀案后，一名男子躲在一个爬行空间里，而凶手则在里面搜寻隐藏的财富。随着他们越来越近，他必须决定这个爬行空间是他的坟墓还是他为生存而战的战场。"
           },
           {
             "rank": 9,
@@ -549,7 +902,14 @@
             "sourcePath": "/title/super-8/",
             "movement": "-1",
             "days": "1 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1090896,
+            "tmdbTitle": "Super 8",
+            "posterPath": null,
+            "backdropPath": null,
+            "releaseDate": "2015-01-01",
+            "rating": 0.0,
+            "description": "A surprising succession of several animation cycles."
           },
           {
             "rank": 10,
@@ -558,7 +918,13 @@
             "movement": "n/a",
             "days": "18 d",
             "mediaType": "movie",
-            "tmdbId": 438631
+            "tmdbId": 438631,
+            "tmdbTitle": "沙丘",
+            "posterPath": "/yyrBBEHvwdJEgNgALxuh0EyWmsN.jpg",
+            "backdropPath": "/h61Kc0NC7d90jNwXfBx5js7DnSQ.jpg",
+            "releaseDate": "2021-09-15",
+            "rating": 7.787,
+            "description": "改编自弗兰克·赫伯特的科幻小说《沙丘》。保罗·厄崔迪随家族前往沙漠星球厄拉科斯，卷入围绕珍贵资源“香料”的权力争斗，并逐渐发现自己肩负的命运。"
           }
         ],
         "tv": [
@@ -569,7 +935,13 @@
             "movement": "+4",
             "days": "20 d",
             "mediaType": "tv",
-            "tmdbId": 311648
+            "tmdbId": 311648,
+            "tmdbTitle": "心动制造所",
+            "posterPath": "/9UMss6YpOSiBrJVsPyOXgwXQXeW.jpg",
+            "backdropPath": "/4vqJTCRzckYrsqqaXCiN1ObJBNL.jpg",
+            "releaseDate": "2026-10-15",
+            "rating": 9.0,
+            "description": "两个性格截然相反的人相遇，碰撞出意想不到的火花，撼动他们对爱情、激情和人生的看法。"
           },
           {
             "rank": 2,
@@ -578,7 +950,13 @@
             "movement": "-1",
             "days": "136 d",
             "mediaType": "tv",
-            "tmdbId": 247718
+            "tmdbId": 247718,
+            "tmdbTitle": "黑幫領地",
+            "posterPath": "/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
+            "backdropPath": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+            "releaseDate": "2025-03-30",
+            "rating": 8.6,
+            "description": "两大黑帮家族的权力争斗将伦敦地下世界卷入战争。作为哈里根家族的“解决者”，哈里·达·索萨周旋于家族、敌人和日益失控的内部矛盾之间。"
           },
           {
             "rank": 3,
@@ -587,7 +965,13 @@
             "movement": "-1",
             "days": "79 d",
             "mediaType": "tv",
-            "tmdbId": 81723
+            "tmdbId": 81723,
+            "tmdbTitle": "镀金时代",
+            "posterPath": "/d1kjaqz6npBPo3V7sC5MvV5GGbz.jpg",
+            "backdropPath": "/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+            "releaseDate": "2022-01-24",
+            "rating": 7.7,
+            "description": "年轻的玛丽安·布鲁克从宾州乡下搬到纽约继承大量遗产的姑姑家，并不经意地被卷入了姑姑与富豪邻居的镀金时代社交争斗中。"
           },
           {
             "rank": 4,
@@ -596,7 +980,13 @@
             "movement": "-1",
             "days": "33 d",
             "mediaType": "tv",
-            "tmdbId": 298852
+            "tmdbId": 298852,
+            "tmdbTitle": "律界战争",
+            "posterPath": "/lakfIpAdGOyVXIJQ8IAvYiy1FXv.jpg",
+            "backdropPath": "/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
+            "releaseDate": "2026-10-02",
+            "rating": 7.635,
+            "description": "两家伦敦顶级律所围绕一场轰动全城的离婚案展开较量。随着案件升级，野心、背叛与利益交织，每个人都不惜一切争取胜利。"
           },
           {
             "rank": 5,
@@ -605,7 +995,13 @@
             "movement": "+3",
             "days": "39 d",
             "mediaType": "tv",
-            "tmdbId": 333025
+            "tmdbId": 333025,
+            "tmdbTitle": "MasterChef Asia",
+            "posterPath": "/9M2yxcATpEdZU21fxJOch19jrYb.jpg",
+            "backdropPath": null,
+            "releaseDate": "2015-09-03",
+            "rating": 0.0,
+            "description": "Home cooks from across Asia put their skills to the test as they compete in a series of challenges judged by culinary experts."
           },
           {
             "rank": 6,
@@ -614,7 +1010,13 @@
             "movement": "n/a",
             "days": "81 d",
             "mediaType": "tv",
-            "tmdbId": 200875
+            "tmdbId": 200875,
+            "tmdbTitle": "小丑回魂：欢迎来到德里镇",
+            "posterPath": "/xcxFRWCE4ccsaGEEPnvvRR32f6Y.jpg",
+            "backdropPath": "/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+            "releaseDate": "2025-10-26",
+            "rating": 8.268,
+            "description": "1962年，当地发生了一系列儿童神秘失踪事件，一群性格迥异的朋友开始怀疑某种深埋于地下的邪恶力量正在暗中酝酿。孩子们着手调查真相，而日益增长的不安情绪促使几位镇民携手合作，力图恢复和平——与此同时，一支美国军队正试图利用德里镇来实现其自身目的。"
           },
           {
             "rank": 7,
@@ -622,7 +1024,14 @@
             "sourcePath": "/title/youth-2026-2/",
             "movement": "-3",
             "days": "30 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 285418,
+            "tmdbTitle": "找春天",
+            "posterPath": "/u1qPUGUJFs34MjrtBlQkX9kyOcn.jpg",
+            "backdropPath": "/v38MfUTzp5OBCGLMtzEU5wZPZCR.jpg",
+            "releaseDate": "2026-09-21",
+            "rating": 6.7,
+            "description": "一名50岁离婚女子在寻找性爱与爱情的同时，还得照顾年迈多病的父母，以及抚养本该早已独立成年的儿子。"
           },
           {
             "rank": 8,
@@ -631,7 +1040,13 @@
             "movement": "+1",
             "days": "34 d",
             "mediaType": "tv",
-            "tmdbId": 321958
+            "tmdbId": 321958,
+            "tmdbTitle": "火线家族",
+            "posterPath": "/A614xvYzgswbpxqDel4K90ivDmN.jpg",
+            "backdropPath": "/8U4dW5E24Eqs06OJko5ChjcufHb.jpg",
+            "releaseDate": "2026-09-21",
+            "rating": 7.9,
+            "description": "这是一个由执法人员组成的家族——成员分别供职于 FBI、美国法警署（US Marshals）、特勤局（Secret Service）及司法部（DOJ）。他们既要弥合彼此间的家庭裂痕，又时常在工作中跨越职权边界，联手处理各类重大案件。\n\n　　然而，一宗本以为简单明了的案件，竟演变为致命阴谋。此刻，他们必须动用一生累积的、用来保护平民与政要的办案专长——转而来保护彼此，将真凶绳之以法……\n\n　　即便这意味着：背叛自己曾宣誓恪守的执法准则。"
           },
           {
             "rank": 9,
@@ -640,7 +1055,13 @@
             "movement": "+1",
             "days": "14 d",
             "mediaType": "tv",
-            "tmdbId": 303630
+            "tmdbId": 303630,
+            "tmdbTitle": "库比蒂诺",
+            "posterPath": "/rv6dfhXIq5lLK4cQa8FHuUg2Ahh.jpg",
+            "backdropPath": "/xns6h0XzQ9r6gtlJgZ9Jy1jyyIx.jpg",
+            "releaseDate": "2026-10-08",
+            "rating": 6.0,
+            "description": "一名律师遭前雇主科技初创公司侵吞股票期权。他拒绝妥协，与另一名刚被解雇的律师联手创办律所，帮助遭科技巨头侵害的人们维权，向掌控硅谷的强大企业发起挑战。"
           },
           {
             "rank": 10,
@@ -649,7 +1070,13 @@
             "movement": "-3",
             "days": "28 d",
             "mediaType": "tv",
-            "tmdbId": 319990
+            "tmdbId": 319990,
+            "tmdbTitle": "怪奇-伊藤润二令人彻夜难眠的奇异故事－",
+            "posterPath": "/mvwnK2yd4s0l8BEnQZrFc0XKbMe.jpg",
+            "backdropPath": "/o2eIi9XyU3PGkw6skiMrPpq1h76.jpg",
+            "releaseDate": "2026-07-04",
+            "rating": 7.7,
+            "description": "本作精选日本知名恐怖漫画家伊藤润二笔下充满独特疯狂气息的经典作品，改编为真人单元剧。以浓雾弥漫小镇中流行的“辻占”所隐藏的恐惧与执念为主轴，收录《死者的恋爱烦恼》《幻痛宅邸》《肋骨女子》《霸凌女孩》《偷脸人》《父亲的心》《记忆》《二手唱片》《笔友》《押切异谈》《地缚者》《富夫·红高领》《缓慢的离别》等13个怪异故事。由伊藤润二的惊悚世界观与新锐创作者联手，以单元剧形式呈现令人不寒而栗、难以入眠的奇妙恐怖体验。"
           }
         ]
       }
@@ -663,14 +1090,30 @@
             "title": "The Remarried Empress",
             "sourcePath": "/title/the-remarried-empress/",
             "movement": "–",
-            "days": "1 d"
+            "days": "1 d",
+            "tmdbId": 279246,
+            "tmdbTitle": "再婚皇后",
+            "mediaType": "tv",
+            "posterPath": "/AmpavsESFGTooPKkr8CwNRMPeQH.jpg",
+            "backdropPath": "/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+            "releaseDate": "2026-11-03",
+            "rating": 8.75,
+            "description": "深受爱戴的皇后娜菲尔，与皇帝索本修一同治理着东大帝国。当索本修爱上逃亡奴隶菈丝塔，并要求与娜菲尔离婚时，娜菲尔答应了，但提出一个条件，她必须获得再婚许可，嫁给西王国王子海因里。"
           },
           {
             "rank": 2,
             "title": "VisionQuest",
             "sourcePath": "/title/visionquest/",
             "movement": "–",
-            "days": "21 d"
+            "days": "21 d",
+            "tmdbId": 213375,
+            "tmdbTitle": "幻视任务",
+            "mediaType": "tv",
+            "posterPath": "/jfltxthL5nDD14AxOd6gxbBYX6v.jpg",
+            "backdropPath": "/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+            "releaseDate": "2026-10-13",
+            "rating": 8.669,
+            "description": "重启后的幻视隐居避世，试图摆脱将他武器化的人，并通过与体内的AI人格交流寻找存在意义，其中包括恶名昭彰的奥创。然而高额悬赏打破了平静，他被迫与神秘少年托马斯·谢泼德一同逃亡，后者或许是他重生后的儿子。"
           },
           {
             "rank": 3,
@@ -686,7 +1129,13 @@
             "movement": "-1",
             "days": "14 d",
             "tmdbId": 1108427,
-            "mediaType": "movie"
+            "tmdbTitle": "海洋奇缘：启航",
+            "mediaType": "movie",
+            "posterPath": "/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg",
+            "backdropPath": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+            "releaseDate": "2026-07-08",
+            "rating": 7.469,
+            "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。"
           },
           {
             "rank": 5,
@@ -695,14 +1144,28 @@
             "movement": "-1",
             "days": "12 d",
             "tmdbId": 286171,
-            "mediaType": "tv"
+            "tmdbTitle": "尚公主",
+            "mediaType": "tv",
+            "posterPath": "/d8wzeresqjXE9dT0iArfZDLKT70.jpg",
+            "backdropPath": "/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
+            "releaseDate": "2026-10-23",
+            "rating": 9.5,
+            "description": "剧集讲述了不甘命运的天家嫡女暮晚摇与智谋无双的寒门才俊言尚携手共筑清平天下的故事，在层层爽点中打造极致人设，看乱世惊涛中少年人们搅动风云，奔赴理想。"
           },
           {
             "rank": 6,
             "title": "The Perfect Lie",
             "sourcePath": "/title/the-perfect-lie-2026/",
             "movement": "-1",
-            "days": "2 d"
+            "days": "2 d",
+            "tmdbId": 307478,
+            "tmdbTitle": "谎言",
+            "mediaType": "tv",
+            "posterPath": "/jztHpl2h5wXykrltiL3Dms1it45.jpg",
+            "backdropPath": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
+            "releaseDate": "2026-10-30",
+            "rating": 8.5,
+            "description": "笑容完美的暖男医生俊浩，遇上自由奔放的图书教师智善，两人在一场怦然心动的约会后共度特别的一晚，但到了隔天，两人竟在警局重逢，对昨晚的记忆却完全兜不拢。令人震惊的测谎结果让两人的日常就此天翻地覆。"
           },
           {
             "rank": 7,
@@ -711,7 +1174,13 @@
             "movement": "-1",
             "days": "28 d",
             "tmdbId": 1084244,
-            "mediaType": "movie"
+            "tmdbTitle": "玩具总动员5",
+            "mediaType": "movie",
+            "posterPath": "/4D5k1Cs9hA0REwXN6w5Lxxlhba5.jpg",
+            "backdropPath": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+            "releaseDate": "2026-06-17",
+            "rating": 8.279,
+            "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？"
           },
           {
             "rank": 8,
@@ -720,7 +1189,13 @@
             "movement": "-1",
             "days": "26 d",
             "tmdbId": 307106,
-            "mediaType": "tv"
+            "tmdbTitle": "恋爱博士",
+            "mediaType": "tv",
+            "posterPath": "/eUdOXKuWkgbLberOOl8WDiOo9AI.jpg",
+            "backdropPath": "/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
+            "releaseDate": "2026-10-05",
+            "rating": 9.1,
+            "description": "高中时曾是游泳选手、后因病失去一条腿的博士生民宰，与一度迷失方向、如今重新出发的硕士生宥真。在冰冷的机器人实验室里，两名年轻人开启了一段酸甜苦辣交织的浪漫恋曲。"
           },
           {
             "rank": 9,
@@ -729,14 +1204,28 @@
             "movement": "–",
             "days": "28 d",
             "tmdbId": 305551,
-            "mediaType": "tv"
+            "tmdbTitle": "莓好遇见你",
+            "mediaType": "tv",
+            "posterPath": "/wKAFppLHgC9CC3fRI1OlMbD5qXJ.jpg",
+            "backdropPath": "/16ewRji5B6ALCL5XxnoPEoetOiE.jpg",
+            "releaseDate": "2026-10-07",
+            "rating": 8.3,
+            "description": "一夜之间失去一切的韩国空间规划师，与一心只扑在草莓上的日本农业女孩——在美丽岛屿上展开的、跨越国界的酸甜浪漫爱情喜剧。"
           },
           {
             "rank": 10,
             "title": "Love and Hate",
             "sourcePath": "/title/love-and-hate/",
             "movement": "-2",
-            "days": "19 d"
+            "days": "19 d",
+            "tmdbId": 1771459,
+            "tmdbTitle": "情场如战场",
+            "mediaType": "movie",
+            "posterPath": "/uB2zg5AYToM21I8xB4o0OQK52B4.jpg",
+            "backdropPath": null,
+            "releaseDate": "2026-10-16",
+            "rating": 0.0,
+            "description": "电影讲述一群大学好友在发现朋友遭遇爱情骗局后，联手策划复仇。他们随后成立专门替人结束感情的「分手专家」团队，却逐渐陷入利益、爱情与背叛交织的复杂关系。"
           }
         ]
       }
@@ -751,7 +1240,14 @@
             "sourcePath": "/title/sunshine/",
             "movement": "–",
             "days": "3 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1747437,
+            "tmdbTitle": "Sunshine",
+            "posterPath": "/lx0xsVJHuTpY0hvnLT6Og6KY3PB.jpg",
+            "backdropPath": "/tsaHUBKFBabnTkrVQuuIKFsjrSA.jpg",
+            "releaseDate": "2026-10-04",
+            "rating": 0.0,
+            "description": "An adult man trapped in a state of early adolescence due to his heavily overbearing mother, must defy the rules he has known all his life in order to break free from her authoritative influence."
           },
           {
             "rank": 2,
@@ -760,7 +1256,13 @@
             "movement": "–",
             "days": "327 d",
             "mediaType": "movie",
-            "tmdbId": 911430
+            "tmdbId": 911430,
+            "tmdbTitle": "F1：狂飙飞车",
+            "posterPath": "/zgjU3hBztV4agGyiivPG2QHc6yY.jpg",
+            "backdropPath": "/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+            "releaseDate": "2025-06-25",
+            "rating": 7.833,
+            "description": "桑尼·海耶斯曾经是F1赛场上最具潜力的天才新星，但一场意外葬送了他的职业生涯，从此他沦为人们口中最生不逢时的“沧海遗珠”。三十年后的如今，桑尼是一名自由职业的落魄赛车手，他的前队友——如今是濒临破产的F1车队老板鲁本·塞万提斯却突然找上门来。鲁本说服桑尼重返F1赛场，这不仅是拯救他车队的最后希望，更是桑尼向世界证明自己仍是顶尖车手的最佳契机。桑尼将与车队的热门新秀乔舒亚·皮尔斯并肩前行，这位年轻的车手也渴望在赛道上书写自己的传奇。然而伴随着引擎开始轰鸣，桑尼过去的创伤也如影随形，他同时意识到在F1的世界里，并肩作战的队友也会是最强劲的对手，而通往自我救赎的道路，绝非孤身一人能够走完。"
           },
           {
             "rank": 3,
@@ -769,7 +1271,13 @@
             "movement": "+2",
             "days": "34 d",
             "mediaType": "movie",
-            "tmdbId": 429617
+            "tmdbId": 429617,
+            "tmdbTitle": "蜘蛛侠：英雄远征",
+            "posterPath": "/zP9C0LOGyISLhfkEIftLYLC3ruc.jpg",
+            "backdropPath": "/wqBW5ltBJu0gs26yCc8shQQV82d.jpg",
+            "releaseDate": "2019-06-28",
+            "rating": 7.386,
+            "description": "在与灭霸的终局之战结束后，彼得·帕克重新回到校园，却依然没有完全走出托尼·斯塔克离去的阴影。为了暂时远离蜘蛛侠的责任，也找机会向喜欢的MJ表达心意，他和同学们踏上了欧洲游学之旅。然而接连出现的巨大元素生物很快打乱了他的计划，尼克·弗瑞也突然找上门来，希望彼得协助调查这些异常事件。与此同时，一名自称来自另一个世界、被称为“神秘客”的英雄出现在众人面前。原本只想享受普通旅行的彼得不得不再次穿上战衣，而他也开始面对一个无法回避的问题：在失去托尼之后，自己究竟应该成为怎样的蜘蛛侠……"
           },
           {
             "rank": 4,
@@ -778,7 +1286,13 @@
             "movement": "–",
             "days": "19 d",
             "mediaType": "movie",
-            "tmdbId": 1288069
+            "tmdbId": 1288069,
+            "tmdbTitle": "雪山之虎：丹增諾蓋",
+            "posterPath": "/spls7qQGsoSwfaXSV30bFimbjmL.jpg",
+            "backdropPath": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+            "releaseDate": "2026-10-09",
+            "rating": 8.253,
+            "description": "一位意志坚定的人踏上一场高风险的征途，克服看似不可能的困难，为实现成为首位登顶珠穆朗玛峰之人的梦想而战。"
           },
           {
             "rank": 5,
@@ -787,7 +1301,13 @@
             "movement": "+2",
             "days": "34 d",
             "mediaType": "movie",
-            "tmdbId": 333339
+            "tmdbId": 333339,
+            "tmdbTitle": "头号玩家",
+            "posterPath": "/guWrkuFebRgOLPkK2gDr6sfIVki.jpg",
+            "backdropPath": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+            "releaseDate": "2018-03-28",
+            "rating": 7.584,
+            "description": "2045年，处于混乱和崩溃边缘的现实世界令人失望，人们将救赎的希望寄托于“绿洲”，一个由鬼才詹姆斯·哈利迪（马克·里朗斯 饰）一手打造的虚拟游戏宇宙。在那里，想象力主宰一切，你可以去任何地方，做任何想做的事，成为任何想成为的人。哈利迪弥留之际，宣布将巨额财产和“绿洲”的所有权留给第一个闯过三道谜题，找出他在游戏中藏匿彩蛋的人，自此引发了一场全世界范围内的竞争。当韦德·沃兹（泰尔·谢里丹饰）成为首位解出第一道迷题的玩家，他和他的朋友们不可避免地卷入了这场奇遇和凶险共存，波澜壮阔的寻宝之旅——为拯救“绿洲”，也为拯救世界。"
           },
           {
             "rank": 6,
@@ -796,7 +1316,13 @@
             "movement": "+2",
             "days": "61 d",
             "mediaType": "movie",
-            "tmdbId": 1137844
+            "tmdbId": 1137844,
+            "tmdbTitle": "礙的迫降",
+            "posterPath": "/dzOnDgSDZ0NMGGRwq0I0CyxCdsI.jpg",
+            "backdropPath": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+            "releaseDate": "2026-09-03",
+            "rating": 7.85,
+            "description": "一名美国海军飞行员在冷战时期执行绝密任务时不幸被困在敌营。他唯有与一位性格古怪的前克格勃特工联手才有一线生机。"
           },
           {
             "rank": 7,
@@ -805,7 +1331,13 @@
             "movement": "-1",
             "days": "2 d",
             "mediaType": "movie",
-            "tmdbId": 38167
+            "tmdbId": 38167,
+            "tmdbTitle": "美食、祈祷和恋爱",
+            "posterPath": "/6joHmD4VZt6FQFkOTsAboGBvb9e.jpg",
+            "backdropPath": "/a7hHui6qIM4QN4I8d6HcjeOQUWi.jpg",
+            "releaseDate": "2010-08-12",
+            "rating": 6.242,
+            "description": "年轻干练的伊丽莎白·吉尔伯特（朱莉娅·罗伯茨 Julia Roberts 饰）是《纽约时报》的一名人气作家，她经常周游世界，撰写相关的旅游文章。她的生活同样令人欣羡，身为律师的丈夫史蒂芬（比利·克鲁德普 Billy Crudup 饰）帅气潇洒、气质不凡；饮食无忧、优哉安乐。然而伊丽莎白却渐渐感到空虚和恐慌，似乎着周遭的一切都不是她真正追求的。伊丽莎白决定走出变质的婚姻，寻找自我。在漫长的离婚拉锯战后，她踏上了周游世界的旅途，在美食、祈祷和恋爱中，认真地思考人生的种种……本片根据伊丽莎白·吉尔伯特（Elizabeth Gilbert）的同名自传改编，著名影星布莱德•彼特担任该片制片人。"
           },
           {
             "rank": 8,
@@ -813,7 +1345,14 @@
             "sourcePath": "/title/matchbox/",
             "movement": "-5",
             "days": "26 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1148365,
+            "tmdbTitle": "Matchbox 大電影",
+            "posterPath": "/bZ3C0B0O7lMrR1AgQFcybyGtl2u.jpg",
+            "backdropPath": "/a6xhB0qRkb961MNJYHlYwdfIXRo.jpg",
+            "releaseDate": "2026-10-05",
+            "rating": 7.6,
+            "description": "几个童年好友重新联系，但多年后的重聚却意外让他们卷入一场危险的国际阴谋，他们必须挺身而出，拯救世界。"
           },
           {
             "rank": 9,
@@ -822,7 +1361,13 @@
             "movement": "–",
             "days": "553 d",
             "mediaType": "movie",
-            "tmdbId": 753342
+            "tmdbId": 753342,
+            "tmdbTitle": "拿破仑",
+            "posterPath": "/fwtSZ1FpWPyrhj1QyuIpyn749uf.jpg",
+            "backdropPath": "/33pMXav77ICRnceEBLhL8lXTywv.jpg",
+            "releaseDate": "2023-11-22",
+            "rating": 6.304,
+            "description": "影片将以原创角色视角看待拿破仑与挚爱约瑟芬之间波折起伏的关系，展现拿破仑一生经历过的著名战役，作为一个能力非凡、有远见的军事家的野心和战略头脑，以及他如何迅速发迹并最终成为法兰西第一帝国皇帝。"
           },
           {
             "rank": 10,
@@ -831,7 +1376,13 @@
             "movement": "n/a",
             "days": "",
             "mediaType": "movie",
-            "tmdbId": 76341
+            "tmdbId": 76341,
+            "tmdbTitle": "疯狂的麦克斯4：狂暴之路",
+            "posterPath": "/tvpf0gi4EOIuI9in1obHaNezJc2.jpg",
+            "backdropPath": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+            "releaseDate": "2015-05-13",
+            "rating": 7.642,
+            "description": "在我们星球最偏远的角落，一片荒芜的沙漠景观中，人性已然破碎，人人都在为生存必需品而战。两位反抗者或许能恢复秩序——一个是麦克斯，他行动果决、沉默寡言，在经历混乱失去妻儿后寻求内心平静；另一个是弗瑞奥萨，她坚信唯有穿越沙漠重返童年故土，才能找到生存之路。"
           }
         ],
         "tv": [
@@ -842,7 +1393,13 @@
             "movement": "–",
             "days": "5 d",
             "mediaType": "tv",
-            "tmdbId": 292741
+            "tmdbId": 292741,
+            "tmdbTitle": "夜曲",
+            "posterPath": "/yllwzRiqYnUXSV4TwvQz0MVstGL.jpg",
+            "backdropPath": "/4drDox9ypUrAProgRNSQjrr6zQR.jpg",
+            "releaseDate": "2026-10-29",
+            "rating": 7.7,
+            "description": "改编自拉尔斯·克卜勒的小说《拉撒路》和《睡魔》。恶名昭彰的连环杀手尤里克·沃尔特的一名受害者意外生还，警探乔纳·林分秒必争务求找出唯一仍然失踪的人，同时他的徒弟萨加·鲍尔则充当卧底，试图从杀手身上获得答案。"
           },
           {
             "rank": 2,
@@ -851,7 +1408,13 @@
             "movement": "–",
             "days": "932 d",
             "mediaType": "tv",
-            "tmdbId": 95480
+            "tmdbId": 95480,
+            "tmdbTitle": "外放特務組",
+            "posterPath": "/A3LSzbNOitRlzmRlcEnpe0tAfBm.jpg",
+            "backdropPath": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+            "releaseDate": "2022-04-01",
+            "rating": 8.073,
+            "description": "该剧根据米克·赫伦的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。"
           },
           {
             "rank": 3,
@@ -860,7 +1423,13 @@
             "movement": "+1",
             "days": "950 d",
             "mediaType": "tv",
-            "tmdbId": 97546
+            "tmdbId": 97546,
+            "tmdbTitle": "乜都得教練",
+            "posterPath": "/9uT4dT2k5lTd41kZEVmFCSIFQw7.jpg",
+            "backdropPath": "/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
+            "releaseDate": "2020-08-14",
+            "rating": 8.365,
+            "description": "一位美国橄榄球教练受聘执教一支英国足球队；他虽然缺乏足球知识，但他乐观、坚定，而且带了很多饼干。"
           },
           {
             "rank": 4,
@@ -869,7 +1438,13 @@
             "movement": "-1",
             "days": "396 d",
             "mediaType": "tv",
-            "tmdbId": 196322
+            "tmdbId": 196322,
+            "tmdbTitle": "人生複本",
+            "posterPath": "/nKbcRnd3STGmoKYZus16l36YqWR.jpg",
+            "backdropPath": "/1DRDYQnXSgDY6Qxd4HSxE6wlaBH.jpg",
+            "releaseDate": "2024-05-07",
+            "rating": 7.827,
+            "description": "为了回到自己真正的家人身边，他踏上了一段惊心动魄的旅程，以将他们从最可怕的敌人，也就是他自己的手中拯救出来。"
           },
           {
             "rank": 5,
@@ -878,7 +1453,13 @@
             "movement": "n/a",
             "days": "88 d",
             "mediaType": "tv",
-            "tmdbId": 248830
+            "tmdbId": 248830,
+            "tmdbTitle": "一桿入魂",
+            "posterPath": "/qGNdgWQdRzAWigtoWANIFrDLmV9.jpg",
+            "backdropPath": "/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+            "releaseDate": "2025-06-03",
+            "rating": 7.3,
+            "description": "普莱斯卡希尔曾经是高尔夫球界的冉冉新星，却因一次球场上的崩溃而断送了自己的职业生涯。如今的他过着浑浑噩噩的日子，直至他决定孤注一掷指导桑提—一位潜能巨大的少年天才，也许在此过程中实现自我救赎。"
           },
           {
             "rank": 6,
@@ -887,7 +1468,13 @@
             "movement": "-1",
             "days": "681 d",
             "mediaType": "tv",
-            "tmdbId": 125988
+            "tmdbId": 125988,
+            "tmdbTitle": "末日地堡",
+            "posterPath": "/ahHiXJWJBdSsTEAWfh7mKRw2bcz.jpg",
+            "backdropPath": "/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+            "releaseDate": "2023-05-04",
+            "rating": 8.231,
+            "description": "末日后的世界，人类被困在神秘地堡中，与外界隔绝。工程师朱丽叶·尼科尔斯因接连发生的死亡事件展开调查，逐渐揭开地堡社会背后的秘密与真相。该剧基于休·豪伊所著同名畅销科幻系列小说改编。"
           },
           {
             "rank": 7,
@@ -895,7 +1482,14 @@
             "sourcePath": "/title/brothers-2026-2/",
             "movement": "n/a",
             "days": "40 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 250203,
+            "tmdbTitle": "荷里活好兄弟",
+            "posterPath": "/sapz1NirksJH5GvRqPnWuNI3O4a.jpg",
+            "backdropPath": "/uw7VNIqQGKcZH9hph6R4fuX9WMA.jpg",
+            "releaseDate": "2026-09-22",
+            "rating": 7.083,
+            "description": "好莱坞演员马修麦康纳和伍迪哈里森是多年好友，但一个令人震惊的家族秘密，表明他们之间的关系可能还要更亲近。"
           },
           {
             "rank": 8,
@@ -904,7 +1498,13 @@
             "movement": "n/a",
             "days": "17 d",
             "mediaType": "tv",
-            "tmdbId": 312693
+            "tmdbId": 312693,
+            "tmdbTitle": "小先知",
+            "posterPath": "/qt5t01i2xz6UBB71DKGkx4lhZzw.jpg",
+            "backdropPath": "/a9BuYJ3udyvgr6gKn2Vsdu9vHEr.jpg",
+            "releaseDate": "2026-02-09",
+            "rating": 8.0,
+            "description": "女友七年前失踪后，迈克尔的生活一直停滞不前。然而一本旧日志里的神秘配方，有望为他带来一直苦苦追寻的答案。"
           },
           {
             "rank": 9,
@@ -913,7 +1513,13 @@
             "movement": "-3",
             "days": "69 d",
             "mediaType": "tv",
-            "tmdbId": 291361
+            "tmdbId": 291361,
+            "tmdbTitle": "刀鋒造極：米芝蓮摘星戰",
+            "posterPath": "/1cTwOmYqj5gq8gq4GFbgayv6EQE.jpg",
+            "backdropPath": "/pY5HhYqt71HCpEkuP7ucgvPjJNQ.jpg",
+            "releaseDate": "2025-10-10",
+            "rating": 6.6,
+            "description": "当世界顶级厨师们为争夺终极荣誉米其林星级而奋力拼搏时，你将见证他们经历的惊心动魄的高光时刻与令人窒息的低谷时刻，这些神秘的匿名评审员从未向外界透露过他们的评判方式，直到现在"
           },
           {
             "rank": 10,
@@ -922,7 +1528,13 @@
             "movement": "-3",
             "days": "180 d",
             "mediaType": "tv",
-            "tmdbId": 270476
+            "tmdbId": 270476,
+            "tmdbTitle": "寡婦灣",
+            "posterPath": "/cyUyNa7x3ZgomXUGT9mxK0Rko9r.jpg",
+            "backdropPath": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+            "releaseDate": "2026-04-28",
+            "rating": 8.0,
+            "description": "一名新英格蘭鎮長無視當地人聲稱小鎮受詛咒的警告，執意要將小鎮打造成下一個旅遊熱點。"
           }
         ]
       }
@@ -938,7 +1550,13 @@
             "movement": "–",
             "days": "2 d",
             "mediaType": "movie",
-            "tmdbId": 1423191
+            "tmdbId": 1423191,
+            "tmdbTitle": "生化危机：爆发夜",
+            "posterPath": "/9YzsMLLSpCbAiDiEXlwkZr3m5Ri.jpg",
+            "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+            "releaseDate": "2026-09-16",
+            "rating": 7.5,
+            "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？"
           },
           {
             "rank": 2,
@@ -946,7 +1564,14 @@
             "sourcePath": "/title/unreachable/",
             "movement": "+1",
             "days": "2 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1101179,
+            "tmdbTitle": "单恋世界",
+            "posterPath": "/hbxs20fRAST5hQnQohadMOC7aMH.jpg",
+            "backdropPath": "/y7ylCL05vCv7OyDSE6fEV5UkONx.jpg",
+            "releaseDate": "2025-04-04",
+            "rating": 8.0,
+            "description": "以现代东京为舞台，描绘烦恼迷茫却不失去温柔的年轻女性们。美咲（广濑铃 饰）、优花（杉咲花 饰）和小樱（清原果耶 饰）一起住在现代东京一角的一栋老房子里。上班，上学，打工——虽然不是家人、同学，但三人常常想着对方，天真地聊天，享受又无忧无虑。他们结下了12年的深厚情谊，但不能告诉任何人的「单恋」到底是什么？"
           },
           {
             "rank": 3,
@@ -955,7 +1580,13 @@
             "movement": "n/a",
             "days": "45 d",
             "mediaType": "movie",
-            "tmdbId": 1226863
+            "tmdbId": 1226863,
+            "tmdbTitle": "超级马力欧银河大电影",
+            "posterPath": "/pcTweebSCQYIbdpjbN3r0Tw8iI2.jpg",
+            "backdropPath": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+            "releaseDate": "2026-04-01",
+            "rating": 8.2,
+            "description": "击败酷霸后，马力欧和路易吉在蘑菇王国开始了新的生活，并结识了新伙伴耀西。与此同时，酷霸Jr.为了救出父亲、重振酷霸家族，将目标指向生活在彗星天文台、守护奇可们的罗莎塔公主。随着碧姬公主的生日庆典被突如其来的危机打破，马力欧、路易吉、碧姬公主、奇诺比奥和耀西踏上跨越银河的全新冒险，在一个个陌生世界中追寻罗莎塔的下落，并阻止酷霸Jr.的计划……"
           },
           {
             "rank": 4,
@@ -964,7 +1595,13 @@
             "movement": "-2",
             "days": "28 d",
             "mediaType": "movie",
-            "tmdbId": 969681
+            "tmdbId": 969681,
+            "tmdbTitle": "蜘蛛侠：崭新之日",
+            "posterPath": "/yxOxOBxspl3NgC676W62G02g1cR.jpg",
+            "backdropPath": "/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg",
+            "releaseDate": "2026-07-29",
+            "rating": 8.5,
+            "description": "《蜘蛛侠：英雄无归》事件四年后，世界已经忘记了彼得·帕克的存在。他独自生活在纽约，将全部精力投入打击犯罪，成为一名全职蜘蛛侠。然而，看着昔日好友各自开启新的生活，长期的孤独与日益沉重的责任让彼得承受着巨大的压力，他的身体也开始发生难以控制的异常变化。与此同时，一名行踪难以察觉的强大敌人正悄然威胁着纽约及他所珍视的人。面对身体的异变与不断逼近的危机，彼得不得不独自迎接新的挑战……"
           },
           {
             "rank": 5,
@@ -972,7 +1609,14 @@
             "sourcePath": "/title/obsession-2026/",
             "movement": "-1",
             "days": "71 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1339713,
+            "tmdbTitle": "痴迷",
+            "posterPath": "/tTX4xnZKoPJnNQT8vYYkNgRt6hr.jpg",
+            "backdropPath": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+            "releaseDate": "2026-05-13",
+            "rating": 8.17,
+            "description": "一个渴望爱情的浪漫主义者打破神秘的“许愿柳”，希望赢得心仪之人的芳心。当愿望如愿实现，他却发现，有些欲望背后隐藏着黑暗而可怕的代价。"
           },
           {
             "rank": 6,
@@ -981,7 +1625,13 @@
             "movement": "n/a",
             "days": "53 d",
             "mediaType": "movie",
-            "tmdbId": 936075
+            "tmdbId": 936075,
+            "tmdbTitle": "迈克尔·杰克逊：巨星之路",
+            "posterPath": "/5HgVwIzug5iCoprtj4ZSvcHjjI1.jpg",
+            "backdropPath": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+            "releaseDate": "2026-04-22",
+            "rating": 8.59,
+            "description": "　　本片将通过一段从未展现过的深度视角，真实记录传奇巨星迈克尔·杰克逊的复杂人生。影片不仅再现了他最具标志性的艺术表演瞬间，更深入挖掘了他的内心世界——从天才神童的成长阵痛到全球偶像背后的争议与坚韧，全面呈现这位伟大艺术家的辉煌与坎坷。"
           },
           {
             "rank": 7,
@@ -989,7 +1639,14 @@
             "sourcePath": "/title/the-odyssey-2026/",
             "movement": "-2",
             "days": "15 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1368337,
+            "tmdbTitle": "奥德赛",
+            "posterPath": "/ugEXTmwvFj8oqOui6ZwXjQgSwAp.jpg",
+            "backdropPath": "/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
+            "releaseDate": "2026-07-15",
+            "rating": 8.02,
+            "description": "改编自荷马史诗《奥德赛》。特洛伊战争结束后，伊萨卡国王奥德修斯历经艰险、踏上漫长归乡之旅。"
           },
           {
             "rank": 8,
@@ -998,7 +1655,13 @@
             "movement": "-1",
             "days": "78 d",
             "mediaType": "movie",
-            "tmdbId": 1275779
+            "tmdbId": 1275779,
+            "tmdbTitle": "揭秘日",
+            "posterPath": "/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
+            "backdropPath": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+            "releaseDate": "2026-06-10",
+            "rating": 7.427,
+            "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。"
           },
           {
             "rank": 9,
@@ -1007,7 +1670,13 @@
             "movement": "n/a",
             "days": "",
             "mediaType": "movie",
-            "tmdbId": 1238379
+            "tmdbId": 1238379,
+            "tmdbTitle": "尽你所能",
+            "posterPath": "/9CizFg1KamC1W8m20A0TUv4gRj8.jpg",
+            "backdropPath": "/7mafzCFLilPIv5CV0asII5cAVAi.jpg",
+            "releaseDate": "2025-06-07",
+            "rating": 7.0,
+            "description": "保安斯坦·奥尔谢夫斯基（Stan Olszewski）挫败了发生在辛西娅·兰德（Cynthia Rand）住所的一起入室抢劫案。两人从深夜互发幽默短信开始，发展出一段充满张力的友谊，而这段日益深厚的关系给他们两人的生活都带来了巨大的冲击。"
           },
           {
             "rank": 10,
@@ -1016,7 +1685,13 @@
             "movement": "n/a",
             "days": "342 d",
             "mediaType": "movie",
-            "tmdbId": 671
+            "tmdbId": 671,
+            "tmdbTitle": "哈利·波特与魔法石",
+            "posterPath": "/vq3E1U5WmAIPpqBoUHi77zYVIij.jpg",
+            "backdropPath": "/qrKcg4CbBm3165QNT3kQWQnqlTM.jpg",
+            "releaseDate": "2001-11-16",
+            "rating": 7.906,
+            "description": "从小失去双亲的哈利·波特一直寄住在姨妈一家，直到11岁生日那天，他意外得知自己是一名巫师，并收到了霍格沃茨魔法学校的入学通知。在海格的带领下，哈利第一次走进神奇的魔法世界，也得知父母当年死于黑巫师伏地魔之手，而自己却奇迹般地从袭击中幸存。进入霍格沃茨后，哈利与罗恩·韦斯莱、赫敏·格兰杰成为好友，开始学习魔法并展现出出色的魁地奇天赋。与此同时，三人发现学校里一只三头犬守护着某个秘密，而一块拥有神奇力量的“魔法石”似乎正成为某股黑暗势力的目标……"
           }
         ]
       }

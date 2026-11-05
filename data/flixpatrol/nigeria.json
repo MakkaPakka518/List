@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "FlixPatrol",
   "sourceUrl": "https://flixpatrol.com/top10/streaming/nigeria/",
-  "updatedAt": "2026-11-05T17:37:24+00:00",
+  "updatedAt": "2026-11-05T18:05:06+00:00",
   "chartDate": "2026-11-05",
   "country": {
     "slug": "nigeria",
@@ -19,7 +19,14 @@
             "sourcePath": "/title/collision-course-2026/",
             "movement": "–",
             "days": "5 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1571955,
+            "tmdbTitle": "失控撞劫",
+            "posterPath": "/bRkK2KbLUpYaauUGUtw45LRnaXL.jpg",
+            "backdropPath": "/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+            "releaseDate": "2026-10-30",
+            "rating": 6.564,
+            "description": "2013年，西班牙。抢劫银行后，逃离现场时发生的事故暴露出每个盗贼隐藏的一面，揭开了早在抢劫前就已开始的背叛和谎言。"
           },
           {
             "rank": 2,
@@ -28,7 +35,13 @@
             "movement": "–",
             "days": "33 d",
             "mediaType": "movie",
-            "tmdbId": 1594952
+            "tmdbId": 1594952,
+            "tmdbTitle": "Oversabi Aunty",
+            "posterPath": "/iwVEpAI9ci1EWqVNwJtNEzNC5av.jpg",
+            "backdropPath": null,
+            "releaseDate": "2025-12-19",
+            "rating": 3.8,
+            "description": "A zealous church usher's mission to \"fix\" everyone backfires as her moral crusade wreaks havoc on family life, culminating at a wedding introduction that forces her to face the consequences of her religious fervor."
           },
           {
             "rank": 3,
@@ -36,7 +49,14 @@
             "sourcePath": "/title/rush-hour/",
             "movement": "–",
             "days": "1 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1603330,
+            "tmdbTitle": "Rush Hour",
+            "posterPath": "/kNb9JOMxZY0Kie4rEXGbEWEFoGL.jpg",
+            "backdropPath": "/x1TqF2VoFI0mUSG5cr3EOZopH3z.jpg",
+            "releaseDate": "2024-03-06",
+            "rating": 0.0,
+            "description": "A young woman’s heart is torn between her musician boyfriend who is on the brink of fame, and a man who understands her more than anyone."
           },
           {
             "rank": 4,
@@ -44,7 +64,14 @@
             "sourcePath": "/title/the-paradise/",
             "movement": "–",
             "days": "13 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1376856,
+            "tmdbTitle": "乐土之战",
+            "posterPath": "/fPVRJd9yyJArviGegZM0iXMjKFV.jpg",
+            "backdropPath": "/mqs0MsKm03EjhwQ5g3ObgRrdTWv.jpg",
+            "releaseDate": "2026-09-23",
+            "rating": 4.8,
+            "description": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression."
           },
           {
             "rank": 5,
@@ -52,7 +79,14 @@
             "sourcePath": "/title/nowhere-to-run/",
             "movement": "–",
             "days": "6 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1685622,
+            "tmdbTitle": "Nowhere to Run",
+            "posterPath": null,
+            "backdropPath": "/275SiqyrD2eOeBmXjg6ctxn135l.jpg",
+            "releaseDate": "2026-12-31",
+            "rating": 0.0,
+            "description": "A young woman’s pursuit of online stardom during a period of isolation after running away from home gradually becomes a living nightmare at the hands of a stalker who has convinced himself that he holds the key to unlocking her criminal past."
           },
           {
             "rank": 6,
@@ -60,7 +94,14 @@
             "sourcePath": "/title/unknown/",
             "movement": "–",
             "days": "1 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 926378,
+            "tmdbTitle": "谋杀谜团",
+            "posterPath": "/ekCbhoFDScMQGtzhrqrphfCfSXN.jpg",
+            "backdropPath": "/aUF4QAWfqQm3x149JWi12Mi9XYU.jpg",
+            "releaseDate": "2022-01-10",
+            "rating": 3.9,
+            "description": "Years after a series of random murders took place in 2017, book author Michael Lane suddenly begins receiving haunting calls from the unknown. Instead of focusing on the encore to his successful debut book, he becomes obsessed with this mystery and spirals out of control as he unravels each victim caught in the web of a sadistic killer."
           },
           {
             "rank": 7,
@@ -68,7 +109,14 @@
             "sourcePath": "/title/sigma/",
             "movement": "–",
             "days": "3 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1395215,
+            "tmdbTitle": "சிக்மா",
+            "posterPath": "/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
+            "backdropPath": "/usAlt5OOT54Zw6lLS2zLhKUuc2Q.jpg",
+            "releaseDate": "2026-10-02",
+            "rating": 4.0,
+            "description": "A daring treasure hunter throws caution to the wind, outwitting deadly traps and treacherous allies with sheer nerve and cunning."
           },
           {
             "rank": 8,
@@ -77,7 +125,13 @@
             "movement": "–",
             "days": "3 d",
             "mediaType": "movie",
-            "tmdbId": 1515692
+            "tmdbId": 1515692,
+            "tmdbTitle": "禁闭洗手间",
+            "posterPath": "/6u3k4WStqKkYzFWcBj7LXTm49it.jpg",
+            "backdropPath": "/iFefv61xFeqW7URB49csInyTyZM.jpg",
+            "releaseDate": "2026-10-01",
+            "rating": 8.0,
+            "description": "1986年马德拉斯，一个胆怯的八岁男孩意外将一名令人闻风丧胆的黑帮分子锁在学校洗手间。一段意想不到的友谊由此展开，也让两人的人生发生改变。"
           },
           {
             "rank": 9,
@@ -86,7 +140,13 @@
             "movement": "–",
             "days": "1 d",
             "mediaType": "movie",
-            "tmdbId": 5175
+            "tmdbId": 5175,
+            "tmdbTitle": "尖峰时刻2",
+            "posterPath": "/8tMCgpyObB8Lb9YUPcSC7mQvOXT.jpg",
+            "backdropPath": "/v84twmzP4XKc2X797h4vbhLVJlY.jpg",
+            "releaseDate": "2001-08-03",
+            "rating": 6.785,
+            "description": "李督察（成龙 饰）和从洛杉矶赶来香港度假的老搭档詹姆斯•卡特（克里斯•塔克 Chris Tucker 饰）真是一刻不得闲，因美国领事馆遭到炸弹袭击，两名工作人员身亡，李督察只得带上卡特去拜访三合会头目、也是自己父亲的昔日搭档邓力奇（尊龙 饰），邓力奇的手下胡莉（章子怡 饰）等人先后出面袭击李与卡特，不久李被美国方面禁止参与此案，而香港警局也遭到了炸弹袭击。失散的李和卡特分别来到了邓力奇的游艇，得知三合会出现了内讧，话音刚落，胡莉将邓力奇射杀在海中……暂时失去线索的二人奔赴洛杉矶，在当地大亨荣士勋家中发现了胡莉的踪迹和美国的卧底特工，原来邓、胡等人卷入了一场巨额假钞案，李与卡特决定拿回胡莉手中的印版……"
           },
           {
             "rank": 10,
@@ -95,7 +155,13 @@
             "movement": "–",
             "days": "33 d",
             "mediaType": "movie",
-            "tmdbId": 1458857
+            "tmdbId": 1458857,
+            "tmdbTitle": "只要活下去",
+            "posterPath": "/uewjxJEzhznBELG5tfuuQA1YSHO.jpg",
+            "backdropPath": "/mqz5t8PgmqXGiWsVuQXAqDkNO2F.jpg",
+            "releaseDate": "2026-10-02",
+            "rating": 7.85,
+            "description": "一位单身母亲和一名被监禁的男子通过真挚的书信建立起一段出人意料的情谊，在重重困难之下，开启了一扇通往救赎、希望与爱的门。"
           }
         ],
         "tv": [
@@ -106,7 +172,13 @@
             "movement": "–",
             "days": "5 d",
             "mediaType": "tv",
-            "tmdbId": 289517
+            "tmdbId": 289517,
+            "tmdbTitle": "末路兼职",
+            "posterPath": "/7T2OOuoxdW1sxfSjvg7ezueaFin.jpg",
+            "backdropPath": "/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+            "releaseDate": "2026-10-30",
+            "rating": 7.66,
+            "description": "负债累累的年轻男子接下了一家神秘机构提供的高薪兼职工作，却发现为了赚更多钱干的这份差事竟变成了一场噩梦。"
           },
           {
             "rank": 2,
@@ -115,7 +187,13 @@
             "movement": "–",
             "days": "4 d",
             "mediaType": "tv",
-            "tmdbId": 336240
+            "tmdbId": 336240,
+            "tmdbTitle": "换谎夫妻",
+            "posterPath": "/ckTeEeVY8kOdqcx5J7qsQdhP8S.jpg",
+            "backdropPath": "/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
+            "releaseDate": "2026-10-30",
+            "rating": 4.313,
+            "description": "看似美好的西西里与斯德哥尔摩换房之旅最终演变成残酷的博弈。两对富裕夫妇为了保全自己和各自的秘密，不惜采取极端手段。"
           },
           {
             "rank": 3,
@@ -124,7 +202,13 @@
             "movement": "–",
             "days": "5 d",
             "mediaType": "tv",
-            "tmdbId": 243555
+            "tmdbId": 243555,
+            "tmdbTitle": "危城女当家",
+            "posterPath": "/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg",
+            "backdropPath": "/cVUKFfws4upCB4ytz5uGIONIiRc.jpg",
+            "releaseDate": "2026-10-30",
+            "rating": 6.25,
+            "description": "故事发生在20世纪80年代，地点是一个虚构的南印度城市——Pernuru。\n\n在这里，女性不仅参与社会生活，而且掌握着地方权力、家族资源和犯罪网络。多代女性建立起来的统治秩序，形成了一套具有自身规则的社会体系。外人很难真正进入这个世界，而身处其中的人也必须服从其权力结构。\n\nBhavani是这个体系中的核心人物。她拥有权威，重视传统与家族遗产，努力维持自己所掌控的秩序。Rudra则是一个不愿被既有规则束缚的人物，她拥有自己的野心，并试图挑战原有的权力格局。\n\n当一名外来者带来新的威胁时，原本由女性掌控的势力开始出现裂缝。长期维持的联盟受到考验，彼此之间的竞争逐渐升级。Bhavani与Rudra的矛盾不仅关乎个人恩怨，也牵涉土地、家族传承、忠诚和统治权。\n\n随着冲突加剧，原本牢固的姐妹关系与共同利益受到冲击。人物必须在生存、忠诚和个人野心之间作出选择。"
           },
           {
             "rank": 4,
@@ -132,7 +216,14 @@
             "sourcePath": "/title/lupin/",
             "movement": "–",
             "days": "12 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 96677,
+            "tmdbTitle": "亞森·羅蘋",
+            "posterPath": "/o7vDLIoSHARBsxc9Y8RlTVcSIYb.jpg",
+            "backdropPath": "/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+            "releaseDate": "2021-01-08",
+            "rating": 7.678,
+            "description": "灵感源自莫里斯·勒布朗创作的亚森·罗宾系列小说。绅士怪盗阿桑·迪奥普受到亚森·罗宾冒险的启发，凭借智慧与魅力智胜敌人，保护所爱之人。"
           },
           {
             "rank": 5,
@@ -141,7 +232,13 @@
             "movement": "–",
             "days": "3 d",
             "mediaType": "tv",
-            "tmdbId": 256711
+            "tmdbId": 256711,
+            "tmdbTitle": "造雨人",
+            "posterPath": "/4weOwEq6aLrGSM4lF0gJAEwmbxD.jpg",
+            "backdropPath": "/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
+            "releaseDate": "2025-08-15",
+            "rating": 7.7,
+            "description": "改编自约翰·格里森姆的同名小说。年轻律师鲁迪·贝勒与布鲁瑟·斯通、迪克·希夫莱特联手，在复杂的法律纠纷中挑战强大势力，揭露案件背后的阴谋，在法庭上为委托人争取正义。"
           },
           {
             "rank": 6,
@@ -150,7 +247,13 @@
             "movement": "–",
             "days": "5 d",
             "mediaType": "tv",
-            "tmdbId": 336241
+            "tmdbId": 336241,
+            "tmdbTitle": "失控的排灯节",
+            "posterPath": "/8HhaOOJGqXCpU0RgzJvLZInD4Go.jpg",
+            "backdropPath": "/qFiTEcD4jZ8uN90FxOfBo0Um9eL.jpg",
+            "releaseDate": "2026-10-30",
+            "rating": 5.0,
+            "description": "秘密的订婚迫使一个骄傲的祖鲁族家庭和一个印度裔医学世家共处一室。随着家族秘密的曝光与文化习俗的剧烈碰撞，排灯节面临彻底搞砸的危机。"
           },
           {
             "rank": 7,
@@ -159,7 +262,13 @@
             "movement": "–",
             "days": "26 d",
             "mediaType": "tv",
-            "tmdbId": 293610
+            "tmdbId": 293610,
+            "tmdbTitle": "Doctor X：白色黑手党时代",
+            "posterPath": "/s9WHSL8tBYeLppWorXx0YSUMKjr.jpg",
+            "backdropPath": "/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+            "releaseDate": "2026-10-09",
+            "rating": 9.0,
+            "description": "一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。"
           },
           {
             "rank": 8,
@@ -168,7 +277,13 @@
             "movement": "–",
             "days": "25 d",
             "mediaType": "tv",
-            "tmdbId": 293607
+            "tmdbId": 293607,
+            "tmdbTitle": "百日谎言",
+            "posterPath": "/mZmAXmA08pKl3jVM9GGOc8QKI1P.jpg",
+            "backdropPath": "/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
+            "releaseDate": "2026-10-10",
+            "rating": 8.538,
+            "description": "天才扒手佳景在朝鲜总督府伪装就业100天，作为假密探活跃在朝鲜，最后成为真正的密探的过程以及与朝鲜翻译官泰雄展开浪漫爱情故事的谍报罗曼史电视剧。"
           },
           {
             "rank": 9,
@@ -177,7 +292,13 @@
             "movement": "–",
             "days": "1 d",
             "mediaType": "tv",
-            "tmdbId": 314271
+            "tmdbId": 314271,
+            "tmdbTitle": "巴斯X机甲",
+            "posterPath": "/lnpDbSBtImDLJDkIARySYp6wuDu.jpg",
+            "backdropPath": "/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+            "releaseDate": "2026-11-03",
+            "rating": 7.5,
+            "description": "在西部蒸汽朋克世界中，法外之徒、机器与超自然力量肆虐横行，一位父亲被迫身兼法官、陪审团与刽子手，只为保护自己的家人。"
           },
           {
             "rank": 10,
@@ -186,7 +307,13 @@
             "movement": "–",
             "days": "18 d",
             "mediaType": "tv",
-            "tmdbId": 300146
+            "tmdbId": 300146,
+            "tmdbTitle": "嫁金釵",
+            "posterPath": "/hksEcCAEBmiXdVu5pe2hvv49ZXR.jpg",
+            "backdropPath": "/214MZMPdA3F2GZlm9c3aYE91sYt.jpg",
+            "releaseDate": "2026-10-16",
+            "rating": 6.708,
+            "description": "改编自笑佳人的同名小说。阿丑因容貌酷似侯府千金，意外成为国公府世子陆濯的冲喜新娘。陆濯苏醒后对她百般提防，另一名与她容貌相同的女子也对她恨之入骨。身处危机四伏的国公府，阿丑步步谋划，逐渐改写命运，并揭开身世之谜。"
           }
         ]
       }
@@ -202,7 +329,13 @@
             "movement": "–",
             "days": "5 d",
             "mediaType": "movie",
-            "tmdbId": 1507696
+            "tmdbId": 1507696,
+            "tmdbTitle": "天启Z：新世界",
+            "posterPath": "/mnrdqPMgo9BnTyRIaNtfkuZRSzw.jpg",
+            "backdropPath": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+            "releaseDate": "2026-10-09",
+            "rating": 6.107,
+            "description": "TSJ病毒爆发后，加纳利群岛成了欧洲最后的避难所。当一支任务小队前往马德里搜寻物资，罗贝托怀着可疑的动机加入。遭遇感染者后，团队意见出现分歧，他们在奋力求生的同时还面临道德两难：自保或为了残存的人性赌上一切？"
           },
           {
             "rank": 2,
@@ -210,7 +343,14 @@
             "sourcePath": "/title/masterplan/",
             "movement": "–",
             "days": "19 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1561726,
+            "tmdbTitle": "偷天父子兵",
+            "posterPath": "/5G3i4XJVSjizijz9Yo8TTZvUgC3.jpg",
+            "backdropPath": "/b1TssUuZZ9WwgIxBvY8XUimQ4dB.jpg",
+            "releaseDate": "2026-10-16",
+            "rating": 6.9,
+            "description": "老牌神偷罗杰锁定卢浮宫镇馆之宝《蒙娜丽莎》，组建一支背景复杂、彼此猜忌的小队执行这场惊天盗窃。行动危机四伏，严密安保与暗处敌人层层围堵，原定计划接连崩坏，所有人被迫卷入一场凶险的生死博弈。"
           },
           {
             "rank": 3,
@@ -219,7 +359,13 @@
             "movement": "–",
             "days": "7 d",
             "mediaType": "movie",
-            "tmdbId": 1596275
+            "tmdbId": 1596275,
+            "tmdbTitle": "假面恋人：换档追爱",
+            "posterPath": "/oFYDW8cgvedzLZuE5sceplckRTV.jpg",
+            "backdropPath": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+            "releaseDate": "2026-10-27",
+            "rating": 7.746,
+            "description": "一位年轻的赛车技师假装与赛车界最具争议的的明星车手订婚，表面上是为了维护他的名声，实则是为了自己能有机会成为赛车手。但很快，这个谎言就威胁到一切，包括这段早已超越单纯交易的感情…"
           },
           {
             "rank": 4,
@@ -228,7 +374,13 @@
             "movement": "–",
             "days": "4 d",
             "mediaType": "movie",
-            "tmdbId": 1118031
+            "tmdbId": 1118031,
+            "tmdbTitle": "天启Z：完结的起点",
+            "posterPath": "/a1YnDuRh5ufkRkMmKj0oPxbsiV2.jpg",
+            "backdropPath": "/lTYGtgDRygku7iiFLWyiEc4wLzz.jpg",
+            "releaseDate": "2024-10-04",
+            "rating": 6.776,
+            "description": "一种类似狂犬病的疾病在全球传播开来，将感染者变成极具攻击性的生物。马内尔带着他的猫躲在家中，凭借他的智慧生存下来。很快，他们将不得不外出觅食，寻找陆地和海上的安全之所。"
           },
           {
             "rank": 5,
@@ -237,7 +389,13 @@
             "movement": "–",
             "days": "21 d",
             "mediaType": "movie",
-            "tmdbId": 1381078
+            "tmdbId": 1381078,
+            "tmdbTitle": "一生所爱",
+            "posterPath": "/i2SnzLoAqj70HXQOJC0izVb0iRd.jpg",
+            "backdropPath": "/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+            "releaseDate": "2026-10-07",
+            "rating": 6.8,
+            "description": "玛雅与查理的一次偶然邂逅开启了一段轰轰烈烈的恋情，也开启了一个远超玛雅想象的未来。当那个未来崩塌，玛雅被抛入一段意想不到的新生活--这段生活将迫使她直面自己是谁、想要什么，以及如何重新去爱的故事。"
           },
           {
             "rank": 6,
@@ -246,7 +404,13 @@
             "movement": "–",
             "days": "337 d",
             "mediaType": "movie",
-            "tmdbId": 1197306
+            "tmdbId": 1197306,
+            "tmdbTitle": "制暴：无限杀机",
+            "posterPath": "/MhPeKqgvo84r5goXf4DytIuX6r.jpg",
+            "backdropPath": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+            "releaseDate": "2025-03-26",
+            "rating": 6.666,
+            "description": "影片改编自查克·迪克逊所著同名系列小说，主人公莱文·凯德（杰森·斯坦森 Jason Statham 饰）是黑色行动界的传奇人物，他放弃职业从事建筑工作，想过简单的生活，做女儿的好父亲，而当他老板的十几岁女儿珍妮突然消失后，莱文被召回要求重操旧业。在追踪过程中，莱文卷入到 一个邪恶的犯罪阴谋的中心，产生了连锁反应，将威胁到他的新生活方式。"
           },
           {
             "rank": 7,
@@ -255,7 +419,13 @@
             "movement": "–",
             "days": "3 d",
             "mediaType": "movie",
-            "tmdbId": 1378537
+            "tmdbId": 1378537,
+            "tmdbTitle": "米尔扎布尔：大电影",
+            "posterPath": "/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
+            "backdropPath": "/zldnRPiK2ZExKznOkJScovlzi3j.jpg",
+            "releaseDate": "2026-09-03",
+            "rating": 7.0,
+            "description": "米尔扎布尔的王座之争愈演愈烈，旧敌重新出现，新的威胁也随之而来。血债必须偿还，野心勃勃的争夺者们为控制这座城市凶险的地下世界展开厮杀。"
           },
           {
             "rank": 8,
@@ -264,7 +434,13 @@
             "movement": "–",
             "days": "9 d",
             "mediaType": "movie",
-            "tmdbId": 976734
+            "tmdbId": 976734,
+            "tmdbTitle": "黑雀特工",
+            "posterPath": "/zI2wQLfBWwFdS3L1xyUPMcZ8Uko.jpg",
+            "backdropPath": "/5IIFJxwRzmkhczQidIhpoaolpZY.jpg",
+            "releaseDate": "2024-10-10",
+            "rating": 6.188,
+            "description": "艾弗里是中情局秘密特工，在任务中认识了无国界医生大卫并隐瞒身份与之结婚。一天，大卫被神秘团伙绑架，对方威胁她从一名重犯手中取得情报，赎回丈夫。 艾弗里随即闯入监狱，却发现情报不翼而飞。名为“黑雀”的文件包含全美高级别官员的秘密资料，如若泄露会引发严重后果。随后，艾弗里绑架了局长埃文斯，成功闯入藏有“黑雀”文件的数据公司。谁知文件并不是所谓的秘密资料，而是能控制全球互联网流量的超级病毒，有人利用文件勒索各个国家交付赎金。但艾弗里靠着智慧与勇气拦截了电脑病毒，阻止了一场世界动荡。"
           },
           {
             "rank": 9,
@@ -272,7 +448,14 @@
             "sourcePath": "/title/the-runner-2026/",
             "movement": "–",
             "days": "63 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1377237,
+            "tmdbTitle": "护肝人",
+            "posterPath": "/qnljRFaateP78qdmgLvtNPOGOYM.jpg",
+            "backdropPath": "/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+            "releaseDate": "2026-09-07",
+            "rating": 8.286,
+            "description": "高端特种押运员汉克·马龙必须在三小时内，将一颗肝脏从洛杉矶国际机场运往圣巴巴拉的一家医院，用于一台紧急移植手术。受赠者是一名濒危的七岁女孩，她拥有全球极为罕见的血型。偏偏南加州最危险犯罪集团的头目，也急需这颗器官。"
           },
           {
             "rank": 10,
@@ -281,7 +464,13 @@
             "movement": "–",
             "days": "6 d",
             "mediaType": "movie",
-            "tmdbId": 1727734
+            "tmdbId": 1727734,
+            "tmdbTitle": "阿里·G：我是谁？",
+            "posterPath": "/dcTp4pV494fvJrFGKsgNQ8vZyzw.jpg",
+            "backdropPath": "/kx883SRQsRNTA965hgK04uHPARb.jpg",
+            "releaseDate": "2026-10-22",
+            "rating": 5.8,
+            "description": "过了二十年\"躺平\"、\"嗨天嗨地\"的生活后，阿里·G在震惊中得知他的长期女友朱莉已怀孕八个月。家里多了一张吃饭的嘴，阿里·G放弃了傻乐的日子，前往美国试图重拾昔日的辉煌。但他很快就遇到了对手，这个对手最终将威胁到他和他孩子的生存。"
           }
         ],
         "tv": [
@@ -292,7 +481,13 @@
             "movement": "–",
             "days": "14 d",
             "mediaType": "tv",
-            "tmdbId": 120911
+            "tmdbId": 120911,
+            "tmdbTitle": "終極名單",
+            "posterPath": "/yzFec3f0720rWW2Wr3SBC8rl8tl.jpg",
+            "backdropPath": "/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
+            "releaseDate": "2022-06-30",
+            "rating": 7.993,
+            "description": "改编自杰克·卡尔的系列小说。海豹突击队队长詹姆斯·里斯在一次秘密任务后卷入重重阴谋。从军事行动到国际谍战，他在追寻真相与执行任务的过程中，逐步揭开隐藏在背后的危险势力。"
           },
           {
             "rank": 2,
@@ -301,7 +496,13 @@
             "movement": "–",
             "days": "14 d",
             "mediaType": "tv",
-            "tmdbId": 303745
+            "tmdbId": 303745,
+            "tmdbTitle": "我的有罪之人",
+            "posterPath": "/ez4FZ3ciNE5XZQBEzYkfdcK8rzV.jpg",
+            "backdropPath": "/guIULZ7Ik803V1l8u5TRSss9JU8.jpg",
+            "releaseDate": "2026-10-19",
+            "rating": 9.038,
+            "description": "杀人案头号嫌疑人、泰江集团三代继承人尹伊俊，引来特种部队出身的刑警姜在熙。她女扮男装，伪装成贴身秘书潜入调查。在熙一边查案，一边与刻薄敏感的伊俊不断交锋，二人渐生情愫。"
           },
           {
             "rank": 3,
@@ -310,7 +511,13 @@
             "movement": "–",
             "days": "28 d",
             "mediaType": "tv",
-            "tmdbId": 288673
+            "tmdbId": 288673,
+            "tmdbTitle": "魔女嘉莉",
+            "posterPath": "/7CDmD9H4FRyTngJI717TrKIppb0.jpg",
+            "backdropPath": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+            "releaseDate": "2026-10-07",
+            "rating": 8.277,
+            "description": "父亲的突然离世迫使嘉莉进入到了残酷的公立高中，她不得不面对席卷社区的校园霸凌丑闻、社交媒体时代无情的压力和冷酷无情，以及伴随青春期而觉醒的神秘心灵感应能力。"
           },
           {
             "rank": 4,
@@ -319,7 +526,13 @@
             "movement": "–",
             "days": "49 d",
             "mediaType": "tv",
-            "tmdbId": 273207
+            "tmdbId": 273207,
+            "tmdbTitle": "侠女内莉",
+            "posterPath": "/5n8yuHdiObGIhZypMDwawQCW0s1.jpg",
+            "backdropPath": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+            "releaseDate": "2026-09-16",
+            "rating": 8.019,
+            "description": "《侠探杰克》衍生剧。弗朗西丝·内莉是芝加哥一名私家侦探，也是杰克·雷彻过去在陆军110特别调查小组共事的伙伴。当她得知一位挚友在一场疑点重重的意外中丧生后，便下定决心查明真相。"
           },
           {
             "rank": 5,
@@ -328,7 +541,13 @@
             "movement": "–",
             "days": "218 d",
             "mediaType": "tv",
-            "tmdbId": 219760
+            "tmdbId": 219760,
+            "tmdbTitle": "终极名单：黑狼",
+            "posterPath": "/3nYPxkKIJO3HHfC8nrhE9KTyUe3.jpg",
+            "backdropPath": "/zkjRqFzJhhaPK8qNFavYKeAdRcs.jpg",
+            "releaseDate": "2025-08-27",
+            "rating": 7.698,
+            "description": "在《终极名单》故事发生之前，海豹突击队员本·爱德华兹（泰勒·克奇饰）踏入了中情局的黑暗战线。当他一步步走入灰色地带，就越发难以抵挡内心日益觉醒的黑暗冲动。每个人体内都住着两头狼——一光一暗，相互争斗。最终胜出的会是哪一头？"
           },
           {
             "rank": 6,
@@ -337,7 +556,13 @@
             "movement": "–",
             "days": "83 d",
             "mediaType": "tv",
-            "tmdbId": 108978
+            "tmdbId": 108978,
+            "tmdbTitle": "侠探杰克",
+            "posterPath": "/1Gm9vxf6D5szIMzEY96DrDQPrMr.jpg",
+            "backdropPath": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+            "releaseDate": "2022-02-03",
+            "rating": 8.131,
+            "description": "退役宪兵杰克·雷彻独自游走各地，凭借敏锐头脑与强悍身手追查案件，在一次次危机中揭开隐藏于罪案背后的阴谋。"
           },
           {
             "rank": 7,
@@ -346,7 +571,13 @@
             "movement": "–",
             "days": "110 d",
             "mediaType": "tv",
-            "tmdbId": 241882
+            "tmdbId": 241882,
+            "tmdbTitle": "赴汤蹈火",
+            "posterPath": "/zk2W6aCb852g1elAnXMHcDjANfp.jpg",
+            "backdropPath": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
+            "releaseDate": "2026-07-15",
+            "rating": 6.708,
+            "description": "黛比发现闺蜜朱迪丝竟是国际杀手，两人因此遭到追杀。随着丈夫卷入腐败事件，她们踏上横跨欧洲的逃亡之旅，寻找真相并保住性命。"
           },
           {
             "rank": 8,
@@ -355,7 +586,13 @@
             "movement": "–",
             "days": "48 d",
             "mediaType": "tv",
-            "tmdbId": 72710
+            "tmdbId": 72710,
+            "tmdbTitle": "大陆酒店",
+            "posterPath": "/vs1u39259jxEMvlpk1EexINPqQk.jpg",
+            "backdropPath": "/1gajPADcRyzmYvfAefbJwhCy4bk.jpg",
+            "releaseDate": "2023-09-22",
+            "rating": 7.363,
+            "description": "本剧是一部叙事连续剧，揭示了处于约翰·维克所在的世界里那家标志性刺客酒店的暴力起源。20世纪70年代的纽约，温斯顿·斯科特招募了一支团队来应对因自己哥哥袭击大陆酒店而引发的巨大阴谋。这部血腥动作剧探讨了亲情、命运与复仇间的碰撞。"
           },
           {
             "rank": 9,
@@ -364,7 +601,13 @@
             "movement": "–",
             "days": "43 d",
             "mediaType": "tv",
-            "tmdbId": 314939
+            "tmdbId": 314939,
+            "tmdbTitle": "不是你的恋爱",
+            "posterPath": "/9desHwJHwdcx5YfXFuIUuvp528D.jpg",
+            "backdropPath": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+            "releaseDate": "2026-09-12",
+            "rating": 5.286,
+            "description": "站在结婚十字路口的恋人们，遇到意想不到的新姻缘后，经历的感情波动和关系裂痕的现实共鸣罗曼史。"
           },
           {
             "rank": 10,
@@ -373,7 +616,13 @@
             "movement": "–",
             "days": "288 d",
             "mediaType": "tv",
-            "tmdbId": 84773
+            "tmdbId": 84773,
+            "tmdbTitle": "指环王：力量之戒",
+            "posterPath": "/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg",
+            "backdropPath": "/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
+            "releaseDate": "2022-09-01",
+            "rating": 7.211,
+            "description": "强大的力量锻造成型，王国辉煌崛起又陨落成尘，让人意想不到的英雄遭受考验，而强大的反派势要让整个世界蒙上黑暗。\n\n一组为人熟悉的人物和全新的角色，他们必须对抗邪恶势力在中土世界再度崛起。从迷雾山脉的最深处、林顿壮丽的森林、努曼诺尔的海岛王国到地图的最边缘，这些领土和角色将联手创造传奇，即使他们不在人世后仍流芳百世。\n\n本剧设定在托尔金的《霍比特人》和《指环王》事件前的数千年，将带领观众回到那个年代。"
           }
         ]
       }

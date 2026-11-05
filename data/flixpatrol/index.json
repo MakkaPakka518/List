@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "FlixPatrol",
-  "updatedAt": "2026-11-05T17:41:39+00:00",
+  "updatedAt": "2026-11-05T18:06:17+00:00",
   "chartDate": "2026-11-05",
   "countries": [
     {
@@ -62,10 +62,6 @@
   ],
   "platforms": [
     {
-      "slug": "TrueID",
-      "name": "TrueID"
-    },
-    {
       "slug": "abema",
       "name": "Abema"
     },
@@ -78,24 +74,8 @@
       "name": "Amazon Channels"
     },
     {
-      "slug": "amazon-movies",
-      "name": "Amazon Movies"
-    },
-    {
       "slug": "amazon-prime",
       "name": "Amazon Prime"
-    },
-    {
-      "slug": "amazon-prime-movies",
-      "name": "Amazon Prime Movies"
-    },
-    {
-      "slug": "amazon-prime-tv-shows",
-      "name": "Amazon Prime Tv Shows"
-    },
-    {
-      "slug": "amazon-tv-shows",
-      "name": "Amazon Tv Shows"
     },
     {
       "slug": "amc-plus",
@@ -104,18 +84,6 @@
     {
       "slug": "apple-tv",
       "name": "Apple TV"
-    },
-    {
-      "slug": "apple-tv-movies",
-      "name": "Apple Tv Movies"
-    },
-    {
-      "slug": "apple-tv-tv-shows",
-      "name": "Apple Tv Tv Shows"
-    },
-    {
-      "slug": "binge",
-      "name": "Binge"
     },
     {
       "slug": "canal",
@@ -128,14 +96,6 @@
     {
       "slug": "chili",
       "name": "Chili"
-    },
-    {
-      "slug": "chili-movies",
-      "name": "Chili Movies"
-    },
-    {
-      "slug": "claro-video",
-      "name": "Claro Video"
     },
     {
       "slug": "coupang-play",
@@ -162,32 +122,12 @@
       "name": "Disney+"
     },
     {
-      "slug": "disney-movies",
-      "name": "Disney Movies"
-    },
-    {
-      "slug": "disney-tv-shows",
-      "name": "Disney Tv Shows"
-    },
-    {
-      "slug": "france-tv",
-      "name": "france.tv"
-    },
-    {
       "slug": "friday",
       "name": "friDay"
     },
     {
-      "slug": "globoplay",
-      "name": "Globoplay"
-    },
-    {
       "slug": "google",
       "name": "Google"
-    },
-    {
-      "slug": "google-movies",
-      "name": "Google Movies"
     },
     {
       "slug": "hami-video",
@@ -202,18 +142,6 @@
       "name": "HBO Max"
     },
     {
-      "slug": "hbo-max-movies",
-      "name": "Hbo Max Movies"
-    },
-    {
-      "slug": "hbo-max-tv-shows",
-      "name": "Hbo Max Tv Shows"
-    },
-    {
-      "slug": "hotstar",
-      "name": "Hotstar"
-    },
-    {
       "slug": "hulu",
       "name": "Hulu"
     },
@@ -222,24 +150,8 @@
       "name": "Hulu (Nippon)"
     },
     {
-      "slug": "infinity-plus",
-      "name": "Infinity+"
-    },
-    {
       "slug": "itunes",
       "name": "Apple TV Store"
-    },
-    {
-      "slug": "itunes-movies",
-      "name": "Itunes Movies"
-    },
-    {
-      "slug": "itunes-tv-shows",
-      "name": "Itunes Tv Shows"
-    },
-    {
-      "slug": "joyn",
-      "name": "Joyn"
     },
     {
       "slug": "lemino",
@@ -248,10 +160,6 @@
     {
       "slug": "lionsgate-plus",
       "name": "Lionsgate+"
-    },
-    {
-      "slug": "m6plus",
-      "name": "M6+"
     },
     {
       "slug": "mewatch",
@@ -270,44 +178,12 @@
       "name": "MyVideo"
     },
     {
-      "slug": "neon-tv",
-      "name": "Neon TV"
-    },
-    {
       "slug": "netflix",
       "name": "Netflix"
     },
     {
-      "slug": "netflix-movies",
-      "name": "Netflix Movies"
-    },
-    {
-      "slug": "netflix-tv-shows",
-      "name": "Netflix Tv Shows"
-    },
-    {
-      "slug": "now",
-      "name": "NOW"
-    },
-    {
-      "slug": "ocs",
-      "name": "OCS"
-    },
-    {
-      "slug": "osn",
-      "name": "OSN"
-    },
-    {
       "slug": "paramount-plus",
       "name": "Paramount+"
-    },
-    {
-      "slug": "paramount-plus-movies",
-      "name": "Paramount Plus Movies"
-    },
-    {
-      "slug": "paramount-plus-tv-shows",
-      "name": "Paramount Plus Tv Shows"
     },
     {
       "slug": "peacock",
@@ -318,28 +194,8 @@
       "name": "Pluto"
     },
     {
-      "slug": "raiplay",
-      "name": "RAI"
-    },
-    {
       "slug": "rakuten-tv",
       "name": "Rakuten TV"
-    },
-    {
-      "slug": "rakuten-tv-movies",
-      "name": "Rakuten Tv Movies"
-    },
-    {
-      "slug": "rtl-plus",
-      "name": "RTL+"
-    },
-    {
-      "slug": "sbs",
-      "name": "SBS"
-    },
-    {
-      "slug": "shahid",
-      "name": "Shahid"
     },
     {
       "slug": "shudder",
@@ -354,10 +210,6 @@
       "name": "Sony Pictures Core"
     },
     {
-      "slug": "stan",
-      "name": "Stan"
-    },
-    {
       "slug": "starz",
       "name": "Starz"
     },
@@ -366,32 +218,12 @@
       "name": "Telasa"
     },
     {
-      "slug": "tf1",
-      "name": "TF1"
-    },
-    {
       "slug": "tubi",
       "name": "Tubi"
     },
     {
       "slug": "u-next",
       "name": "U-Next"
-    },
-    {
-      "slug": "universal-plus",
-      "name": "Universal+"
-    },
-    {
-      "slug": "viaplay",
-      "name": "Viaplay"
-    },
-    {
-      "slug": "videoland",
-      "name": "Videoland"
-    },
-    {
-      "slug": "vidio",
-      "name": "Vidio"
     },
     {
       "slug": "viki",
@@ -412,14 +244,6 @@
     {
       "slug": "wavve",
       "name": "Wavve"
-    },
-    {
-      "slug": "wow",
-      "name": "WOW"
-    },
-    {
-      "slug": "zee5",
-      "name": "ZEE5"
     }
   ],
   "failures": []
