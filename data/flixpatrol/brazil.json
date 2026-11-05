@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "FlixPatrol",
   "sourceUrl": "https://flixpatrol.com/top10/streaming/brazil/",
-  "updatedAt": "2026-11-05T17:04:00+00:00",
+  "updatedAt": "2026-11-05T17:39:15+00:00",
   "chartDate": "2026-11-05",
   "country": {
     "slug": "brazil",
@@ -35,7 +35,8 @@
             "sourcePath": "/title/sniper-the-last-stand/",
             "movement": "–",
             "days": "3 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1410082
           },
           {
             "rank": 4,
@@ -43,7 +44,8 @@
             "sourcePath": "/title/final-destination-bloodlines/",
             "movement": "–",
             "days": "3 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 574475
           },
           {
             "rank": 5,
@@ -59,7 +61,8 @@
             "sourcePath": "/title/heist-2001/",
             "movement": "–",
             "days": "3 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 11088
           },
           {
             "rank": 7,
@@ -67,7 +70,8 @@
             "sourcePath": "/title/teenage-mutant-ninja-turtles-2014/",
             "movement": "–",
             "days": "5 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 98566
           },
           {
             "rank": 8,
@@ -91,7 +95,8 @@
             "sourcePath": "/title/teenage-mutant-ninja-turtles-out-of-the-shadows/",
             "movement": "–",
             "days": "1 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 308531
           }
         ],
         "tv": [
@@ -101,7 +106,8 @@
             "sourcePath": "/title/the-gift-of-deceit/",
             "movement": "–",
             "days": "7 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 334700
           },
           {
             "rank": 2,
@@ -117,7 +123,8 @@
             "sourcePath": "/title/a-couple-of-lies/",
             "movement": "–",
             "days": "5 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 336240
           },
           {
             "rank": 4,
@@ -125,7 +132,8 @@
             "sourcePath": "/title/dead-end-job/",
             "movement": "–",
             "days": "5 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 289517
           },
           {
             "rank": 5,
@@ -133,7 +141,8 @@
             "sourcePath": "/title/where-the-mask-ends/",
             "movement": "–",
             "days": "19 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 300146
           },
           {
             "rank": 6,
@@ -141,7 +150,8 @@
             "sourcePath": "/title/doctor-x-mafia-in-white/",
             "movement": "–",
             "days": "26 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 293610
           },
           {
             "rank": 7,
@@ -149,7 +159,8 @@
             "sourcePath": "/title/take-charge-of-my-heart/",
             "movement": "–",
             "days": "26 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 289423
           },
           {
             "rank": 8,
@@ -165,7 +176,8 @@
             "sourcePath": "/title/will-trent/",
             "movement": "–",
             "days": "1 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 208569
           },
           {
             "rank": 10,
@@ -173,7 +185,8 @@
             "sourcePath": "/title/the-one-about-matthew-perry/",
             "movement": "–",
             "days": "8 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 333533
           }
         ],
         "kids_movies": [
@@ -191,7 +204,8 @@
             "sourcePath": "/title/aliens-in-the-attic/",
             "movement": "–",
             "days": "9 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 20856
           },
           {
             "rank": 3,
@@ -199,7 +213,8 @@
             "sourcePath": "/title/ice-age-continental-drift/",
             "movement": "–",
             "days": "31 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 57800
           },
           {
             "rank": 4,
@@ -207,7 +222,8 @@
             "sourcePath": "/title/wonder-park/",
             "movement": "n/a",
             "days": "17 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 400157
           },
           {
             "rank": 5,
@@ -215,7 +231,8 @@
             "sourcePath": "/title/ice-age-collision-course/",
             "movement": "-1",
             "days": "165 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 278154
           },
           {
             "rank": 6,
@@ -223,7 +240,8 @@
             "sourcePath": "/title/ice-age-dawn-of-the-dinosaurs/",
             "movement": "–",
             "days": "213 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 8355
           },
           {
             "rank": 7,
@@ -239,7 +257,8 @@
             "sourcePath": "/title/the-amazing-maurice/",
             "movement": "-7",
             "days": "10 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 676710
           },
           {
             "rank": 9,
@@ -247,7 +266,8 @@
             "sourcePath": "/title/corpse-bride/",
             "movement": "-2",
             "days": "25 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 3933
           },
           {
             "rank": 10,
@@ -265,7 +285,8 @@
             "sourcePath": "/title/lottie-dottie-chicken-2018/",
             "movement": "+1",
             "days": "1019 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 101320
           },
           {
             "rank": 2,
@@ -273,7 +294,8 @@
             "sourcePath": "/title/masha-and-the-bear/",
             "movement": "-1",
             "days": "962 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 46080
           },
           {
             "rank": 3,
@@ -281,7 +303,8 @@
             "sourcePath": "/title/bento-e-toto/",
             "movement": "+2",
             "days": "15 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 125791
           },
           {
             "rank": 4,
@@ -297,7 +320,8 @@
             "sourcePath": "/title/gabbys-dollhouse/",
             "movement": "-1",
             "days": "757 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 111474
           },
           {
             "rank": 6,
@@ -321,7 +345,8 @@
             "sourcePath": "/title/sheriff-labrador/",
             "movement": "–",
             "days": "326 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 219799
           },
           {
             "rank": 9,
@@ -337,7 +362,8 @@
             "sourcePath": "/title/paw-patrol/",
             "movement": "–",
             "days": "723 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 57532
           }
         ]
       }
@@ -360,7 +386,8 @@
             "sourcePath": "/title/ill-take-your-dead/",
             "movement": "+3",
             "days": "2 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 539549
           },
           {
             "rank": 3,
@@ -400,7 +427,8 @@
             "sourcePath": "/title/resident-evil-afterlife/",
             "movement": "+1",
             "days": "6 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 35791
           },
           {
             "rank": 8,
@@ -416,7 +444,8 @@
             "sourcePath": "/title/evil-dead-burn/",
             "movement": "-5",
             "days": "25 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1212763
           },
           {
             "rank": 10,
@@ -424,7 +453,8 @@
             "sourcePath": "/title/secret-window/",
             "movement": "-1",
             "days": "11 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1586
           }
         ],
         "tv": [
@@ -434,7 +464,8 @@
             "sourcePath": "/title/naked-and-afraid-brazil/",
             "movement": "+1",
             "days": "73 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 137940
           },
           {
             "rank": 2,
@@ -442,7 +473,8 @@
             "sourcePath": "/title/the-gilded-age/",
             "movement": "-1",
             "days": "66 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 81723
           },
           {
             "rank": 3,
@@ -458,7 +490,8 @@
             "sourcePath": "/title/la-promesa-2023/",
             "movement": "–",
             "days": "324 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 212907
           },
           {
             "rank": 5,
@@ -466,7 +499,8 @@
             "sourcePath": "/title/georgie-mandys-first-marriage/",
             "movement": "+1",
             "days": "313 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 243875
           },
           {
             "rank": 6,
@@ -474,7 +508,8 @@
             "sourcePath": "/title/war-2026/",
             "movement": "-1",
             "days": "31 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 298852
           },
           {
             "rank": 7,
@@ -482,7 +517,8 @@
             "sourcePath": "/title/the-paper-2025/",
             "movement": "+1",
             "days": "33 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 253941
           },
           {
             "rank": 8,
@@ -490,7 +526,8 @@
             "sourcePath": "/title/it-welcome-to-derry/",
             "movement": "-1",
             "days": "81 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 200875
           },
           {
             "rank": 9,
@@ -498,7 +535,8 @@
             "sourcePath": "/title/mother-2016/",
             "movement": "n/a",
             "days": "",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 68569
           },
           {
             "rank": 10,
@@ -506,7 +544,8 @@
             "sourcePath": "/title/kirli-sepeti/",
             "movement": "n/a",
             "days": "30 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 233492
           }
         ]
       }
@@ -529,7 +568,8 @@
             "sourcePath": "/title/moana-2026/",
             "movement": "-1",
             "days": "13 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1108427
           },
           {
             "rank": 3,
@@ -537,7 +577,8 @@
             "sourcePath": "/title/visionquest/",
             "movement": "+1",
             "days": "21 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 213375
           },
           {
             "rank": 4,
@@ -545,7 +586,8 @@
             "sourcePath": "/title/coco-2017/",
             "movement": "-2",
             "days": "199 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 354912
           },
           {
             "rank": 5,
@@ -553,7 +595,8 @@
             "sourcePath": "/title/toy-story-5/",
             "movement": "-2",
             "days": "41 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1084244
           },
           {
             "rank": 6,
@@ -561,7 +604,8 @@
             "sourcePath": "/title/the-grinch/",
             "movement": "n/a",
             "days": "",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 360920
           },
           {
             "rank": 7,
@@ -577,7 +621,8 @@
             "sourcePath": "/title/ratatouille/",
             "movement": "+2",
             "days": "324 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 2062
           },
           {
             "rank": 9,
@@ -585,14 +630,17 @@
             "sourcePath": "/title/spider-man-far-from-home/",
             "movement": "-2",
             "days": "1 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 429617
           },
           {
             "rank": 10,
             "title": "Avengers: Endgame",
             "sourcePath": "/title/avengers-endgame/",
             "movement": "-1",
-            "days": "302 d"
+            "days": "302 d",
+            "tmdbId": 299534,
+            "mediaType": "movie"
           }
         ],
         "movies": [
@@ -602,7 +650,8 @@
             "sourcePath": "/title/moana-2026/",
             "movement": "–",
             "days": "13 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1108427
           },
           {
             "rank": 2,
@@ -610,7 +659,8 @@
             "sourcePath": "/title/coco-2017/",
             "movement": "–",
             "days": "31 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 354912
           },
           {
             "rank": 3,
@@ -618,7 +668,8 @@
             "sourcePath": "/title/toy-story-5/",
             "movement": "–",
             "days": "41 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1084244
           },
           {
             "rank": 4,
@@ -626,7 +677,8 @@
             "sourcePath": "/title/spider-man-far-from-home/",
             "movement": "–",
             "days": "2 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 429617
           },
           {
             "rank": 5,
@@ -634,7 +686,8 @@
             "sourcePath": "/title/the-grinch/",
             "movement": "–",
             "days": "1 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 360920
           },
           {
             "rank": 6,
@@ -642,7 +695,8 @@
             "sourcePath": "/title/ratatouille/",
             "movement": "–",
             "days": "23 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 2062
           },
           {
             "rank": 7,
@@ -650,7 +704,8 @@
             "sourcePath": "/title/the-amazing-spider-man/",
             "movement": "–",
             "days": "2 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1930
           },
           {
             "rank": 8,
@@ -666,7 +721,8 @@
             "sourcePath": "/title/moana-2/",
             "movement": "–",
             "days": "55 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1241982
           },
           {
             "rank": 10,
@@ -674,7 +730,8 @@
             "sourcePath": "/title/how-the-grinch-stole-christmas-2000/",
             "movement": "–",
             "days": "1 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 8871
           }
         ],
         "tv": [
@@ -684,7 +741,8 @@
             "sourcePath": "/title/visionquest/",
             "movement": "–",
             "days": "21 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 213375
           },
           {
             "rank": 2,
@@ -700,7 +758,8 @@
             "sourcePath": "/title/between-steps/",
             "movement": "-1",
             "days": "25 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 307106
           },
           {
             "rank": 4,
@@ -708,7 +767,8 @@
             "sourcePath": "/title/the-voice-brasil/",
             "movement": "-1",
             "days": "8 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 46299
           },
           {
             "rank": 5,
@@ -724,7 +784,8 @@
             "sourcePath": "/title/phony/",
             "movement": "n/a",
             "days": "9 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 275139
           },
           {
             "rank": 7,
@@ -732,7 +793,8 @@
             "sourcePath": "/title/outlander-blood-of-my-blood/",
             "movement": "-3",
             "days": "29 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 207484
           },
           {
             "rank": 8,
@@ -740,7 +802,8 @@
             "sourcePath": "/title/greys-anatomy/",
             "movement": "-2",
             "days": "16 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 1416
           },
           {
             "rank": 9,
@@ -748,7 +811,8 @@
             "sourcePath": "/title/dragon-ball-super/",
             "movement": "-1",
             "days": "2 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 62715
           },
           {
             "rank": 10,
@@ -756,7 +820,8 @@
             "sourcePath": "/title/wandavision/",
             "movement": "n/a",
             "days": "16 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 85271
           }
         ]
       }
@@ -771,7 +836,8 @@
             "sourcePath": "/title/apocalypse-z-new-world/",
             "movement": "–",
             "days": "5 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1507696
           },
           {
             "rank": 2,
@@ -779,7 +845,8 @@
             "sourcePath": "/title/drive-the-pretenders/",
             "movement": "–",
             "days": "7 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1596275
           },
           {
             "rank": 3,
@@ -787,7 +854,8 @@
             "sourcePath": "/title/marilia-mendonca-all-the-feels/",
             "movement": "–",
             "days": "19 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 296466
           },
           {
             "rank": 4,
@@ -795,7 +863,8 @@
             "sourcePath": "/title/michael-2026/",
             "movement": "–",
             "days": "12 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 936075
           },
           {
             "rank": 5,
@@ -803,7 +872,8 @@
             "sourcePath": "/title/the-terminal-list/",
             "movement": "–",
             "days": "14 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 120911
           },
           {
             "rank": 6,
@@ -811,7 +881,8 @@
             "sourcePath": "/title/carrie-2026/",
             "movement": "–",
             "days": "28 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 288673
           },
           {
             "rank": 7,
@@ -819,7 +890,8 @@
             "sourcePath": "/title/love-in-disguise/",
             "movement": "–",
             "days": "8 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 303745
           },
           {
             "rank": 8,
@@ -827,7 +899,8 @@
             "sourcePath": "/title/love-of-your-life/",
             "movement": "–",
             "days": "20 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1381078
           },
           {
             "rank": 9,
@@ -843,7 +916,8 @@
             "sourcePath": "/title/apocalypse-z-the-beginning-of-the-end/",
             "movement": "–",
             "days": "4 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1118031
           }
         ],
         "movies": [
@@ -853,7 +927,8 @@
             "sourcePath": "/title/apocalypse-z-new-world/",
             "movement": "–",
             "days": "5 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1507696
           },
           {
             "rank": 2,
@@ -861,7 +936,8 @@
             "sourcePath": "/title/drive-the-pretenders/",
             "movement": "–",
             "days": "7 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1596275
           },
           {
             "rank": 3,
@@ -869,7 +945,8 @@
             "sourcePath": "/title/michael-2026/",
             "movement": "–",
             "days": "12 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 936075
           },
           {
             "rank": 4,
@@ -877,7 +954,8 @@
             "sourcePath": "/title/love-of-your-life/",
             "movement": "–",
             "days": "21 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1381078
           },
           {
             "rank": 5,
@@ -893,7 +971,8 @@
             "sourcePath": "/title/apocalypse-z-the-beginning-of-the-end/",
             "movement": "–",
             "days": "5 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1118031
           },
           {
             "rank": 7,
@@ -901,7 +980,8 @@
             "sourcePath": "/title/harry-potter-and-the-philosophers-stone/",
             "movement": "–",
             "days": "5 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 671
           },
           {
             "rank": 8,
@@ -909,7 +989,8 @@
             "sourcePath": "/title/harry-potter-and-the-chamber-of-secrets/",
             "movement": "–",
             "days": "3 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 672
           },
           {
             "rank": 9,
@@ -925,7 +1006,8 @@
             "sourcePath": "/title/the-love-hypothesis/",
             "movement": "–",
             "days": "42 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1032863
           }
         ],
         "tv": [
@@ -935,7 +1017,8 @@
             "sourcePath": "/title/marilia-mendonca-all-the-feels/",
             "movement": "–",
             "days": "19 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 296466
           },
           {
             "rank": 2,
@@ -943,7 +1026,8 @@
             "sourcePath": "/title/the-terminal-list/",
             "movement": "–",
             "days": "14 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 120911
           },
           {
             "rank": 3,
@@ -951,7 +1035,8 @@
             "sourcePath": "/title/carrie-2026/",
             "movement": "–",
             "days": "28 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 288673
           },
           {
             "rank": 4,
@@ -959,7 +1044,8 @@
             "sourcePath": "/title/love-in-disguise/",
             "movement": "–",
             "days": "15 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 303745
           },
           {
             "rank": 5,
@@ -967,7 +1053,8 @@
             "sourcePath": "/title/a-love-other-than-yours/",
             "movement": "–",
             "days": "53 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 314939
           },
           {
             "rank": 6,
@@ -975,7 +1062,8 @@
             "sourcePath": "/title/reacher/",
             "movement": "–",
             "days": "84 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 108978
           },
           {
             "rank": 7,
@@ -983,7 +1071,8 @@
             "sourcePath": "/title/motorheads/",
             "movement": "–",
             "days": "56 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 243954
           },
           {
             "rank": 8,
@@ -991,7 +1080,8 @@
             "sourcePath": "/title/off-campus/",
             "movement": "–",
             "days": "175 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 273240
           },
           {
             "rank": 9,
@@ -999,7 +1089,8 @@
             "sourcePath": "/title/neagley/",
             "movement": "–",
             "days": "49 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 273207
           },
           {
             "rank": 10,
@@ -1007,7 +1098,8 @@
             "sourcePath": "/title/the-terminal-list-dark-wolf/",
             "movement": "–",
             "days": "83 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 219760
           }
         ]
       }
@@ -1030,7 +1122,8 @@
             "sourcePath": "/title/scary-movie-2026/",
             "movement": "–",
             "days": "13 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1273221
           },
           {
             "rank": 3,
@@ -1038,7 +1131,8 @@
             "sourcePath": "/title/exit-8/",
             "movement": "–",
             "days": "6 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1408208
           },
           {
             "rank": 4,
@@ -1062,7 +1156,8 @@
             "sourcePath": "/title/the-last-stand-of-ellen-cole/",
             "movement": "n/a",
             "days": "136 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1411773
           },
           {
             "rank": 7,
@@ -1078,7 +1173,8 @@
             "sourcePath": "/title/avatar-aang-the-last-airbender/",
             "movement": "–",
             "days": "102 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 980431
           },
           {
             "rank": 9,
@@ -1086,7 +1182,8 @@
             "sourcePath": "/title/top-gun-maverick/",
             "movement": "-3",
             "days": "327 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 361743
           },
           {
             "rank": 10,
@@ -1104,7 +1201,8 @@
             "sourcePath": "/title/tulsa-king/",
             "movement": "–",
             "days": "630 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 153312
           },
           {
             "rank": 2,
@@ -1112,7 +1210,8 @@
             "sourcePath": "/title/south-park/",
             "movement": "–",
             "days": "1015 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 2190
           },
           {
             "rank": 3,
@@ -1120,7 +1219,8 @@
             "sourcePath": "/title/dexter/",
             "movement": "+1",
             "days": "437 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 1405
           },
           {
             "rank": 4,
@@ -1128,7 +1228,8 @@
             "sourcePath": "/title/ghosts-2021/",
             "movement": "+3",
             "days": "328 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 126027
           },
           {
             "rank": 5,
@@ -1136,7 +1237,8 @@
             "sourcePath": "/title/mobland/",
             "movement": "-2",
             "days": "128 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 247718
           },
           {
             "rank": 6,
@@ -1144,7 +1246,8 @@
             "sourcePath": "/title/spongebob-squarepants/",
             "movement": "+4",
             "days": "907 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 387
           },
           {
             "rank": 7,
@@ -1152,7 +1255,8 @@
             "sourcePath": "/title/dexter-resurrection/",
             "movement": "-1",
             "days": "73 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 259909
           },
           {
             "rank": 8,
@@ -1160,7 +1264,8 @@
             "sourcePath": "/title/marshals/",
             "movement": "-3",
             "days": "30 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 290856
           },
           {
             "rank": 9,
@@ -1168,7 +1273,8 @@
             "sourcePath": "/title/avatar-seven-havens/",
             "movement": "-1",
             "days": "18 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 284833
           },
           {
             "rank": 10,
@@ -1207,7 +1313,8 @@
             "sourcePath": "/title/tenzing/",
             "movement": "-1",
             "days": "19 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1288069
           },
           {
             "rank": 4,
@@ -1215,7 +1322,8 @@
             "sourcePath": "/title/mayday-2026/",
             "movement": "–",
             "days": "62 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1137844
           },
           {
             "rank": 5,
@@ -1223,7 +1331,8 @@
             "sourcePath": "/title/argylle/",
             "movement": "-2",
             "days": "383 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 848538
           },
           {
             "rank": 6,
@@ -1231,7 +1340,8 @@
             "sourcePath": "/title/f1/",
             "movement": "-1",
             "days": "328 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 911430
           },
           {
             "rank": 7,
@@ -1239,7 +1349,8 @@
             "sourcePath": "/title/spider-man-far-from-home/",
             "movement": "+1",
             "days": "17 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 429617
           },
           {
             "rank": 8,
@@ -1263,7 +1374,8 @@
             "sourcePath": "/title/the-lost-bus/",
             "movement": "-3",
             "days": "199 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1236470
           }
         ],
         "tv": [
@@ -1273,7 +1385,8 @@
             "sourcePath": "/title/nocturne-2026/",
             "movement": "–",
             "days": "6 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 292741
           },
           {
             "rank": 2,
@@ -1281,7 +1394,8 @@
             "sourcePath": "/title/dark-matter-2024/",
             "movement": "–",
             "days": "427 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 196322
           },
           {
             "rank": 3,
@@ -1289,7 +1403,8 @@
             "sourcePath": "/title/ted-lasso/",
             "movement": "–",
             "days": "1003 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 97546
           },
           {
             "rank": 4,
@@ -1297,7 +1412,8 @@
             "sourcePath": "/title/silo-2023/",
             "movement": "–",
             "days": "959 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 125988
           },
           {
             "rank": 5,
@@ -1305,7 +1421,8 @@
             "sourcePath": "/title/stick-2025/",
             "movement": "n/a",
             "days": "61 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 248830
           },
           {
             "rank": 6,
@@ -1313,7 +1430,8 @@
             "sourcePath": "/title/slow-horses/",
             "movement": "-1",
             "days": "584 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 95480
           },
           {
             "rank": 7,
@@ -1329,7 +1447,8 @@
             "sourcePath": "/title/widows-bay/",
             "movement": "-2",
             "days": "185 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 270476
           },
           {
             "rank": 9,
@@ -1337,7 +1456,8 @@
             "sourcePath": "/title/severance-2022/",
             "movement": "-2",
             "days": "965 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 95396
           },
           {
             "rank": 10,
@@ -1345,7 +1465,8 @@
             "sourcePath": "/title/shrinking/",
             "movement": "-2",
             "days": "659 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 136311
           }
         ]
       }
@@ -1360,7 +1481,8 @@
             "sourcePath": "/title/spider-man-brand-new-day/",
             "movement": "–",
             "days": "26 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 969681
           },
           {
             "rank": 2,
@@ -1368,7 +1490,8 @@
             "sourcePath": "/title/mutiny-2026/",
             "movement": "–",
             "days": "6 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1288445
           },
           {
             "rank": 3,
@@ -1392,7 +1515,8 @@
             "sourcePath": "/title/disclosure-day/",
             "movement": "–",
             "days": "91 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1275779
           },
           {
             "rank": 6,
@@ -1400,7 +1524,8 @@
             "sourcePath": "/title/insidious-out-of-the-further/",
             "movement": "–",
             "days": "23 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1291595
           },
           {
             "rank": 7,
@@ -1408,7 +1533,8 @@
             "sourcePath": "/title/the-hunger-games/",
             "movement": "–",
             "days": "18 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 70160
           },
           {
             "rank": 8,
@@ -1416,7 +1542,8 @@
             "sourcePath": "/title/practical-magic-2/",
             "movement": "–",
             "days": "9 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1302904
           },
           {
             "rank": 9,
@@ -1424,7 +1551,8 @@
             "sourcePath": "/title/the-housemaid-2025/",
             "movement": "–",
             "days": "206 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1368166
           },
           {
             "rank": 10,
@@ -1432,7 +1560,8 @@
             "sourcePath": "/title/the-hunger-games-catching-fire/",
             "movement": "–",
             "days": "4 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 101299
           }
         ]
       }
@@ -1447,7 +1576,8 @@
             "sourcePath": "/title/resident-evil-2026/",
             "movement": "–",
             "days": "3 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1423191
           },
           {
             "rank": 2,
@@ -1455,7 +1585,8 @@
             "sourcePath": "/title/spider-man-brand-new-day/",
             "movement": "–",
             "days": "36 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 969681
           },
           {
             "rank": 3,
@@ -1471,7 +1602,8 @@
             "sourcePath": "/title/mutiny-2026/",
             "movement": "+1",
             "days": "6 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1288445
           },
           {
             "rank": 5,
@@ -1487,7 +1619,8 @@
             "sourcePath": "/title/the-hunger-games-catching-fire/",
             "movement": "–",
             "days": "56 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 101299
           },
           {
             "rank": 7,
@@ -1495,7 +1628,8 @@
             "sourcePath": "/title/the-hunger-games/",
             "movement": "+3",
             "days": "46 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 70160
           },
           {
             "rank": 8,
@@ -1503,7 +1637,8 @@
             "sourcePath": "/title/practical-magic-2/",
             "movement": "–",
             "days": "10 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1302904
           },
           {
             "rank": 9,
@@ -1511,7 +1646,8 @@
             "sourcePath": "/title/the-hunger-games-mockingjay-part-1/",
             "movement": "+2",
             "days": "26 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 131631
           },
           {
             "rank": 10,
@@ -1519,7 +1655,8 @@
             "sourcePath": "/title/coyote-vs-acme/",
             "movement": "-3",
             "days": "6 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1204680
           }
         ]
       }
@@ -1534,7 +1671,8 @@
             "sourcePath": "/title/spider-man-brand-new-day/",
             "movement": "–",
             "days": "18 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 969681
           },
           {
             "rank": 2,
@@ -1550,7 +1688,8 @@
             "sourcePath": "/title/disclosure-day/",
             "movement": "–",
             "days": "100 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1275779
           },
           {
             "rank": 4,
@@ -1558,7 +1697,8 @@
             "sourcePath": "/title/mutiny-2026/",
             "movement": "–",
             "days": "4 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1288445
           },
           {
             "rank": 5,
@@ -1566,7 +1706,8 @@
             "sourcePath": "/title/paw-patrol-the-dino-movie/",
             "movement": "–",
             "days": "18 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1185806
           },
           {
             "rank": 6,
@@ -1574,7 +1715,8 @@
             "sourcePath": "/title/coraline/",
             "movement": "–",
             "days": "115 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 14836
           },
           {
             "rank": 7,
@@ -1582,7 +1724,8 @@
             "sourcePath": "/title/practical-magic-2/",
             "movement": "–",
             "days": "3 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1302904
           },
           {
             "rank": 8,
@@ -1590,7 +1733,8 @@
             "sourcePath": "/title/the-end-of-oak-street/",
             "movement": "–",
             "days": "18 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1101383
           },
           {
             "rank": 9,
@@ -1598,7 +1742,8 @@
             "sourcePath": "/title/scary-movie-2026/",
             "movement": "–",
             "days": "100 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1273221
           },
           {
             "rank": 10,
@@ -1606,7 +1751,8 @@
             "sourcePath": "/title/michael-2026/",
             "movement": "–",
             "days": "131 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 936075
           }
         ]
       }
@@ -1621,7 +1767,8 @@
             "sourcePath": "/title/the-beachnickers-2/",
             "movement": "–",
             "days": "358 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1136897
           },
           {
             "rank": 2,
@@ -1629,7 +1776,8 @@
             "sourcePath": "/title/special-agents/",
             "movement": "–",
             "days": "9 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1296682
           },
           {
             "rank": 3,
@@ -1637,7 +1785,8 @@
             "sourcePath": "/title/my-mom-is-a-character-3/",
             "movement": "–",
             "days": "355 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 620683
           },
           {
             "rank": 4,
@@ -1653,7 +1802,8 @@
             "sourcePath": "/title/elite-squad-the-enemy-within/",
             "movement": "–",
             "days": "313 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 47931
           },
           {
             "rank": 6,
@@ -1661,7 +1811,8 @@
             "sourcePath": "/title/covil/",
             "movement": "-2",
             "days": "12 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1405945
           },
           {
             "rank": 7,
@@ -1677,7 +1828,8 @@
             "sourcePath": "/title/the-beachnickers/",
             "movement": "+1",
             "days": "262 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 494493
           },
           {
             "rank": 9,
@@ -1685,7 +1837,8 @@
             "sourcePath": "/title/the-twilight-saga-breaking-dawn-part-2/",
             "movement": "n/a",
             "days": "36 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 50620
           },
           {
             "rank": 10,
@@ -1693,7 +1846,8 @@
             "sourcePath": "/title/descontrole/",
             "movement": "-2",
             "days": "40 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1369243
           }
         ],
         "tv": [
@@ -1703,7 +1857,8 @@
             "sourcePath": "/title/quem-ama-cuida/",
             "movement": "–",
             "days": "93 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 306956
           },
           {
             "rank": 2,
@@ -1711,7 +1866,8 @@
             "sourcePath": "/title/por-voce/",
             "movement": "–",
             "days": "78 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 312650
           },
           {
             "rank": 3,
@@ -1719,7 +1875,8 @@
             "sourcePath": "/title/a-nobreza-do-amor/",
             "movement": "–",
             "days": "93 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 301557
           },
           {
             "rank": 4,
@@ -1727,7 +1884,8 @@
             "sourcePath": "/title/avenida-brasil/",
             "movement": "–",
             "days": "93 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 45815
           },
           {
             "rank": 5,
@@ -1743,7 +1901,8 @@
             "sourcePath": "/title/edge-of-desire/",
             "movement": "–",
             "days": "93 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 73752
           },
           {
             "rank": 7,
@@ -1751,7 +1910,8 @@
             "sourcePath": "/title/hidden-truths/",
             "movement": "–",
             "days": "93 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 62917
           },
           {
             "rank": 8,
@@ -1759,7 +1919,8 @@
             "sourcePath": "/title/brave-woman/",
             "movement": "–",
             "days": "74 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 46126
           },
           {
             "rank": 9,
@@ -1775,7 +1936,8 @@
             "sourcePath": "/title/o-cravo-e-a-rosa/",
             "movement": "–",
             "days": "9 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 8361
           }
         ]
       }
@@ -1798,7 +1960,8 @@
             "sourcePath": "/title/john-wick-chapter-4/",
             "movement": "n/a",
             "days": "4 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 603692
           },
           {
             "rank": 3,
@@ -1806,7 +1969,8 @@
             "sourcePath": "/title/pride-and-prejudice-1940/",
             "movement": "n/a",
             "days": "4 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 43818
           },
           {
             "rank": 4,
@@ -1814,7 +1978,8 @@
             "sourcePath": "/title/the-bourne-ultimatum/",
             "movement": "n/a",
             "days": "32 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 2503
           },
           {
             "rank": 5,
@@ -1822,7 +1987,8 @@
             "sourcePath": "/title/practical-magic-2/",
             "movement": "-2",
             "days": "2 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1302904
           },
           {
             "rank": 6,
@@ -1830,7 +1996,8 @@
             "sourcePath": "/title/the-bourne-legacy/",
             "movement": "n/a",
             "days": "24 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 49040
           },
           {
             "rank": 7,
@@ -1838,7 +2005,8 @@
             "sourcePath": "/title/spider-man-into-the-spider-verse/",
             "movement": "n/a",
             "days": "28 d",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 324857
           },
           {
             "rank": 8,
@@ -1854,7 +2022,8 @@
             "sourcePath": "/title/stillwater-2021/",
             "movement": "n/a",
             "days": "",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 616651
           },
           {
             "rank": 10,
@@ -1862,7 +2031,8 @@
             "sourcePath": "/title/insidious-out-of-the-further/",
             "movement": "n/a",
             "days": "",
-            "mediaType": "movie"
+            "mediaType": "movie",
+            "tmdbId": 1291595
           }
         ],
         "tv": [
@@ -1872,7 +2042,8 @@
             "sourcePath": "/title/woody-woodpecker-2018/",
             "movement": "+1",
             "days": "108 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 111489
           },
           {
             "rank": 2,
@@ -1880,7 +2051,8 @@
             "sourcePath": "/title/crystal-lake/",
             "movement": "-1",
             "days": "15 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 213562
           },
           {
             "rank": 3,
@@ -1888,7 +2060,8 @@
             "sourcePath": "/title/chicago-pd/",
             "movement": "+1",
             "days": "224 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 58841
           },
           {
             "rank": 4,
@@ -1896,7 +2069,8 @@
             "sourcePath": "/title/world-war-ii-with-tom-hanks/",
             "movement": "-1",
             "days": "89 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 316992
           },
           {
             "rank": 5,
@@ -1920,7 +2094,8 @@
             "sourcePath": "/title/tulsa-king/",
             "movement": "–",
             "days": "10 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 153312
           },
           {
             "rank": 8,
@@ -1928,7 +2103,8 @@
             "sourcePath": "/title/hudson-rex/",
             "movement": "+2",
             "days": "63 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 87940
           },
           {
             "rank": 9,
@@ -1936,7 +2112,8 @@
             "sourcePath": "/title/till-death-2021/",
             "movement": "n/a",
             "days": "1 d",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 121745
           },
           {
             "rank": 10,
@@ -1944,7 +2121,8 @@
             "sourcePath": "/title/marshals/",
             "movement": "n/a",
             "days": "",
-            "mediaType": "tv"
+            "mediaType": "tv",
+            "tmdbId": 290856
           }
         ]
       }

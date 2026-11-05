@@ -1,0 +1,6278 @@
+{
+  "v3:movie:champions:2023": {
+    "tmdbId": 933419,
+    "mediaType": "movie"
+  },
+  "v3:movie:kidnappedinherownhomethemarthacarellistory:": {
+    "tmdbId": 1665152,
+    "mediaType": "movie"
+  },
+  "v3:movie:thecroods:": {
+    "tmdbId": 49519,
+    "mediaType": "movie"
+  },
+  "v3:movie:donttrustthecoupleupstairs:": {
+    "tmdbId": 1664420,
+    "mediaType": "movie"
+  },
+  "v3:movie:asuddencaseofchristmas:": {
+    "tmdbId": 1197662,
+    "mediaType": "movie"
+  },
+  "v3:movie:lovethecoopers:": {
+    "tmdbId": 333348,
+    "mediaType": "movie"
+  },
+  "v3:tv:nobodywantsthis:": {
+    "tmdbId": 250923,
+    "mediaType": "tv"
+  },
+  "v3:tv:theoneaboutmatthewperry:": {
+    "tmdbId": 333533,
+    "mediaType": "tv"
+  },
+  "v3:tv:mistletoemurders:": {
+    "tmdbId": 261317,
+    "mediaType": "tv"
+  },
+  "v3:tv:raw:1993": {
+    "tmdbId": 4656,
+    "mediaType": "tv"
+  },
+  "v3:tv:thefallofelmayo:": {
+    "tmdbId": 338689,
+    "mediaType": "tv"
+  },
+  "v3:movie:kpopdemonhunters:": {
+    "tmdbId": 803796,
+    "mediaType": "movie"
+  },
+  "v3:movie:despicableme3:": {
+    "tmdbId": 324852,
+    "mediaType": "movie"
+  },
+  "v3:movie:iceagedawnofthedinosaurs:": {
+    "tmdbId": 8355,
+    "mediaType": "movie"
+  },
+  "v3:tv:from:": {
+    "tmdbId": 124364,
+    "mediaType": "tv"
+  },
+  "v3:movie:thebreadwinner:2026": {
+    "tmdbId": 1440050,
+    "mediaType": "movie"
+  },
+  "v3:tv:acoupleoflies:": {
+    "tmdbId": 336240,
+    "mediaType": "tv"
+  },
+  "v3:tv:dannygo:": {
+    "tmdbId": 258124,
+    "mediaType": "tv"
+  },
+  "v3:tv:isitcakehalloween:": {
+    "tmdbId": 300594,
+    "mediaType": "tv"
+  },
+  "v3:tv:gabbysdollhouse:": {
+    "tmdbId": 111474,
+    "mediaType": "tv"
+  },
+  "v3:movie:minionstheriseofgru:": {
+    "tmdbId": 438148,
+    "mediaType": "movie"
+  },
+  "v3:tv:hollywoodarts:": {
+    "tmdbId": 286183,
+    "mediaType": "tv"
+  },
+  "v3:tv:salishjordanmatter:": {
+    "tmdbId": 318906,
+    "mediaType": "tv"
+  },
+  "v3:tv:mashaandthebear:": {
+    "tmdbId": 46080,
+    "mediaType": "tv"
+  },
+  "v3:tv:pawpatrol:": {
+    "tmdbId": 57532,
+    "mediaType": "tv"
+  },
+  "v3:movie:iceagecontinentaldrift:": {
+    "tmdbId": 57800,
+    "mediaType": "movie"
+  },
+  "v3:movie:thehousemaid:2025": {
+    "tmdbId": 1368166,
+    "mediaType": "movie"
+  },
+  "v3:movie:thedeathofrobinhood:": {
+    "tmdbId": 1284465,
+    "mediaType": "movie"
+  },
+  "v3:movie:thewolverine:": {
+    "tmdbId": 76170,
+    "mediaType": "movie"
+  },
+  "v3:movie:thepredator:": {
+    "tmdbId": 346910,
+    "mediaType": "movie"
+  },
+  "v3:movie:thepolarexpress:": {
+    "tmdbId": 5255,
+    "mediaType": "movie"
+  },
+  "v3:tv:thegildedage:": {
+    "tmdbId": 81723,
+    "mediaType": "tv"
+  },
+  "v3:tv:90dayhuntforlove:": {
+    "tmdbId": 290564,
+    "mediaType": "tv"
+  },
+  "v3:movie:iceagecollisioncourse:": {
+    "tmdbId": 278154,
+    "mediaType": "movie"
+  },
+  "v3:tv:90dayfiancétheotherway:": {
+    "tmdbId": 90046,
+    "mediaType": "tv"
+  },
+  "v3:tv:msrachel:": {
+    "tmdbId": 282238,
+    "mediaType": "tv"
+  },
+  "v3:tv:holidaybakingchampionship:": {
+    "tmdbId": 68598,
+    "mediaType": "tv"
+  },
+  "v3:movie:redsparrow:": {
+    "tmdbId": 401981,
+    "mediaType": "movie"
+  },
+  "v3:movie:nationallampoonschristmasvacation:": {
+    "tmdbId": 5825,
+    "mediaType": "movie"
+  },
+  "v3:tv:sisterwives:": {
+    "tmdbId": 34045,
+    "mediaType": "tv"
+  },
+  "v3:tv:1000lbsisters:": {
+    "tmdbId": 98410,
+    "mediaType": "tv"
+  },
+  "v3:tv:itwelcometoderry:": {
+    "tmdbId": 200875,
+    "mediaType": "tv"
+  },
+  "v3:tv:war:2026": {
+    "tmdbId": 298852,
+    "mediaType": "tv"
+  },
+  "v3:tv:visionquest:": {
+    "tmdbId": 213375,
+    "mediaType": "tv"
+  },
+  "v3:multi:astoryofderry:": {
+    "tmdbId": 1813355,
+    "mediaType": "movie"
+  },
+  "v3:multi:thegildedage:2018": {
+    "tmdbId": 503845,
+    "mediaType": "movie"
+  },
+  "v3:movie:moana:2026": {
+    "tmdbId": 1108427,
+    "mediaType": "movie"
+  },
+  "v3:multi:coraline:": {
+    "tmdbId": 14836,
+    "mediaType": "movie"
+  },
+  "v3:movie:thepeanutsmovie:": {
+    "tmdbId": 227973,
+    "mediaType": "movie"
+  },
+  "v3:movie:coco:2017": {
+    "tmdbId": 354912,
+    "mediaType": "movie"
+  },
+  "v3:tv:lastweektonightwithjohnoliver:": {
+    "tmdbId": 60694,
+    "mediaType": "tv"
+  },
+  "v3:tv:swiperightonthedevil:": {
+    "tmdbId": 337609,
+    "mediaType": "tv"
+  },
+  "v3:multi:homealone4:": {
+    "tmdbId": 12536,
+    "mediaType": "movie"
+  },
+  "v3:movie:homealone2lostinnewyork:": {
+    "tmdbId": 772,
+    "mediaType": "movie"
+  },
+  "v3:movie:coraline:": {
+    "tmdbId": 14836,
+    "mediaType": "movie"
+  },
+  "v3:tv:phony:": {
+    "tmdbId": 275139,
+    "mediaType": "tv"
+  },
+  "v3:tv:reasonabledoubt:2022": {
+    "tmdbId": 205272,
+    "mediaType": "tv"
+  },
+  "v3:tv:abbottelementary:": {
+    "tmdbId": 125935,
+    "mediaType": "tv"
+  },
+  "v3:tv:911:": {
+    "tmdbId": 75219,
+    "mediaType": "tv"
+  },
+  "v3:movie:thesantaclause:": {
+    "tmdbId": 11395,
+    "mediaType": "movie"
+  },
+  "v3:tv:greysanatomy:": {
+    "tmdbId": 1416,
+    "mediaType": "tv"
+  },
+  "v3:tv:theterminallist:": {
+    "tmdbId": 120911,
+    "mediaType": "tv"
+  },
+  "v3:tv:thekardashians:": {
+    "tmdbId": 154521,
+    "mediaType": "tv"
+  },
+  "v3:movie:toystory5:": {
+    "tmdbId": 1084244,
+    "mediaType": "movie"
+  },
+  "v3:tv:carrie:2026": {
+    "tmdbId": 288673,
+    "mediaType": "tv"
+  },
+  "v3:movie:apocalypseznewworld:": {
+    "tmdbId": 1507696,
+    "mediaType": "movie"
+  },
+  "v3:tv:neagley:": {
+    "tmdbId": 273207,
+    "mediaType": "tv"
+  },
+  "v3:movie:forgetmenever:": {
+    "tmdbId": 201736,
+    "mediaType": "movie"
+  },
+  "v3:movie:drivethepretenders:": {
+    "tmdbId": 1596275,
+    "mediaType": "movie"
+  },
+  "v3:tv:reacher:": {
+    "tmdbId": 108978,
+    "mediaType": "tv"
+  },
+  "v3:movie:thenightmarebeforechristmas:": {
+    "tmdbId": 9479,
+    "mediaType": "movie"
+  },
+  "v3:movie:aligwhoizi:": {
+    "tmdbId": 1727734,
+    "mediaType": "movie"
+  },
+  "v3:tv:therainmaker:2025": {
+    "tmdbId": 256711,
+    "mediaType": "tv"
+  },
+  "v3:tv:loveindisguise:": {
+    "tmdbId": 303745,
+    "mediaType": "tv"
+  },
+  "v3:movie:loveofyourlife:": {
+    "tmdbId": 1381078,
+    "mediaType": "movie"
+  },
+  "v3:tv:sterlingpoint:": {
+    "tmdbId": 283297,
+    "mediaType": "tv"
+  },
+  "v3:tv:oncall:": {
+    "tmdbId": 236429,
+    "mediaType": "tv"
+  },
+  "v3:movie:monstersinc:": {
+    "tmdbId": 585,
+    "mediaType": "movie"
+  },
+  "v3:movie:onemilechaptertwo:": {
+    "tmdbId": 1327690,
+    "mediaType": "movie"
+  },
+  "v3:movie:ballistic:2026": {
+    "tmdbId": 1243741,
+    "mediaType": "movie"
+  },
+  "v3:movie:onemilechapterone:": {
+    "tmdbId": 1327688,
+    "mediaType": "movie"
+  },
+  "v3:tv:offcampus:": {
+    "tmdbId": 273240,
+    "mediaType": "tv"
+  },
+  "v3:movie:13hoursthesecretsoldiersofbenghazi:": {
+    "tmdbId": 300671,
+    "mediaType": "movie"
+  },
+  "v3:movie:werethemillers:": {
+    "tmdbId": 138832,
+    "mediaType": "movie"
+  },
+  "v3:movie:norbit:": {
+    "tmdbId": 9757,
+    "mediaType": "movie"
+  },
+  "v3:tv:southpark:": {
+    "tmdbId": 2190,
+    "mediaType": "tv"
+  },
+  "v3:tv:tulsaking:": {
+    "tmdbId": 153312,
+    "mediaType": "tv"
+  },
+  "v3:tv:marshals:": {
+    "tmdbId": 290856,
+    "mediaType": "tv"
+  },
+  "v3:tv:tracker:2024": {
+    "tmdbId": 211288,
+    "mediaType": "tv"
+  },
+  "v3:tv:ncis:": {
+    "tmdbId": 4614,
+    "mediaType": "tv"
+  },
+  "v3:movie:thelovehypothesis:": {
+    "tmdbId": 1032863,
+    "mediaType": "movie"
+  },
+  "v3:tv:everybodylovesraymond:": {
+    "tmdbId": 2140,
+    "mediaType": "tv"
+  },
+  "v3:tv:ghosts:2021": {
+    "tmdbId": 126027,
+    "mediaType": "tv"
+  },
+  "v3:tv:mobland:": {
+    "tmdbId": 247718,
+    "mediaType": "tv"
+  },
+  "v3:tv:allthequeensmen:2021": {
+    "tmdbId": 133174,
+    "mediaType": "tv"
+  },
+  "v3:tv:wildcards:": {
+    "tmdbId": 240932,
+    "mediaType": "tv"
+  },
+  "v3:multi:firecountry:2022": {
+    "tmdbId": 202297,
+    "mediaType": "tv"
+  },
+  "v3:multi:cupertino:": {
+    "tmdbId": 303630,
+    "mediaType": "tv"
+  },
+  "v3:movie:theniceguys:": {
+    "tmdbId": 290250,
+    "mediaType": "movie"
+  },
+  "v3:movie:acharliebrownthanksgiving:": {
+    "tmdbId": 13479,
+    "mediaType": "movie"
+  },
+  "v3:movie:itsthegreatpumpkincharliebrown:": {
+    "tmdbId": 13353,
+    "mediaType": "movie"
+  },
+  "v3:movie:bodyoflies:": {
+    "tmdbId": 12113,
+    "mediaType": "movie"
+  },
+  "v3:movie:tenzing:": {
+    "tmdbId": 1288069,
+    "mediaType": "movie"
+  },
+  "v3:multi:sheriffcountry:": {
+    "tmdbId": 253391,
+    "mediaType": "tv"
+  },
+  "v3:movie:mayday:2026": {
+    "tmdbId": 1137844,
+    "mediaType": "movie"
+  },
+  "v3:movie:interstellar:": {
+    "tmdbId": 157336,
+    "mediaType": "movie"
+  },
+  "v3:movie:f1:": {
+    "tmdbId": 911430,
+    "mediaType": "movie"
+  },
+  "v3:tv:slowhorses:": {
+    "tmdbId": 95480,
+    "mediaType": "tv"
+  },
+  "v3:tv:stick:2025": {
+    "tmdbId": 248830,
+    "mediaType": "tv"
+  },
+  "v3:multi:dexterresurrection:": {
+    "tmdbId": 259909,
+    "mediaType": "tv"
+  },
+  "v3:tv:silo:2023": {
+    "tmdbId": 125988,
+    "mediaType": "tv"
+  },
+  "v3:tv:nocturne:2026": {
+    "tmdbId": 292741,
+    "mediaType": "tv"
+  },
+  "v3:tv:widowsbay:": {
+    "tmdbId": 270476,
+    "mediaType": "tv"
+  },
+  "v3:tv:shrinking:": {
+    "tmdbId": 136311,
+    "mediaType": "tv"
+  },
+  "v3:multi:darkmatter:2019": {
+    "tmdbId": 658090,
+    "mediaType": "movie"
+  },
+  "v3:tv:tedlasso:": {
+    "tmdbId": 97546,
+    "mediaType": "tv"
+  },
+  "v3:movie:residentevil:2026": {
+    "tmdbId": 1423191,
+    "mediaType": "movie"
+  },
+  "v3:movie:spidermanbrandnewday:": {
+    "tmdbId": 969681,
+    "mediaType": "movie"
+  },
+  "v3:movie:practicalmagic2:": {
+    "tmdbId": 1302904,
+    "mediaType": "movie"
+  },
+  "v3:movie:theendofoakstreet:": {
+    "tmdbId": 1101383,
+    "mediaType": "movie"
+  },
+  "v3:movie:insidiousoutofthefurther:": {
+    "tmdbId": 1291595,
+    "mediaType": "movie"
+  },
+  "v3:movie:coyotevsacme:": {
+    "tmdbId": 1204680,
+    "mediaType": "movie"
+  },
+  "v3:tv:dexterresurrection:": {
+    "tmdbId": 259909,
+    "mediaType": "tv"
+  },
+  "v3:tv:americanhorrorstory:": {
+    "tmdbId": 1413,
+    "mediaType": "tv"
+  },
+  "v3:movie:godzillaminusone:": {
+    "tmdbId": 940721,
+    "mediaType": "movie"
+  },
+  "v3:movie:caddyshack:": {
+    "tmdbId": 11977,
+    "mediaType": "movie"
+  },
+  "v3:movie:dune:2021": {
+    "tmdbId": 438631,
+    "mediaType": "movie"
+  },
+  "v3:movie:senseandsensibility:2026": {
+    "tmdbId": 1503762,
+    "mediaType": "movie"
+  },
+  "v3:tv:lanterns:": {
+    "tmdbId": 95350,
+    "mediaType": "tv"
+  },
+  "v3:tv:darkmatter:2024": {
+    "tmdbId": 196322,
+    "mediaType": "tv"
+  },
+  "v3:tv:billions:": {
+    "tmdbId": 62852,
+    "mediaType": "tv"
+  },
+  "v3:tv:thegoodlordbird:": {
+    "tmdbId": 87523,
+    "mediaType": "tv"
+  },
+  "v3:tv:thetudors:": {
+    "tmdbId": 2942,
+    "mediaType": "tv"
+  },
+  "v3:tv:smallprophets:": {
+    "tmdbId": 312693,
+    "mediaType": "tv"
+  },
+  "v3:tv:escapeatdannemora:": {
+    "tmdbId": 72039,
+    "mediaType": "tv"
+  },
+  "v3:tv:killjoys:2015": {
+    "tmdbId": 62413,
+    "mediaType": "tv"
+  },
+  "v3:movie:trollsbandtogether:": {
+    "tmdbId": 901362,
+    "mediaType": "movie"
+  },
+  "v3:movie:buddy:2003": {
+    "tmdbId": 15177,
+    "mediaType": "movie"
+  },
+  "v3:movie:thegrinch:": {
+    "tmdbId": 360920,
+    "mediaType": "movie"
+  },
+  "v3:movie:byanymeans:2026": {
+    "tmdbId": 1380417,
+    "mediaType": "movie"
+  },
+  "v3:movie:thesupermariobrosmovie:": {
+    "tmdbId": 502356,
+    "mediaType": "movie"
+  },
+  "v3:movie:pawpatrolthedinomovie:": {
+    "tmdbId": 1185806,
+    "mediaType": "movie"
+  },
+  "v3:movie:howthegrinchstolechristmas:2000": {
+    "tmdbId": 8871,
+    "mediaType": "movie"
+  },
+  "v3:movie:godzilla:1998": {
+    "tmdbId": 929,
+    "mediaType": "movie"
+  },
+  "v3:tv:thegoldenlife:": {
+    "tmdbId": 313137,
+    "mediaType": "tv"
+  },
+  "v3:movie:unexpectedchristmas:": {
+    "tmdbId": 1530523,
+    "mediaType": "movie"
+  },
+  "v3:tv:thebigbangtheory:": {
+    "tmdbId": 1418,
+    "mediaType": "tv"
+  },
+  "v3:movie:hauntedheist:": {
+    "tmdbId": 1384040,
+    "mediaType": "movie"
+  },
+  "v3:movie:alarum:": {
+    "tmdbId": 1249289,
+    "mediaType": "movie"
+  },
+  "v3:movie:aricherchristmas:": {
+    "tmdbId": 1800082,
+    "mediaType": "movie"
+  },
+  "v3:movie:oscarshaw:": {
+    "tmdbId": 1601243,
+    "mediaType": "movie"
+  },
+  "v3:movie:michael:2026": {
+    "tmdbId": 936075,
+    "mediaType": "movie"
+  },
+  "v3:tv:swatexiles:": {
+    "tmdbId": 292742,
+    "mediaType": "tv"
+  },
+  "v3:tv:powerbookiighost:": {
+    "tmdbId": 97890,
+    "mediaType": "tv"
+  },
+  "v3:tv:powerbookivforce:": {
+    "tmdbId": 119845,
+    "mediaType": "tv"
+  },
+  "v3:tv:powerbookiiiraisingkanan:": {
+    "tmdbId": 124394,
+    "mediaType": "tv"
+  },
+  "v3:tv:tiptoe:": {
+    "tmdbId": 286617,
+    "mediaType": "tv"
+  },
+  "v3:tv:pvalley:": {
+    "tmdbId": 87017,
+    "mediaType": "tv"
+  },
+  "v3:tv:outlander:2014": {
+    "tmdbId": 56570,
+    "mediaType": "tv"
+  },
+  "v3:tv:fightland:": {
+    "tmdbId": 8840,
+    "mediaType": "tv"
+  },
+  "v3:tv:bestmedicine:": {
+    "tmdbId": 291084,
+    "mediaType": "tv"
+  },
+  "v3:tv:doc:2025": {
+    "tmdbId": 255055,
+    "mediaType": "tv"
+  },
+  "v3:tv:2020:1978": {
+    "tmdbId": 2035,
+    "mediaType": "tv"
+  },
+  "v3:movie:abadmomschristmas:": {
+    "tmdbId": 431530,
+    "mediaType": "movie"
+  },
+  "v3:movie:thehungergames:": {
+    "tmdbId": 70160,
+    "mediaType": "movie"
+  },
+  "v3:movie:colombiana:": {
+    "tmdbId": 62835,
+    "mediaType": "movie"
+  },
+  "v3:movie:grownups2:": {
+    "tmdbId": 109418,
+    "mediaType": "movie"
+  },
+  "v3:tv:outlanderbloodofmyblood:": {
+    "tmdbId": 207484,
+    "mediaType": "tv"
+  },
+  "v3:movie:monstersuniversity:": {
+    "tmdbId": 62211,
+    "mediaType": "movie"
+  },
+  "v3:movie:disclosureday:": {
+    "tmdbId": 1275779,
+    "mediaType": "movie"
+  },
+  "v3:movie:thesecretlifeofpets:": {
+    "tmdbId": 328111,
+    "mediaType": "movie"
+  },
+  "v3:movie:despicableme:": {
+    "tmdbId": 20352,
+    "mediaType": "movie"
+  },
+  "v3:movie:thehungergamescatchingfire:": {
+    "tmdbId": 101299,
+    "mediaType": "movie"
+  },
+  "v3:tv:therealhousewivesofnewyorkcity:": {
+    "tmdbId": 14808,
+    "mediaType": "tv"
+  },
+  "v3:tv:laworderspecialvictimsunit:": {
+    "tmdbId": 2734,
+    "mediaType": "tv"
+  },
+  "v3:tv:belowdeck:": {
+    "tmdbId": 50042,
+    "mediaType": "tv"
+  },
+  "v3:tv:chicagomed:": {
+    "tmdbId": 62650,
+    "mediaType": "tv"
+  },
+  "v3:tv:stdenismedical:": {
+    "tmdbId": 251941,
+    "mediaType": "tv"
+  },
+  "v3:tv:chicagopd:": {
+    "tmdbId": 58841,
+    "mediaType": "tv"
+  },
+  "v3:tv:crystallake:": {
+    "tmdbId": 213562,
+    "mediaType": "tv"
+  },
+  "v3:tv:chicagofire:": {
+    "tmdbId": 44006,
+    "mediaType": "tv"
+  },
+  "v3:movie:astarisborn:2018": {
+    "tmdbId": 332562,
+    "mediaType": "movie"
+  },
+  "v3:movie:nextfriday:": {
+    "tmdbId": 10471,
+    "mediaType": "movie"
+  },
+  "v3:multi:thefifthelement:": {
+    "tmdbId": 18,
+    "mediaType": "movie"
+  },
+  "v3:movie:aquietplacepartii:": {
+    "tmdbId": 520763,
+    "mediaType": "movie"
+  },
+  "v3:movie:thesecretlifeofpets2:": {
+    "tmdbId": 412117,
+    "mediaType": "movie"
+  },
+  "v3:multi:flyboys:": {
+    "tmdbId": 9664,
+    "mediaType": "movie"
+  },
+  "v3:multi:bulletproofmonk:": {
+    "tmdbId": 11817,
+    "mediaType": "movie"
+  },
+  "v3:multi:tylerperrysdivorceintheblack:": {
+    "tmdbId": 1213742,
+    "mediaType": "movie"
+  },
+  "v3:multi:malibusmostwanted:": {
+    "tmdbId": 13411,
+    "mediaType": "movie"
+  },
+  "v3:multi:maxwinslowandthehouseofsecrets:": {
+    "tmdbId": 596053,
+    "mediaType": "movie"
+  },
+  "v3:multi:thelamentofautumn:": {
+    "tmdbId": 304452,
+    "mediaType": "tv"
+  },
+  "v3:multi:makemetingle:": {
+    "tmdbId": 311648,
+    "mediaType": "tv"
+  },
+  "v3:multi:paulblartmallcop2:": {
+    "tmdbId": 256961,
+    "mediaType": "movie"
+  },
+  "v3:multi:quitethegirl:": {
+    "tmdbId": 338103,
+    "mediaType": "tv"
+  },
+  "v3:multi:youmaniac:": {
+    "tmdbId": 306630,
+    "mediaType": "tv"
+  },
+  "v3:multi:tigerssnifftherose:": {
+    "tmdbId": 286171,
+    "mediaType": "tv"
+  },
+  "v3:multi:guan:": {
+    "tmdbId": 303287,
+    "mediaType": "tv"
+  },
+  "v3:multi:90dayfiancétheotherway:": {
+    "tmdbId": 90046,
+    "mediaType": "tv"
+  },
+  "v3:multi:90dayhuntforlove:": {
+    "tmdbId": 290564,
+    "mediaType": "tv"
+  },
+  "v3:multi:theserialkillerconnection:": {
+    "tmdbId": 337700,
+    "mediaType": "tv"
+  },
+  "v3:multi:1000lbroomies:": {
+    "tmdbId": 291934,
+    "mediaType": "tv"
+  },
+  "v3:multi:1000lbsisters:": {
+    "tmdbId": 98410,
+    "mediaType": "tv"
+  },
+  "v3:multi:halloweenbakingchampionship:": {
+    "tmdbId": 74676,
+    "mediaType": "tv"
+  },
+  "v3:multi:psychosidechick:": {
+    "tmdbId": 1798918,
+    "mediaType": "movie"
+  },
+  "v3:multi:bobbystriplethreat:": {
+    "tmdbId": 211201,
+    "mediaType": "tv"
+  },
+  "v3:multi:killjackie:": {
+    "tmdbId": 284558,
+    "mediaType": "tv"
+  },
+  "v3:multi:thevampirelestat:": {
+    "tmdbId": 323411,
+    "mediaType": "tv"
+  },
+  "v3:multi:from:": {
+    "tmdbId": 124364,
+    "mediaType": "tv"
+  },
+  "v3:multi:americanhostage:2026": {
+    "tmdbId": 239618,
+    "mediaType": "tv"
+  },
+  "v3:multi:thenorthwitch:2024": {
+    "tmdbId": 1386598,
+    "mediaType": "movie"
+  },
+  "v3:multi:robinhood:2025": {
+    "tmdbId": 272418,
+    "mediaType": "tv"
+  },
+  "v3:multi:thewesties:": {
+    "tmdbId": 286709,
+    "mediaType": "tv"
+  },
+  "v3:multi:deepwater:2026": {
+    "tmdbId": 1127384,
+    "mediaType": "movie"
+  },
+  "v3:multi:thebouletbrothersdragula:": {
+    "tmdbId": 70940,
+    "mediaType": "tv"
+  },
+  "v3:multi:tulsaking:": {
+    "tmdbId": 153312,
+    "mediaType": "tv"
+  },
+  "v3:multi:stepbrothers:": {
+    "tmdbId": 12133,
+    "mediaType": "movie"
+  },
+  "v3:multi:worldbreaker:": {
+    "tmdbId": 1196067,
+    "mediaType": "movie"
+  },
+  "v3:multi:thewalkingdeaddeadcity:": {
+    "tmdbId": 194583,
+    "mediaType": "tv"
+  },
+  "v3:multi:ludwig:2024": {
+    "tmdbId": 243360,
+    "mediaType": "tv"
+  },
+  "v3:multi:allthequeensmen:2021": {
+    "tmdbId": 133174,
+    "mediaType": "tv"
+  },
+  "v3:multi:avatarsevenhavens:": {
+    "tmdbId": 284833,
+    "mediaType": "tv"
+  },
+  "v3:multi:coldstorage:2026": {
+    "tmdbId": 696393,
+    "mediaType": "movie"
+  },
+  "v3:multi:operacióncisnenegro:": {
+    "tmdbId": 340168,
+    "mediaType": "tv"
+  },
+  "v3:multi:tierradeamorycoraje:": {
+    "tmdbId": 325082,
+    "mediaType": "tv"
+  },
+  "v3:multi:terminatordarkfate:": {
+    "tmdbId": 290859,
+    "mediaType": "movie"
+  },
+  "v3:multi:timbiriche:": {
+    "tmdbId": 336785,
+    "mediaType": "tv"
+  },
+  "v3:multi:micasanoestucasa:": {
+    "tmdbId": 1801319,
+    "mediaType": "movie"
+  },
+  "v3:multi:overgeared:": {
+    "tmdbId": 324502,
+    "mediaType": "tv"
+  },
+  "v3:multi:40y20:": {
+    "tmdbId": 71740,
+    "mediaType": "tv"
+  },
+  "v3:multi:dontleavethekidsalone:": {
+    "tmdbId": 1339274,
+    "mediaType": "movie"
+  },
+  "v3:multi:dragonballsuperbeerus:": {
+    "tmdbId": 312359,
+    "mediaType": "tv"
+  },
+  "v3:multi:sowhatswrongwithgettingrebornasagoblin:": {
+    "tmdbId": 316694,
+    "mediaType": "tv"
+  },
+  "v3:multi:helloiamawitchandmycrushwantsmetomakealovepotion:": {
+    "tmdbId": 313068,
+    "mediaType": "tv"
+  },
+  "v3:multi:fullclearinganotherworldunderagoddesswithzerobelievers:": {
+    "tmdbId": 288588,
+    "mediaType": "tv"
+  },
+  "v3:multi:theexiledheavyknightknowshowtogamethesystem:": {
+    "tmdbId": 270603,
+    "mediaType": "tv"
+  },
+  "v3:multi:idonttrustmenanymore:": {
+    "tmdbId": 61258,
+    "mediaType": "tv"
+  },
+  "v3:multi:magicalexplorer:": {
+    "tmdbId": 335194,
+    "mediaType": "tv"
+  },
+  "v3:multi:halloween4thereturnofmichaelmyers:": {
+    "tmdbId": 11357,
+    "mediaType": "movie"
+  },
+  "v3:multi:hallowarrior:": {
+    "tmdbId": 1393929,
+    "mediaType": "movie"
+  },
+  "v3:multi:rebornasaspacemercenaryiwokeuppilotingthestrongeststarship:": {
+    "tmdbId": 283692,
+    "mediaType": "tv"
+  },
+  "v3:multi:vhsmixtape:": {
+    "tmdbId": 1742441,
+    "mediaType": "movie"
+  },
+  "v3:multi:hoteltodoincluido:": {
+    "tmdbId": 333096,
+    "mediaType": "tv"
+  },
+  "v3:multi:underworldriseofthelycans:": {
+    "tmdbId": 12437,
+    "mediaType": "movie"
+  },
+  "v3:multi:joedirt:": {
+    "tmdbId": 10956,
+    "mediaType": "movie"
+  },
+  "v3:multi:30daysofnight:": {
+    "tmdbId": 4513,
+    "mediaType": "movie"
+  },
+  "v3:multi:residentevilafterlife:": {
+    "tmdbId": 35791,
+    "mediaType": "movie"
+  },
+  "v3:tv:lovelikethegalaxy:": {
+    "tmdbId": 137870,
+    "mediaType": "tv"
+  },
+  "v3:tv:theprisonerofbeauty:": {
+    "tmdbId": 220269,
+    "mediaType": "tv"
+  },
+  "v3:multi:meninblackinternational:": {
+    "tmdbId": 479455,
+    "mediaType": "movie"
+  },
+  "v3:tv:gemini:2025": {
+    "tmdbId": 281548,
+    "mediaType": "tv"
+  },
+  "v3:tv:adreamwithinadream:": {
+    "tmdbId": 253193,
+    "mediaType": "tv"
+  },
+  "v3:tv:theimmortalascension:": {
+    "tmdbId": 243224,
+    "mediaType": "tv"
+  },
+  "v3:tv:shinsproject:": {
+    "tmdbId": 286198,
+    "mediaType": "tv"
+  },
+  "v3:multi:evildead:": {
+    "tmdbId": 109428,
+    "mediaType": "movie"
+  },
+  "v3:movie:finaldestinationbloodlines:": {
+    "tmdbId": 574475,
+    "mediaType": "movie"
+  },
+  "v3:multi:theinterview:2014": {
+    "tmdbId": 228967,
+    "mediaType": "movie"
+  },
+  "v3:movie:thehobbitanunexpectedjourney:": {
+    "tmdbId": 49051,
+    "mediaType": "movie"
+  },
+  "v3:movie:rushhour2:": {
+    "tmdbId": 5175,
+    "mediaType": "movie"
+  },
+  "v3:movie:heist:2001": {
+    "tmdbId": 11088,
+    "mediaType": "movie"
+  },
+  "v3:movie:thehobbitthedesolationofsmaug:": {
+    "tmdbId": 57158,
+    "mediaType": "movie"
+  },
+  "v3:movie:thepelicanbrief:": {
+    "tmdbId": 9944,
+    "mediaType": "movie"
+  },
+  "v3:tv:deadendjob:": {
+    "tmdbId": 289517,
+    "mediaType": "tv"
+  },
+  "v3:tv:lovesambition:": {
+    "tmdbId": 256920,
+    "mediaType": "tv"
+  },
+  "v3:tv:ourgoldendays:": {
+    "tmdbId": 287010,
+    "mediaType": "tv"
+  },
+  "v3:tv:100daysofdeception:": {
+    "tmdbId": 293607,
+    "mediaType": "tv"
+  },
+  "v3:tv:midnightdiner:2017": {
+    "tmdbId": 81102,
+    "mediaType": "tv"
+  },
+  "v3:tv:extraordinaryattorneyminami:": {
+    "tmdbId": 332713,
+    "mediaType": "tv"
+  },
+  "v3:tv:thelaidoffcheatgrantingmageenjoysasecondleaseonlife:": {
+    "tmdbId": 313346,
+    "mediaType": "tv"
+  },
+  "v3:movie:sonicthehedgehog3:": {
+    "tmdbId": 939243,
+    "mediaType": "movie"
+  },
+  "v3:tv:drivingmomcrazy:": {
+    "tmdbId": 298546,
+    "mediaType": "tv"
+  },
+  "v3:movie:sing2:": {
+    "tmdbId": 438695,
+    "mediaType": "movie"
+  },
+  "v3:movie:theaddamsfamily:2019": {
+    "tmdbId": 481084,
+    "mediaType": "movie"
+  },
+  "v3:movie:theaddamsfamily2:": {
+    "tmdbId": 639721,
+    "mediaType": "movie"
+  },
+  "v3:movie:spiritedaway:": {
+    "tmdbId": 129,
+    "mediaType": "movie"
+  },
+  "v3:movie:shrek:": {
+    "tmdbId": 808,
+    "mediaType": "movie"
+  },
+  "v3:movie:thehobbitthebattleofthefivearmies:": {
+    "tmdbId": 122917,
+    "mediaType": "movie"
+  },
+  "v3:movie:myneighbortotoro:": {
+    "tmdbId": 8392,
+    "mediaType": "movie"
+  },
+  "v3:tv:percyjacksonandtheolympians:": {
+    "tmdbId": 103540,
+    "mediaType": "tv"
+  },
+  "v3:tv:wonkasthegoldenticket:": {
+    "tmdbId": 286940,
+    "mediaType": "tv"
+  },
+  "v3:tv:chiikawa:": {
+    "tmdbId": 194916,
+    "mediaType": "tv"
+  },
+  "v3:tv:markroberscrunchlabs:": {
+    "tmdbId": 306074,
+    "mediaType": "tv"
+  },
+  "v3:movie:se7en:": {
+    "tmdbId": 807,
+    "mediaType": "movie"
+  },
+  "v3:tv:wherethemaskends:": {
+    "tmdbId": 300146,
+    "mediaType": "tv"
+  },
+  "v3:movie:wardriver:": {
+    "tmdbId": 938150,
+    "mediaType": "movie"
+  },
+  "v3:movie:thesupermariogalaxymovie:": {
+    "tmdbId": 1226863,
+    "mediaType": "movie"
+  },
+  "v3:tv:makemetingle:": {
+    "tmdbId": 311648,
+    "mediaType": "tv"
+  },
+  "v3:tv:doctorxmafiainwhite:": {
+    "tmdbId": 293610,
+    "mediaType": "tv"
+  },
+  "v3:tv:cupertino:": {
+    "tmdbId": 303630,
+    "mediaType": "tv"
+  },
+  "v3:tv:masterchefasia:": {
+    "tmdbId": 333025,
+    "mediaType": "tv"
+  },
+  "v3:tv:lineoffire:2026": {
+    "tmdbId": 321958,
+    "mediaType": "tv"
+  },
+  "v3:tv:strangejunjiitostalesforsleeplessnights:": {
+    "tmdbId": 319990,
+    "mediaType": "tv"
+  },
+  "v3:movie:crawlspace:2022": {
+    "tmdbId": 879538,
+    "mediaType": "movie"
+  },
+  "v3:movie:pacificrimuprising:": {
+    "tmdbId": 268896,
+    "mediaType": "movie"
+  },
+  "v3:multi:moana:2026": {
+    "tmdbId": 1108427,
+    "mediaType": "movie"
+  },
+  "v3:multi:toystory5:": {
+    "tmdbId": 1084244,
+    "mediaType": "movie"
+  },
+  "v3:movie:thecatinthehat:2003": {
+    "tmdbId": 10588,
+    "mediaType": "movie"
+  },
+  "v3:multi:betweensteps:": {
+    "tmdbId": 307106,
+    "mediaType": "tv"
+  },
+  "v3:multi:merryberrylove:": {
+    "tmdbId": 305551,
+    "mediaType": "tv"
+  },
+  "v3:movie:napoleon:2023": {
+    "tmdbId": 753342,
+    "mediaType": "movie"
+  },
+  "v3:movie:eatpraylove:": {
+    "tmdbId": 38167,
+    "mediaType": "movie"
+  },
+  "v3:movie:spidermanfarfromhome:": {
+    "tmdbId": 429617,
+    "mediaType": "movie"
+  },
+  "v3:tv:knifeedgechasingmichelinstars:": {
+    "tmdbId": 291361,
+    "mediaType": "tv"
+  },
+  "v3:movie:harrypotterandthephilosophersstone:": {
+    "tmdbId": 671,
+    "mediaType": "movie"
+  },
+  "v3:movie:hauntedmountainstheyellowtaboo:": {
+    "tmdbId": 1200539,
+    "mediaType": "movie"
+  },
+  "v3:movie:madmaxfuryroad:": {
+    "tmdbId": 76341,
+    "mediaType": "movie"
+  },
+  "v3:movie:readyplayerone:": {
+    "tmdbId": 333339,
+    "mediaType": "movie"
+  },
+  "v3:movie:yadangthesnitch:": {
+    "tmdbId": 1137179,
+    "mediaType": "movie"
+  },
+  "v3:movie:masterzipmanlegacy:": {
+    "tmdbId": 450001,
+    "mediaType": "movie"
+  },
+  "v3:movie:octopuswithbrokenarms:": {
+    "tmdbId": 1311537,
+    "mediaType": "movie"
+  },
+  "v3:tv:fireflywedding:": {
+    "tmdbId": 320909,
+    "mediaType": "tv"
+  },
+  "v3:movie:blackadam:": {
+    "tmdbId": 436270,
+    "mediaType": "movie"
+  },
+  "v3:tv:theordinaryjackpot:": {
+    "tmdbId": 294636,
+    "mediaType": "tv"
+  },
+  "v3:tv:adventuretimesidequests:": {
+    "tmdbId": 256694,
+    "mediaType": "tv"
+  },
+  "v3:tv:tigerssnifftherose:": {
+    "tmdbId": 286171,
+    "mediaType": "tv"
+  },
+  "v3:tv:commonsideeffects:": {
+    "tmdbId": 228878,
+    "mediaType": "tv"
+  },
+  "v3:tv:betweensteps:": {
+    "tmdbId": 307106,
+    "mediaType": "tv"
+  },
+  "v3:tv:merryberrylove:": {
+    "tmdbId": 305551,
+    "mediaType": "tv"
+  },
+  "v3:tv:againstthecurrent:2026": {
+    "tmdbId": 282326,
+    "mediaType": "tv"
+  },
+  "v3:movie:thebestyoucan:": {
+    "tmdbId": 1238379,
+    "mediaType": "movie"
+  },
+  "v3:movie:ratatouille:": {
+    "tmdbId": 2062,
+    "mediaType": "movie"
+  },
+  "v3:movie:frozenii:": {
+    "tmdbId": 330457,
+    "mediaType": "movie"
+  },
+  "v3:movie:doctorstrangeinthemultiverseofmadness:": {
+    "tmdbId": 453395,
+    "mediaType": "movie"
+  },
+  "v3:tv:addicted:2026": {
+    "tmdbId": 272130,
+    "mediaType": "tv"
+  },
+  "v3:tv:ashopforkillers:": {
+    "tmdbId": 215072,
+    "mediaType": "tv"
+  },
+  "v3:tv:severance:2022": {
+    "tmdbId": 95396,
+    "mediaType": "tv"
+  },
+  "v3:movie:petalsandmemories:": {
+    "tmdbId": 1399699,
+    "mediaType": "movie"
+  },
+  "v3:movie:timerenegades:": {
+    "tmdbId": 385962,
+    "mediaType": "movie"
+  },
+  "v3:movie:concreteutopia:": {
+    "tmdbId": 729854,
+    "mediaType": "movie"
+  },
+  "v3:movie:theincredibles:": {
+    "tmdbId": 9806,
+    "mediaType": "movie"
+  },
+  "v3:movie:letthebulletsfly:": {
+    "tmdbId": 51533,
+    "mediaType": "movie"
+  },
+  "v3:movie:chainsawmanthemovierezearc:": {
+    "tmdbId": 1218925,
+    "mediaType": "movie"
+  },
+  "v3:movie:thedevilwearsprada2:": {
+    "tmdbId": 1314481,
+    "mediaType": "movie"
+  },
+  "v3:movie:harrypotterandthehalfbloodprince:": {
+    "tmdbId": 767,
+    "mediaType": "movie"
+  },
+  "v3:tv:theroadtosplendor:": {
+    "tmdbId": 287496,
+    "mediaType": "tv"
+  },
+  "v3:movie:david:2025": {
+    "tmdbId": 1167307,
+    "mediaType": "movie"
+  },
+  "v3:movie:nezha2:": {
+    "tmdbId": 980477,
+    "mediaType": "movie"
+  },
+  "v3:movie:weekendintaipei:": {
+    "tmdbId": 1167271,
+    "mediaType": "movie"
+  },
+  "v3:movie:theultimateduo:": {
+    "tmdbId": 608067,
+    "mediaType": "movie"
+  },
+  "v3:movie:sunshinewomenschoir:": {
+    "tmdbId": 1481955,
+    "mediaType": "movie"
+  },
+  "v3:movie:theshadowsedge:": {
+    "tmdbId": 1419406,
+    "mediaType": "movie"
+  },
+  "v3:tv:thelamentofautumn:": {
+    "tmdbId": 304452,
+    "mediaType": "tv"
+  },
+  "v3:movie:demonslayerkimetsunoyaibainfinitycastle:": {
+    "tmdbId": 1311031,
+    "mediaType": "movie"
+  },
+  "v3:tv:ohmyguard:": {
+    "tmdbId": 334517,
+    "mediaType": "tv"
+  },
+  "v3:tv:thenursex:": {
+    "tmdbId": 334253,
+    "mediaType": "tv"
+  },
+  "v3:tv:thiscityneversleeps:": {
+    "tmdbId": 295002,
+    "mediaType": "tv"
+  },
+  "v3:tv:thesnowmoon:": {
+    "tmdbId": 235878,
+    "mediaType": "tv"
+  },
+  "v3:tv:oopsiminjail:": {
+    "tmdbId": 301874,
+    "mediaType": "tv"
+  },
+  "v3:tv:monarchlegacyofmonsters:": {
+    "tmdbId": 202411,
+    "mediaType": "tv"
+  },
+  "v3:tv:farmbusilyinthecoldpalace:": {
+    "tmdbId": 336811,
+    "mediaType": "tv"
+  },
+  "v3:tv:thechelseadetective:2022": {
+    "tmdbId": 156240,
+    "mediaType": "tv"
+  },
+  "v3:tv:blossomthroughthecloud:": {
+    "tmdbId": 286988,
+    "mediaType": "tv"
+  },
+  "v3:tv:islanders:2025": {
+    "tmdbId": 261571,
+    "mediaType": "tv"
+  },
+  "v3:movie:spidermannowayhome:": {
+    "tmdbId": 634649,
+    "mediaType": "movie"
+  },
+  "v3:tv:themakingofanordinarywoman:": {
+    "tmdbId": 92925,
+    "mediaType": "tv"
+  },
+  "v3:movie:hokum:": {
+    "tmdbId": 1430077,
+    "mediaType": "movie"
+  },
+  "v3:movie:thepeopleupstairs:2025": {
+    "tmdbId": 1400501,
+    "mediaType": "movie"
+  },
+  "v3:tv:theheart:": {
+    "tmdbId": 233076,
+    "mediaType": "tv"
+  },
+  "v3:tv:urbanhorror:": {
+    "tmdbId": 213220,
+    "mediaType": "tv"
+  },
+  "v3:multi:thelastsongyouleftbehind:": {
+    "tmdbId": 1559185,
+    "mediaType": "movie"
+  },
+  "v3:multi:blackshowman:": {
+    "tmdbId": 1369010,
+    "mediaType": "movie"
+  },
+  "v3:tv:prismbreaker:": {
+    "tmdbId": 283770,
+    "mediaType": "tv"
+  },
+  "v3:multi:maddanceoffice:": {
+    "tmdbId": 1306820,
+    "mediaType": "movie"
+  },
+  "v3:multi:winterbattleground:": {
+    "tmdbId": 1647508,
+    "mediaType": "movie"
+  },
+  "v3:multi:justplaydead:": {
+    "tmdbId": 1480574,
+    "mediaType": "movie"
+  },
+  "v3:multi:sharkfrenzy:": {
+    "tmdbId": 1712454,
+    "mediaType": "movie"
+  },
+  "v3:multi:fastx:": {
+    "tmdbId": 385687,
+    "mediaType": "movie"
+  },
+  "v3:tv:vivant:2023": {
+    "tmdbId": 218038,
+    "mediaType": "tv"
+  },
+  "v3:multi:thesupermariobrosmovie:": {
+    "tmdbId": 502356,
+    "mediaType": "movie"
+  },
+  "v3:tv:kidnapgame:": {
+    "tmdbId": 320513,
+    "mediaType": "tv"
+  },
+  "v3:tv:brothersinarms:2026": {
+    "tmdbId": 305227,
+    "mediaType": "tv"
+  },
+  "v3:tv:mygeniesecretary:": {
+    "tmdbId": 331336,
+    "mediaType": "tv"
+  },
+  "v3:tv:lost10:": {
+    "tmdbId": 329490,
+    "mediaType": "tv"
+  },
+  "v3:multi:spidermanbrandnewday:": {
+    "tmdbId": 969681,
+    "mediaType": "movie"
+  },
+  "v3:multi:shambhalastory:": {
+    "tmdbId": 1531435,
+    "mediaType": "movie"
+  },
+  "v3:movie:intherealmofthesenses:": {
+    "tmdbId": 5879,
+    "mediaType": "movie"
+  },
+  "v3:multi:abonafidekiller:": {
+    "tmdbId": 294095,
+    "mediaType": "tv"
+  },
+  "v3:movie:doraemontherecordofnobitasparalleljourneytothewest:": {
+    "tmdbId": 136241,
+    "mediaType": "movie"
+  },
+  "v3:movie:doraemonnobitaandthenewsteeltroopswingedangels:": {
+    "tmdbId": 137227,
+    "mediaType": "movie"
+  },
+  "v3:movie:doraemonnobitaandthespiralcity:": {
+    "tmdbId": 163394,
+    "mediaType": "movie"
+  },
+  "v3:tv:moonlitreunion:": {
+    "tmdbId": 242762,
+    "mediaType": "tv"
+  },
+  "v3:tv:mytroublesomestar:": {
+    "tmdbId": 281966,
+    "mediaType": "tv"
+  },
+  "v3:tv:queenshouse:": {
+    "tmdbId": 287267,
+    "mediaType": "tv"
+  },
+  "v3:tv:lovetaketwo:": {
+    "tmdbId": 278658,
+    "mediaType": "tv"
+  },
+  "v3:tv:summitofouryouth:": {
+    "tmdbId": 270432,
+    "mediaType": "tv"
+  },
+  "v3:movie:baththa:": {
+    "tmdbId": 1515692,
+    "mediaType": "movie"
+  },
+  "v3:tv:akka:": {
+    "tmdbId": 243555,
+    "mediaType": "tv"
+  },
+  "v3:movie:aminecraftmovie:": {
+    "tmdbId": 950387,
+    "mediaType": "movie"
+  },
+  "v3:multi:wheneverpossible:": {
+    "tmdbId": 247805,
+    "mediaType": "tv"
+  },
+  "v3:movie:hoteltransylvania3summervacation:": {
+    "tmdbId": 400155,
+    "mediaType": "movie"
+  },
+  "v3:tv:victorious:": {
+    "tmdbId": 31251,
+    "mediaType": "tv"
+  },
+  "v3:movie:riseoftheguardians:": {
+    "tmdbId": 81188,
+    "mediaType": "movie"
+  },
+  "v3:multi:abbottelementary:": {
+    "tmdbId": 125935,
+    "mediaType": "tv"
+  },
+  "v3:tv:mygirlfriendistheman:": {
+    "tmdbId": 258357,
+    "mediaType": "tv"
+  },
+  "v3:tv:finaltable:": {
+    "tmdbId": 316702,
+    "mediaType": "tv"
+  },
+  "v3:movie:kongtao:": {
+    "tmdbId": 1529513,
+    "mediaType": "movie"
+  },
+  "v3:tv:aloveotherthanyours:": {
+    "tmdbId": 314939,
+    "mediaType": "tv"
+  },
+  "v3:multi:911:": {
+    "tmdbId": 75219,
+    "mediaType": "tv"
+  },
+  "v3:movie:mirzapurthemovie:": {
+    "tmdbId": 1378537,
+    "mediaType": "movie"
+  },
+  "v3:movie:harrypotterandthechamberofsecrets:": {
+    "tmdbId": 672,
+    "mediaType": "movie"
+  },
+  "v3:movie:harrypotterandthegobletoffire:": {
+    "tmdbId": 674,
+    "mediaType": "movie"
+  },
+  "v3:movie:sakamotodays:2026": {
+    "tmdbId": 1548708,
+    "mediaType": "movie"
+  },
+  "v3:tv:lollastonelaughingphilippines:2024": {
+    "tmdbId": 258488,
+    "mediaType": "tv"
+  },
+  "v3:movie:thefamilyplan2:": {
+    "tmdbId": 1363123,
+    "mediaType": "movie"
+  },
+  "v3:movie:thelastfirstwinterk2:": {
+    "tmdbId": 1596303,
+    "mediaType": "movie"
+  },
+  "v3:multi:greysanatomy:": {
+    "tmdbId": 1416,
+    "mediaType": "tv"
+  },
+  "v3:movie:avataraangthelastairbender:": {
+    "tmdbId": 980431,
+    "mediaType": "movie"
+  },
+  "v3:movie:harrypotterandtheorderofthephoenix:": {
+    "tmdbId": 675,
+    "mediaType": "movie"
+  },
+  "v3:movie:traintobusan:": {
+    "tmdbId": 396535,
+    "mediaType": "movie"
+  },
+  "v3:movie:godzillaxkongthenewempire:": {
+    "tmdbId": 823464,
+    "mediaType": "movie"
+  },
+  "v3:movie:confidentialassignment2international:": {
+    "tmdbId": 736820,
+    "mediaType": "movie"
+  },
+  "v3:movie:nezha:": {
+    "tmdbId": 615453,
+    "mediaType": "movie"
+  },
+  "v3:movie:thehungergamestheballadofsongbirdssnakes:": {
+    "tmdbId": 695721,
+    "mediaType": "movie"
+  },
+  "v3:movie:hitmanagentjun:": {
+    "tmdbId": 604362,
+    "mediaType": "movie"
+  },
+  "v3:movie:integrity:": {
+    "tmdbId": 575238,
+    "mediaType": "movie"
+  },
+  "v3:tv:thethirdmarriage:": {
+    "tmdbId": 233090,
+    "mediaType": "tv"
+  },
+  "v3:tv:keepitdown:": {
+    "tmdbId": 339344,
+    "mediaType": "tv"
+  },
+  "v3:tv:inhishands:2026": {
+    "tmdbId": 333553,
+    "mediaType": "tv"
+  },
+  "v3:movie:adiparasakthi:": {
+    "tmdbId": 757014,
+    "mediaType": "movie"
+  },
+  "v3:tv:mustdatetheplayboy:": {
+    "tmdbId": 321944,
+    "mediaType": "tv"
+  },
+  "v3:tv:yescaptain:": {
+    "tmdbId": 333012,
+    "mediaType": "tv"
+  },
+  "v3:tv:theglory:2025": {
+    "tmdbId": 257782,
+    "mediaType": "tv"
+  },
+  "v3:movie:spiderman:2002": {
+    "tmdbId": 557,
+    "mediaType": "movie"
+  },
+  "v3:tv:thequeenofnews:": {
+    "tmdbId": 226197,
+    "mediaType": "tv"
+  },
+  "v3:tv:kudrat1968highcouncil:": {
+    "tmdbId": 334097,
+    "mediaType": "tv"
+  },
+  "v3:tv:shadowsofthetenninja:": {
+    "tmdbId": 332649,
+    "mediaType": "tv"
+  },
+  "v3:movie:warkopdkiviralindoooong:": {
+    "tmdbId": 1574961,
+    "mediaType": "movie"
+  },
+  "v3:tv:marrymyhusband:": {
+    "tmdbId": 221851,
+    "mediaType": "tv"
+  },
+  "v3:tv:localtimes:": {
+    "tmdbId": 315927,
+    "mediaType": "tv"
+  },
+  "v3:multi:belowdeck:": {
+    "tmdbId": 50042,
+    "mediaType": "tv"
+  },
+  "v3:multi:therealhousewivesoflondon:": {
+    "tmdbId": 275387,
+    "mediaType": "tv"
+  },
+  "v3:multi:therealhousewivesofpotomac:": {
+    "tmdbId": 65300,
+    "mediaType": "tv"
+  },
+  "v3:multi:thegoldenlife:": {
+    "tmdbId": 313137,
+    "mediaType": "tv"
+  },
+  "v3:multi:therealhousewivesoforangecounty:": {
+    "tmdbId": 10222,
+    "mediaType": "tv"
+  },
+  "v3:multi:therealhousewivesofsaltlakecity:": {
+    "tmdbId": 110381,
+    "mediaType": "tv"
+  },
+  "v3:movie:janganbuangibu:": {
+    "tmdbId": 1519340,
+    "mediaType": "movie"
+  },
+  "v3:multi:therealhousewivesofnewyorkcity:": {
+    "tmdbId": 14808,
+    "mediaType": "tv"
+  },
+  "v3:movie:annabellecreation:": {
+    "tmdbId": 396422,
+    "mediaType": "movie"
+  },
+  "v3:multi:therealhousewivesoflondonaftershow:2025": {
+    "tmdbId": 334491,
+    "mediaType": "tv"
+  },
+  "v3:movie:farandaway:": {
+    "tmdbId": 11259,
+    "mediaType": "movie"
+  },
+  "v3:tv:takechargeofmyheart:": {
+    "tmdbId": 289423,
+    "mediaType": "tv"
+  },
+  "v3:movie:shrek2:": {
+    "tmdbId": 809,
+    "mediaType": "movie"
+  },
+  "v3:movie:thechristmaschronicles:": {
+    "tmdbId": 527435,
+    "mediaType": "movie"
+  },
+  "v3:multi:stillflippingout:": {
+    "tmdbId": 332902,
+    "mediaType": "tv"
+  },
+  "v3:tv:below:2026": {
+    "tmdbId": 285322,
+    "mediaType": "tv"
+  },
+  "v3:multi:vanderpumpruleslisalasvegas:": {
+    "tmdbId": 332204,
+    "mediaType": "tv"
+  },
+  "v3:movie:divergent:": {
+    "tmdbId": 157350,
+    "mediaType": "movie"
+  },
+  "v3:movie:thehungergamesmockingjaypart1:": {
+    "tmdbId": 131631,
+    "mediaType": "movie"
+  },
+  "v3:movie:thehungergamesmockingjaypart2:": {
+    "tmdbId": 131634,
+    "mediaType": "movie"
+  },
+  "v3:movie:evildeadrise:": {
+    "tmdbId": 713704,
+    "mediaType": "movie"
+  },
+  "v3:tv:georgiemandysfirstmarriage:": {
+    "tmdbId": 243875,
+    "mediaType": "tv"
+  },
+  "v3:tv:theserialkillerconnection:": {
+    "tmdbId": 337700,
+    "mediaType": "tv"
+  },
+  "v3:tv:theaudacity:": {
+    "tmdbId": 258036,
+    "mediaType": "tv"
+  },
+  "v3:tv:richardhammondsworkshop:": {
+    "tmdbId": 136638,
+    "mediaType": "tv"
+  },
+  "v3:tv:mocktheweek:2026": {
+    "tmdbId": 312384,
+    "mediaType": "tv"
+  },
+  "v3:tv:thepetcemeterymurdersaghoststory:": {
+    "tmdbId": 336418,
+    "mediaType": "tv"
+  },
+  "v3:tv:getjiro:": {
+    "tmdbId": 231801,
+    "mediaType": "tv"
+  },
+  "v3:multi:harrypotterandthechamberofsecrets:": {
+    "tmdbId": 672,
+    "mediaType": "movie"
+  },
+  "v3:multi:gameofthrones:": {
+    "tmdbId": 1399,
+    "mediaType": "tv"
+  },
+  "v3:movie:nativity2dangerinthemanger:": {
+    "tmdbId": 139380,
+    "mediaType": "movie"
+  },
+  "v3:movie:despicableme4:": {
+    "tmdbId": 519182,
+    "mediaType": "movie"
+  },
+  "v3:tv:thesimpsons:": {
+    "tmdbId": 456,
+    "mediaType": "tv"
+  },
+  "v3:multi:acinderellastory:": {
+    "tmdbId": 11247,
+    "mediaType": "movie"
+  },
+  "v3:tv:911nashville:": {
+    "tmdbId": 284838,
+    "mediaType": "tv"
+  },
+  "v3:multi:harrypotterandthephilosophersstone:": {
+    "tmdbId": 671,
+    "mediaType": "movie"
+  },
+  "v3:tv:lollastonelaughinghalloweenuk:": {
+    "tmdbId": 339754,
+    "mediaType": "tv"
+  },
+  "v3:movie:themagicfarawaytree:": {
+    "tmdbId": 1140521,
+    "mediaType": "movie"
+  },
+  "v3:tv:killjackie:": {
+    "tmdbId": 284558,
+    "mediaType": "tv"
+  },
+  "v3:movie:salemslot:2024": {
+    "tmdbId": 748230,
+    "mediaType": "movie"
+  },
+  "v3:movie:aligindahouse:": {
+    "tmdbId": 9298,
+    "mediaType": "movie"
+  },
+  "v3:tv:clarksonsfarm:": {
+    "tmdbId": 117648,
+    "mediaType": "tv"
+  },
+  "v3:tv:thegrandtour:2026": {
+    "tmdbId": 329471,
+    "mediaType": "tv"
+  },
+  "v3:multi:thepitt:": {
+    "tmdbId": 250307,
+    "mediaType": "tv"
+  },
+  "v3:tv:theterminallistdarkwolf:": {
+    "tmdbId": 219760,
+    "mediaType": "tv"
+  },
+  "v3:movie:southparktheendofobesity:": {
+    "tmdbId": 1290938,
+    "mediaType": "movie"
+  },
+  "v3:movie:topgunmaverick:": {
+    "tmdbId": 361743,
+    "mediaType": "movie"
+  },
+  "v3:movie:southparkthestreamingwars:": {
+    "tmdbId": 974691,
+    "mediaType": "movie"
+  },
+  "v3:movie:southparknotsuitableforchildren:": {
+    "tmdbId": 1219926,
+    "mediaType": "movie"
+  },
+  "v3:movie:reportedmissingthemurderofdaniellejones:": {
+    "tmdbId": 1282497,
+    "mediaType": "movie"
+  },
+  "v3:tv:sheriffcountry:": {
+    "tmdbId": 253391,
+    "mediaType": "tv"
+  },
+  "v3:tv:ncisnewyork:": {
+    "tmdbId": 319800,
+    "mediaType": "tv"
+  },
+  "v3:multi:houseofthedragon:": {
+    "tmdbId": 94997,
+    "mediaType": "tv"
+  },
+  "v3:tv:dexter:": {
+    "tmdbId": 1405,
+    "mediaType": "tv"
+  },
+  "v3:tv:lastseen:": {
+    "tmdbId": 258230,
+    "mediaType": "tv"
+  },
+  "v3:tv:bostonblue:": {
+    "tmdbId": 284736,
+    "mediaType": "tv"
+  },
+  "v3:movie:pressure:2026": {
+    "tmdbId": 1318413,
+    "mediaType": "movie"
+  },
+  "v3:movie:startrekthemotionpicture:": {
+    "tmdbId": 152,
+    "mediaType": "movie"
+  },
+  "v3:movie:thedogstars:": {
+    "tmdbId": 1384216,
+    "mediaType": "movie"
+  },
+  "v3:tv:startrekthenextgeneration:": {
+    "tmdbId": 655,
+    "mediaType": "tv"
+  },
+  "v3:tv:startrekpicard:": {
+    "tmdbId": 85949,
+    "mediaType": "tv"
+  },
+  "v3:tv:comeflywithme:2010": {
+    "tmdbId": 34604,
+    "mediaType": "tv"
+  },
+  "v3:tv:therookie:2018": {
+    "tmdbId": 79744,
+    "mediaType": "tv"
+  },
+  "v3:tv:cobra:2020": {
+    "tmdbId": 96567,
+    "mediaType": "tv"
+  },
+  "v3:tv:sealteam:": {
+    "tmdbId": 71789,
+    "mediaType": "tv"
+  },
+  "v3:tv:worldwariiwithtomhanks:": {
+    "tmdbId": 316992,
+    "mediaType": "tv"
+  },
+  "v3:movie:scarymovie:2026": {
+    "tmdbId": 1273221,
+    "mediaType": "movie"
+  },
+  "v3:movie:theinbetweeners2:": {
+    "tmdbId": 242022,
+    "mediaType": "movie"
+  },
+  "v3:movie:fall2deadpoint:": {
+    "tmdbId": 1101412,
+    "mediaType": "movie"
+  },
+  "v3:movie:scream7:": {
+    "tmdbId": 1159559,
+    "mediaType": "movie"
+  },
+  "v3:movie:tomclancysjackryanghostwar:": {
+    "tmdbId": 1380291,
+    "mediaType": "movie"
+  },
+  "v3:multi:duttonranch:": {
+    "tmdbId": 299167,
+    "mediaType": "tv"
+  },
+  "v3:multi:hannibal:2013": {
+    "tmdbId": 40008,
+    "mediaType": "tv"
+  },
+  "v3:multi:terminator2judgmentday:": {
+    "tmdbId": 280,
+    "mediaType": "movie"
+  },
+  "v3:multi:evildeadrise:": {
+    "tmdbId": 713704,
+    "mediaType": "movie"
+  },
+  "v3:multi:fourlions:": {
+    "tmdbId": 37495,
+    "mediaType": "movie"
+  },
+  "v3:multi:traintobusan:": {
+    "tmdbId": 396535,
+    "mediaType": "movie"
+  },
+  "v3:multi:rambofirstbloodpartii:": {
+    "tmdbId": 1369,
+    "mediaType": "movie"
+  },
+  "v3:multi:ramboiii:": {
+    "tmdbId": 1370,
+    "mediaType": "movie"
+  },
+  "v3:multi:outlanderbloodofmyblood:": {
+    "tmdbId": 207484,
+    "mediaType": "tv"
+  },
+  "v3:multi:outlander:2014": {
+    "tmdbId": 56570,
+    "mediaType": "tv"
+  },
+  "v3:multi:theaddamsfamily:2019": {
+    "tmdbId": 481084,
+    "mediaType": "movie"
+  },
+  "v3:multi:powerbookiiiraisingkanan:": {
+    "tmdbId": 124394,
+    "mediaType": "tv"
+  },
+  "v3:multi:powerbookivforce:": {
+    "tmdbId": 119845,
+    "mediaType": "tv"
+  },
+  "v3:multi:powerbookiighost:": {
+    "tmdbId": 97890,
+    "mediaType": "tv"
+  },
+  "v3:multi:marshals:": {
+    "tmdbId": 290856,
+    "mediaType": "tv"
+  },
+  "v3:multi:mebeforeyou:": {
+    "tmdbId": 296096,
+    "mediaType": "movie"
+  },
+  "v3:multi:projecthailmary:": {
+    "tmdbId": 687163,
+    "mediaType": "movie"
+  },
+  "v3:multi:jaÿzin8:": {
+    "tmdbId": 326440,
+    "mediaType": "tv"
+  },
+  "v3:multi:asareincarnatedaristocratillusemyappraisalskilltoriseintheworld:": {
+    "tmdbId": 237150,
+    "mediaType": "tv"
+  },
+  "v3:multi:donniedarko:": {
+    "tmdbId": 141,
+    "mediaType": "movie"
+  },
+  "v3:multi:teenagesexanddeathatcampmiasma:": {
+    "tmdbId": 1240889,
+    "mediaType": "movie"
+  },
+  "v3:multi:challengers:": {
+    "tmdbId": 937287,
+    "mediaType": "movie"
+  },
+  "v3:multi:thesecretagent:2025": {
+    "tmdbId": 1220564,
+    "mediaType": "movie"
+  },
+  "v3:multi:terrifier3:": {
+    "tmdbId": 1034541,
+    "mediaType": "movie"
+  },
+  "v3:multi:huntingmatthewnichols:": {
+    "tmdbId": 1308388,
+    "mediaType": "movie"
+  },
+  "v3:multi:infirmary:": {
+    "tmdbId": 1610703,
+    "mediaType": "movie"
+  },
+  "v3:multi:terrifier2:": {
+    "tmdbId": 663712,
+    "mediaType": "movie"
+  },
+  "v3:multi:diemylove:": {
+    "tmdbId": 1033148,
+    "mediaType": "movie"
+  },
+  "v3:multi:thehungergames:": {
+    "tmdbId": 70160,
+    "mediaType": "movie"
+  },
+  "v3:multi:halloweenii:1981": {
+    "tmdbId": 11281,
+    "mediaType": "movie"
+  },
+  "v3:multi:thehungergamesmockingjaypart1:": {
+    "tmdbId": 131631,
+    "mediaType": "movie"
+  },
+  "v3:multi:thehungergamesmockingjaypart2:": {
+    "tmdbId": 131634,
+    "mediaType": "movie"
+  },
+  "v3:multi:johnwickchapter3parabellum:": {
+    "tmdbId": 458156,
+    "mediaType": "movie"
+  },
+  "v3:multi:halloween:2007": {
+    "tmdbId": 2082,
+    "mediaType": "movie"
+  },
+  "v3:multi:bluemountainstate:": {
+    "tmdbId": 31941,
+    "mediaType": "tv"
+  },
+  "v3:multi:madeinchelsea:": {
+    "tmdbId": 39148,
+    "mediaType": "tv"
+  },
+  "v3:movie:kraventhehunter:": {
+    "tmdbId": 539972,
+    "mediaType": "movie"
+  },
+  "v3:multi:therealhousewivesoflondonaftershow:": {
+    "tmdbId": 334491,
+    "mediaType": "tv"
+  },
+  "v3:tv:fadinggrandeur:": {
+    "tmdbId": 335535,
+    "mediaType": "tv"
+  },
+  "v3:tv:thegiftofdeceit:": {
+    "tmdbId": 334700,
+    "mediaType": "tv"
+  },
+  "v3:tv:willtrent:": {
+    "tmdbId": 208569,
+    "mediaType": "tv"
+  },
+  "v3:movie:aliensintheattic:": {
+    "tmdbId": 20856,
+    "mediaType": "movie"
+  },
+  "v3:multi:belowdeckmediterranean:": {
+    "tmdbId": 66902,
+    "mediaType": "tv"
+  },
+  "v3:movie:freddyvsjason:": {
+    "tmdbId": 6466,
+    "mediaType": "movie"
+  },
+  "v3:movie:jasonx:": {
+    "tmdbId": 11470,
+    "mediaType": "movie"
+  },
+  "v3:movie:theconjuring2:": {
+    "tmdbId": 259693,
+    "mediaType": "movie"
+  },
+  "v3:tv:ragefuria:": {
+    "tmdbId": 280880,
+    "mediaType": "tv"
+  },
+  "v3:tv:invitro:2026": {
+    "tmdbId": 302915,
+    "mediaType": "tv"
+  },
+  "v3:tv:thefridaythe13thmurders:": {
+    "tmdbId": 301147,
+    "mediaType": "tv"
+  },
+  "v3:tv:yaga:": {
+    "tmdbId": 314360,
+    "mediaType": "tv"
+  },
+  "v3:tv:paolo:": {
+    "tmdbId": 288385,
+    "mediaType": "tv"
+  },
+  "v3:movie:asuckersborneveryminute:": {
+    "tmdbId": 1446912,
+    "mediaType": "movie"
+  },
+  "v3:tv:pesadillaenlacocina:": {
+    "tmdbId": 65076,
+    "mediaType": "tv"
+  },
+  "v3:tv:masterchefcelebritylegends:": {
+    "tmdbId": 334389,
+    "mediaType": "tv"
+  },
+  "v3:movie:code3:": {
+    "tmdbId": 1161617,
+    "mediaType": "movie"
+  },
+  "v3:tv:míaeslavenganza:": {
+    "tmdbId": 226411,
+    "mediaType": "tv"
+  },
+  "v3:tv:laqueseavecina:": {
+    "tmdbId": 35338,
+    "mediaType": "tv"
+  },
+  "v3:tv:thevoicespain:": {
+    "tmdbId": 60216,
+    "mediaType": "tv"
+  },
+  "v3:tv:paquererte:": {
+    "tmdbId": 136228,
+    "mediaType": "tv"
+  },
+  "v3:movie:corpsebride:": {
+    "tmdbId": 3933,
+    "mediaType": "movie"
+  },
+  "v3:movie:thelordoftheringsthefellowshipofthering:": {
+    "tmdbId": 120,
+    "mediaType": "movie"
+  },
+  "v3:movie:greenland2migration:": {
+    "tmdbId": 840464,
+    "mediaType": "movie"
+  },
+  "v3:tv:covenacademy:": {
+    "tmdbId": 298505,
+    "mediaType": "tv"
+  },
+  "v3:multi:thewalkingdeaddaryldixon:": {
+    "tmdbId": 211684,
+    "mediaType": "tv"
+  },
+  "v3:multi:thewalkingdeadtheoneswholive:": {
+    "tmdbId": 206586,
+    "mediaType": "tv"
+  },
+  "v3:multi:theterrordevilinsilver:2026": {
+    "tmdbId": 323903,
+    "mediaType": "tv"
+  },
+  "v3:tv:tokyorevengers:2021": {
+    "tmdbId": 105009,
+    "mediaType": "tv"
+  },
+  "v3:multi:bloodysmart:": {
+    "tmdbId": 300259,
+    "mediaType": "tv"
+  },
+  "v3:multi:825forestroad:": {
+    "tmdbId": 1282980,
+    "mediaType": "movie"
+  },
+  "v3:multi:theisolatethief:": {
+    "tmdbId": 1404304,
+    "mediaType": "movie"
+  },
+  "v3:multi:teenwolf:2011": {
+    "tmdbId": 34524,
+    "mediaType": "tv"
+  },
+  "v3:movie:haciendoamigos:": {
+    "tmdbId": 1632981,
+    "mediaType": "movie"
+  },
+  "v3:multi:laisladelastentaciones:": {
+    "tmdbId": 95676,
+    "mediaType": "tv"
+  },
+  "v3:multi:talesofthewalkingdead:": {
+    "tmdbId": 136248,
+    "mediaType": "tv"
+  },
+  "v3:multi:sueñosdelibertad:": {
+    "tmdbId": 239526,
+    "mediaType": "tv"
+  },
+  "v3:multi:fireflywedding:": {
+    "tmdbId": 320909,
+    "mediaType": "tv"
+  },
+  "v3:movie:remindersofhim:": {
+    "tmdbId": 1367642,
+    "mediaType": "movie"
+  },
+  "v3:movie:toromewithlove:": {
+    "tmdbId": 81836,
+    "mediaType": "movie"
+  },
+  "v3:movie:pageeight:": {
+    "tmdbId": 73358,
+    "mediaType": "movie"
+  },
+  "v3:movie:fromdusktilldawn2texasbloodmoney:": {
+    "tmdbId": 12095,
+    "mediaType": "movie"
+  },
+  "v3:movie:vanhelsing:2004": {
+    "tmdbId": 7131,
+    "mediaType": "movie"
+  },
+  "v3:tv:transplant:": {
+    "tmdbId": 99530,
+    "mediaType": "tv"
+  },
+  "v3:tv:dracula:2013": {
+    "tmdbId": 58928,
+    "mediaType": "tv"
+  },
+  "v3:tv:mia:2026": {
+    "tmdbId": 262388,
+    "mediaType": "tv"
+  },
+  "v3:multi:teenwolfthemovie:": {
+    "tmdbId": 877703,
+    "mediaType": "movie"
+  },
+  "v3:multi:missionimpossiblethefinalreckoning:": {
+    "tmdbId": 575265,
+    "mediaType": "movie"
+  },
+  "v3:tv:shadesofblue:": {
+    "tmdbId": 64433,
+    "mediaType": "tv"
+  },
+  "v3:multi:jurassicworldrebirth:": {
+    "tmdbId": 1234821,
+    "mediaType": "movie"
+  },
+  "v3:multi:divergent:": {
+    "tmdbId": 157350,
+    "mediaType": "movie"
+  },
+  "v3:tv:thefivestarweekend:": {
+    "tmdbId": 283151,
+    "mediaType": "tv"
+  },
+  "v3:multi:insidiouschapter2:": {
+    "tmdbId": 91586,
+    "mediaType": "movie"
+  },
+  "v3:multi:sawiii:": {
+    "tmdbId": 214,
+    "mediaType": "movie"
+  },
+  "v3:movie:oversabiaunty:": {
+    "tmdbId": 1594952,
+    "mediaType": "movie"
+  },
+  "v3:multi:mechanicresurrection:": {
+    "tmdbId": 278924,
+    "mediaType": "movie"
+  },
+  "v3:multi:insidiouschapter3:": {
+    "tmdbId": 280092,
+    "mediaType": "movie"
+  },
+  "v3:movie:doinglife:2026": {
+    "tmdbId": 1458857,
+    "mediaType": "movie"
+  },
+  "v3:tv:howtoruindiwalimeettheparents:": {
+    "tmdbId": 336241,
+    "mediaType": "tv"
+  },
+  "v3:movie:apocalypsezthebeginningoftheend:": {
+    "tmdbId": 1118031,
+    "mediaType": "movie"
+  },
+  "v3:tv:thepurge:2018": {
+    "tmdbId": 80213,
+    "mediaType": "tv"
+  },
+  "v3:tv:bassxmachina:": {
+    "tmdbId": 314271,
+    "mediaType": "tv"
+  },
+  "v3:tv:thelordoftheringstheringsofpower:": {
+    "tmdbId": 84773,
+    "mediaType": "tv"
+  },
+  "v3:movie:sctvthegreatestshowyouveneverheardof:": {
+    "tmdbId": 1756307,
+    "mediaType": "movie"
+  },
+  "v3:movie:blondeambition:2007": {
+    "tmdbId": 15017,
+    "mediaType": "movie"
+  },
+  "v3:movie:aworkingman:": {
+    "tmdbId": 1197306,
+    "mediaType": "movie"
+  },
+  "v3:movie:wonderpark:": {
+    "tmdbId": 400157,
+    "mediaType": "movie"
+  },
+  "v3:movie:canaryblack:": {
+    "tmdbId": 976734,
+    "mediaType": "movie"
+  },
+  "v3:movie:tropicthunder:": {
+    "tmdbId": 7446,
+    "mediaType": "movie"
+  },
+  "v3:movie:tuner:": {
+    "tmdbId": 1340206,
+    "mediaType": "movie"
+  },
+  "v3:tv:lollastonelaughingquebec:": {
+    "tmdbId": 217745,
+    "mediaType": "tv"
+  },
+  "v3:tv:rideordie:2026": {
+    "tmdbId": 241882,
+    "mediaType": "tv"
+  },
+  "v3:multi:storks:": {
+    "tmdbId": 332210,
+    "mediaType": "movie"
+  },
+  "v3:tv:helluvaboss:": {
+    "tmdbId": 289892,
+    "mediaType": "tv"
+  },
+  "v3:movie:mile22:": {
+    "tmdbId": 347375,
+    "mediaType": "movie"
+  },
+  "v3:movie:russellpetersdeported:2020": {
+    "tmdbId": 664473,
+    "mediaType": "movie"
+  },
+  "v3:movie:huntingseason:2025": {
+    "tmdbId": 1387382,
+    "mediaType": "movie"
+  },
+  "v3:movie:hellfire:2026": {
+    "tmdbId": 1088434,
+    "mediaType": "movie"
+  },
+  "v3:tv:survivor:2000": {
+    "tmdbId": 14658,
+    "mediaType": "tv"
+  },
+  "v3:multi:landman:": {
+    "tmdbId": 157741,
+    "mediaType": "tv"
+  },
+  "v3:movie:onebattleafteranother:": {
+    "tmdbId": 1054867,
+    "mediaType": "movie"
+  },
+  "v3:tv:thecontinentalfromtheworldofjohnwick:": {
+    "tmdbId": 72710,
+    "mediaType": "tv"
+  },
+  "v3:movie:mebeforeyou:": {
+    "tmdbId": 296096,
+    "mediaType": "movie"
+  },
+  "v3:tv:thepitt:": {
+    "tmdbId": 250307,
+    "mediaType": "tv"
+  },
+  "v3:tv:seekingpersephone:2026": {
+    "tmdbId": 316830,
+    "mediaType": "tv"
+  },
+  "v3:tv:taboo:2017": {
+    "tmdbId": 65708,
+    "mediaType": "tv"
+  },
+  "v3:tv:houseofthedragon:": {
+    "tmdbId": 94997,
+    "mediaType": "tv"
+  },
+  "v3:tv:carnivàle:": {
+    "tmdbId": 185,
+    "mediaType": "tv"
+  },
+  "v3:tv:familyguy:": {
+    "tmdbId": 1434,
+    "mediaType": "tv"
+  },
+  "v3:movie:monsterhouse:": {
+    "tmdbId": 9297,
+    "mediaType": "movie"
+  },
+  "v3:movie:spidermanhomecoming:": {
+    "tmdbId": 315635,
+    "mediaType": "movie"
+  },
+  "v3:multi:thechangeling:2023": {
+    "tmdbId": 131992,
+    "mediaType": "tv"
+  },
+  "v3:multi:thegrinch:": {
+    "tmdbId": 360920,
+    "mediaType": "movie"
+  },
+  "v3:multi:thehungergamescatchingfire:": {
+    "tmdbId": 101299,
+    "mediaType": "movie"
+  },
+  "v3:multi:hoteltransylvania:": {
+    "tmdbId": 76492,
+    "mediaType": "movie"
+  },
+  "v3:multi:michael:2026": {
+    "tmdbId": 936075,
+    "mediaType": "movie"
+  },
+  "v3:multi:christmaswiththekranks:": {
+    "tmdbId": 13673,
+    "mediaType": "movie"
+  },
+  "v3:multi:hoteltransylvania3summervacation:": {
+    "tmdbId": 400155,
+    "mediaType": "movie"
+  },
+  "v3:multi:theboondocks:": {
+    "tmdbId": 2604,
+    "mediaType": "tv"
+  },
+  "v3:multi:ghostbustersii:": {
+    "tmdbId": 2978,
+    "mediaType": "movie"
+  },
+  "v3:multi:hoteltransylvania2:": {
+    "tmdbId": 159824,
+    "mediaType": "movie"
+  },
+  "v3:multi:halloween:1978": {
+    "tmdbId": 948,
+    "mediaType": "movie"
+  },
+  "v3:multi:theboondocksaintsiiallsaintsday:": {
+    "tmdbId": 22821,
+    "mediaType": "movie"
+  },
+  "v3:multi:exit8:": {
+    "tmdbId": 1408208,
+    "mediaType": "movie"
+  },
+  "v3:multi:scream3:": {
+    "tmdbId": 4234,
+    "mediaType": "movie"
+  },
+  "v3:multi:lastweektonightwithjohnoliver:": {
+    "tmdbId": 60694,
+    "mediaType": "tv"
+  },
+  "v3:multi:loveislandaustralia:": {
+    "tmdbId": 79792,
+    "mediaType": "tv"
+  },
+  "v3:multi:johnwick:": {
+    "tmdbId": 245891,
+    "mediaType": "movie"
+  },
+  "v3:multi:georgiemandysfirstmarriage:": {
+    "tmdbId": 243875,
+    "mediaType": "tv"
+  },
+  "v3:multi:catfishmurders:": {
+    "tmdbId": 339333,
+    "mediaType": "tv"
+  },
+  "v3:multi:swatexiles:": {
+    "tmdbId": 292742,
+    "mediaType": "tv"
+  },
+  "v3:multi:thecelebritytraitors:": {
+    "tmdbId": 291431,
+    "mediaType": "tv"
+  },
+  "v3:multi:thetraitorscanada:": {
+    "tmdbId": 234613,
+    "mediaType": "tv"
+  },
+  "v3:movie:survivinghurricaneotis:": {
+    "tmdbId": 1780005,
+    "mediaType": "movie"
+  },
+  "v3:tv:우리들의발라드:": {
+    "tmdbId": 301379,
+    "mediaType": "tv"
+  },
+  "v3:tv:iamsolo:": {
+    "tmdbId": 129236,
+    "mediaType": "tv"
+  },
+  "v3:tv:신인감독김연경:": {
+    "tmdbId": 301798,
+    "mediaType": "tv"
+  },
+  "v3:tv:hitandmisstour:": {
+    "tmdbId": 227395,
+    "mediaType": "tv"
+  },
+  "v3:tv:marriageofconvenience:": {
+    "tmdbId": 336844,
+    "mediaType": "tv"
+  },
+  "v3:movie:howlsmovingcastle:": {
+    "tmdbId": 4935,
+    "mediaType": "movie"
+  },
+  "v3:tv:sherifflabrador:": {
+    "tmdbId": 219799,
+    "mediaType": "tv"
+  },
+  "v3:tv:bebefinn:2022": {
+    "tmdbId": 241948,
+    "mediaType": "tv"
+  },
+  "v3:tv:breadbarbershop:": {
+    "tmdbId": 129832,
+    "mediaType": "tv"
+  },
+  "v3:tv:lovewar:2026": {
+    "tmdbId": 325114,
+    "mediaType": "tv"
+  },
+  "v3:tv:madeinkorea:": {
+    "tmdbId": 246473,
+    "mediaType": "tv"
+  },
+  "v3:movie:toritoriandthesecretofthebabydino:": {
+    "tmdbId": 1560590,
+    "mediaType": "movie"
+  },
+  "v3:movie:therounduppunishment:": {
+    "tmdbId": 1017163,
+    "mediaType": "movie"
+  },
+  "v3:tv:diveintoyou:": {
+    "tmdbId": 316197,
+    "mediaType": "tv"
+  },
+  "v3:movie:shangchiandthelegendofthetenrings:": {
+    "tmdbId": 566525,
+    "mediaType": "movie"
+  },
+  "v3:movie:theroundupnowayout:": {
+    "tmdbId": 955555,
+    "mediaType": "movie"
+  },
+  "v3:tv:loveinsync:": {
+    "tmdbId": 315007,
+    "mediaType": "tv"
+  },
+  "v3:tv:zanmangloopysmukbang:": {
+    "tmdbId": 327044,
+    "mediaType": "tv"
+  },
+  "v3:tv:pachinko:": {
+    "tmdbId": 110382,
+    "mediaType": "tv"
+  },
+  "v3:tv:lucky:2026": {
+    "tmdbId": 278624,
+    "mediaType": "tv"
+  },
+  "v3:movie:stateorgansunmaskingtransplantabuseinchina:": {
+    "tmdbId": 1276474,
+    "mediaType": "movie"
+  },
+  "v3:movie:projecthailmary:": {
+    "tmdbId": 687163,
+    "mediaType": "movie"
+  },
+  "v3:tv:familyregister:": {
+    "tmdbId": 320406,
+    "mediaType": "tv"
+  },
+  "v3:multi:이호선상담소:": {
+    "tmdbId": 310267,
+    "mediaType": "tv"
+  },
+  "v3:multi:신인감독김연경:": {
+    "tmdbId": 301798,
+    "mediaType": "tv"
+  },
+  "v3:movie:soonyoungslovestory:": {
+    "tmdbId": 1739889,
+    "mediaType": "movie"
+  },
+  "v3:multi:oheunyoungsreportmarriagehell:": {
+    "tmdbId": 204201,
+    "mediaType": "tv"
+  },
+  "v3:multi:midnighthorrorstory:": {
+    "tmdbId": 120573,
+    "mediaType": "tv"
+  },
+  "v3:movie:bravecitizen:": {
+    "tmdbId": 897160,
+    "mediaType": "movie"
+  },
+  "v3:movie:tazzathehighrollers:": {
+    "tmdbId": 38015,
+    "mediaType": "movie"
+  },
+  "v3:movie:mydearest:": {
+    "tmdbId": 338155,
+    "mediaType": "movie"
+  },
+  "v3:tv:atrapcalleddesire:": {
+    "tmdbId": 326991,
+    "mediaType": "tv"
+  },
+  "v3:movie:lustcaution:": {
+    "tmdbId": 4588,
+    "mediaType": "movie"
+  },
+  "v3:movie:thepriests:": {
+    "tmdbId": 360551,
+    "mediaType": "movie"
+  },
+  "v3:movie:loveagain:2019": {
+    "tmdbId": 572703,
+    "mediaType": "movie"
+  },
+  "v3:movie:joseethetigerandthefish:2003": {
+    "tmdbId": 72443,
+    "mediaType": "movie"
+  },
+  "v3:tv:abonafidekiller:": {
+    "tmdbId": 294095,
+    "mediaType": "tv"
+  },
+  "v3:tv:loveonthemenu:": {
+    "tmdbId": 310326,
+    "mediaType": "tv"
+  },
+  "v3:tv:twistedtie:": {
+    "tmdbId": 318634,
+    "mediaType": "tv"
+  },
+  "v3:tv:loveyourenemy:": {
+    "tmdbId": 244463,
+    "mediaType": "tv"
+  },
+  "v3:movie:colony:2026": {
+    "tmdbId": 1375646,
+    "mediaType": "movie"
+  },
+  "v3:tv:infinitechallenge:": {
+    "tmdbId": 5092,
+    "mediaType": "tv"
+  },
+  "v3:tv:missionmompossible:": {
+    "tmdbId": 329190,
+    "mediaType": "tv"
+  },
+  "v3:movie:thekingswarden:": {
+    "tmdbId": 1321179,
+    "mediaType": "movie"
+  },
+  "v3:tv:gameofthrones:": {
+    "tmdbId": 1399,
+    "mediaType": "tv"
+  },
+  "v3:movie:oncewewereus:": {
+    "tmdbId": 1264805,
+    "mediaType": "movie"
+  },
+  "v3:movie:salmokjiwhisperingwater:": {
+    "tmdbId": 1461254,
+    "mediaType": "movie"
+  },
+  "v3:tv:homealone:2013": {
+    "tmdbId": 65282,
+    "mediaType": "tv"
+  },
+  "v3:multi:kcsismokinggun:": {
+    "tmdbId": 223443,
+    "mediaType": "tv"
+  },
+  "v3:tv:midnighthorrorstory:": {
+    "tmdbId": 120573,
+    "mediaType": "tv"
+  },
+  "v3:multi:ifellinlovetoday:": {
+    "tmdbId": 241977,
+    "mediaType": "tv"
+  },
+  "v3:movie:handsomeguys:": {
+    "tmdbId": 736720,
+    "mediaType": "movie"
+  },
+  "v3:multi:naokimanhorrorshow:": {
+    "tmdbId": 224801,
+    "mediaType": "tv"
+  },
+  "v3:multi:chancetime:": {
+    "tmdbId": 155673,
+    "mediaType": "tv"
+  },
+  "v3:multi:thelaidoffcheatgrantingmageenjoysasecondleaseonlife:": {
+    "tmdbId": 313346,
+    "mediaType": "tv"
+  },
+  "v3:multi:nialistonthemercilessmaiden:": {
+    "tmdbId": 312850,
+    "mediaType": "tv"
+  },
+  "v3:multi:theicebladesorcerershallruletheworld:": {
+    "tmdbId": 200777,
+    "mediaType": "tv"
+  },
+  "v3:tv:theaffairwasjustthebeginning:": {
+    "tmdbId": 301418,
+    "mediaType": "tv"
+  },
+  "v3:movie:blackshowman:": {
+    "tmdbId": 1369010,
+    "mediaType": "movie"
+  },
+  "v3:multi:theworldsstrongestwitch:": {
+    "tmdbId": 321518,
+    "mediaType": "tv"
+  },
+  "v3:tv:lovevillage:": {
+    "tmdbId": 224740,
+    "mediaType": "tv"
+  },
+  "v3:movie:theiceruts:": {
+    "tmdbId": 566647,
+    "mediaType": "movie"
+  },
+  "v3:movie:pawpatrolthemovie:": {
+    "tmdbId": 675445,
+    "mediaType": "movie"
+  },
+  "v3:movie:crayonshinchanthemoviesuperhotthespicykasukabedancers:": {
+    "tmdbId": 1404404,
+    "mediaType": "movie"
+  },
+  "v3:movie:fatestaynightheavensfeelipresageflower:": {
+    "tmdbId": 283984,
+    "mediaType": "movie"
+  },
+  "v3:movie:doraemonthemovienobitasartworldtales:": {
+    "tmdbId": 1372489,
+    "mediaType": "movie"
+  },
+  "v3:tv:pandorobo:": {
+    "tmdbId": 309202,
+    "mediaType": "tv"
+  },
+  "v3:tv:haikyu:": {
+    "tmdbId": 60863,
+    "mediaType": "tv"
+  },
+  "v3:movie:incredibles2:": {
+    "tmdbId": 260513,
+    "mediaType": "movie"
+  },
+  "v3:tv:didsomeonehappentomentionme:": {
+    "tmdbId": 300527,
+    "mediaType": "tv"
+  },
+  "v3:movie:hoppers:": {
+    "tmdbId": 1327819,
+    "mediaType": "movie"
+  },
+  "v3:tv:aoashi:": {
+    "tmdbId": 126437,
+    "mediaType": "tv"
+  },
+  "v3:movie:toystorythattimeforgot:": {
+    "tmdbId": 256835,
+    "mediaType": "movie"
+  },
+  "v3:movie:theogresbride:2026": {
+    "tmdbId": 1592586,
+    "mediaType": "movie"
+  },
+  "v3:movie:themandalorianandgrogu:": {
+    "tmdbId": 1228710,
+    "mediaType": "movie"
+  },
+  "v3:tv:sowhatswrongwithgettingrebornasagoblin:": {
+    "tmdbId": 316694,
+    "mediaType": "tv"
+  },
+  "v3:movie:toystoryofterror:": {
+    "tmdbId": 213121,
+    "mediaType": "movie"
+  },
+  "v3:tv:redlightelegy:": {
+    "tmdbId": 332635,
+    "mediaType": "tv"
+  },
+  "v3:tv:overgeared:": {
+    "tmdbId": 324502,
+    "mediaType": "tv"
+  },
+  "v3:tv:nialistonthemercilessmaiden:": {
+    "tmdbId": 312850,
+    "mediaType": "tv"
+  },
+  "v3:tv:theworldsstrongestwitch:": {
+    "tmdbId": 321518,
+    "mediaType": "tv"
+  },
+  "v3:movie:exit8:": {
+    "tmdbId": 1408208,
+    "mediaType": "movie"
+  },
+  "v3:tv:ataleofthesecretsaint:": {
+    "tmdbId": 285899,
+    "mediaType": "tv"
+  },
+  "v3:tv:theexiledheavyknightknowshowtogamethesystem:": {
+    "tmdbId": 270603,
+    "mediaType": "tv"
+  },
+  "v3:tv:tougenanki:": {
+    "tmdbId": 253811,
+    "mediaType": "tv"
+  },
+  "v3:tv:whereswanda:": {
+    "tmdbId": 234310,
+    "mediaType": "tv"
+  },
+  "v3:tv:lovetransit:": {
+    "tmdbId": 226878,
+    "mediaType": "tv"
+  },
+  "v3:movie:doraemonthemovienewnobitaandthecastleoftheunderseadevil:": {
+    "tmdbId": 1542261,
+    "mediaType": "movie"
+  },
+  "v3:multi:thefamilyplan2:": {
+    "tmdbId": 1363123,
+    "mediaType": "movie"
+  },
+  "v3:movie:zootopia2:": {
+    "tmdbId": 1084242,
+    "mediaType": "movie"
+  },
+  "v3:movie:avengersendgame:": {
+    "tmdbId": 299534,
+    "mediaType": "movie"
+  },
+  "v3:movie:thattimeigotreincarnatedasaslimethemovietearsoftheazuresea:": {
+    "tmdbId": 1363974,
+    "mediaType": "movie"
+  },
+  "v3:movie:waterworld:": {
+    "tmdbId": 9804,
+    "mediaType": "movie"
+  },
+  "v3:movie:ladykaga:": {
+    "tmdbId": 1304951,
+    "mediaType": "movie"
+  },
+  "v3:movie:womanwhomarriedintoafarmfamilyfinefingersofafuturewife:": {
+    "tmdbId": 1381067,
+    "mediaType": "movie"
+  },
+  "v3:tv:dragonballsuperbeerus:": {
+    "tmdbId": 312359,
+    "mediaType": "tv"
+  },
+  "v3:multi:detectiveconan:": {
+    "tmdbId": 30983,
+    "mediaType": "tv"
+  },
+  "v3:multi:downtownnogakinotsukaiyaarahende:": {
+    "tmdbId": 72974,
+    "mediaType": "tv"
+  },
+  "v3:multi:pandorobo:": {
+    "tmdbId": 309202,
+    "mediaType": "tv"
+  },
+  "v3:movie:codebluethemovie:": {
+    "tmdbId": 497333,
+    "mediaType": "movie"
+  },
+  "v3:movie:hero:2007": {
+    "tmdbId": 51550,
+    "mediaType": "movie"
+  },
+  "v3:movie:agitosuperpowerwar:": {
+    "tmdbId": 1623568,
+    "mediaType": "movie"
+  },
+  "v3:movie:allaboutsuomi:": {
+    "tmdbId": 1276849,
+    "mediaType": "movie"
+  },
+  "v3:movie:wotakoiloveishardforotaku:": {
+    "tmdbId": 552687,
+    "mediaType": "movie"
+  },
+  "v3:tv:qingchuansveilofvengeance:": {
+    "tmdbId": 288717,
+    "mediaType": "tv"
+  },
+  "v3:tv:mygoldenlife:": {
+    "tmdbId": 72707,
+    "mediaType": "tv"
+  },
+  "v3:tv:taxidriver:2021": {
+    "tmdbId": 119769,
+    "mediaType": "tv"
+  },
+  "v3:tv:theascentoflingyun:": {
+    "tmdbId": 301694,
+    "mediaType": "tv"
+  },
+  "v3:tv:whoisthemurderer:": {
+    "tmdbId": 131552,
+    "mediaType": "tv"
+  },
+  "v3:tv:beyondtheloop:": {
+    "tmdbId": 301115,
+    "mediaType": "tv"
+  },
+  "v3:tv:ohmyghostclients:": {
+    "tmdbId": 233221,
+    "mediaType": "tv"
+  },
+  "v3:tv:ruanxiaofengsroyallovequest:": {
+    "tmdbId": 279383,
+    "mediaType": "tv"
+  },
+  "v3:multi:まだまだ日向坂で会いましょう:": {
+    "tmdbId": 328383,
+    "mediaType": "tv"
+  },
+  "v3:tv:チンギスvivanttheoriginstory:": {
+    "tmdbId": 336298,
+    "mediaType": "tv"
+  },
+  "v3:multi:aotomidori:": {
+    "tmdbId": 333121,
+    "mediaType": "tv"
+  },
+  "v3:movie:aslongaswebothshalllive:": {
+    "tmdbId": 800659,
+    "mediaType": "movie"
+  },
+  "v3:multi:ちょこさく:": {
+    "tmdbId": 325133,
+    "mediaType": "tv"
+  },
+  "v3:movie:alwayssunsetonthirdstreet2:": {
+    "tmdbId": 41177,
+    "mediaType": "movie"
+  },
+  "v3:multi:乃木坂工事延長中:": {
+    "tmdbId": 324061,
+    "mediaType": "tv"
+  },
+  "v3:movie:alwayssunsetonthirdstreet64:": {
+    "tmdbId": 121239,
+    "mediaType": "movie"
+  },
+  "v3:tv:irohasloverunsacrosseras:": {
+    "tmdbId": 334678,
+    "mediaType": "tv"
+  },
+  "v3:tv:まめとむぎ:": {
+    "tmdbId": 333357,
+    "mediaType": "tv"
+  },
+  "v3:tv:doubt:2026": {
+    "tmdbId": 334325,
+    "mediaType": "tv"
+  },
+  "v3:tv:もうパパ:": {
+    "tmdbId": 331304,
+    "mediaType": "tv"
+  },
+  "v3:multi:wednesdaydowntown:": {
+    "tmdbId": 108112,
+    "mediaType": "tv"
+  },
+  "v3:multi:sokomagattarasakurazaka:2020": {
+    "tmdbId": 207553,
+    "mediaType": "tv"
+  },
+  "v3:multi:brothersinarms:2026": {
+    "tmdbId": 305227,
+    "mediaType": "tv"
+  },
+  "v3:multi:eventhestudentcouncilhasitsholes:": {
+    "tmdbId": 283938,
+    "mediaType": "tv"
+  },
+  "v3:multi:romeliawarchronicle:": {
+    "tmdbId": 305313,
+    "mediaType": "tv"
+  },
+  "v3:multi:blossom:2026": {
+    "tmdbId": 331303,
+    "mediaType": "tv"
+  },
+  "v3:multi:emergencyroom24hours:": {
+    "tmdbId": 36409,
+    "mediaType": "tv"
+  },
+  "v3:multi:ataleofthesecretsaint:": {
+    "tmdbId": 285899,
+    "mediaType": "tv"
+  },
+  "v3:multi:tvchidori:": {
+    "tmdbId": 111161,
+    "mediaType": "tv"
+  },
+  "v3:multi:londonhearts:": {
+    "tmdbId": 45804,
+    "mediaType": "tv"
+  },
+  "v3:tv:aiboutokyodetectiveduo:": {
+    "tmdbId": 40663,
+    "mediaType": "tv"
+  },
+  "v3:tv:はだかんぼうたち:": {
+    "tmdbId": 333068,
+    "mediaType": "tv"
+  },
+  "v3:multi:永野くるまのひっかかりニーチェ:": {
+    "tmdbId": 305749,
+    "mediaType": "tv"
+  },
+  "v3:multi:goanpanman:": {
+    "tmdbId": 56389,
+    "mediaType": "tv"
+  },
+  "v3:multi:acchikocchiaぇ:": {
+    "tmdbId": 254204,
+    "mediaType": "tv"
+  },
+  "v3:movie:unificationofjapan71:": {
+    "tmdbId": 1541768,
+    "mediaType": "movie"
+  },
+  "v3:movie:thepromisedneverland:": {
+    "tmdbId": 634521,
+    "mediaType": "movie"
+  },
+  "v3:multi:ariyoshiquiz:": {
+    "tmdbId": 107848,
+    "mediaType": "tv"
+  },
+  "v3:multi:travisjapannojustshinnihonisan:": {
+    "tmdbId": 283315,
+    "mediaType": "tv"
+  },
+  "v3:movie:godzillafinalwars:": {
+    "tmdbId": 15767,
+    "mediaType": "movie"
+  },
+  "v3:movie:doctorxthemoviefinal:": {
+    "tmdbId": 1306434,
+    "mediaType": "movie"
+  },
+  "v3:movie:asforme:": {
+    "tmdbId": 1403864,
+    "mediaType": "movie"
+  },
+  "v3:tv:あにいもうと:": {
+    "tmdbId": 334856,
+    "mediaType": "tv"
+  },
+  "v3:movie:whatifshogunieyasutokugawawastobecometheprimeminister:": {
+    "tmdbId": 1280498,
+    "mediaType": "movie"
+  },
+  "v3:multi:amancalledotto:": {
+    "tmdbId": 937278,
+    "mediaType": "movie"
+  },
+  "v3:multi:thepursuitofhappyness:": {
+    "tmdbId": 1402,
+    "mediaType": "movie"
+  },
+  "v3:movie:callboy:": {
+    "tmdbId": 499191,
+    "mediaType": "movie"
+  },
+  "v3:multi:jumanjithenextlevel:": {
+    "tmdbId": 512200,
+    "mediaType": "movie"
+  },
+  "v3:multi:kungfuhustle:": {
+    "tmdbId": 9470,
+    "mediaType": "movie"
+  },
+  "v3:movie:youmetuscany:": {
+    "tmdbId": 1455079,
+    "mediaType": "movie"
+  },
+  "v3:multi:magicrepomandumpedbymypartyillcashinwithacutesupportfairytobecomethestrongest:": {
+    "tmdbId": 333622,
+    "mediaType": "tv"
+  },
+  "v3:multi:eventhoughimasupertimidnoblegirliacceptedthebetfrommycunningfiancé:": {
+    "tmdbId": 303060,
+    "mediaType": "tv"
+  },
+  "v3:tv:littlelunch:": {
+    "tmdbId": 68472,
+    "mediaType": "tv"
+  },
+  "v3:multi:psyren:": {
+    "tmdbId": 297903,
+    "mediaType": "tv"
+  },
+  "v3:tv:adultery:": {
+    "tmdbId": 338641,
+    "mediaType": "tv"
+  },
+  "v3:tv:thelastship:": {
+    "tmdbId": 60802,
+    "mediaType": "tv"
+  },
+  "v3:tv:akilleramongfriends:": {
+    "tmdbId": 294219,
+    "mediaType": "tv"
+  },
+  "v3:tv:newlyweds:2026": {
+    "tmdbId": 322267,
+    "mediaType": "tv"
+  },
+  "v3:movie:vforvendetta:": {
+    "tmdbId": 752,
+    "mediaType": "movie"
+  },
+  "v3:tv:eastofeden:2026": {
+    "tmdbId": 258165,
+    "mediaType": "tv"
+  },
+  "v3:tv:90dayfiancé:": {
+    "tmdbId": 61575,
+    "mediaType": "tv"
+  },
+  "v3:movie:moana2:": {
+    "tmdbId": 1241982,
+    "mediaType": "movie"
+  },
+  "v3:tv:rjdecker:": {
+    "tmdbId": 302074,
+    "mediaType": "tv"
+  },
+  "v3:movie:findingnemo:": {
+    "tmdbId": 12,
+    "mediaType": "movie"
+  },
+  "v3:movie:altered:2025": {
+    "tmdbId": 1309012,
+    "mediaType": "movie"
+  },
+  "v3:tv:thependragoncycleriseofthemerlin:": {
+    "tmdbId": 235685,
+    "mediaType": "tv"
+  },
+  "v3:movie:theinventoroutforbloodinsiliconvalley:": {
+    "tmdbId": 566228,
+    "mediaType": "movie"
+  },
+  "v3:movie:billymadison:": {
+    "tmdbId": 11017,
+    "mediaType": "movie"
+  },
+  "v3:movie:southparkjoiningthepanderverse:": {
+    "tmdbId": 1190012,
+    "mediaType": "movie"
+  },
+  "v3:tv:spongebobsquarepants:": {
+    "tmdbId": 387,
+    "mediaType": "tv"
+  },
+  "v3:movie:mountainhead:": {
+    "tmdbId": 1417059,
+    "mediaType": "movie"
+  },
+  "v3:movie:southparkpostcovid:": {
+    "tmdbId": 874299,
+    "mediaType": "movie"
+  },
+  "v3:tv:fbi:": {
+    "tmdbId": 80748,
+    "mediaType": "tv"
+  },
+  "v3:tv:pen15:": {
+    "tmdbId": 85702,
+    "mediaType": "tv"
+  },
+  "v3:movie:southparkpostcovidthereturnofcovid:": {
+    "tmdbId": 874300,
+    "mediaType": "movie"
+  },
+  "v3:movie:stormbird:": {
+    "tmdbId": 1729559,
+    "mediaType": "movie"
+  },
+  "v3:movie:deathofaunicorn:": {
+    "tmdbId": 1153714,
+    "mediaType": "movie"
+  },
+  "v3:movie:pawpatrolthemightymovie:": {
+    "tmdbId": 893723,
+    "mediaType": "movie"
+  },
+  "v3:movie:marryme:2022": {
+    "tmdbId": 615904,
+    "mediaType": "movie"
+  },
+  "v3:movie:10thingsihateaboutyou:": {
+    "tmdbId": 4951,
+    "mediaType": "movie"
+  },
+  "v3:tv:loveislandaustralia:": {
+    "tmdbId": 79792,
+    "mediaType": "tv"
+  },
+  "v3:tv:unskilledadult:": {
+    "tmdbId": 337116,
+    "mediaType": "tv"
+  },
+  "v3:tv:americanhostage:2026": {
+    "tmdbId": 239618,
+    "mediaType": "tv"
+  },
+  "v3:tv:loveislandaustraliaunseenuncut:": {
+    "tmdbId": 340106,
+    "mediaType": "tv"
+  },
+  "v3:tv:thiscityisours:": {
+    "tmdbId": 255570,
+    "mediaType": "tv"
+  },
+  "v3:movie:themartian:": {
+    "tmdbId": 286217,
+    "mediaType": "movie"
+  },
+  "v3:tv:theassassin:2025": {
+    "tmdbId": 262352,
+    "mediaType": "tv"
+  },
+  "v3:tv:nicholasrossipredatorontrial:": {
+    "tmdbId": 313041,
+    "mediaType": "tv"
+  },
+  "v3:multi:cityonahill:": {
+    "tmdbId": 79618,
+    "mediaType": "tv"
+  },
+  "v3:multi:alertespelletier:": {
+    "tmdbId": 307440,
+    "mediaType": "tv"
+  },
+  "v3:multi:hildur:": {
+    "tmdbId": 312425,
+    "mediaType": "tv"
+  },
+  "v3:tv:time:2021": {
+    "tmdbId": 126116,
+    "mediaType": "tv"
+  },
+  "v3:multi:freezingembrace:": {
+    "tmdbId": 153512,
+    "mediaType": "tv"
+  },
+  "v3:multi:godzillavsdestoroyah:": {
+    "tmdbId": 12561,
+    "mediaType": "movie"
+  },
+  "v3:multi:blueisthewarmestcolor:": {
+    "tmdbId": 152584,
+    "mediaType": "movie"
+  },
+  "v3:multi:godzillavsmechagodzilla:": {
+    "tmdbId": 38582,
+    "mediaType": "movie"
+  },
+  "v3:multi:theworstpersonintheworld:": {
+    "tmdbId": 660120,
+    "mediaType": "movie"
+  },
+  "v3:multi:americanhorrorstory:": {
+    "tmdbId": 1413,
+    "mediaType": "tv"
+  },
+  "v3:multi:wentworth:": {
+    "tmdbId": 44856,
+    "mediaType": "tv"
+  },
+  "v3:multi:thegreatbritishbakeoff:2017": {
+    "tmdbId": 87012,
+    "mediaType": "tv"
+  },
+  "v3:multi:war:2026": {
+    "tmdbId": 298852,
+    "mediaType": "tv"
+  },
+  "v3:multi:laworderspecialvictimsunit:": {
+    "tmdbId": 2734,
+    "mediaType": "tv"
+  },
+  "v3:multi:ncis:": {
+    "tmdbId": 4614,
+    "mediaType": "tv"
+  },
+  "v3:multi:chicagofire:": {
+    "tmdbId": 44006,
+    "mediaType": "tv"
+  },
+  "v3:movie:acinderellastory:": {
+    "tmdbId": 11247,
+    "mediaType": "movie"
+  },
+  "v3:multi:chicagopd:": {
+    "tmdbId": 58841,
+    "mediaType": "tv"
+  },
+  "v3:movie:lilostitch:2025": {
+    "tmdbId": 552524,
+    "mediaType": "movie"
+  },
+  "v3:movie:teenagemutantninjaturtlesoutoftheshadows:": {
+    "tmdbId": 308531,
+    "mediaType": "movie"
+  },
+  "v3:multi:hotelportofino:": {
+    "tmdbId": 155623,
+    "mediaType": "tv"
+  },
+  "v3:multi:theaddamsfamily2:": {
+    "tmdbId": 639721,
+    "mediaType": "movie"
+  },
+  "v3:multi:stargateatlantis:": {
+    "tmdbId": 2290,
+    "mediaType": "tv"
+  },
+  "v3:multi:stargatesg1:": {
+    "tmdbId": 4629,
+    "mediaType": "tv"
+  },
+  "v3:multi:uptowngirls:": {
+    "tmdbId": 14926,
+    "mediaType": "movie"
+  },
+  "v3:multi:tedlasso:": {
+    "tmdbId": 97546,
+    "mediaType": "tv"
+  },
+  "v3:multi:tenzing:": {
+    "tmdbId": 1288069,
+    "mediaType": "movie"
+  },
+  "v3:multi:slowhorses:": {
+    "tmdbId": 95480,
+    "mediaType": "tv"
+  },
+  "v3:multi:bluebloods:": {
+    "tmdbId": 32692,
+    "mediaType": "tv"
+  },
+  "v3:multi:deathwish:2018": {
+    "tmdbId": 395990,
+    "mediaType": "movie"
+  },
+  "v3:multi:twisted:2026": {
+    "tmdbId": 1373198,
+    "mediaType": "movie"
+  },
+  "v3:multi:jimpa:": {
+    "tmdbId": 1286491,
+    "mediaType": "movie"
+  },
+  "v3:multi:joanriversapieceofwork:": {
+    "tmdbId": 41397,
+    "mediaType": "movie"
+  },
+  "v3:multi:stargatethearkoftruth:": {
+    "tmdbId": 13001,
+    "mediaType": "movie"
+  },
+  "v3:multi:deputy:": {
+    "tmdbId": 89498,
+    "mediaType": "tv"
+  },
+  "v3:multi:madeaswitnessprotection:": {
+    "tmdbId": 103370,
+    "mediaType": "movie"
+  },
+  "v3:multi:billionairemurders:": {
+    "tmdbId": 228869,
+    "mediaType": "tv"
+  },
+  "v3:multi:diaryofamadblackwoman:": {
+    "tmdbId": 16186,
+    "mediaType": "movie"
+  },
+  "v3:multi:wheretheliliesbloom:": {
+    "tmdbId": 128364,
+    "mediaType": "movie"
+  },
+  "v3:multi:madeasfamilyreunion:": {
+    "tmdbId": 16781,
+    "mediaType": "movie"
+  },
+  "v3:movie:donttroublethetrouble:": {
+    "tmdbId": 1261763,
+    "mediaType": "movie"
+  },
+  "v3:tv:thegreatindiankapilshow:": {
+    "tmdbId": 247769,
+    "mediaType": "tv"
+  },
+  "v3:tv:dhindora:": {
+    "tmdbId": 275204,
+    "mediaType": "tv"
+  },
+  "v3:tv:mtvroadies:": {
+    "tmdbId": 8426,
+    "mediaType": "tv"
+  },
+  "v3:movie:gajabraat:": {
+    "tmdbId": 1453407,
+    "mediaType": "movie"
+  },
+  "v3:tv:shaquetrustnoone:": {
+    "tmdbId": 285147,
+    "mediaType": "tv"
+  },
+  "v3:tv:leasteligiblebachelor:": {
+    "tmdbId": 337806,
+    "mediaType": "tv"
+  },
+  "v3:movie:hoteltransylvania2:": {
+    "tmdbId": 159824,
+    "mediaType": "movie"
+  },
+  "v3:movie:hoteltransylvania:": {
+    "tmdbId": 76492,
+    "mediaType": "movie"
+  },
+  "v3:movie:meethemeinkyahai:": {
+    "tmdbId": 1802464,
+    "mediaType": "movie"
+  },
+  "v3:movie:theangrybirdsmovie2:": {
+    "tmdbId": 454640,
+    "mediaType": "movie"
+  },
+  "v3:movie:wecanbeheroes:2020": {
+    "tmdbId": 615677,
+    "mediaType": "movie"
+  },
+  "v3:movie:howtotrainyourdragon:2025": {
+    "tmdbId": 1087192,
+    "mediaType": "movie"
+  },
+  "v3:movie:theangrybirdsmovie:": {
+    "tmdbId": 153518,
+    "mediaType": "movie"
+  },
+  "v3:tv:manvsbaby:": {
+    "tmdbId": 279601,
+    "mediaType": "tv"
+  },
+  "v3:tv:unicornacademysecretsrevealed:": {
+    "tmdbId": 316945,
+    "mediaType": "tv"
+  },
+  "v3:tv:mightybheemsplaytime:": {
+    "tmdbId": 242739,
+    "mediaType": "tv"
+  },
+  "v3:tv:jurassicworldcampcretaceous:": {
+    "tmdbId": 93741,
+    "mediaType": "tv"
+  },
+  "v3:tv:mermaidmagic:": {
+    "tmdbId": 231725,
+    "mediaType": "tv"
+  },
+  "v3:tv:mightylittlebheem:": {
+    "tmdbId": 88393,
+    "mediaType": "tv"
+  },
+  "v3:movie:comradekalyan:": {
+    "tmdbId": 1428295,
+    "mediaType": "movie"
+  },
+  "v3:movie:siyugandhar:": {
+    "tmdbId": 1811964,
+    "mediaType": "movie"
+  },
+  "v3:tv:chaaryaar:": {
+    "tmdbId": 338918,
+    "mediaType": "tv"
+  },
+  "v3:movie:khalifatheruler:": {
+    "tmdbId": 1036081,
+    "mediaType": "movie"
+  },
+  "v3:movie:awarapan2:": {
+    "tmdbId": 1444466,
+    "mediaType": "movie"
+  },
+  "v3:movie:leninpandiyan:": {
+    "tmdbId": 1563192,
+    "mediaType": "movie"
+  },
+  "v3:movie:avaraachansons:": {
+    "tmdbId": 1290035,
+    "mediaType": "movie"
+  },
+  "v3:tv:waitinghai:": {
+    "tmdbId": 335332,
+    "mediaType": "tv"
+  },
+  "v3:movie:wolfs:": {
+    "tmdbId": 877817,
+    "mediaType": "movie"
+  },
+  "v3:movie:eternalsunshineofthespotlessmind:": {
+    "tmdbId": 38,
+    "mediaType": "movie"
+  },
+  "v3:movie:thedarkheaven:": {
+    "tmdbId": 1618200,
+    "mediaType": "movie"
+  },
+  "v3:movie:thefurious:": {
+    "tmdbId": 1280738,
+    "mediaType": "movie"
+  },
+  "v3:tv:dupahiya:": {
+    "tmdbId": 249755,
+    "mediaType": "tv"
+  },
+  "v3:movie:johnwick:": {
+    "tmdbId": 245891,
+    "mediaType": "movie"
+  },
+  "v3:movie:duneparttwo:": {
+    "tmdbId": 693134,
+    "mediaType": "movie"
+  },
+  "v3:movie:gangsofwasseypurpart2:": {
+    "tmdbId": 126400,
+    "mediaType": "movie"
+  },
+  "v3:movie:gangsofwasseypurpart1:": {
+    "tmdbId": 117691,
+    "mediaType": "movie"
+  },
+  "v3:movie:veerzaara:": {
+    "tmdbId": 4251,
+    "mediaType": "movie"
+  },
+  "v3:movie:anakapalli:": {
+    "tmdbId": 1690876,
+    "mediaType": "movie"
+  },
+  "v3:tv:duniyakithainthain:": {
+    "tmdbId": 339517,
+    "mediaType": "tv"
+  },
+  "v3:multi:ved:": {
+    "tmdbId": 913544,
+    "mediaType": "movie"
+  },
+  "v3:multi:aatahoudedhingaana:": {
+    "tmdbId": 282179,
+    "mediaType": "tv"
+  },
+  "v3:multi:thelegendofhanuman:": {
+    "tmdbId": 117736,
+    "mediaType": "tv"
+  },
+  "v3:multi:baipanbharideva:": {
+    "tmdbId": 1146339,
+    "mediaType": "movie"
+  },
+  "v3:multi:mirai:2025": {
+    "tmdbId": 1222479,
+    "mediaType": "movie"
+  },
+  "v3:multi:sumodidi:": {
+    "tmdbId": 1186823,
+    "mediaType": "movie"
+  },
+  "v3:multi:zarahatkezarabachke:": {
+    "tmdbId": 920679,
+    "mediaType": "movie"
+  },
+  "v3:multi:poojamerijaan:": {
+    "tmdbId": 1220538,
+    "mediaType": "movie"
+  },
+  "v3:multi:jananayagan:": {
+    "tmdbId": 1235877,
+    "mediaType": "movie"
+  },
+  "v3:multi:birdcageinn:": {
+    "tmdbId": 2777,
+    "mediaType": "movie"
+  },
+  "v3:tv:therules:": {
+    "tmdbId": 330613,
+    "mediaType": "tv"
+  },
+  "v3:multi:adkitta:": {
+    "tmdbId": 1768221,
+    "mediaType": "movie"
+  },
+  "v3:tv:royalbetrothal:": {
+    "tmdbId": 295599,
+    "mediaType": "tv"
+  },
+  "v3:tv:makeitright2026:2026": {
+    "tmdbId": 327403,
+    "mediaType": "tv"
+  },
+  "v3:multi:parimalaandco:": {
+    "tmdbId": 1602337,
+    "mediaType": "movie"
+  },
+  "v3:movie:detectiveconandramaspecial1theletterofchallenge:": {
+    "tmdbId": 334118,
+    "mediaType": "movie"
+  },
+  "v3:movie:crayonshinchanthemovieourdinosaurdiary:": {
+    "tmdbId": 1221404,
+    "mediaType": "movie"
+  },
+  "v3:movie:venomlettherebecarnage:": {
+    "tmdbId": 580489,
+    "mediaType": "movie"
+  },
+  "v3:movie:badboysforlife:": {
+    "tmdbId": 38700,
+    "mediaType": "movie"
+  },
+  "v3:movie:venom:2018": {
+    "tmdbId": 335983,
+    "mediaType": "movie"
+  },
+  "v3:movie:detectiveconandramaspecial2confrontationwiththemeninblack:": {
+    "tmdbId": 47338,
+    "mediaType": "movie"
+  },
+  "v3:tv:f4thailandboysoverflowers:": {
+    "tmdbId": 153378,
+    "mediaType": "tv"
+  },
+  "v3:tv:blackclover:": {
+    "tmdbId": 73223,
+    "mediaType": "tv"
+  },
+  "v3:tv:detectiveconan:": {
+    "tmdbId": 30983,
+    "mediaType": "tv"
+  },
+  "v3:tv:gooddoctor:2024": {
+    "tmdbId": 274230,
+    "mediaType": "tv"
+  },
+  "v3:tv:theeternalfragrance:": {
+    "tmdbId": 251600,
+    "mediaType": "tv"
+  },
+  "v3:tv:bleach:": {
+    "tmdbId": 30984,
+    "mediaType": "tv"
+  },
+  "v3:tv:sinfulmarriage:": {
+    "tmdbId": 284934,
+    "mediaType": "tv"
+  },
+  "v3:tv:onlyforlove:2023": {
+    "tmdbId": 233194,
+    "mediaType": "tv"
+  },
+  "v3:movie:herinframe:": {
+    "tmdbId": 1746731,
+    "mediaType": "movie"
+  },
+  "v3:movie:mrhurt:": {
+    "tmdbId": 466023,
+    "mediaType": "movie"
+  },
+  "v3:tv:smalltownremedy:": {
+    "tmdbId": 285625,
+    "mediaType": "tv"
+  },
+  "v3:tv:theshadowsovereign:": {
+    "tmdbId": 313642,
+    "mediaType": "tv"
+  },
+  "v3:movie:thedjinnscurse2:": {
+    "tmdbId": 1469229,
+    "mediaType": "movie"
+  },
+  "v3:movie:h2oh:": {
+    "tmdbId": 126809,
+    "mediaType": "movie"
+  },
+  "v3:tv:hellskitchenthailand:": {
+    "tmdbId": 307323,
+    "mediaType": "tv"
+  },
+  "v3:movie:rampage:2018": {
+    "tmdbId": 427641,
+    "mediaType": "movie"
+  },
+  "v3:tv:seeyouatworktomorrow:": {
+    "tmdbId": 289763,
+    "mediaType": "tv"
+  },
+  "v3:movie:luck:2022": {
+    "tmdbId": 585511,
+    "mediaType": "movie"
+  },
+  "v3:movie:godzillakingofthemonsters:2019": {
+    "tmdbId": 373571,
+    "mediaType": "movie"
+  },
+  "v3:tv:quitethegirl:": {
+    "tmdbId": 338103,
+    "mediaType": "tv"
+  },
+  "v3:tv:thehiddenhand:": {
+    "tmdbId": 336491,
+    "mediaType": "tv"
+  },
+  "v3:tv:idolstable:": {
+    "tmdbId": 336472,
+    "mediaType": "tv"
+  },
+  "v3:tv:wheneverpossible:": {
+    "tmdbId": 247805,
+    "mediaType": "tv"
+  },
+  "v3:tv:sinsandroses:": {
+    "tmdbId": 300388,
+    "mediaType": "tv"
+  },
+  "v3:movie:danceofthedamned:": {
+    "tmdbId": 27481,
+    "mediaType": "movie"
+  },
+  "v3:movie:nakee2:": {
+    "tmdbId": 554792,
+    "mediaType": "movie"
+  },
+  "v3:movie:skulltop:": {
+    "tmdbId": 485311,
+    "mediaType": "movie"
+  },
+  "v3:tv:bayangandendam:": {
+    "tmdbId": 339692,
+    "mediaType": "tv"
+  },
+  "v3:movie:kuyank:": {
+    "tmdbId": 1319125,
+    "mediaType": "movie"
+  },
+  "v3:movie:tekatekitika:": {
+    "tmdbId": 811741,
+    "mediaType": "movie"
+  },
+  "v3:tv:friendssexandgames:": {
+    "tmdbId": 298550,
+    "mediaType": "tv"
+  },
+  "v3:movie:mortalkombatii:": {
+    "tmdbId": 931285,
+    "mediaType": "movie"
+  },
+  "v3:multi:colony:2026": {
+    "tmdbId": 1375646,
+    "mediaType": "movie"
+  },
+  "v3:movie:ceritalila:": {
+    "tmdbId": 1590613,
+    "mediaType": "movie"
+  },
+  "v3:movie:thevillainess:2017": {
+    "tmdbId": 437109,
+    "mediaType": "movie"
+  },
+  "v3:movie:theimmortalwitch:": {
+    "tmdbId": 1148353,
+    "mediaType": "movie"
+  },
+  "v3:movie:idontbelieveyoudied:": {
+    "tmdbId": 634802,
+    "mediaType": "movie"
+  },
+  "v3:movie:basicinstinct:": {
+    "tmdbId": 402,
+    "mediaType": "movie"
+  },
+  "v3:tv:theagency:2024": {
+    "tmdbId": 219971,
+    "mediaType": "tv"
+  },
+  "v3:tv:motelmelatitheseries:": {
+    "tmdbId": 232886,
+    "mediaType": "tv"
+  },
+  "v3:tv:spartacushouseofashur:": {
+    "tmdbId": 240459,
+    "mediaType": "tv"
+  },
+  "v3:tv:pote:": {
+    "tmdbId": 335719,
+    "mediaType": "tv"
+  },
+  "v3:multi:loveonthemenu:2019": {
+    "tmdbId": 577736,
+    "mediaType": "movie"
+  },
+  "v3:multi:holynightdemonhunters:": {
+    "tmdbId": 793387,
+    "mediaType": "movie"
+  },
+  "v3:multi:mybiasmyboss:": {
+    "tmdbId": 296140,
+    "mediaType": "tv"
+  },
+  "v3:multi:exhuma:": {
+    "tmdbId": 838209,
+    "mediaType": "movie"
+  },
+  "v3:multi:royalsecretagent:": {
+    "tmdbId": 114149,
+    "mediaType": "tv"
+  },
+  "v3:multi:studygroup:": {
+    "tmdbId": 233347,
+    "mediaType": "tv"
+  },
+  "v3:multi:heartmanrockandlove:": {
+    "tmdbId": 863149,
+    "mediaType": "movie"
+  },
+  "v3:tv:spartacus:2010": {
+    "tmdbId": 46296,
+    "mediaType": "tv"
+  },
+  "v3:movie:gudangmerica:": {
+    "tmdbId": 1581587,
+    "mediaType": "movie"
+  },
+  "v3:movie:buyahamkavol1:": {
+    "tmdbId": 960769,
+    "mediaType": "movie"
+  },
+  "v3:movie:myhusbandmywound:": {
+    "tmdbId": 1573835,
+    "mediaType": "movie"
+  },
+  "v3:movie:thelastflight:2026": {
+    "tmdbId": 1560734,
+    "mediaType": "movie"
+  },
+  "v3:movie:ikatandarah:": {
+    "tmdbId": 1421155,
+    "mediaType": "movie"
+  },
+  "v3:multi:thek2:": {
+    "tmdbId": 67391,
+    "mediaType": "tv"
+  },
+  "v3:movie:suddenlysatan:": {
+    "tmdbId": 1525059,
+    "mediaType": "movie"
+  },
+  "v3:movie:snakeeyesgijoeorigins:": {
+    "tmdbId": 568620,
+    "mediaType": "movie"
+  },
+  "v3:tv:familybychoice:": {
+    "tmdbId": 237565,
+    "mediaType": "tv"
+  },
+  "v3:tv:beautyempire:": {
+    "tmdbId": 289434,
+    "mediaType": "tv"
+  },
+  "v3:tv:doctorjohn:": {
+    "tmdbId": 90706,
+    "mediaType": "tv"
+  },
+  "v3:movie:agaklaen:": {
+    "tmdbId": 1175161,
+    "mediaType": "movie"
+  },
+  "v3:tv:explorationmethodoflove:": {
+    "tmdbId": 229217,
+    "mediaType": "tv"
+  },
+  "v3:tv:fireworksofmyheart:": {
+    "tmdbId": 216445,
+    "mediaType": "tv"
+  },
+  "v3:tv:skiintolove:": {
+    "tmdbId": 247207,
+    "mediaType": "tv"
+  },
+  "v3:tv:fallingintoyoursmile:": {
+    "tmdbId": 95486,
+    "mediaType": "tv"
+  },
+  "v3:tv:queenwoo:": {
+    "tmdbId": 224732,
+    "mediaType": "tv"
+  },
+  "v3:movie:theconjuring:": {
+    "tmdbId": 138843,
+    "mediaType": "movie"
+  },
+  "v3:movie:gjlsibukuibuibu:": {
+    "tmdbId": 1308412,
+    "mediaType": "movie"
+  },
+  "v3:tv:balarawbloodisland:": {
+    "tmdbId": 313699,
+    "mediaType": "tv"
+  },
+  "v3:tv:someonesomeday:": {
+    "tmdbId": 305830,
+    "mediaType": "tv"
+  },
+  "v3:tv:themastercutter:": {
+    "tmdbId": 320973,
+    "mediaType": "tv"
+  },
+  "v3:tv:mommyguard:": {
+    "tmdbId": 338329,
+    "mediaType": "tv"
+  },
+  "v3:tv:honorthymother:": {
+    "tmdbId": 319722,
+    "mediaType": "tv"
+  },
+  "v3:movie:thehallowed:": {
+    "tmdbId": 1666464,
+    "mediaType": "movie"
+  },
+  "v3:tv:comedyislandphilippines:": {
+    "tmdbId": 231460,
+    "mediaType": "tv"
+  },
+  "v3:tv:theloyaltygame:": {
+    "tmdbId": 319720,
+    "mediaType": "tv"
+  },
+  "v3:movie:lovengo:": {
+    "tmdbId": 1700944,
+    "mediaType": "movie"
+  },
+  "v3:movie:bunny:2026": {
+    "tmdbId": 1528577,
+    "mediaType": "movie"
+  },
+  "v3:movie:whitechicks:": {
+    "tmdbId": 12153,
+    "mediaType": "movie"
+  },
+  "v3:movie:the4rascals:": {
+    "tmdbId": 1391703,
+    "mediaType": "movie"
+  },
+  "v3:movie:thedanishgirl:": {
+    "tmdbId": 306819,
+    "mediaType": "movie"
+  },
+  "v3:movie:pacificrim:": {
+    "tmdbId": 68726,
+    "mediaType": "movie"
+  },
+  "v3:tv:thesnoopyshow:": {
+    "tmdbId": 110948,
+    "mediaType": "tv"
+  },
+  "v3:movie:jurassicpark:": {
+    "tmdbId": 329,
+    "mediaType": "movie"
+  },
+  "v3:movie:indianajonesandthekingdomofthecrystalskull:": {
+    "tmdbId": 217,
+    "mediaType": "movie"
+  },
+  "v3:movie:argylle:": {
+    "tmdbId": 848538,
+    "mediaType": "movie"
+  },
+  "v3:tv:dschungeldivasluxushatseinenpreis:": {
+    "tmdbId": 329186,
+    "mediaType": "tv"
+  },
+  "v3:movie:nxthalloweenhavoc2026:2026": {
+    "tmdbId": 1759006,
+    "mediaType": "movie"
+  },
+  "v3:tv:dielandarztpraxisteamsonnenhof:": {
+    "tmdbId": 326438,
+    "mediaType": "tv"
+  },
+  "v3:tv:werstiehltmirdieshow:": {
+    "tmdbId": 117057,
+    "mediaType": "tv"
+  },
+  "v3:movie:themummy:2017": {
+    "tmdbId": 282035,
+    "mediaType": "movie"
+  },
+  "v3:tv:thevoiceofgermany:": {
+    "tmdbId": 41814,
+    "mediaType": "tv"
+  },
+  "v3:tv:clubderrealitydetektive:": {
+    "tmdbId": 337044,
+    "mediaType": "tv"
+  },
+  "v3:tv:shooter:": {
+    "tmdbId": 66857,
+    "mediaType": "tv"
+  },
+  "v3:movie:dasperfektegeheimnis:": {
+    "tmdbId": 620881,
+    "mediaType": "movie"
+  },
+  "v3:movie:extrawurst:": {
+    "tmdbId": 1427838,
+    "mediaType": "movie"
+  },
+  "v3:tv:herowithoutaclasswhoevenneedsskills:": {
+    "tmdbId": 236565,
+    "mediaType": "tv"
+  },
+  "v3:tv:bobosiebenschläfer:": {
+    "tmdbId": 69389,
+    "mediaType": "tv"
+  },
+  "v3:movie:deadofwinter:2025": {
+    "tmdbId": 1235746,
+    "mediaType": "movie"
+  },
+  "v3:movie:badmoms:": {
+    "tmdbId": 376659,
+    "mediaType": "movie"
+  },
+  "v3:movie:thebaadermeinhofcomplex:": {
+    "tmdbId": 6968,
+    "mediaType": "movie"
+  },
+  "v3:movie:indianajonesandthelastcrusade:": {
+    "tmdbId": 89,
+    "mediaType": "movie"
+  },
+  "v3:movie:civilwar:2024": {
+    "tmdbId": 929590,
+    "mediaType": "movie"
+  },
+  "v3:movie:anightmareonelmstreet:1984": {
+    "tmdbId": 377,
+    "mediaType": "movie"
+  },
+  "v3:movie:thedevilsbath:": {
+    "tmdbId": 931944,
+    "mediaType": "movie"
+  },
+  "v3:movie:returntosilenthill:": {
+    "tmdbId": 680493,
+    "mediaType": "movie"
+  },
+  "v3:tv:4blockszero:": {
+    "tmdbId": 310133,
+    "mediaType": "tv"
+  },
+  "v3:tv:zmora:": {
+    "tmdbId": 279185,
+    "mediaType": "tv"
+  },
+  "v3:movie:storks:": {
+    "tmdbId": 332210,
+    "mediaType": "movie"
+  },
+  "v3:tv:thepower:2023": {
+    "tmdbId": 95558,
+    "mediaType": "tv"
+  },
+  "v3:tv:sandokan:2025": {
+    "tmdbId": 271855,
+    "mediaType": "tv"
+  },
+  "v3:tv:adiscoveryofwitches:": {
+    "tmdbId": 77236,
+    "mediaType": "tv"
+  },
+  "v3:multi:teenagemutantninjaturtlesoutoftheshadows:": {
+    "tmdbId": 308531,
+    "mediaType": "movie"
+  },
+  "v3:multi:heatedrivalry:": {
+    "tmdbId": 301507,
+    "mediaType": "tv"
+  },
+  "v3:tv:rosewood:": {
+    "tmdbId": 63329,
+    "mediaType": "tv"
+  },
+  "v3:tv:7vswild:": {
+    "tmdbId": 139434,
+    "mediaType": "tv"
+  },
+  "v3:movie:daughterofthewolf:": {
+    "tmdbId": 525657,
+    "mediaType": "movie"
+  },
+  "v3:movie:thecountofmontecristo:2024": {
+    "tmdbId": 1084736,
+    "mediaType": "movie"
+  },
+  "v3:movie:sicariodayofthesoldado:": {
+    "tmdbId": 400535,
+    "mediaType": "movie"
+  },
+  "v3:movie:thewingorthethigh:": {
+    "tmdbId": 761,
+    "mediaType": "movie"
+  },
+  "v3:tv:thekingofqueens:": {
+    "tmdbId": 4238,
+    "mediaType": "tv"
+  },
+  "v3:tv:avatarsevenhavens:": {
+    "tmdbId": 284833,
+    "mediaType": "tv"
+  },
+  "v3:tv:forallmankind:2019": {
+    "tmdbId": 87917,
+    "mediaType": "tv"
+  },
+  "v3:movie:evildeadburn:": {
+    "tmdbId": 1212763,
+    "mediaType": "movie"
+  },
+  "v3:tv:dasgrossepromibüssen:": {
+    "tmdbId": 205586,
+    "mediaType": "tv"
+  },
+  "v3:multi:startrekstrangenewworlds:": {
+    "tmdbId": 103516,
+    "mediaType": "tv"
+  },
+  "v3:movie:citizenvigilante:": {
+    "tmdbId": 1413976,
+    "mediaType": "movie"
+  },
+  "v3:tv:marriedwithchildren:": {
+    "tmdbId": 4239,
+    "mediaType": "tv"
+  },
+  "v3:tv:swampthing:2019": {
+    "tmdbId": 79240,
+    "mediaType": "tv"
+  },
+  "v3:tv:truedetective:2014": {
+    "tmdbId": 46648,
+    "mediaType": "tv"
+  },
+  "v3:tv:batmanbeyond:": {
+    "tmdbId": 513,
+    "mediaType": "tv"
+  },
+  "v3:movie:mutiny:2026": {
+    "tmdbId": 1288445,
+    "mediaType": "movie"
+  },
+  "v3:movie:persianlessons:": {
+    "tmdbId": 581577,
+    "mediaType": "movie"
+  },
+  "v3:movie:nuremberg:2025": {
+    "tmdbId": 1214931,
+    "mediaType": "movie"
+  },
+  "v3:movie:thelastdaysofdisco:": {
+    "tmdbId": 16980,
+    "mediaType": "movie"
+  },
+  "v3:tv:westworld:2016": {
+    "tmdbId": 63247,
+    "mediaType": "tv"
+  },
+  "v3:movie:rearwindow:1954": {
+    "tmdbId": 567,
+    "mediaType": "movie"
+  },
+  "v3:tv:thenewavengers:": {
+    "tmdbId": 10360,
+    "mediaType": "tv"
+  },
+  "v3:multi:thosewhokillshadowofthepast:": {
+    "tmdbId": 118946,
+    "mediaType": "movie"
+  },
+  "v3:multi:jordskott:": {
+    "tmdbId": 62097,
+    "mediaType": "tv"
+  },
+  "v3:multi:darknessthosewhokill:": {
+    "tmdbId": 87542,
+    "mediaType": "tv"
+  },
+  "v3:multi:thegirlwhoplayedwithfire:": {
+    "tmdbId": 24253,
+    "mediaType": "movie"
+  },
+  "v3:tv:4blocks:": {
+    "tmdbId": 71641,
+    "mediaType": "tv"
+  },
+  "v3:multi:stockholmrequiem:": {
+    "tmdbId": 82855,
+    "mediaType": "tv"
+  },
+  "v3:movie:exitprotocol:": {
+    "tmdbId": 1293167,
+    "mediaType": "movie"
+  },
+  "v3:multi:agenthamilton:": {
+    "tmdbId": 97079,
+    "mediaType": "tv"
+  },
+  "v3:movie:mymotherswedding:": {
+    "tmdbId": 985602,
+    "mediaType": "movie"
+  },
+  "v3:movie:ghostbustersii:": {
+    "tmdbId": 2978,
+    "mediaType": "movie"
+  },
+  "v3:movie:ghostbustersafterlife:": {
+    "tmdbId": 425909,
+    "mediaType": "movie"
+  },
+  "v3:tv:bluebloods:": {
+    "tmdbId": 32692,
+    "mediaType": "tv"
+  },
+  "v3:tv:theark:2023": {
+    "tmdbId": 47663,
+    "mediaType": "tv"
+  },
+  "v3:tv:numb3rs:": {
+    "tmdbId": 578,
+    "mediaType": "tv"
+  },
+  "v3:tv:firecountry:2022": {
+    "tmdbId": 202297,
+    "mediaType": "tv"
+  },
+  "v3:tv:murdochmysteries:": {
+    "tmdbId": 12786,
+    "mediaType": "tv"
+  },
+  "v3:multi:thenorthsea:": {
+    "tmdbId": 833730,
+    "mediaType": "movie"
+  },
+  "v3:movie:thechristmascookbook:": {
+    "tmdbId": 1564000,
+    "mediaType": "movie"
+  },
+  "v3:movie:oldwhiteman:": {
+    "tmdbId": 1219560,
+    "mediaType": "movie"
+  },
+  "v3:movie:thecrimsonrivers:": {
+    "tmdbId": 60670,
+    "mediaType": "movie"
+  },
+  "v3:movie:christmasatthecatnipcafé:": {
+    "tmdbId": 1545999,
+    "mediaType": "movie"
+  },
+  "v3:movie:christmasuncorked:": {
+    "tmdbId": 1730031,
+    "mediaType": "movie"
+  },
+  "v3:movie:christmaswiththeknightlys:": {
+    "tmdbId": 1195469,
+    "mediaType": "movie"
+  },
+  "v3:movie:flippingforchristmas:2023": {
+    "tmdbId": 1180394,
+    "mediaType": "movie"
+  },
+  "v3:movie:theledge:2022": {
+    "tmdbId": 924482,
+    "mediaType": "movie"
+  },
+  "v3:movie:ifionlyhadchristmas:": {
+    "tmdbId": 737766,
+    "mediaType": "movie"
+  },
+  "v3:tv:thedayofthejackal:2024": {
+    "tmdbId": 222766,
+    "mediaType": "tv"
+  },
+  "v3:tv:attackontitan:": {
+    "tmdbId": 1429,
+    "mediaType": "tv"
+  },
+  "v3:tv:thetattooistofauschwitz:": {
+    "tmdbId": 222405,
+    "mediaType": "tv"
+  },
+  "v3:tv:memoryofakiller:": {
+    "tmdbId": 291339,
+    "mediaType": "tv"
+  },
+  "v3:tv:twoandahalfmen:": {
+    "tmdbId": 2691,
+    "mediaType": "tv"
+  },
+  "v3:multi:gutezeitenschlechtezeiten:": {
+    "tmdbId": 13945,
+    "mediaType": "tv"
+  },
+  "v3:tv:matlock:1986": {
+    "tmdbId": 2093,
+    "mediaType": "tv"
+  },
+  "v3:multi:berlintagnacht:": {
+    "tmdbId": 45885,
+    "mediaType": "tv"
+  },
+  "v3:multi:alleswaszählt:": {
+    "tmdbId": 14686,
+    "mediaType": "tv"
+  },
+  "v3:multi:areyoutheonerealitystarsinlove:": {
+    "tmdbId": 128838,
+    "mediaType": "tv"
+  },
+  "v3:multi:doc:2025": {
+    "tmdbId": 255055,
+    "mediaType": "tv"
+  },
+  "v3:multi:dassommerhausderstarskampfderpromipaare:": {
+    "tmdbId": 81097,
+    "mediaType": "tv"
+  },
+  "v3:tv:clubderrotenbänderdieneuegeneration:": {
+    "tmdbId": 330490,
+    "mediaType": "tv"
+  },
+  "v3:multi:unteruns:": {
+    "tmdbId": 17892,
+    "mediaType": "tv"
+  },
+  "v3:tv:hogansheroes:": {
+    "tmdbId": 4068,
+    "mediaType": "tv"
+  },
+  "v3:multi:hartzundherzlichtagfürtag:": {
+    "tmdbId": 132569,
+    "mediaType": "tv"
+  },
+  "v3:multi:4blockszero:": {
+    "tmdbId": 310133,
+    "mediaType": "tv"
+  },
+  "v3:multi:derpromihof:": {
+    "tmdbId": 301951,
+    "mediaType": "tv"
+  },
+  "v3:multi:stargateuniverse:": {
+    "tmdbId": 5148,
+    "mediaType": "tv"
+  },
+  "v3:multi:attackontitan:2015": {
+    "tmdbId": 295830,
+    "mediaType": "movie"
+  },
+  "v3:multi:childrenofmen:": {
+    "tmdbId": 9693,
+    "mediaType": "movie"
+  },
+  "v3:multi:thething:1982": {
+    "tmdbId": 1091,
+    "mediaType": "movie"
+  },
+  "v3:multi:whydidigetmarried:": {
+    "tmdbId": 17202,
+    "mediaType": "movie"
+  },
+  "v3:multi:halloweeniiiseasonofthewitch:": {
+    "tmdbId": 10676,
+    "mediaType": "movie"
+  },
+  "v3:multi:thesubstance:": {
+    "tmdbId": 933260,
+    "mediaType": "movie"
+  },
+  "v3:multi:hellraiserjudgment:": {
+    "tmdbId": 444149,
+    "mediaType": "movie"
+  },
+  "v3:movie:thebadguys2:": {
+    "tmdbId": 1175942,
+    "mediaType": "movie"
+  },
+  "v3:multi:theninthgate:": {
+    "tmdbId": 622,
+    "mediaType": "movie"
+  },
+  "v3:tv:djadelshow:": {
+    "tmdbId": 339290,
+    "mediaType": "tv"
+  },
+  "v3:tv:mayfairwitches:": {
+    "tmdbId": 207863,
+    "mediaType": "tv"
+  },
+  "v3:movie:thatchristmas:": {
+    "tmdbId": 645757,
+    "mediaType": "movie"
+  },
+  "v3:movie:old:": {
+    "tmdbId": 631843,
+    "mediaType": "movie"
+  },
+  "v3:movie:thewolfscall:": {
+    "tmdbId": 484468,
+    "mediaType": "movie"
+  },
+  "v3:movie:finaldestination3:": {
+    "tmdbId": 9286,
+    "mediaType": "movie"
+  },
+  "v3:tv:theelfontheshelfsweetshowdown:": {
+    "tmdbId": 239921,
+    "mediaType": "tv"
+  },
+  "v3:movie:finaldestination5:": {
+    "tmdbId": 55779,
+    "mediaType": "movie"
+  },
+  "v3:tv:thenarcohack:": {
+    "tmdbId": 337950,
+    "mediaType": "tv"
+  },
+  "v3:movie:exorcistiitheheretic:": {
+    "tmdbId": 11586,
+    "mediaType": "movie"
+  },
+  "v3:movie:kirikouandthesorceress:": {
+    "tmdbId": 21348,
+    "mediaType": "movie"
+  },
+  "v3:tv:minimumsecurity:": {
+    "tmdbId": 299255,
+    "mediaType": "tv"
+  },
+  "v3:tv:catseyes:": {
+    "tmdbId": 222176,
+    "mediaType": "tv"
+  },
+  "v3:tv:r91:": {
+    "tmdbId": 306163,
+    "mediaType": "tv"
+  },
+  "v3:movie:missionimpossiblethefinalreckoning:": {
+    "tmdbId": 575265,
+    "mediaType": "movie"
+  },
+  "v3:tv:paullasérie:": {
+    "tmdbId": 300925,
+    "mediaType": "tv"
+  },
+  "v3:multi:thenarcohack:2026": {
+    "tmdbId": 337950,
+    "mediaType": "tv"
+  },
+  "v3:movie:avengement:2019": {
+    "tmdbId": 534490,
+    "mediaType": "movie"
+  },
+  "v3:tv:tylerperrysruthless:": {
+    "tmdbId": 100575,
+    "mediaType": "tv"
+  },
+  "v3:movie:waroftheworldstheattack:": {
+    "tmdbId": 1103825,
+    "mediaType": "movie"
+  },
+  "v3:movie:degaulleliberté:": {
+    "tmdbId": 1165369,
+    "mediaType": "movie"
+  },
+  "v3:multi:widowsbay:": {
+    "tmdbId": 270476,
+    "mediaType": "tv"
+  },
+  "v3:movie:lifeafterfighting:": {
+    "tmdbId": 1289601,
+    "mediaType": "movie"
+  },
+  "v3:movie:degaullerésistance:": {
+    "tmdbId": 1165366,
+    "mediaType": "movie"
+  },
+  "v3:movie:permisdedétruire:": {
+    "tmdbId": 1538731,
+    "mediaType": "movie"
+  },
+  "v3:movie:supergirl:2026": {
+    "tmdbId": 1081003,
+    "mediaType": "movie"
+  },
+  "v3:multi:pluribus:": {
+    "tmdbId": 225171,
+    "mediaType": "tv"
+  },
+  "v3:movie:thedinnergame:": {
+    "tmdbId": 9421,
+    "mediaType": "movie"
+  },
+  "v3:movie:jimqueenandthequestforchloroqueer:": {
+    "tmdbId": 1061798,
+    "mediaType": "movie"
+  },
+  "v3:tv:drdeath:": {
+    "tmdbId": 93749,
+    "mediaType": "tv"
+  },
+  "v3:tv:shadowhunters:2016": {
+    "tmdbId": 63210,
+    "mediaType": "tv"
+  },
+  "v3:tv:gotham:": {
+    "tmdbId": 60708,
+    "mediaType": "tv"
+  },
+  "v3:tv:interviewwiththevampire:2022": {
+    "tmdbId": 128098,
+    "mediaType": "tv"
+  },
+  "v3:tv:theact:": {
+    "tmdbId": 82883,
+    "mediaType": "tv"
+  },
+  "v3:tv:magnumpi:2018": {
+    "tmdbId": 79593,
+    "mediaType": "tv"
+  },
+  "v3:movie:screamvi:": {
+    "tmdbId": 934433,
+    "mediaType": "movie"
+  },
+  "v3:multi:theraysandshadows:": {
+    "tmdbId": 1318335,
+    "mediaType": "movie"
+  },
+  "v3:multi:thechildrenoftheresistance:": {
+    "tmdbId": 1309400,
+    "mediaType": "movie"
+  },
+  "v3:tv:singapura:": {
+    "tmdbId": 252721,
+    "mediaType": "tv"
+  },
+  "v3:multi:cocorico2:": {
+    "tmdbId": 1437939,
+    "mediaType": "movie"
+  },
+  "v3:multi:kohlanta:": {
+    "tmdbId": 67997,
+    "mediaType": "tv"
+  },
+  "v3:tv:logout:": {
+    "tmdbId": 272468,
+    "mediaType": "tv"
+  },
+  "v3:multi:lavilladescoeursbrisés:": {
+    "tmdbId": 68628,
+    "mediaType": "tv"
+  },
+  "v3:tv:beverlyhills90210:": {
+    "tmdbId": 2025,
+    "mediaType": "tv"
+  },
+  "v3:multi:pokerface:2022": {
+    "tmdbId": 842934,
+    "mediaType": "movie"
+  },
+  "v3:movie:addamsfamilyvalues:": {
+    "tmdbId": 2758,
+    "mediaType": "movie"
+  },
+  "v3:movie:creediii:": {
+    "tmdbId": 677179,
+    "mediaType": "movie"
+  },
+  "v3:multi:lesduosimpossiblesdejérémyferrari11èmeédition1èrepartie:": {
+    "tmdbId": 1814493,
+    "mediaType": "movie"
+  },
+  "v3:movie:thebadguys:2022": {
+    "tmdbId": 629542,
+    "mediaType": "movie"
+  },
+  "v3:movie:expend4bles:": {
+    "tmdbId": 299054,
+    "mediaType": "movie"
+  },
+  "v3:tv:pokerface:2023": {
+    "tmdbId": 120998,
+    "mediaType": "tv"
+  },
+  "v3:movie:thegreenmile:": {
+    "tmdbId": 497,
+    "mediaType": "movie"
+  },
+  "v3:movie:superchondriac:": {
+    "tmdbId": 248507,
+    "mediaType": "movie"
+  },
+  "v3:movie:sentinelle:2023": {
+    "tmdbId": 1000081,
+    "mediaType": "movie"
+  },
+  "v3:tv:fbimostwanted:": {
+    "tmdbId": 94372,
+    "mediaType": "tv"
+  },
+  "v3:multi:scream7:": {
+    "tmdbId": 1159559,
+    "mediaType": "movie"
+  },
+  "v3:tv:hiphighintellectualpotential:": {
+    "tmdbId": 112738,
+    "mediaType": "tv"
+  },
+  "v3:tv:paixão:": {
+    "tmdbId": 73953,
+    "mediaType": "tv"
+  },
+  "v3:tv:afrenchvillage:": {
+    "tmdbId": 35046,
+    "mediaType": "tv"
+  },
+  "v3:multi:alexhugo:": {
+    "tmdbId": 67691,
+    "mediaType": "tv"
+  },
+  "v3:multi:chroniclesofthesun:": {
+    "tmdbId": 81329,
+    "mediaType": "tv"
+  },
+  "v3:movie:thetwilightsagabreakingdawnpart1:": {
+    "tmdbId": 50619,
+    "mediaType": "movie"
+  },
+  "v3:multi:surlefront:": {
+    "tmdbId": 100608,
+    "mediaType": "tv"
+  },
+  "v3:multi:lesdisparusdesargonnes:": {
+    "tmdbId": 305935,
+    "mediaType": "tv"
+  },
+  "v3:multi:wantedattrapemoisitupeux:": {
+    "tmdbId": 326780,
+    "mediaType": "tv"
+  },
+  "v3:multi:lafranceaunincroyabletalent:": {
+    "tmdbId": 19481,
+    "mediaType": "tv"
+  },
+  "v3:multi:lesapprentisaventuriers:": {
+    "tmdbId": 68760,
+    "mediaType": "tv"
+  },
+  "v3:tv:the100:": {
+    "tmdbId": 48866,
+    "mediaType": "tv"
+  },
+  "v3:multi:toutbeautoutn9uf:": {
+    "tmdbId": 291306,
+    "mediaType": "tv"
+  },
+  "v3:multi:cauchemarencuisineavecphilippeetchebest:": {
+    "tmdbId": 69021,
+    "mediaType": "tv"
+  },
+  "v3:movie:thefirststar:": {
+    "tmdbId": 15713,
+    "mediaType": "movie"
+  },
+  "v3:movie:aloveyou:": {
+    "tmdbId": 339186,
+    "mediaType": "movie"
+  },
+  "v3:movie:mesrinepublicenemy1:": {
+    "tmdbId": 15362,
+    "mediaType": "movie"
+  },
+  "v3:tv:underthedome:": {
+    "tmdbId": 46331,
+    "mediaType": "tv"
+  },
+  "v3:movie:singlewhitefemale:": {
+    "tmdbId": 9605,
+    "mediaType": "movie"
+  },
+  "v3:tv:karasevda:": {
+    "tmdbId": 65555,
+    "mediaType": "tv"
+  },
+  "v3:tv:24:": {
+    "tmdbId": 1973,
+    "mediaType": "tv"
+  },
+  "v3:multi:toutlemondeveutprendresaplace:": {
+    "tmdbId": 46272,
+    "mediaType": "tv"
+  },
+  "v3:multi:thenarcohack:": {
+    "tmdbId": 337950,
+    "mediaType": "tv"
+  },
+  "v3:multi:thesilenceofthelambs:": {
+    "tmdbId": 274,
+    "mediaType": "movie"
+  },
+  "v3:multi:3ninjas:": {
+    "tmdbId": 16314,
+    "mediaType": "movie"
+  },
+  "v3:multi:quelleépoque:": {
+    "tmdbId": 210931,
+    "mediaType": "tv"
+  },
+  "v3:multi:abronxtale:": {
+    "tmdbId": 1607,
+    "mediaType": "movie"
+  },
+  "v3:multi:pvalley:": {
+    "tmdbId": 87017,
+    "mediaType": "tv"
+  },
+  "v3:multi:lamesías:": {
+    "tmdbId": 201420,
+    "mediaType": "tv"
+  },
+  "v3:multi:familyresemblances:": {
+    "tmdbId": 14646,
+    "mediaType": "movie"
+  },
+  "v3:multi:leflambeaulesaventuriersdechupacabra:": {
+    "tmdbId": 202772,
+    "mediaType": "tv"
+  },
+  "v3:multi:bmf:": {
+    "tmdbId": 101591,
+    "mediaType": "tv"
+  },
+  "v3:multi:devilindisguisejohnwaynegacy:": {
+    "tmdbId": 257534,
+    "mediaType": "tv"
+  },
+  "v3:multi:bri:": {
+    "tmdbId": 203276,
+    "mediaType": "tv"
+  },
+  "v3:multi:thebookofeli:": {
+    "tmdbId": 20504,
+    "mediaType": "movie"
+  },
+  "v3:multi:justafterdawn:": {
+    "tmdbId": 1176778,
+    "mediaType": "movie"
+  },
+  "v3:multi:godsavethetuche:": {
+    "tmdbId": 1137759,
+    "mediaType": "movie"
+  },
+  "v3:multi:spartacushouseofashur:": {
+    "tmdbId": 240459,
+    "mediaType": "tv"
+  },
+  "v3:multi:therookiefeds:": {
+    "tmdbId": 201992,
+    "mediaType": "tv"
+  },
+  "v3:multi:wildcards:": {
+    "tmdbId": 240932,
+    "mediaType": "tv"
+  },
+  "v3:multi:thecopenhagentest:": {
+    "tmdbId": 246412,
+    "mediaType": "tv"
+  },
+  "v3:multi:bloodcruise:": {
+    "tmdbId": 301258,
+    "mediaType": "tv"
+  },
+  "v3:multi:desdeelmañana:": {
+    "tmdbId": 249670,
+    "mediaType": "tv"
+  },
+  "v3:multi:keepingupwiththekardashians:": {
+    "tmdbId": 14814,
+    "mediaType": "tv"
+  },
+  "v3:multi:therealhousewivesofbeverlyhills:": {
+    "tmdbId": 32390,
+    "mediaType": "tv"
+  },
+  "v3:tv:realmen:2025": {
+    "tmdbId": 255650,
+    "mediaType": "tv"
+  },
+  "v3:movie:familymatters:2024": {
+    "tmdbId": 1113505,
+    "mediaType": "movie"
+  },
+  "v3:tv:minervaacademy:": {
+    "tmdbId": 312557,
+    "mediaType": "tv"
+  },
+  "v3:movie:iceagethemeltdown:": {
+    "tmdbId": 950,
+    "mediaType": "movie"
+  },
+  "v3:tv:bing:": {
+    "tmdbId": 69501,
+    "mediaType": "tv"
+  },
+  "v3:movie:untildawn:2025": {
+    "tmdbId": 1232546,
+    "mediaType": "movie"
+  },
+  "v3:tv:peccato:": {
+    "tmdbId": 330200,
+    "mediaType": "tv"
+  },
+  "v3:movie:anyonebutyou:": {
+    "tmdbId": 1072790,
+    "mediaType": "movie"
+  },
+  "v3:multi:midnighttexas:": {
+    "tmdbId": 67861,
+    "mediaType": "tv"
+  },
+  "v3:tv:wandavision:": {
+    "tmdbId": 85271,
+    "mediaType": "tv"
+  },
+  "v3:movie:fuze:": {
+    "tmdbId": 1242265,
+    "mediaType": "movie"
+  },
+  "v3:tv:miraculoustalesofladybugcatnoir:": {
+    "tmdbId": 65334,
+    "mediaType": "tv"
+  },
+  "v3:movie:gremlins:": {
+    "tmdbId": 927,
+    "mediaType": "movie"
+  },
+  "v3:tv:riproastinpeace:": {
+    "tmdbId": 302590,
+    "mediaType": "tv"
+  },
+  "v3:tv:sexandthecity:1998": {
+    "tmdbId": 105,
+    "mediaType": "tv"
+  },
+  "v3:movie:hangingbyawire:": {
+    "tmdbId": 1480856,
+    "mediaType": "movie"
+  },
+  "v3:tv:lolchirideèfuorihalloweenspecial:": {
+    "tmdbId": 339718,
+    "mediaType": "tv"
+  },
+  "v3:movie:thecaptive:2025": {
+    "tmdbId": 1238188,
+    "mediaType": "movie"
+  },
+  "v3:movie:thelegendoftarzan:": {
+    "tmdbId": 258489,
+    "mediaType": "movie"
+  },
+  "v3:movie:unmondoaparte:": {
+    "tmdbId": 1109306,
+    "mediaType": "movie"
+  },
+  "v3:movie:scuoladiseduzione:": {
+    "tmdbId": 1523067,
+    "mediaType": "movie"
+  },
+  "v3:movie:donotenter:2026": {
+    "tmdbId": 999136,
+    "mediaType": "movie"
+  },
+  "v3:movie:unafottutabugia:": {
+    "tmdbId": 1473124,
+    "mediaType": "movie"
+  },
+  "v3:movie:thegambler:2014": {
+    "tmdbId": 284536,
+    "mediaType": "movie"
+  },
+  "v3:movie:halloweenends:": {
+    "tmdbId": 616820,
+    "mediaType": "movie"
+  },
+  "v3:movie:thedrama:": {
+    "tmdbId": 1325734,
+    "mediaType": "movie"
+  },
+  "v3:multi:dexternewblood:": {
+    "tmdbId": 131927,
+    "mediaType": "tv"
+  },
+  "v3:movie:theredhangar:": {
+    "tmdbId": 1563588,
+    "mediaType": "movie"
+  },
+  "v3:multi:italiashore:": {
+    "tmdbId": 236102,
+    "mediaType": "tv"
+  },
+  "v3:movie:thewomanintheyard:": {
+    "tmdbId": 1244944,
+    "mediaType": "movie"
+  },
+  "v3:movie:innamorarsiealtrepessimeidee:": {
+    "tmdbId": 1511358,
+    "mediaType": "movie"
+  },
+  "v3:movie:wickedforgood:": {
+    "tmdbId": 967941,
+    "mediaType": "movie"
+  },
+  "v3:movie:pinocchiounstrung:": {
+    "tmdbId": 1232569,
+    "mediaType": "movie"
+  },
+  "v3:movie:thealtoknights:": {
+    "tmdbId": 1013601,
+    "mediaType": "movie"
+  },
+  "v3:tv:xfactordaily:": {
+    "tmdbId": 330949,
+    "mediaType": "tv"
+  },
+  "v3:tv:nordsudovestestlaleggendariastoriadegli883:": {
+    "tmdbId": 337905,
+    "mediaType": "tv"
+  },
+  "v3:tv:gialappashow:": {
+    "tmdbId": 226680,
+    "mediaType": "tv"
+  },
+  "v3:tv:foodish:": {
+    "tmdbId": 287309,
+    "mediaType": "tv"
+  },
+  "v3:movie:hamnet:": {
+    "tmdbId": 858024,
+    "mediaType": "movie"
+  },
+  "v3:tv:theotherbennetsister:": {
+    "tmdbId": 273866,
+    "mediaType": "tv"
+  },
+  "v3:tv:saintseiyathehadeschapter:": {
+    "tmdbId": 67199,
+    "mediaType": "tv"
+  },
+  "v3:tv:vigil:": {
+    "tmdbId": 126167,
+    "mediaType": "tv"
+  },
+  "v3:tv:libera:": {
+    "tmdbId": 277461,
+    "mediaType": "tv"
+  },
+  "v3:tv:memoriæ:2026": {
+    "tmdbId": 338874,
+    "mediaType": "tv"
+  },
+  "v3:multi:ballandoconlestelle:": {
+    "tmdbId": 46376,
+    "mediaType": "tv"
+  },
+  "v3:multi:therookie:2018": {
+    "tmdbId": 79744,
+    "mediaType": "tv"
+  },
+  "v3:movie:themarksman:2021": {
+    "tmdbId": 634528,
+    "mediaType": "movie"
+  },
+  "v3:movie:theplayers:2020": {
+    "tmdbId": 608649,
+    "mediaType": "movie"
+  },
+  "v3:multi:accidentman:": {
+    "tmdbId": 455236,
+    "mediaType": "movie"
+  },
+  "v3:movie:thesubstance:": {
+    "tmdbId": 933260,
+    "mediaType": "movie"
+  },
+  "v3:movie:lasceltadimaria:": {
+    "tmdbId": 893729,
+    "mediaType": "movie"
+  },
+  "v3:tv:brunobarbieri4hotel:": {
+    "tmdbId": 96172,
+    "mediaType": "tv"
+  },
+  "v3:movie:tramiteamicizia:": {
+    "tmdbId": 1054107,
+    "mediaType": "movie"
+  },
+  "v3:tv:theladiesparadise:": {
+    "tmdbId": 73362,
+    "mediaType": "tv"
+  },
+  "v3:tv:unpostoalsole:": {
+    "tmdbId": 105845,
+    "mediaType": "tv"
+  },
+  "v3:tv:docnelletuemani:": {
+    "tmdbId": 101048,
+    "mediaType": "tv"
+  },
+  "v3:multi:homeatfirstsight:": {
+    "tmdbId": 226214,
+    "mediaType": "tv"
+  },
+  "v3:multi:bakeoffitaliadolciinforno:": {
+    "tmdbId": 96229,
+    "mediaType": "tv"
+  },
+  "v3:tv:estranei:": {
+    "tmdbId": 337757,
+    "mediaType": "tv"
+  },
+  "v3:multi:comedymatch:": {
+    "tmdbId": 254674,
+    "mediaType": "tv"
+  },
+  "v3:tv:chediociaiuti:": {
+    "tmdbId": 65710,
+    "mediaType": "tv"
+  },
+  "v3:multi:taleequaleshow:": {
+    "tmdbId": 71399,
+    "mediaType": "tv"
+  },
+  "v3:multi:fratellidicrozza:": {
+    "tmdbId": 70624,
+    "mediaType": "tv"
+  },
+  "v3:multi:90dayfiancé:": {
+    "tmdbId": 61575,
+    "mediaType": "tv"
+  },
+  "v3:tv:tuttolamorecheresta:": {
+    "tmdbId": 336908,
+    "mediaType": "tv"
+  },
+  "v3:multi:matrimonioaprimavistaitalia:": {
+    "tmdbId": 238839,
+    "mediaType": "tv"
+  },
+  "v3:multi:avampostilaradiomobile:": {
+    "tmdbId": 321491,
+    "mediaType": "tv"
+  },
+  "v3:multi:littlebigitaly:": {
+    "tmdbId": 154133,
+    "mediaType": "tv"
+  },
+  "v3:multi:theinstitute:2025": {
+    "tmdbId": 253372,
+    "mediaType": "tv"
+  },
+  "v3:multi:thelastonefortheroad:": {
+    "tmdbId": 1462322,
+    "mediaType": "movie"
+  },
+  "v3:multi:videodrome:": {
+    "tmdbId": 837,
+    "mediaType": "movie"
+  },
+  "v3:multi:sawiv:": {
+    "tmdbId": 663,
+    "mediaType": "movie"
+  },
+  "v3:multi:wishmaster2evilneverdies:": {
+    "tmdbId": 12594,
+    "mediaType": "movie"
+  },
+  "v3:multi:sirāt:": {
+    "tmdbId": 1151272,
+    "mediaType": "movie"
+  },
+  "v3:multi:sawii:": {
+    "tmdbId": 215,
+    "mediaType": "movie"
+  },
+  "v3:multi:thespanishprincess:": {
+    "tmdbId": 86428,
+    "mediaType": "tv"
+  },
+  "v3:multi:cadodallenubi:": {
+    "tmdbId": 35554,
+    "mediaType": "movie"
+  },
+  "v3:multi:shutterisland:": {
+    "tmdbId": 11324,
+    "mediaType": "movie"
+  },
+  "v3:multi:se7en:": {
+    "tmdbId": 807,
+    "mediaType": "movie"
+  },
+  "v3:multi:soleacatinelle:": {
+    "tmdbId": 231176,
+    "mediaType": "movie"
+  },
+  "v3:multi:quovado:": {
+    "tmdbId": 374416,
+    "mediaType": "movie"
+  },
+  "v3:multi:whatabeautifulday:": {
+    "tmdbId": 53319,
+    "mediaType": "movie"
+  },
+  "v3:movie:drop:2025": {
+    "tmdbId": 1249213,
+    "mediaType": "movie"
+  },
+  "v3:multi:taken3:": {
+    "tmdbId": 260346,
+    "mediaType": "movie"
+  },
+  "v3:multi:taken2:": {
+    "tmdbId": 82675,
+    "mediaType": "movie"
+  },
+  "v3:multi:drive:2011": {
+    "tmdbId": 64690,
+    "mediaType": "movie"
+  },
+  "v3:movie:roalddahlsthewitches:": {
+    "tmdbId": 531219,
+    "mediaType": "movie"
+  },
+  "v3:movie:tummytomandthelostteddybear:": {
+    "tmdbId": 1301059,
+    "mediaType": "movie"
+  },
+  "v3:movie:wherethecrawdadssing:": {
+    "tmdbId": 682507,
+    "mediaType": "movie"
+  },
+  "v3:tv:dekroesjesvivafamilia:": {
+    "tmdbId": 333103,
+    "mediaType": "tv"
+  },
+  "v3:movie:midway:2019": {
+    "tmdbId": 522162,
+    "mediaType": "movie"
+  },
+  "v3:movie:tummytom2anewfriendfortummytom:": {
+    "tmdbId": 1308068,
+    "mediaType": "movie"
+  },
+  "v3:movie:martysupreme:": {
+    "tmdbId": 1317288,
+    "mediaType": "movie"
+  },
+  "v3:movie:theflorist:2026": {
+    "tmdbId": 1476746,
+    "mediaType": "movie"
+  },
+  "v3:movie:thelordoftheringsthereturnoftheking:": {
+    "tmdbId": 122,
+    "mediaType": "movie"
+  },
+  "v3:tv:goodluckguyssurvivalwithoutfilter:": {
+    "tmdbId": 235539,
+    "mediaType": "tv"
+  },
+  "v3:movie:itchaptertwo:": {
+    "tmdbId": 474350,
+    "mediaType": "movie"
+  },
+  "v3:movie:goodluckhavefundontdie:": {
+    "tmdbId": 1119449,
+    "mediaType": "movie"
+  },
+  "v3:movie:motorcity:": {
+    "tmdbId": 87513,
+    "mediaType": "movie"
+  },
+  "v3:movie:verstappenlionunleashed5:": {
+    "tmdbId": 1685678,
+    "mediaType": "movie"
+  },
+  "v3:movie:eenavondmetmaxverstappen:": {
+    "tmdbId": 1676123,
+    "mediaType": "movie"
+  },
+  "v3:movie:kandahar:2023": {
+    "tmdbId": 717930,
+    "mediaType": "movie"
+  },
+  "v3:movie:57seconds:": {
+    "tmdbId": 937249,
+    "mediaType": "movie"
+  },
+  "v3:movie:harrykanerecordsrewritten:": {
+    "tmdbId": 1726518,
+    "mediaType": "movie"
+  },
+  "v3:movie:thecabininthewoods:": {
+    "tmdbId": 22970,
+    "mediaType": "movie"
+  },
+  "v3:movie:faithfullyyours:2022": {
+    "tmdbId": 1030613,
+    "mediaType": "movie"
+  },
+  "v3:movie:goldrun:": {
+    "tmdbId": 964426,
+    "mediaType": "movie"
+  },
+  "v3:movie:dutchgptegenalleverwachtingenin:": {
+    "tmdbId": 1753802,
+    "mediaType": "movie"
+  },
+  "v3:tv:walker:": {
+    "tmdbId": 99121,
+    "mediaType": "tv"
+  },
+  "v3:tv:darknessthosewhokill:": {
+    "tmdbId": 87542,
+    "mediaType": "tv"
+  },
+  "v3:tv:unitone:": {
+    "tmdbId": 11924,
+    "mediaType": "tv"
+  },
+  "v3:tv:kin:2021": {
+    "tmdbId": 112693,
+    "mediaType": "tv"
+  },
+  "v3:movie:thelastletterfromyourlover:": {
+    "tmdbId": 638449,
+    "mediaType": "movie"
+  },
+  "v3:tv:hammarvik:": {
+    "tmdbId": 111820,
+    "mediaType": "tv"
+  },
+  "v3:multi:groningenoffice:": {
+    "tmdbId": 316454,
+    "mediaType": "tv"
+  },
+  "v3:tv:monsterjam:": {
+    "tmdbId": 29768,
+    "mediaType": "tv"
+  },
+  "v3:multi:goedetijdenslechtetijden:": {
+    "tmdbId": 11890,
+    "mediaType": "tv"
+  },
+  "v3:multi:loveislandvips:": {
+    "tmdbId": 326132,
+    "mediaType": "tv"
+  },
+  "v3:multi:andréhazesennu:": {
+    "tmdbId": 321927,
+    "mediaType": "tv"
+  },
+  "v3:tv:threesome:2021": {
+    "tmdbId": 130467,
+    "mediaType": "tv"
+  },
+  "v3:multi:deverhulstjes:": {
+    "tmdbId": 116225,
+    "mediaType": "tv"
+  },
+  "v3:multi:keesvanderspekontmaskert:": {
+    "tmdbId": 96835,
+    "mediaType": "tv"
+  },
+  "v3:multi:expeditierobinson:": {
+    "tmdbId": 8308,
+    "mediaType": "tv"
+  },
+  "v3:movie:hardtarget2:": {
+    "tmdbId": 402331,
+    "mediaType": "movie"
+  },
+  "v3:movie:toocloseforchristmas:": {
+    "tmdbId": 764104,
+    "mediaType": "movie"
+  },
+  "v3:multi:thenetherlandsdumbest:": {
+    "tmdbId": 332975,
+    "mediaType": "tv"
+  },
+  "v3:movie:thestorm:2026": {
+    "tmdbId": 1623256,
+    "mediaType": "movie"
+  },
+  "v3:movie:bamseandthewitchsdaughter:": {
+    "tmdbId": 432015,
+    "mediaType": "movie"
+  },
+  "v3:tv:lillaspöketlaban:": {
+    "tmdbId": 57028,
+    "mediaType": "tv"
+  },
+  "v3:tv:alfieatkins:": {
+    "tmdbId": 42929,
+    "mediaType": "tv"
+  },
+  "v3:movie:deepwater:2026": {
+    "tmdbId": 1127384,
+    "mediaType": "movie"
+  },
+  "v3:tv:thecreaturecases:": {
+    "tmdbId": 195407,
+    "mediaType": "tv"
+  },
+  "v3:movie:hallowroad:": {
+    "tmdbId": 1205656,
+    "mediaType": "movie"
+  },
+  "v3:movie:gaildaughtryandthecelebritysexpass:": {
+    "tmdbId": 1476682,
+    "mediaType": "movie"
+  },
+  "v3:movie:christmasonduty:": {
+    "tmdbId": 1547885,
+    "mediaType": "movie"
+  },
+  "v3:movie:aroyalmontanachristmas:": {
+    "tmdbId": 1535223,
+    "mediaType": "movie"
+  },
+  "v3:movie:holidaytouchdownabillslovestory:": {
+    "tmdbId": 1485002,
+    "mediaType": "movie"
+  },
+  "v3:movie:deadmanswire:": {
+    "tmdbId": 1263012,
+    "mediaType": "movie"
+  },
+  "v3:movie:singleonthe25th:": {
+    "tmdbId": 1545997,
+    "mediaType": "movie"
+  },
+  "v3:movie:shesmakingalist:": {
+    "tmdbId": 1516208,
+    "mediaType": "movie"
+  },
+  "v3:movie:asuiteholidayromance:": {
+    "tmdbId": 1547925,
+    "mediaType": "movie"
+  },
+  "v3:movie:brightlyshining:": {
+    "tmdbId": 1173147,
+    "mediaType": "movie"
+  },
+  "v3:tv:renoveringsdrömmar:": {
+    "tmdbId": 245678,
+    "mediaType": "tv"
+  },
+  "v3:tv:traveltestdummiessweden:": {
+    "tmdbId": 334314,
+    "mediaType": "tv"
+  },
+  "v3:movie:thehistoryofsound:": {
+    "tmdbId": 891584,
+    "mediaType": "movie"
+  },
+  "v3:tv:overatlanten:": {
+    "tmdbId": 87959,
+    "mediaType": "tv"
+  },
+  "v3:tv:wahlgrensvärld:": {
+    "tmdbId": 68757,
+    "mediaType": "tv"
+  },
+  "v3:tv:bordercontrolsweden:": {
+    "tmdbId": 210062,
+    "mediaType": "tv"
+  },
+  "v3:tv:lastonelaughingswedenhalloweenspecial:": {
+    "tmdbId": 303397,
+    "mediaType": "tv"
+  },
+  "v3:movie:christmasatgrandvalley:": {
+    "tmdbId": 550024,
+    "mediaType": "movie"
+  },
+  "v3:tv:lollastonelaughingsweden:": {
+    "tmdbId": 217313,
+    "mediaType": "tv"
+  },
+  "v3:movie:denofthieves2pantera:": {
+    "tmdbId": 604685,
+    "mediaType": "movie"
+  },
+  "v3:movie:howtoloseaguyin10days:": {
+    "tmdbId": 9919,
+    "mediaType": "movie"
+  },
+  "v3:movie:halloween:1978": {
+    "tmdbId": 948,
+    "mediaType": "movie"
+  },
+  "v3:movie:28yearslaterthebonetemple:": {
+    "tmdbId": 1272837,
+    "mediaType": "movie"
+  },
+  "v3:movie:cleaner:2025": {
+    "tmdbId": 1125899,
+    "mediaType": "movie"
+  },
+  "v3:tv:polisjaktsverige:": {
+    "tmdbId": 335566,
+    "mediaType": "tv"
+  },
+  "v3:tv:longbrightriver:": {
+    "tmdbId": 244628,
+    "mediaType": "tv"
+  },
+  "v3:tv:svenskafall:": {
+    "tmdbId": 112556,
+    "mediaType": "tv"
+  },
+  "v3:movie:thebourneidentity:": {
+    "tmdbId": 2501,
+    "mediaType": "movie"
+  },
+  "v3:movie:thebournesupremacy:": {
+    "tmdbId": 2502,
+    "mediaType": "movie"
+  },
+  "v3:movie:sniperthelaststand:": {
+    "tmdbId": 1410082,
+    "mediaType": "movie"
+  },
+  "v3:movie:thebournelegacy:": {
+    "tmdbId": 49040,
+    "mediaType": "movie"
+  },
+  "v3:movie:theamazingmaurice:": {
+    "tmdbId": 676710,
+    "mediaType": "movie"
+  },
+  "v3:movie:teenagemutantninjaturtles:2014": {
+    "tmdbId": 98566,
+    "mediaType": "movie"
+  },
+  "v3:tv:gundeferry:": {
+    "tmdbId": 331461,
+    "mediaType": "tv"
+  },
+  "v3:tv:lottiedottiechicken:2018": {
+    "tmdbId": 101320,
+    "mediaType": "tv"
+  },
+  "v3:movie:residentevilafterlife:": {
+    "tmdbId": 35791,
+    "mediaType": "movie"
+  },
+  "v3:movie:secretwindow:": {
+    "tmdbId": 1586,
+    "mediaType": "movie"
+  },
+  "v3:tv:nakedandafraidbrazil:": {
+    "tmdbId": 137940,
+    "mediaType": "tv"
+  },
+  "v3:tv:bentoetotó:": {
+    "tmdbId": 125791,
+    "mediaType": "tv"
+  },
+  "v3:tv:lapromesa:2023": {
+    "tmdbId": 212907,
+    "mediaType": "tv"
+  },
+  "v3:tv:thepaper:2025": {
+    "tmdbId": 253941,
+    "mediaType": "tv"
+  },
+  "v3:movie:illtakeyourdead:": {
+    "tmdbId": 539549,
+    "mediaType": "movie"
+  },
+  "v3:tv:mother:2016": {
+    "tmdbId": 68569,
+    "mediaType": "tv"
+  },
+  "v3:tv:kirlisepeti:": {
+    "tmdbId": 233492,
+    "mediaType": "tv"
+  },
+  "v3:movie:theamazingspiderman:": {
+    "tmdbId": 1930,
+    "mediaType": "movie"
+  },
+  "v3:multi:avengersendgame:": {
+    "tmdbId": 299534,
+    "mediaType": "movie"
+  },
+  "v3:tv:thevoicebrasil:": {
+    "tmdbId": 46299,
+    "mediaType": "tv"
+  },
+  "v3:tv:dragonballsuper:": {
+    "tmdbId": 62715,
+    "mediaType": "tv"
+  },
+  "v3:tv:motorheads:": {
+    "tmdbId": 243954,
+    "mediaType": "tv"
+  },
+  "v3:tv:maríliamendonçaallthefeels:": {
+    "tmdbId": 296466,
+    "mediaType": "tv"
+  },
+  "v3:movie:thelaststandofellencole:": {
+    "tmdbId": 1411773,
+    "mediaType": "movie"
+  },
+  "v3:movie:mymomisacharacter3:": {
+    "tmdbId": 620683,
+    "mediaType": "movie"
+  },
+  "v3:movie:thebeachnickers2:": {
+    "tmdbId": 1136897,
+    "mediaType": "movie"
+  },
+  "v3:movie:elitesquadtheenemywithin:": {
+    "tmdbId": 47931,
+    "mediaType": "movie"
+  },
+  "v3:movie:covil:": {
+    "tmdbId": 1405945,
+    "mediaType": "movie"
+  },
+  "v3:movie:specialagents:": {
+    "tmdbId": 1296682,
+    "mediaType": "movie"
+  },
+  "v3:movie:thebeachnickers:": {
+    "tmdbId": 494493,
+    "mediaType": "movie"
+  },
+  "v3:movie:thetwilightsagabreakingdawnpart2:": {
+    "tmdbId": 50620,
+    "mediaType": "movie"
+  },
+  "v3:tv:quemamacuida:": {
+    "tmdbId": 306956,
+    "mediaType": "tv"
+  },
+  "v3:tv:porvocê:": {
+    "tmdbId": 312650,
+    "mediaType": "tv"
+  },
+  "v3:movie:descontrole:": {
+    "tmdbId": 1369243,
+    "mediaType": "movie"
+  },
+  "v3:tv:anobrezadoamor:": {
+    "tmdbId": 301557,
+    "mediaType": "tv"
+  },
+  "v3:tv:avenidabrasil:": {
+    "tmdbId": 45815,
+    "mediaType": "tv"
+  },
+  "v3:tv:edgeofdesire:": {
+    "tmdbId": 73752,
+    "mediaType": "tv"
+  },
+  "v3:tv:hiddentruths:": {
+    "tmdbId": 62917,
+    "mediaType": "tv"
+  },
+  "v3:tv:bravewoman:": {
+    "tmdbId": 46126,
+    "mediaType": "tv"
+  },
+  "v3:tv:ocravoearosa:": {
+    "tmdbId": 8361,
+    "mediaType": "tv"
+  },
+  "v3:movie:thelostbus:": {
+    "tmdbId": 1236470,
+    "mediaType": "movie"
+  },
+  "v3:movie:johnwickchapter4:": {
+    "tmdbId": 603692,
+    "mediaType": "movie"
+  },
+  "v3:movie:thebourneultimatum:": {
+    "tmdbId": 2503,
+    "mediaType": "movie"
+  },
+  "v3:movie:spidermanintothespiderverse:": {
+    "tmdbId": 324857,
+    "mediaType": "movie"
+  },
+  "v3:tv:hudsonrex:": {
+    "tmdbId": 87940,
+    "mediaType": "tv"
+  },
+  "v3:tv:tilldeath:2021": {
+    "tmdbId": 121745,
+    "mediaType": "tv"
+  },
+  "v3:movie:prideandprejudice:1940": {
+    "tmdbId": 43818,
+    "mediaType": "movie"
+  },
+  "v3:movie:laleyendadelcharronegro:": {
+    "tmdbId": 494656,
+    "mediaType": "movie"
+  },
+  "v3:movie:laleyendadelallorona:": {
+    "tmdbId": 116322,
+    "mediaType": "movie"
+  },
+  "v3:tv:plimplimaherosheart:": {
+    "tmdbId": 59172,
+    "mediaType": "tv"
+  },
+  "v3:movie:thir13enghosts:": {
+    "tmdbId": 9378,
+    "mediaType": "movie"
+  },
+  "v3:tv:poetacaníbal:": {
+    "tmdbId": 340285,
+    "mediaType": "tv"
+  },
+  "v3:tv:corregidorathedarkestnightinmexicansoccer:": {
+    "tmdbId": 337911,
+    "mediaType": "tv"
+  },
+  "v3:tv:relatosdelanochebrujas:": {
+    "tmdbId": 339525,
+    "mediaType": "tv"
+  },
+  "v3:tv:chucky:": {
+    "tmdbId": 90462,
+    "mediaType": "tv"
+  },
+  "v3:tv:thetrial:2026": {
+    "tmdbId": 260249,
+    "mediaType": "tv"
+  },
+  "v3:movie:stillwater:2021": {
+    "tmdbId": 616651,
+    "mediaType": "movie"
+  },
+  "v3:tv:yosoybettylafea:": {
+    "tmdbId": 16286,
+    "mediaType": "tv"
+  },
+  "v3:movie:weliveintime:": {
+    "tmdbId": 1100099,
+    "mediaType": "movie"
+  },
+  "v3:movie:thelegendofthenahuala:": {
+    "tmdbId": 29826,
+    "mediaType": "movie"
+  },
+  "v3:tv:thelegendofkorra:": {
+    "tmdbId": 33880,
+    "mediaType": "tv"
+  },
+  "v3:tv:womeninblue:": {
+    "tmdbId": 253983,
+    "mediaType": "tv"
+  },
+  "v3:tv:woodywoodpecker:2018": {
+    "tmdbId": 111489,
+    "mediaType": "tv"
+  },
+  "v3:tv:invasion:2021": {
+    "tmdbId": 127235,
+    "mediaType": "tv"
+  },
+  "v3:movie:hoteltransylvaniatransformania:": {
+    "tmdbId": 585083,
+    "mediaType": "movie"
+  },
+  "v3:movie:thecroodsanewage:": {
+    "tmdbId": 529203,
+    "mediaType": "movie"
+  },
+  "v3:movie:thespongebobsquarepantsmovie:": {
+    "tmdbId": 11836,
+    "mediaType": "movie"
+  },
+  "v3:tv:elchema:": {
+    "tmdbId": 68734,
+    "mediaType": "tv"
+  },
+  "v3:movie:pussinbootsthelastwish:": {
+    "tmdbId": 315162,
+    "mediaType": "movie"
+  },
+  "v3:tv:lajefa:": {
+    "tmdbId": 284219,
+    "mediaType": "tv"
+  },
+  "v3:tv:dragonballdaima:": {
+    "tmdbId": 236994,
+    "mediaType": "tv"
+  },
+  "v3:tv:thewalkingdead:": {
+    "tmdbId": 1402,
+    "mediaType": "tv"
+  },
+  "v3:tv:thegypsybride:": {
+    "tmdbId": 128020,
+    "mediaType": "tv"
+  },
+  "v3:tv:thenanny:1993": {
+    "tmdbId": 2352,
+    "mediaType": "tv"
+  },
+  "v3:tv:imperium:2012": {
+    "tmdbId": 63885,
+    "mediaType": "tv"
+  },
+  "v3:tv:grandhotel:2011": {
+    "tmdbId": 47990,
+    "mediaType": "tv"
+  },
+  "v3:multi:mujeresasesinas:2022": {
+    "tmdbId": 213834,
+    "mediaType": "tv"
+  },
+  "v3:multi:laleyendadeloschaneques:": {
+    "tmdbId": 1150394,
+    "mediaType": "movie"
+  },
+  "v3:movie:therapydoneright:": {
+    "tmdbId": 1487317,
+    "mediaType": "movie"
+  },
+  "v3:tv:masterchefcelebrityargentina:": {
+    "tmdbId": 112951,
+    "mediaType": "tv"
+  },
+  "v3:tv:captive:2026": {
+    "tmdbId": 333631,
+    "mediaType": "tv"
+  },
+  "v3:tv:coppolatheagent:": {
+    "tmdbId": 128330,
+    "mediaType": "tv"
+  },
+  "v3:multi:laleyendadelallorona:": {
+    "tmdbId": 116322,
+    "mediaType": "movie"
+  },
+  "v3:tv:mynameisgutierrez:": {
+    "tmdbId": 275224,
+    "mediaType": "tv"
+  },
+  "v3:tv:volveríascontuex:": {
+    "tmdbId": 228686,
+    "mediaType": "tv"
+  },
+  "v3:tv:theinstitute:2025": {
+    "tmdbId": 253372,
+    "mediaType": "tv"
+  },
+  "v3:tv:mírameasíelcaminodenoa:": {
+    "tmdbId": 287556,
+    "mediaType": "tv"
+  },
+  "v3:movie:killersoftheflowermoon:": {
+    "tmdbId": 466420,
+    "mediaType": "movie"
+  },
+  "v3:tv:lasestrellas:": {
+    "tmdbId": 73812,
+    "mediaType": "tv"
+  },
+  "v3:tv:oldbridgesecret:": {
+    "tmdbId": 59215,
+    "mediaType": "tv"
+  },
+  "v3:tv:sueñosdelibertad:": {
+    "tmdbId": 239526,
+    "mediaType": "tv"
+  },
+  "v3:tv:campamentoalbanta:": {
+    "tmdbId": 106372,
+    "mediaType": "tv"
+  },
+  "v3:tv:thetimeinbetween:": {
+    "tmdbId": 63485,
+    "mediaType": "tv"
+  },
+  "v3:tv:littleangel:2022": {
+    "tmdbId": 219004,
+    "mediaType": "tv"
+  },
+  "v3:tv:britannia:": {
+    "tmdbId": 70484,
+    "mediaType": "tv"
+  },
+  "v3:multi:whatlifetookfromme:": {
+    "tmdbId": 58450,
+    "mediaType": "tv"
+  },
+  "v3:tv:thementalist:": {
+    "tmdbId": 5920,
+    "mediaType": "tv"
+  },
+  "v3:tv:temporadadecaza:": {
+    "tmdbId": 263326,
+    "mediaType": "tv"
+  },
+  "v3:movie:asplendidmovie:": {
+    "tmdbId": 569387,
+    "mediaType": "movie"
+  },
+  "v3:movie:wutheringheights:2026": {
+    "tmdbId": 1316092,
+    "mediaType": "movie"
+  },
+  "v3:tv:notastranger:": {
+    "tmdbId": 320760,
+    "mediaType": "tv"
+  },
+  "v3:tv:konuşanlar:": {
+    "tmdbId": 115641,
+    "mediaType": "tv"
+  },
+  "v3:tv:masteromur:": {
+    "tmdbId": 322280,
+    "mediaType": "tv"
+  },
+  "v3:movie:pitahall:": {
+    "tmdbId": 1471161,
+    "mediaType": "movie"
+  },
+  "v3:movie:thedevilwearsprada:": {
+    "tmdbId": 350,
+    "mediaType": "movie"
+  },
+  "v3:multi:coco:2017": {
+    "tmdbId": 354912,
+    "mediaType": "movie"
+  },
+  "v3:movie:recepivedik7:": {
+    "tmdbId": 952062,
+    "mediaType": "movie"
+  },
+  "v3:movie:recepivedik5:": {
+    "tmdbId": 438703,
+    "mediaType": "movie"
+  },
+  "v3:movie:recepivedik4:": {
+    "tmdbId": 257343,
+    "mediaType": "movie"
+  },
+  "v3:movie:anotheryou:2025": {
+    "tmdbId": 1425617,
+    "mediaType": "movie"
+  },
+  "v3:multi:avengersageofultron:": {
+    "tmdbId": 99861,
+    "mediaType": "movie"
+  },
+  "v3:movie:recepivedik2:": {
+    "tmdbId": 31061,
+    "mediaType": "movie"
+  },
+  "v3:tv:thedropout:": {
+    "tmdbId": 122066,
+    "mediaType": "tv"
+  },
+  "v3:tv:thesmurfs:2021": {
+    "tmdbId": 123591,
+    "mediaType": "tv"
+  },
+  "v3:movie:inthelostlands:": {
+    "tmdbId": 324544,
+    "mediaType": "movie"
+  },
+  "v3:tv:poweroflove:2022": {
+    "tmdbId": 308185,
+    "mediaType": "tv"
+  },
+  "v3:movie:recepivedik:": {
+    "tmdbId": 31060,
+    "mediaType": "movie"
+  },
+  "v3:tv:qesmawnaseeb:": {
+    "tmdbId": 298254,
+    "mediaType": "tv"
+  },
+  "v3:tv:quwetelhob:": {
+    "tmdbId": 336742,
+    "mediaType": "tv"
+  },
+  "v3:tv:tehran:": {
+    "tmdbId": 103913,
+    "mediaType": "tv"
+  },
+  "v3:tv:yourfriendsneighbors:2025": {
+    "tmdbId": 241609,
+    "mediaType": "tv"
+  },
+  "v3:movie:ifihadlegsidkickyou:": {
+    "tmdbId": 1160360,
+    "mediaType": "movie"
+  },
+  "v3:movie:harrypotterandthedeathlyhallowspart2:": {
+    "tmdbId": 12445,
+    "mediaType": "movie"
+  },
+  "v3:tv:friends:": {
+    "tmdbId": 1668,
+    "mediaType": "tv"
+  },
+  "v3:tv:kızılgoncalar:": {
+    "tmdbId": 241020,
+    "mediaType": "tv"
+  },
+  "v3:tv:thesopranos:": {
+    "tmdbId": 1398,
+    "mediaType": "tv"
+  },
+  "v3:movie:mothersinstinct:2024": {
+    "tmdbId": 758679,
+    "mediaType": "movie"
+  },
+  "v3:tv:underground:2026": {
+    "tmdbId": 309328,
+    "mediaType": "tv"
+  },
+  "v3:movie:amatteroflifeanddeath:2026": {
+    "tmdbId": 1418982,
+    "mediaType": "movie"
+  },
+  "v3:movie:32b:": {
+    "tmdbId": 1599608,
+    "mediaType": "movie"
+  },
+  "v3:tv:mylovetheblacksea:": {
+    "tmdbId": 331693,
+    "mediaType": "tv"
+  },
+  "v3:tv:upanddown:2026": {
+    "tmdbId": 294897,
+    "mediaType": "tv"
+  },
+  "v3:tv:thepit:2017": {
+    "tmdbId": 74823,
+    "mediaType": "tv"
+  },
+  "v3:tv:loveonpaper:": {
+    "tmdbId": 322993,
+    "mediaType": "tv"
+  },
+  "v3:movie:bethlehemkudumbaunit:": {
+    "tmdbId": 1508168,
+    "mediaType": "movie"
+  },
+  "v3:movie:neru:": {
+    "tmdbId": 1164370,
+    "mediaType": "movie"
+  },
+  "v3:movie:welcometothejungle:2026": {
+    "tmdbId": 1169516,
+    "mediaType": "movie"
+  },
+  "v3:movie:thudakkam:": {
+    "tmdbId": 1506736,
+    "mediaType": "movie"
+  },
+  "v3:movie:sarvammaya:": {
+    "tmdbId": 1473354,
+    "mediaType": "movie"
+  },
+  "v3:movie:flight404:": {
+    "tmdbId": 1232790,
+    "mediaType": "movie"
+  },
+  "v3:movie:themazerunner:": {
+    "tmdbId": 198663,
+    "mediaType": "movie"
+  },
+  "v3:movie:valathuvashathekallan:": {
+    "tmdbId": 1427822,
+    "mediaType": "movie"
+  },
+  "v3:movie:hridayapoorvam:": {
+    "tmdbId": 1314784,
+    "mediaType": "movie"
+  },
+  "v3:tv:patipatniaurpanga:": {
+    "tmdbId": 114456,
+    "mediaType": "tv"
+  },
+  "v3:movie:abreakofhappymoments:": {
+    "tmdbId": 1224392,
+    "mediaType": "movie"
+  },
+  "v3:tv:youngsheldon:": {
+    "tmdbId": 71728,
+    "mediaType": "tv"
+  },
+  "v3:movie:crazyrichincrediblybroke:": {
+    "tmdbId": 1763619,
+    "mediaType": "movie"
+  },
+  "v3:tv:koffeewithkaran:": {
+    "tmdbId": 14544,
+    "mediaType": "tv"
+  },
+  "v3:movie:shababalbomb3:": {
+    "tmdbId": 1653459,
+    "mediaType": "movie"
+  },
+  "v3:movie:highest2lowest:": {
+    "tmdbId": 1242434,
+    "mediaType": "movie"
+  },
+  "v3:tv:biggboss:2017": {
+    "tmdbId": 72908,
+    "mediaType": "tv"
+  },
+  "v3:movie:crime101:": {
+    "tmdbId": 1171145,
+    "mediaType": "movie"
+  },
+  "v3:tv:see:": {
+    "tmdbId": 80752,
+    "mediaType": "tv"
+  },
+  "v3:movie:prideprejudice:": {
+    "tmdbId": 4348,
+    "mediaType": "movie"
+  },
+  "v3:movie:iamlegend:": {
+    "tmdbId": 6479,
+    "mediaType": "movie"
+  },
+  "v3:tv:banshee:2013": {
+    "tmdbId": 41727,
+    "mediaType": "tv"
+  },
+  "v3:tv:faraway:2024": {
+    "tmdbId": 274556,
+    "mediaType": "tv"
+  },
+  "v3:tv:ghosts:2019": {
+    "tmdbId": 17174,
+    "mediaType": "tv"
+  },
+  "v3:movie:terrifier3:": {
+    "tmdbId": 1034541,
+    "mediaType": "movie"
+  },
+  "v3:movie:mazerunnerthescorchtrials:": {
+    "tmdbId": 294254,
+    "mediaType": "movie"
+  },
+  "v3:movie:crankhighvoltage:": {
+    "tmdbId": 15092,
+    "mediaType": "movie"
+  },
+  "v3:tv:resurrectionertugrul:": {
+    "tmdbId": 66017,
+    "mediaType": "tv"
+  },
+  "v3:tv:mehmedsultanofconquests:": {
+    "tmdbId": 246621,
+    "mediaType": "tv"
+  },
+  "v3:movie:seriouslysingletoo:": {
+    "tmdbId": 1773759,
+    "mediaType": "movie"
+  },
+  "v3:movie:rushhour3:": {
+    "tmdbId": 5174,
+    "mediaType": "movie"
+  },
+  "v3:tv:thefourofus:2026": {
+    "tmdbId": 327273,
+    "mediaType": "tv"
+  },
+  "v3:tv:cocomelon:": {
+    "tmdbId": 114718,
+    "mediaType": "tv"
+  },
+  "v3:movie:scarlett:2020": {
+    "tmdbId": 816614,
+    "mediaType": "movie"
+  },
+  "v3:movie:thewreckingcrew:2026": {
+    "tmdbId": 1168190,
+    "mediaType": "movie"
+  },
+  "v3:movie:thefix:2026": {
+    "tmdbId": 1228834,
+    "mediaType": "movie"
+  },
+  "v3:movie:47metersdownuncaged:": {
+    "tmdbId": 480105,
+    "mediaType": "movie"
+  }
+}
