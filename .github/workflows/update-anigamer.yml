@@ -2,7 +2,7 @@ name: Update AniGamer Ranking
 
 on:
   schedule:
-    - cron: "20 0,12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
