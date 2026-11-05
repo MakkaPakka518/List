@@ -1,7 +1,5 @@
 {
-  "ok": true,
-  "updatedAt": "2026-11-05T20:56:58+00:00",
-  "matched": 225,
-  "total": 280,
-  "unmatched": 55
+  "ok": false,
+  "updatedAt": "2026-11-05T21:17:34+00:00",
+  "reason": "动画疯页面结构变化或榜单为空: sort=2 page=2"
 }
