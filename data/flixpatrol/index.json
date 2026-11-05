@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "source": "FlixPatrol",
+  "updatedAt": "2026-11-05T16:50:30+00:00",
+  "chartDate": "2026-11-05",
+  "countries": [
+    {
+      "slug": "united-states",
+      "name": "United States",
+      "file": "united-states.json"
+    }
+  ],
+  "platforms": [
+    {
+      "slug": "amazon",
+      "name": "Amazon"
+    },
+    {
+      "slug": "amazon-channels",
+      "name": "Amazon Channels"
+    },
+    {
+      "slug": "amazon-prime",
+      "name": "Amazon Prime"
+    },
+    {
+      "slug": "amc-plus",
+      "name": "AMC+"
+    },
+    {
+      "slug": "apple-tv",
+      "name": "Apple TV"
+    },
+    {
+      "slug": "crunchyroll",
+      "name": "Crunchyroll"
+    },
+    {
+      "slug": "discovery-plus",
+      "name": "Discovery Plus"
+    },
+    {
+      "slug": "disney",
+      "name": "Disney+"
+    },
+    {
+      "slug": "google",
+      "name": "Google"
+    },
+    {
+      "slug": "hbo-max",
+      "name": "HBO Max"
+    },
+    {
+      "slug": "hulu",
+      "name": "Hulu"
+    },
+    {
+      "slug": "itunes",
+      "name": "Apple TV Store"
+    },
+    {
+      "slug": "mgm-plus",
+      "name": "MGM"
+    },
+    {
+      "slug": "netflix",
+      "name": "Netflix"
+    },
+    {
+      "slug": "paramount-plus",
+      "name": "Paramount+"
+    },
+    {
+      "slug": "peacock",
+      "name": "Peacock"
+    },
+    {
+      "slug": "pluto-tv",
+      "name": "Pluto"
+    },
+    {
+      "slug": "shudder",
+      "name": "Shudder"
+    },
+    {
+      "slug": "sony-pictures-core",
+      "name": "Sony Pictures Core"
+    },
+    {
+      "slug": "starz",
+      "name": "Starz"
+    },
+    {
+      "slug": "tubi",
+      "name": "Tubi"
+    },
+    {
+      "slug": "viki",
+      "name": "Viki TV"
+    },
+    {
+      "slug": "vix",
+      "name": "VIX"
+    },
+    {
+      "slug": "vudu",
+      "name": "Vudu"
+    }
+  ],
+  "failures": []
+}

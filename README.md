@@ -1,6 +1,6 @@
 # 全站榜单 (List)
 
-一个用 **GitHub Actions 每日定时抓取**榜单数据并提交到仓库的工程，产出 5 类榜单 JSON，另附一个可直接加载的 **fw/rex 聚合模块 `widget.js`**。
+一个用 **GitHub Actions 每日定时抓取**榜单数据并提交到仓库的工程，产出多类榜单 JSON，另附可直接加载的 fw/rex 聚合模块。
 
 > 本仓库只做数据抓取与聚合模块，**脚本（`scripts/`）未做改动**；`widget.js` 与 `README.md` 为新增。
 
@@ -12,8 +12,11 @@
 | 芒果TV | 剧集 + 王牌综艺 | `data/mgtv-hot.json` |
 | 各平台剧场 | 迷雾/白夜/X/恋恋… 15 个剧场（已开播/即将） | `data/theater-data.json` |
 | 热门番剧 | bgm.tv 排名 + TMDB 匹配 | `data/bangumi-hot.json` |
+| FlixPatrol | 全球各国家/地区的 Netflix、Disney+、Apple TV、Prime、HBO 等每日 TOP 10 | `data/flixpatrol/*.json` |
 
 每个条目都经过 TMDB 匹配，自带 `title / rating / posterPath / mediaType / releaseDate` 等完整字段。
+
+FlixPatrol 数据按国家拆分，`data/flixpatrol/index.json` 提供国家与平台索引。榜单代表 FlixPatrol 已发布的最新日榜，不是未来预测；各条目在 rex 模块加载时通过内置 TMDB 接口补全海报和详情。
 
 ## 数据更新
 `.github/workflows/` 下 5 个工作流，各自按 cron 定时运行对应 `scripts/update_*.py`，抓取后**提交更新**到 `data/*.json`。
