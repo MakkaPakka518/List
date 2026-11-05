@@ -40,4 +40,26 @@ assert movie == {
     "mediaType": "movie",
 }
 assert data["platforms"]["netflix"]["charts"]["overall"][0]["mediaType"] == "movie"
+
+calls = []
+MODULE.tmdb_get = lambda path, params: calls.append((path, params)) or {"results": [{
+    "id": 123,
+    "title": "测试电影",
+    "original_title": "Test Movie",
+    "release_date": "2026-01-02",
+    "poster_path": "/poster.jpg",
+    "backdrop_path": "/backdrop.jpg",
+    "vote_average": 8.2,
+    "popularity": 10,
+}, {
+    "id": 999,
+    "title": "Test Movie",
+    "release_date": "2000-01-02",
+    "poster_path": "/wrong.jpg",
+}]}
+matched = MODULE.match_tmdb(movie)
+assert calls[0][0] == "search/movie"
+assert calls[0][1]["language"] == "en-US"
+assert matched["tmdbId"] == 123
+assert matched == {"tmdbId": 123, "mediaType": "movie"}
 print("FlixPatrol parser tests passed")

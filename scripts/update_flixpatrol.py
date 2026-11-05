@@ -2,8 +2,11 @@ import json
 import os
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlencode
+from urllib.request import Request, urlopen
 
 from scrapling.fetchers import StealthySession
 
@@ -12,6 +15,7 @@ ROOT_URL = "https://flixpatrol.com/top10/"
 COUNTRY_URL = "https://flixpatrol.com/top10/streaming/{country}/"
 WORLD_URL = ROOT_URL
 OUTPUT_DIR = Path("data/flixpatrol")
+TMDB_CACHE_FILE = OUTPUT_DIR / "tmdb-cache.json"
 COUNTRY_LINK = re.compile(r"^/top10/[^/]+/([^/]+)/(20\d{2}-\d{2}-\d{2})/$")
 HEADING_INFO = re.compile(r"^(.*?) TOP 10 in (.*?) on ([A-Z][a-z]+ \d{1,2}, \d{4})$")
 MAIN_COUNTRIES = (
@@ -54,6 +58,100 @@ def chart_key(title):
     if value.startswith("top 10 overall"):
         return "overall"
     return ""
+
+
+def title_key(value):
+    return re.sub(r"[^\w]+", "", str(value or "").casefold(), flags=re.UNICODE)
+
+
+def item_year(item):
+    match = re.search(r"-(19\d{2}|20\d{2})/$", str(item.get("sourcePath", "")))
+    return match.group(1) if match else ""
+
+
+def tmdb_get(path, params):
+    api_key = os.environ.get("TMDB_API_KEY", "").strip()
+    if not api_key:
+        raise RuntimeError("TMDB_API_KEY is required")
+    headers = {"Accept": "application/json"}
+    query = dict(params)
+    if api_key.startswith("eyJ"):
+        headers["Authorization"] = f"Bearer {api_key}"
+    else:
+        query["api_key"] = api_key
+    request = Request(f"https://api.themoviedb.org/3/{path}?{urlencode(query)}", headers=headers)
+    for attempt in range(3):
+        try:
+            with urlopen(request, timeout=30) as response:
+                return json.load(response)
+        except Exception:
+            if attempt == 2:
+                raise
+            time.sleep(2 ** attempt)
+
+
+def match_tmdb(item):
+    expected_type = item.get("mediaType") if item.get("mediaType") in ("movie", "tv") else ""
+    target = title_key(item.get("title"))
+    year = item_year(item)
+    matches = {}
+    for media_type in ([expected_type] if expected_type else ["movie", "tv"]):
+        params = {"query": item.get("title", ""), "language": "en-US", "include_adult": "false"}
+        if year:
+            params["year" if media_type == "movie" else "first_air_date_year"] = year
+        for candidate in tmdb_get(f"search/{media_type}", params).get("results", []):
+            names = [candidate.get(key) for key in ("title", "name", "original_title", "original_name")]
+            normalized = [title_key(name) for name in names if name]
+            if target not in normalized:
+                continue
+            release_date = candidate.get("release_date") or candidate.get("first_air_date") or ""
+            if year and not release_date.startswith(year):
+                continue
+            matches[candidate.get("id")] = {
+                "tmdbId": candidate.get("id"),
+                "mediaType": media_type,
+            }
+    return next(iter(matches.values())) if len(matches) == 1 else None
+
+
+def enrich_tmdb(results):
+    if not os.environ.get("TMDB_API_KEY", "").strip():
+        raise RuntimeError("TMDB_API_KEY is required to publish FlixPatrol data")
+    cache = json.loads(TMDB_CACHE_FILE.read_text(encoding="utf-8")) if TMDB_CACHE_FILE.exists() else {}
+    references = {}
+    for data in results:
+        for platform in data["platforms"].values():
+            for items in platform["charts"].values():
+                for item in items:
+                    key = f"v3:{item.get('mediaType', 'multi')}:{title_key(item.get('title'))}:{item_year(item)}"
+                    references.setdefault(key, []).append(item)
+
+    missing = {key: items[0] for key, items in references.items() if key not in cache}
+    if missing:
+        with ThreadPoolExecutor(max_workers=6) as executor:
+            futures = {executor.submit(match_tmdb, item): key for key, item in missing.items()}
+            for index, future in enumerate(as_completed(futures), 1):
+                key = futures[future]
+                try:
+                    match = future.result()
+                    if match and match.get("tmdbId"):
+                        cache[key] = match
+                except Exception as error:
+                    print(f"TMDB failed for {missing[key].get('title')}: {error}")
+                if index % 100 == 0:
+                    print(f"TMDB matched {index}/{len(missing)} new titles")
+
+    matched = 0
+    total = 0
+    for key, items in references.items():
+        info = cache.get(key)
+        for item in items:
+            total += 1
+            if info:
+                item.update(info)
+                matched += 1
+    write_json(TMDB_CACHE_FILE, cache)
+    print(f"TMDB enriched {matched}/{total} chart entries using source language en-US")
 
 
 def parse_country_page(page, country_slug, fallback_name):
@@ -165,7 +263,6 @@ def main():
             try:
                 page = world_page if slug == "world" else fetch_page(session, COUNTRY_URL.format(country=slug))
                 data = parse_country_page(page, slug, countries[slug])
-                write_json(OUTPUT_DIR / f"{slug}.json", data)
                 results.append(data)
                 print(f"[{index}/{len(selected)}] {slug}: {len(data['platforms'])} platforms")
             except Exception as error:
@@ -175,6 +272,10 @@ def main():
 
     if not results:
         raise RuntimeError("FlixPatrol returned no country data")
+
+    enrich_tmdb(results)
+    for data in results:
+        write_json(OUTPUT_DIR / f"{data['country']['slug']}.json", data)
 
     platform_names = {}
     for data in results:

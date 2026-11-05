@@ -16,7 +16,9 @@
 
 每个条目都经过 TMDB 匹配，自带 `title / rating / posterPath / mediaType / releaseDate` 等完整字段。
 
-FlixPatrol 数据按国家拆分，`data/flixpatrol/index.json` 提供国家与平台索引。榜单代表 FlixPatrol 已发布的最新日榜，不是未来预测；各条目在 rex 模块加载时通过内置 TMDB 接口补全海报和详情。
+FlixPatrol 数据按国家拆分，`data/flixpatrol/index.json` 提供国家与平台索引。榜单代表 FlixPatrol 已发布的最新日榜，不是未来预测；rex 根据条目的 TMDB ID 和客户端语言加载海报与详情。
+
+`update-flixpatrol.yml` 运行 `scripts/update_flixpatrol.py` 时必须传入仓库 Secret `TMDB_API_KEY`。脚本用 FlixPatrol 的英文源标题、媒体类型和 URL 年份严格匹配 TMDB，只保存 `tmdbId` 与 `mediaType`；海报和本地化元数据由 rex 按客户端语言加载。
 
 ## 数据更新
 `.github/workflows/` 下 5 个工作流，各自按 cron 定时运行对应 `scripts/update_*.py`，抓取后**提交更新**到 `data/*.json`。
@@ -25,7 +27,7 @@ FlixPatrol 数据按国家拆分，`data/flixpatrol/index.json` 提供国家与�
 `widget.js` 是一个可直接加载的 ForwardWidget 模块，直接消费仓库内的榜单 JSON：
 
 - **6 个子模块**：`loadGuduo` / `loadDouban` / `loadMangoTV` / `loadTheater` / `loadBangumi` / `loadFlixPatrol`
-- FlixPatrol 子模块可选择国家/地区、平台和电影/剧集榜，并通过 rex 内置 TMDB 接口补全海报与详情
+- FlixPatrol 子模块可选择国家/地区、平台和电影/剧集榜；抓取任务用源站英文标题严格匹配 TMDB，仅写入 ID 与媒体类型，由 rex 按客户端语言加载元数据和海报
 - 每个模块带**排序方式**（默认原序 / 最近更新 / 最近发布 / 热度最高 / 高分优先）与**分页**
 - 条目为标准 `VideoItem`（`type:"tmdb"` + 数字 `id` + `mediaType`），点击走播放器内置 TMDB 详情页
 - 数据源默认指向本仓库 raw 地址，也可在模块 `globalParams.baseUrl` 里改

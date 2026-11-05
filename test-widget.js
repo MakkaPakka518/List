@@ -1,9 +1,19 @@
-// 回测 List 版 widget.js（真实拉取 raw 数据）
+// 回测 List 版 widget.js（现有榜单读取真实 raw，FlixPatrol 使用固定契约样本）
 const fs = require("fs");
 const assert = require("assert");
 
+const FLIXPATROL_FIXTURE = {
+  schemaVersion: 1,
+  chartDate: "2026-11-05",
+  country: { slug: "hong-kong", name: "Hong Kong" },
+  platforms: { netflix: { name: "Netflix", charts: { movies: [{
+    rank: 1, title: "Test Movie", sourcePath: "/title/test-movie-2026/", mediaType: "movie",
+    tmdbId: 123,
+  }] } } },
+};
+
 global.Widget = {
-  http: { get: async (url) => ({ data: await (await fetch(url)).json() }) },
+  http: { get: async (url) => ({ data: url.includes("/flixpatrol/") ? FLIXPATROL_FIXTURE : await (await fetch(url)).json() }) },
   tmdb: { get: async () => ({ results: [] }) },
   storage: { _m: {}, get(k) { return this._m[k]; }, set(k, v) { this._m[k] = v; } },
 };
@@ -26,7 +36,10 @@ eval(fs.readFileSync("./widget.js", "utf8"));
   const b = await loadBangumi({});
   const f = await loadFlixPatrol({ country: "hong-kong", platform: "netflix", chart: "movies", count: 10 });
   console.log(`✓ 条数: guduo=${g.length} douban=${d.length} mgtv=${m.length} theater=${t.length} bangumi=${b.length} flixpatrol=${f.length}`);
-  assert.equal(f.length, 10, "FlixPatrol 香港 Netflix 电影榜");
+  assert.equal(f.length, 1, "FlixPatrol 香港 Netflix 电影榜");
+  assert.equal(f[0].id, 123);
+  assert.equal(f[0].type, "tmdb");
+  assert.equal(f[0].posterPath, undefined);
   assert.match(f[0].description, /Netflix · 电影 · Hong Kong/);
   assert.equal(await loadDetail("https://evil.test/title/test/"), null);
 

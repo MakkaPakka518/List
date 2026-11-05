@@ -248,25 +248,23 @@ async function flixFindTmdb(item, chart) {
   if (Object.prototype.hasOwnProperty.call(FLIX_TMDB_CACHE, cacheKey)) return FLIX_TMDB_CACHE[cacheKey];
   try {
     const response = await Widget.tmdb.get(expectedType ? `search/${expectedType}` : "search/multi", {
-      params: { query: item.title, language: "zh-CN", include_adult: false },
+      params: { query: item.title, language: "en-US", include_adult: false },
     });
     const target = flixTitleKey(item.title);
     const year = flixYear(item);
-    let best = null;
-    let bestScore = -1;
+    const matches = {};
     for (const candidate of response && response.results || []) {
       const mediaType = expectedType || candidate.media_type;
       const title = candidate.title || candidate.name || candidate.original_title || candidate.original_name || "";
       if (!candidate.id || !["movie", "tv"].includes(mediaType) || flixTitleKey(title) !== target) continue;
       const date = candidate.release_date || candidate.first_air_date || "";
-      const score = (year && date.startsWith(year) ? 1000 : 0) + Number(candidate.popularity || 0);
-      if (score > bestScore) {
-        best = { ...candidate, media_type: mediaType };
-        bestScore = score;
-      }
+      if (year && !date.startsWith(year)) continue;
+      matches[candidate.id] = { ...candidate, media_type: mediaType };
     }
-    FLIX_TMDB_CACHE[cacheKey] = best;
-    return best;
+    const candidates = Object.values(matches);
+    const match = candidates.length === 1 ? candidates[0] : null;
+    FLIX_TMDB_CACHE[cacheKey] = match;
+    return match;
   } catch (error) {
     console.warn("[loadFlixPatrol] TMDB 匹配失败:", error.message || error);
     return null;
@@ -291,13 +289,17 @@ async function flixVideo(entry, platformName, countryName, chartDate) {
     `#${item.rank}`, platformName, flixChartName(entry.chart), countryName, chartDate,
     item.movement ? `变化 ${item.movement}` : "", item.days ? `在榜 ${item.days}` : "",
   ].filter(Boolean).join(" · ");
+  if (Number(item.tmdbId) > 0 && (item.mediaType === "movie" || item.mediaType === "tv")) {
+    return {
+      id: Number(item.tmdbId), type: "tmdb", mediaType: item.mediaType, title: item.title,
+      description,
+    };
+  }
   const tmdb = await flixFindTmdb(item, entry.chart);
   if (tmdb) {
     return {
       id: Number(tmdb.id), type: "tmdb", mediaType: tmdb.media_type, title: item.title,
-      posterPath: tmdb.poster_path || undefined, backdropPath: tmdb.backdrop_path || undefined,
-      releaseDate: tmdb.release_date || tmdb.first_air_date || undefined,
-      rating: tmdb.vote_average, description,
+      description,
     };
   }
   const link = flixSourceUrl(item);
