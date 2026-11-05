@@ -95,12 +95,18 @@ assert matched["tmdbTitle"] == "简体电影"
 assert matched["description"] == "简体简介"
 
 lupin = {"title": "Lupin", "sourcePath": "/title/lupin/", "mediaType": "tv"}
+lupin_ambiguous = MODULE.match_tmdb(lupin, {("tv", 222): 0})
+assert len(lupin_ambiguous["_ambiguous"]) == 2
+lupin["releaseYear"] = "2021"
 lupin_match = MODULE.match_tmdb(lupin, {("tv", 222): 0})
 assert lupin_match["tmdbId"] == 222
 assert lupin_match["releaseDate"] == "2021-01-08"
 assert lupin_match["tmdbTitle"] == "简体剧名"
 
 day_after = {"title": "The Day After Tomorrow", "sourcePath": "/title/the-day-after-tomorrow/", "mediaType": "movie"}
+day_after_ambiguous = MODULE.match_tmdb(day_after, {("movie", 1615365): 0})
+assert len(day_after_ambiguous["_ambiguous"]) == 2
+day_after["releaseYear"] = "2004"
 day_after_match = MODULE.match_tmdb(day_after, {("movie", 1615365): 0})
 assert day_after_match["tmdbId"] == 435
 print("FlixPatrol parser tests passed")

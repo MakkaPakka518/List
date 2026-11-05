@@ -62,6 +62,8 @@ def title_key(value):
 
 
 def item_year(item):
+    if str(item.get("releaseYear", "")).isdigit():
+        return str(item["releaseYear"])
     match = re.search(r"-(19\d{2}|20\d{2})/$", str(item.get("sourcePath", "")))
     return match.group(1) if match else ""
 
@@ -211,24 +213,38 @@ def match_tmdb(item, rankings):
     if not matches:
         return None
     matches.sort(key=lambda value: value[:7])
+    exact_matches = [value for value in matches if not value[0]]
+    if not year and len(exact_matches) > 1:
+        return {"_ambiguous": [{"candidate": value[7], "mediaType": value[8]} for value in exact_matches]}
     return tmdb_metadata(matches[0][7], matches[0][8])
 
 
-def enrich_tmdb(results):
+def flix_release_year(session, item):
+    source_path = str(item.get("sourcePath", ""))
+    if not re.match(r"^/title/[a-z0-9][a-z0-9-%]*/$", source_path):
+        return ""
+    page = session.fetch(f"https://flixpatrol.com{source_path}", timeout=90000, wait_selector="h1")
+    text = " ".join(map(str, page.xpath("//body//text()").getall()))
+    match = re.search(r"\b\d{2}/\d{2}/\s*(\d{4})\b", text)
+    return match.group(1) if match else ""
+
+
+def enrich_tmdb(results, session):
     if not os.environ.get("TMDB_API_KEY", "").strip():
         raise RuntimeError("TMDB_API_KEY is required to publish FlixPatrol data")
     cache = json.loads(TMDB_CACHE_FILE.read_text(encoding="utf-8")) if TMDB_CACHE_FILE.exists() else {}
-    cache = {key: value for key, value in cache.items() if key.startswith("v6:")}
+    cache = {key: value for key, value in cache.items() if key.startswith("v7:")}
     rankings = tmdb_rankings()
     references = {}
     for data in results:
         for platform in data["platforms"].values():
             for items in platform["charts"].values():
                 for item in items:
-                    key = f"v6:{item.get('mediaType', 'multi')}:{title_key(item.get('title'))}:{item_year(item)}"
+                    key = f"v7:{item.get('mediaType', 'multi')}:{title_key(item.get('title'))}:{item_year(item)}"
                     references.setdefault(key, []).append(item)
 
     missing = {key: items[0] for key, items in references.items() if key not in cache}
+    ambiguous = {}
     if missing:
         with ThreadPoolExecutor(max_workers=6) as executor:
             futures = {executor.submit(match_tmdb, item, rankings): key for key, item in missing.items()}
@@ -236,12 +252,25 @@ def enrich_tmdb(results):
                 key = futures[future]
                 try:
                     match = future.result()
-                    if match and match.get("tmdbId"):
+                    if match and match.get("_ambiguous"):
+                        ambiguous[key] = match["_ambiguous"]
+                    elif match and match.get("tmdbId"):
                         cache[key] = match
                 except Exception as error:
                     print(f"TMDB failed for {missing[key].get('title')}: {error}")
                 if index % 100 == 0:
                     print(f"TMDB matched {index}/{len(missing)} new titles")
+
+    for index, (key, candidates) in enumerate(ambiguous.items(), 1):
+        item = missing[key]
+        try:
+            year = flix_release_year(session, item)
+            matching = [value for value in candidates if (value["candidate"].get("release_date") or value["candidate"].get("first_air_date") or "").startswith(year)] if year else []
+            if matching:
+                cache[key] = tmdb_metadata(matching[0]["candidate"], matching[0]["mediaType"])
+            print(f"Resolved ambiguous title {index}/{len(ambiguous)}: {item.get('title')} -> {year or 'unknown'}")
+        except Exception as error:
+            print(f"FlixPatrol detail failed for {item.get('title')}: {error}")
 
     matched = 0
     total = 0
@@ -374,10 +403,9 @@ def main():
                 print(f"[{index}/{len(selected)}] {slug}: FAILED - {error}")
             time.sleep(delay)
 
-    if not results:
-        raise RuntimeError("FlixPatrol returned no country data")
-
-    enrich_tmdb(results)
+        if not results:
+            raise RuntimeError("FlixPatrol returned no country data")
+        enrich_tmdb(results, session)
     for data in results:
         write_json(OUTPUT_DIR / f"{data['country']['slug']}.json", data)
     keep_files = {f"{slug}.json" for slug in selected} | {"index.json", TMDB_CACHE_FILE.name}
