@@ -242,6 +242,8 @@ def write_json(path, value):
 
 
 def main():
+    if not os.environ.get("TMDB_API_KEY", "").strip():
+        raise RuntimeError("TMDB_API_KEY is required; pass secrets.TMDB_API_KEY in the workflow env")
     delay = max(0.5, float(os.environ.get("FLIXPATROL_DELAY", "1.0")))
     requested = [value.strip() for value in os.environ.get("FLIXPATROL_COUNTRIES", "").split(",") if value.strip()]
     failures = []
