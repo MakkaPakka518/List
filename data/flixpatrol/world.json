@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "source": "FlixPatrol",
+  "sourceUrl": "https://flixpatrol.com/top10/",
+  "updatedAt": "2026-11-05T18:38:51+00:00",
+  "chartDate": "",
+  "country": {
+    "slug": "world",
+    "name": "Worldwide"
+  },
+  "platforms": {
+    "netflix-movies": {
+      "name": "Netflix Movies",
+      "charts": {}
+    },
+    "netflix-tv-shows": {
+      "name": "Netflix Tv Shows",
+      "charts": {}
+    },
+    "hbo-max-tv-shows": {
+      "name": "Hbo Max Tv Shows",
+      "charts": {}
+    },
+    "hbo-max-movies": {
+      "name": "Hbo Max Movies",
+      "charts": {}
+    },
+    "disney-tv-shows": {
+      "name": "Disney Tv Shows",
+      "charts": {}
+    },
+    "disney-movies": {
+      "name": "Disney Movies",
+      "charts": {}
+    },
+    "amazon-prime-movies": {
+      "name": "Amazon Prime Movies",
+      "charts": {}
+    },
+    "amazon-prime-tv-shows": {
+      "name": "Amazon Prime Tv Shows",
+      "charts": {}
+    },
+    "paramount-plus-tv-shows": {
+      "name": "Paramount Plus Tv Shows",
+      "charts": {}
+    },
+    "paramount-plus-movies": {
+      "name": "Paramount Plus Movies",
+      "charts": {}
+    },
+    "apple-tv-tv-shows": {
+      "name": "Apple Tv Tv Shows",
+      "charts": {}
+    },
+    "apple-tv-movies": {
+      "name": "Apple Tv Movies",
+      "charts": {}
+    },
+    "amazon-movies": {
+      "name": "Amazon Movies",
+      "charts": {}
+    },
+    "amazon-tv-shows": {
+      "name": "Amazon Tv Shows",
+      "charts": {}
+    },
+    "itunes-movies": {
+      "name": "Itunes Movies",
+      "charts": {}
+    },
+    "itunes-tv-shows": {
+      "name": "Itunes Tv Shows",
+      "charts": {}
+    },
+    "google-movies": {
+      "name": "Google Movies",
+      "charts": {}
+    },
+    "rakuten-tv-movies": {
+      "name": "Rakuten Tv Movies",
+      "charts": {}
+    },
+    "chili-movies": {
+      "name": "Chili Movies",
+      "charts": {}
+    }
+  }
+}

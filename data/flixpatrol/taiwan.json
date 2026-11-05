@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "FlixPatrol",
   "sourceUrl": "https://flixpatrol.com/top10/streaming/taiwan/",
-  "updatedAt": "2026-11-05T18:12:18+00:00",
+  "updatedAt": "2026-11-05T18:39:06+00:00",
   "chartDate": "2026-11-05",
   "country": {
     "slug": "taiwan",
@@ -389,13 +389,13 @@
             "movement": "-3",
             "days": "2 d",
             "mediaType": "movie",
-            "tmdbId": 9323,
+            "tmdbId": 315837,
             "tmdbTitle": "攻壳机动队",
-            "posterPath": "/fjUtWKx4t9g0fGZxPThsEsWYHy9.jpg",
-            "backdropPath": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
-            "releaseDate": "1995-11-18",
-            "rating": 7.929,
-            "description": "公元2029年，未来世界是高科技与信息化的世界。人类生活水平的提高伴随着犯罪活动的高科技化，于是，专门镇压高科技犯罪的特殊部队——公安9课成立了。队长草薙素子，作为一位全身“义体化”的女警，带领公安9课不断展开行动。这次，公安9课帮助公安6课秘密解决了一位程序员外逃他国的麻烦琐事，又卷入传说中的黑客“傀儡师”的犯罪事件。当行动陷入僵局之际，傀儡师竟然不请自来，出现在公安9课！素子与她的战友们，不知不觉地被卷入了一场涉及政府的阴谋之中。"
+            "posterPath": "/8IkonHWR13kbhtUkOnXlUXAne31.jpg",
+            "backdropPath": "/dDVqfmCzSy3TKSmiS2pJ9QB5E3P.jpg",
+            "releaseDate": "2017-03-29",
+            "rating": 6.118,
+            "description": "近未来，人类的各种器官均可实现移植，一时间机器人、生化人、仿生人充斥世间，与人类真假莫辨。某座繁华都市的大厦内，汉卡公司高管正与非洲来宾洽谈业务，突然宴会变成血腥大屠杀，暴走的机器人大开杀戒。隶属公安九课的米拉·基里安少佐（斯嘉丽·约翰逊 Scarlett Johansson 饰）带领巴特（皮鲁·埃斯贝克 Pilou Asbæk 饰）等手下赶往现场，平息事态。根据对暴走艺伎机器人的调查发现，被称作“久世”的神秘之人策划了这一系列的行动，而且他的目标全部指向了掌握着生化前沿尖端科技的汉卡公司及其研发人员。经过一番凶险的周旋，少佐逐渐逼近真相，同时也渐渐解开了发生在自己身上的惊天秘密……"
           },
           {
             "rank": 6,
@@ -1136,13 +1136,13 @@
             "movement": "+1",
             "days": "26 d",
             "mediaType": "movie",
-            "tmdbId": 946940,
+            "tmdbId": 1631887,
             "tmdbTitle": "Matchbox",
-            "posterPath": "/3iI6MGWT4Bkpn2KPiCCGdgQxrdw.jpg",
-            "backdropPath": null,
-            "releaseDate": "2002-02-24",
+            "posterPath": "/9jldgwqF3fwr027N6NRoU8NBanB.jpg",
+            "backdropPath": "/vAroLszBrRHVgRbIU9tNOEQIuWe.jpg",
+            "releaseDate": "2026-02-13",
             "rating": 0.0,
-            "description": "A fast-paced love story goes wrong when a match looses his box."
+            "description": "Matchbox follows John, a young white-collar worker trapped in a cycle of exhaustion, pressure, and quiet dread as he struggles through a late night of unfinished work. Seeking relief from the relentless glow of deadlines and expectations, he turns to a familiar coping ritual, only to find that the small escape he relies on begins to unravel the world around him. As the night darkens, ordinary spaces feel unfamiliar, time seems to slip, and what once offered comfort starts to demand attention in return."
           },
           {
             "rank": 5,
@@ -1348,13 +1348,13 @@
             "movement": "n/a",
             "days": "30 d",
             "mediaType": "tv",
-            "tmdbId": 66515,
-            "tmdbTitle": "Ang Probinsyano",
-            "posterPath": "/uX5ldo2snjJuZ8P9AxOharboxJn.jpg",
-            "backdropPath": "/lt9fFOFhR6QI5oIAvfWVx4G7nt0.jpg",
-            "releaseDate": "2015-09-28",
-            "rating": 6.6,
-            "description": "Ador is a well known and respected CIDG Police Official, with a loving family as his support. Cardo, on the other hand, loves the solitude of the mountains in the province as a SAF Trooper. Their lives take a sudden turn when Ador gets himself entangled in a syndicate by being betrayed by one of his own colleagues, resulting to his death. To conceal this fact, Cardo was ordered to pretend to be Ador and finish the mission what his brother left behind. He will also be force to pretend to his brother's family and friends, and be re-united with his grandmother, whom he despised, for assuming she abandoned him."
+            "tmdbId": 250203,
+            "tmdbTitle": "荷里活好兄弟",
+            "posterPath": "/sapz1NirksJH5GvRqPnWuNI3O4a.jpg",
+            "backdropPath": "/uw7VNIqQGKcZH9hph6R4fuX9WMA.jpg",
+            "releaseDate": "2026-09-22",
+            "rating": 7.083,
+            "description": "好莱坞演员马修麦康纳和伍迪哈里森是多年好友，但一个令人震惊的家族秘密，表明他们之间的关系可能还要更亲近。"
           },
           {
             "rank": 9,
@@ -1490,13 +1490,13 @@
             "movement": "-3",
             "days": "3 d",
             "mediaType": "movie",
-            "tmdbId": 1428226,
-            "tmdbTitle": "Hasta el Fin del Mundo",
-            "posterPath": "/6pwqbrrI1vHnID3wqfLIBLTM2Dd.jpg",
-            "backdropPath": "/uKcNHUS5QgcrFJMCADEDTXYFcdS.jpg",
-            "releaseDate": "2026-07-23",
-            "rating": 8.225,
-            "description": "La vida de Manuel da un vuelco cuando Esmeralda, su amor perdido de hace quince años, lo llama inesperadamente. A pesar de estar a punto de casarse con otra persona, él se reencontrará con Esmeralda y ambos se darán cuenta de que su amor trasciende el tiempo."
+            "tmdbId": 10341,
+            "tmdbTitle": "直到世界尽头",
+            "posterPath": "/8r4YHvI7zMsnVZocgooEUq0H0do.jpg",
+            "backdropPath": "/gGimkIjlQRcFisJ8eiuErpAiYY2.jpg",
+            "releaseDate": "1991-09-12",
+            "rating": 6.7,
+            "description": "1999 年，一名妇女在一场与两名银行劫匪相撞的车祸中幸存下来后，她的生活发生了永远的改变，两名劫匪请求她帮助将钱带到巴黎的一个银行。途中，她遇到了另一名逃犯——一名从中央情报局逃亡的美国医生。他们想要没收他父亲的发明——一种可以让任何人记录自己的梦想和愿景的装置。"
           },
           {
             "rank": 8,
@@ -2023,13 +2023,13 @@
             "movement": "–",
             "days": "403 d",
             "mediaType": "tv",
-            "tmdbId": 218755,
-            "tmdbTitle": "我们之间的距离",
-            "posterPath": "/t4h4o4PjpfGPLxExfZRoWRsIHyS.jpg",
-            "backdropPath": "/nhKNjVta3eLs2Dq34SoyiPwntVC.jpg",
-            "releaseDate": "2021-07-05",
-            "rating": 0.0,
-            "description": "故事讲述了路易西托·阿松西翁和艾米莉亚·利布拉迪利亚的故事。他们从小在利布拉迪利亚家族一起长大，彼此认定对方是命中注定的伴侣，但有些人却一心想让他们分离。"
+            "tmdbId": 87969,
+            "tmdbTitle": "我们与恶的距离",
+            "posterPath": "/cXLPtWEAD06fMRcQVjYQNrr8i5D.jpg",
+            "backdropPath": "/xqj7weNzGm9DteG09bqpKsbpzwY.jpg",
+            "releaseDate": "2019-03-24",
+            "rating": 8.6,
+            "description": "以震惊社会的随机杀人案件为核心，透过受害者家属、加害者家庭、媒体、律师与普通人的视角，层层揭开悲剧背后复杂的人性与社会裂缝。"
           },
           {
             "rank": 2,
@@ -2313,13 +2313,13 @@
             "movement": "–",
             "days": "353 d",
             "mediaType": "tv",
-            "tmdbId": 218755,
-            "tmdbTitle": "我们之间的距离",
-            "posterPath": "/t4h4o4PjpfGPLxExfZRoWRsIHyS.jpg",
-            "backdropPath": "/nhKNjVta3eLs2Dq34SoyiPwntVC.jpg",
-            "releaseDate": "2021-07-05",
-            "rating": 0.0,
-            "description": "故事讲述了路易西托·阿松西翁和艾米莉亚·利布拉迪利亚的故事。他们从小在利布拉迪利亚家族一起长大，彼此认定对方是命中注定的伴侣，但有些人却一心想让他们分离。"
+            "tmdbId": 87969,
+            "tmdbTitle": "我们与恶的距离",
+            "posterPath": "/cXLPtWEAD06fMRcQVjYQNrr8i5D.jpg",
+            "backdropPath": "/xqj7weNzGm9DteG09bqpKsbpzwY.jpg",
+            "releaseDate": "2019-03-24",
+            "rating": 8.6,
+            "description": "以震惊社会的随机杀人案件为核心，透过受害者家属、加害者家庭、媒体、律师与普通人的视角，层层揭开悲剧背后复杂的人性与社会裂缝。"
           },
           {
             "rank": 2,
@@ -2892,13 +2892,13 @@
             "movement": "+3",
             "days": "297 d",
             "mediaType": "movie",
-            "tmdbId": 1660384,
-            "tmdbTitle": "SADA",
-            "posterPath": "/bR8qM5GcWKYuEvPGeJ7EU6r3nE5.jpg",
-            "backdropPath": "/6RoQCtd4didg2FdmZYaEwO9mDev.jpg",
-            "releaseDate": "2022-02-28",
-            "rating": 0.0,
-            "description": "A young street hustler roams the neighborhoods of Paris during Christmas. When she meets her next target, events take a surprising turn."
+            "tmdbId": 122188,
+            "tmdbTitle": "感官新世界",
+            "posterPath": "/ubkLILF2FYkm6UUK95AtX1Jng4S.jpg",
+            "backdropPath": "/jMAJR0thg9MVY7dvSJk9nn9thYu.jpg",
+            "releaseDate": "1998-04-11",
+            "rating": 7.0,
+            "description": "　　这是发生在昭和11年太平洋战争时，因割除爱人性器官逃逸引发震惊日本全国社会的刑事案件改编而成的电影。阿部定14岁时便遭人强暴，而此时医学院学生冈田无微不至的照顾，掳获了她纯真的心，两人编织了一段甜美恋曲，而初尝爱情滋味的阿部定更是深深迷恋上冈田以利刃爱抚她的她的方式。不幸的是，冈田染上当时的不治之症麻疯病，为不拖累阿部定，冈田选择将恋情结束。几年后，阿部定成为一名红牌艺妓，但与冈田这段爱恋却不曾从她心中抹灭。不久，阿部定认识市议员立花，经由他的介绍，进入一家料理店工作，龙藏--一个影响她一生的男人出现在她面前，两颗饥渴的心灵在生命空虚疑惑下，寄托沈沦于无止尽的性爱交欢，藉由肉体的刺激与满足，达到短暂的快慰，最后阿部定毅然决然地将精神与肉体的爱，作个了断，永伴身边……"
           },
           {
             "rank": 2,
@@ -2922,13 +2922,13 @@
             "movement": "+2",
             "days": "74 d",
             "mediaType": "movie",
-            "tmdbId": 846828,
-            "tmdbTitle": "依依 Yi yi",
-            "posterPath": "/dS1d1JzahXgA8n9RPndXFGxPnce.jpg",
-            "backdropPath": null,
-            "releaseDate": "2021-08-12",
-            "rating": 0.0,
-            "description": "A mother, trapped in the comfort of memory and mourning, confronts her grief when she is invited to the wedding of her late son’s childhood sweetheart."
+            "tmdbId": 25538,
+            "tmdbTitle": "一一",
+            "posterPath": "/4VsHb2ZcFDRU0WlbuKVzqPjxnPu.jpg",
+            "backdropPath": "/3Uiz26ZsP7GUOw8D2tSeZhSdqE0.jpg",
+            "releaseDate": "2000-09-20",
+            "rating": 7.956,
+            "description": "已故台湾电影大师杨德昌执导的非凡之作，在国际上广受赞誉。影片以一场婚礼开始，以一场葬礼结束，跟随台北一个中产阶级家庭度过了一年的时光。无论是记述中年父亲NJ与旧情人试探性的情感波动，还是早熟的小儿子洋洋用他心爱的相机试图捕捉现实的努力，导演都以充满慈悲的明晰感，为每一帧精美的画面注入了深意。这部温暖、辽阔而迷人的亲密史诗，无疑是二十一世纪无可争议的杰作之一。"
           },
           {
             "rank": 4,
@@ -2957,7 +2957,7 @@
             "posterPath": "/iqJW0Cfd7khY5t8wVTQ1jyrnHRJ.jpg",
             "backdropPath": "/cg7EbS8B0bPMOFljWnhy3DaSdgy.jpg",
             "releaseDate": "1985-11-07",
-            "rating": 6.9,
+            "rating": 6.908,
             "description": "　　富贵乡绅任发（黄虾 饰）先父当年威逼利诱求得一块风水宝地，经风水先生指点，其父下葬二十年后起坟迁葬，以利子孙。然九叔（林正英 饰）察看墓穴得知，当年风水先生与任家私怨在身，在墓穴中做下手脚，二十年后任老太爷尸体已生恶变。九叔提议就地火化，在任老爷请求下才将尸骨移往义庄。虽经小心看护，但任老太爷仍化作僵尸，将其子任发杀害。  　　九叔断定任老太爷和任发的僵尸将再次出现，于是命令徒弟秋生（钱小豪 饰）和文才（许冠英 饰）小心应付……"
           },
           {

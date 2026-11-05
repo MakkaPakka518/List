@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "FlixPatrol",
   "sourceUrl": "https://flixpatrol.com/top10/streaming/united-states/",
-  "updatedAt": "2026-11-05T18:12:04+00:00",
+  "updatedAt": "2026-11-05T18:38:59+00:00",
   "chartDate": "2026-11-05",
   "country": {
     "slug": "united-states",
@@ -400,13 +400,13 @@
             "movement": "-2",
             "days": "2 d",
             "mediaType": "movie",
-            "tmdbId": 1760311,
-            "tmdbTitle": "芭比与胡桃夹子的梦幻之旅",
-            "posterPath": "/mNDMKW02K1dprHF56oKGNrEBflR.jpg",
-            "backdropPath": "/evGVyMugYXACdxZg4QB4kXW3N9r.jpg",
-            "releaseDate": "2026-10-31",
-            "rating": 1.0,
-            "description": "这部时长45分钟的全新演绎，为经典故事注入了现代动画风格与耳目一新的叙事方式。在这场全新的冒险中，“布鲁克林”芭比（Barbie “Brooklyn” Roberts）化身为“糖梅公主”，而“马里布”芭比（Barbie “Malibu” Roberts）则饰演克拉拉（Clara）。她们一同踏上一段奇妙的音乐梦幻之旅，在充满节日奇迹、勇气与友谊的世界中展开探索。"
+            "tmdbId": 15167,
+            "tmdbTitle": "芭比与胡桃夹子的奇幻之旅",
+            "posterPath": "/i0wPpr91WeWG9zY85DWyDw7QKQO.jpg",
+            "backdropPath": "/haIcBLkuIzeJJ7WB8rOwHBc54NY.jpg",
+            "releaseDate": "2001-09-30",
+            "rating": 6.906,
+            "description": "克拉拉（Kelly Sheridan 配音）的生日即将到来，伊丽莎白阿姨（凯思林·巴尔 Kathleen Barr 配音）送了她一只胡桃夹子，没想到却意外的将克拉拉卷入了一段充满了魔幻的传奇故事中去。"
           },
           {
             "rank": 8,
@@ -983,14 +983,14 @@
             "sourcePath": "/title/youth/",
             "movement": "–",
             "days": "2 d",
-            "tmdbId": 285418,
-            "tmdbTitle": "找春天",
-            "mediaType": "tv",
-            "posterPath": "/u1qPUGUJFs34MjrtBlQkX9kyOcn.jpg",
-            "backdropPath": "/v38MfUTzp5OBCGLMtzEU5wZPZCR.jpg",
-            "releaseDate": "2026-09-21",
-            "rating": 6.7,
-            "description": "一名50岁离婚女子在寻找性爱与爱情的同时，还得照顾年迈多病的父母，以及抚养本该早已独立成年的儿子。"
+            "tmdbId": 310593,
+            "tmdbTitle": "年轻气盛",
+            "mediaType": "movie",
+            "posterPath": "/rfxQHojvS1AQJRq8cMJ8NS3tE9L.jpg",
+            "backdropPath": "/7nFfW8RM50PANBIdfI9Ut3FdoSB.jpg",
+            "releaseDate": "2015-05-20",
+            "rating": 6.902,
+            "description": "老友米克和弗雷德结伴前往阿尔卑斯的度假旅馆，他们以爱和幽默的视角，探讨子女们满是麻烦的生活。米克是导演，正在积极创作自己看来最重要的一部电影，而早就没有了事业追求的指挥家、作曲家弗雷德却收到女王伊丽莎白二世的邀请为菲利普的生日演奏。"
           },
           {
             "rank": 7,
@@ -1126,13 +1126,13 @@
             "movement": "+2",
             "days": "48 d",
             "mediaType": "movie",
-            "tmdbId": 1394614,
-            "tmdbTitle": "Home, Alone",
-            "posterPath": null,
-            "backdropPath": null,
-            "releaseDate": "",
-            "rating": 0.0,
-            "description": "hello? who's there?"
+            "tmdbId": 771,
+            "tmdbTitle": "小鬼当家",
+            "posterPath": "/zqWtmVMhfbnIlDruY6ndQw5ObEy.jpg",
+            "backdropPath": "/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+            "releaseDate": "1990-11-16",
+            "rating": 7.47,
+            "description": "一年一度的圣诞节又到了。全家忙着外出欢度圣诞假期，不料忙中出错，将家里最小的成员-8岁的凯文（麦考利•卡尔金 Macaulay Culkin饰）留在了家里。爸爸妈妈急坏了，可此时他们已经身在外地，一时亦无可奈何。倒是凯文乐坏了，难得一个人在家，凯文将家里布置成了“游乐场”。两个刚出狱的窃贼将目光瞄向了凯文家。当他们鬼鬼祟祟的踏入凯文家时，凯文凭借自己的醒目和家里的“游乐场机关”，和两个笨贼玩起了“游戏”，笑料百出。凯文最后能否这场“游戏”的胜利？"
           },
           {
             "rank": 6,
@@ -1218,13 +1218,13 @@
             "movement": "+1",
             "days": "2 d",
             "mediaType": "movie",
-            "tmdbId": 1394614,
-            "tmdbTitle": "Home, Alone",
-            "posterPath": null,
-            "backdropPath": null,
-            "releaseDate": "",
-            "rating": 0.0,
-            "description": "hello? who's there?"
+            "tmdbId": 771,
+            "tmdbTitle": "小鬼当家",
+            "posterPath": "/zqWtmVMhfbnIlDruY6ndQw5ObEy.jpg",
+            "backdropPath": "/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+            "releaseDate": "1990-11-16",
+            "rating": 7.47,
+            "description": "一年一度的圣诞节又到了。全家忙着外出欢度圣诞假期，不料忙中出错，将家里最小的成员-8岁的凯文（麦考利•卡尔金 Macaulay Culkin饰）留在了家里。爸爸妈妈急坏了，可此时他们已经身在外地，一时亦无可奈何。倒是凯文乐坏了，难得一个人在家，凯文将家里布置成了“游乐场”。两个刚出狱的窃贼将目光瞄向了凯文家。当他们鬼鬼祟祟的踏入凯文家时，凯文凭借自己的醒目和家里的“游乐场机关”，和两个笨贼玩起了“游戏”，笑料百出。凯文最后能否这场“游戏”的胜利？"
           },
           {
             "rank": 2,
@@ -1450,7 +1450,7 @@
             "posterPath": "/mzlhM9GKP9a2WZ3xv5eKbJA6ayJ.jpg",
             "backdropPath": "/s3owzvmihtDrunVxB2DyGjn9iJt.jpg",
             "releaseDate": "2021-12-07",
-            "rating": 7.5,
+            "rating": 7.517,
             "description": "一群敬业、热情的老师和一位略显失聪的校长聚集在费城的一所公立学校，决心帮助学生在生活中取得成功。"
           },
           {
@@ -1647,13 +1647,13 @@
             "movement": "–",
             "days": "12 d",
             "mediaType": "movie",
-            "tmdbId": 136928,
+            "tmdbId": 244395,
             "tmdbTitle": "First Winter",
-            "posterPath": "/isu4QORm0IrQxd2rOMvRqNEfoRY.jpg",
-            "backdropPath": "/iFL6pwCDaIb72Epz90P9Uo1eX2J.jpg",
-            "releaseDate": "2012-10-11",
-            "rating": 3.7,
-            "description": "When winter begins, life is serene for a group of new-age Brooklynites living in a remote country farmhouse. Sex, drugs, yoga, and organic cooking absorb their days, safely tucked away from the stresses of urban life. But when a blackout of apocalyptic proportions strands them with no heat and no electricity during the coldest winter on record, their utopian commune is breached by anxiety and their idyllic harmony begins to lose its tune. As time wears on and the food supply dwindles, power struggles, jealousy, and desire threaten the group's ability to work together in order to survive."
+            "posterPath": "/z4LW2a9TGmVk9OrOQRG2oQbr75p.jpg",
+            "backdropPath": null,
+            "releaseDate": "1982-10-01",
+            "rating": 6.9,
+            "description": "A historical drama depicting an Irish immigrant family’s first winter in Canada, where isolation, illness, and an unforgiving landscape test their will to survive."
           },
           {
             "rank": 10,
@@ -1739,13 +1739,13 @@
             "movement": "–",
             "days": "26 d",
             "mediaType": "movie",
-            "tmdbId": 136928,
+            "tmdbId": 244395,
             "tmdbTitle": "First Winter",
-            "posterPath": "/isu4QORm0IrQxd2rOMvRqNEfoRY.jpg",
-            "backdropPath": "/iFL6pwCDaIb72Epz90P9Uo1eX2J.jpg",
-            "releaseDate": "2012-10-11",
-            "rating": 3.7,
-            "description": "When winter begins, life is serene for a group of new-age Brooklynites living in a remote country farmhouse. Sex, drugs, yoga, and organic cooking absorb their days, safely tucked away from the stresses of urban life. But when a blackout of apocalyptic proportions strands them with no heat and no electricity during the coldest winter on record, their utopian commune is breached by anxiety and their idyllic harmony begins to lose its tune. As time wears on and the food supply dwindles, power struggles, jealousy, and desire threaten the group's ability to work together in order to survive."
+            "posterPath": "/z4LW2a9TGmVk9OrOQRG2oQbr75p.jpg",
+            "backdropPath": null,
+            "releaseDate": "1982-10-01",
+            "rating": 6.9,
+            "description": "A historical drama depicting an Irish immigrant family’s first winter in Canada, where isolation, illness, and an unforgiving landscape test their will to survive."
           },
           {
             "rank": 6,
@@ -1799,13 +1799,13 @@
             "movement": "–",
             "days": "30 d",
             "mediaType": "movie",
-            "tmdbId": 39322,
-            "tmdbTitle": "Dark Nature",
-            "posterPath": "/hNpqU3sZFpKo9fwYXtrcE1j412U.jpg",
-            "backdropPath": null,
-            "releaseDate": "2010-06-25",
-            "rating": 3.2,
-            "description": "A family holiday turns into a fight for survival in the inhospitable wilderness of remote Scotland."
+            "tmdbId": 994138,
+            "tmdbTitle": "黑暗自然",
+            "posterPath": "/dRXxKrQPfVoAGGXK6V4sfiuIM4b.jpg",
+            "backdropPath": "/8XWP8VEisWcYTAndinohWwutvHc.jpg",
+            "releaseDate": "2023-05-19",
+            "rating": 5.395,
+            "description": "这部电影讲述了一个治疗小组的故事，她们被迫面对过去的怪物，一次孤立的周末静修考验了他们的情绪恢复能力和生存能力。"
           },
           {
             "rank": 10,
@@ -2306,14 +2306,14 @@
             "sourcePath": "/title/tracker/",
             "movement": "–",
             "days": "23 d",
-            "tmdbId": 211288,
-            "tmdbTitle": "寻踪者",
-            "mediaType": "tv",
-            "posterPath": "/ac4r6lBZaSviJ2vMK9MyMC1baRa.jpg",
-            "backdropPath": "/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
-            "releaseDate": "2024-02-11",
-            "rating": 7.6,
-            "description": "改编自杰弗里·迪弗的畅销小说《The Never Game》。科尔特·肖是一名独行生存专家，游走各地寻找失踪者并领取悬赏。他凭借敏锐直觉、特殊技能和团队协助，调查危险案件、揭开隐藏真相，为陷入困境的人带来答案。"
+            "tmdbId": 62255,
+            "tmdbTitle": "狂野追踪",
+            "mediaType": "movie",
+            "posterPath": "/y01Rmmn1LkJYZ3dmfXU0zkVvP70.jpg",
+            "backdropPath": "/iSWuB22m6mItthwRdC44rO3Zqw3.jpg",
+            "releaseDate": "2010-05-20",
+            "rating": 6.4,
+            "description": "英布战争中的幸存游击队员Arjan（雷·温斯顿饰）在英属殖民地新西兰安了家，为了巨额悬赏，他奉命捉拿Kerama，一个被指控杀害英国士兵的毛利船员。对于精通追踪术的Arjan来说，这本是一件再容易不过的事，然而Kereama被抓后一再逃跑让这个猫鼠游戏变得紧张刺激，险象环生。Kereama坚持下去的唯一动力是他是无辜的。在不停的追逐中，两人互不相让、各占上风，他们也开始互相了解和尊重。决战的危急时刻却令他们发现，除了讨厌英国佬之外，他们还有很多共同之处。面对由Carlyle率领的英国军队，他们的命运会是如何？"
           },
           {
             "rank": 3,
@@ -2509,13 +2509,13 @@
             "movement": "-1",
             "days": "27 d",
             "mediaType": "movie",
-            "tmdbId": 946940,
+            "tmdbId": 1631887,
             "tmdbTitle": "Matchbox",
-            "posterPath": "/3iI6MGWT4Bkpn2KPiCCGdgQxrdw.jpg",
-            "backdropPath": null,
-            "releaseDate": "2002-02-24",
+            "posterPath": "/9jldgwqF3fwr027N6NRoU8NBanB.jpg",
+            "backdropPath": "/vAroLszBrRHVgRbIU9tNOEQIuWe.jpg",
+            "releaseDate": "2026-02-13",
             "rating": 0.0,
-            "description": "A fast-paced love story goes wrong when a match looses his box."
+            "description": "Matchbox follows John, a young white-collar worker trapped in a cycle of exhaustion, pressure, and quiet dread as he struggles through a late night of unfinished work. Seeking relief from the relentless glow of deadlines and expectations, he turns to a familiar coping ritual, only to find that the small escape he relies on begins to unravel the world around him. As the night darkens, ordinary spaces feel unfamiliar, time seems to slip, and what once offered comfort starts to demand attention in return."
           },
           {
             "rank": 6,
@@ -2646,13 +2646,13 @@
             "movement": "+2",
             "days": "43 d",
             "mediaType": "tv",
-            "tmdbId": 66515,
-            "tmdbTitle": "Ang Probinsyano",
-            "posterPath": "/uX5ldo2snjJuZ8P9AxOharboxJn.jpg",
-            "backdropPath": "/lt9fFOFhR6QI5oIAvfWVx4G7nt0.jpg",
-            "releaseDate": "2015-09-28",
-            "rating": 6.6,
-            "description": "Ador is a well known and respected CIDG Police Official, with a loving family as his support. Cardo, on the other hand, loves the solitude of the mountains in the province as a SAF Trooper. Their lives take a sudden turn when Ador gets himself entangled in a syndicate by being betrayed by one of his own colleagues, resulting to his death. To conceal this fact, Cardo was ordered to pretend to be Ador and finish the mission what his brother left behind. He will also be force to pretend to his brother's family and friends, and be re-united with his grandmother, whom he despised, for assuming she abandoned him."
+            "tmdbId": 250203,
+            "tmdbTitle": "荷里活好兄弟",
+            "posterPath": "/sapz1NirksJH5GvRqPnWuNI3O4a.jpg",
+            "backdropPath": "/uw7VNIqQGKcZH9hph6R4fuX9WMA.jpg",
+            "releaseDate": "2026-09-22",
+            "rating": 7.083,
+            "description": "好莱坞演员马修麦康纳和伍迪哈里森是多年好友，但一个令人震惊的家族秘密，表明他们之间的关系可能还要更亲近。"
           },
           {
             "rank": 5,
@@ -2783,13 +2783,13 @@
             "movement": "–",
             "days": "42 d",
             "mediaType": "tv",
-            "tmdbId": 66515,
-            "tmdbTitle": "Ang Probinsyano",
-            "posterPath": "/uX5ldo2snjJuZ8P9AxOharboxJn.jpg",
-            "backdropPath": "/lt9fFOFhR6QI5oIAvfWVx4G7nt0.jpg",
-            "releaseDate": "2015-09-28",
-            "rating": 6.6,
-            "description": "Ador is a well known and respected CIDG Police Official, with a loving family as his support. Cardo, on the other hand, loves the solitude of the mountains in the province as a SAF Trooper. Their lives take a sudden turn when Ador gets himself entangled in a syndicate by being betrayed by one of his own colleagues, resulting to his death. To conceal this fact, Cardo was ordered to pretend to be Ador and finish the mission what his brother left behind. He will also be force to pretend to his brother's family and friends, and be re-united with his grandmother, whom he despised, for assuming she abandoned him."
+            "tmdbId": 250203,
+            "tmdbTitle": "荷里活好兄弟",
+            "posterPath": "/sapz1NirksJH5GvRqPnWuNI3O4a.jpg",
+            "backdropPath": "/uw7VNIqQGKcZH9hph6R4fuX9WMA.jpg",
+            "releaseDate": "2026-09-22",
+            "rating": 7.083,
+            "description": "好莱坞演员马修麦康纳和伍迪哈里森是多年好友，但一个令人震惊的家族秘密，表明他们之间的关系可能还要更亲近。"
           },
           {
             "rank": 4,
@@ -2813,13 +2813,13 @@
             "movement": "–",
             "days": "25 d",
             "mediaType": "movie",
-            "tmdbId": 946940,
+            "tmdbId": 1631887,
             "tmdbTitle": "Matchbox",
-            "posterPath": "/3iI6MGWT4Bkpn2KPiCCGdgQxrdw.jpg",
-            "backdropPath": null,
-            "releaseDate": "2002-02-24",
+            "posterPath": "/9jldgwqF3fwr027N6NRoU8NBanB.jpg",
+            "backdropPath": "/vAroLszBrRHVgRbIU9tNOEQIuWe.jpg",
+            "releaseDate": "2026-02-13",
             "rating": 0.0,
-            "description": "A fast-paced love story goes wrong when a match looses his box."
+            "description": "Matchbox follows John, a young white-collar worker trapped in a cycle of exhaustion, pressure, and quiet dread as he struggles through a late night of unfinished work. Seeking relief from the relentless glow of deadlines and expectations, he turns to a familiar coping ritual, only to find that the small escape he relies on begins to unravel the world around him. As the night darkens, ordinary spaces feel unfamiliar, time seems to slip, and what once offered comfort starts to demand attention in return."
           },
           {
             "rank": 6,
@@ -2857,14 +2857,14 @@
             "sourcePath": "/title/silo/",
             "movement": "–",
             "days": "122 d",
-            "tmdbId": 125988,
-            "tmdbTitle": "末日地堡",
+            "tmdbId": 256215,
+            "tmdbTitle": "Silo",
             "mediaType": "tv",
-            "posterPath": "/ahHiXJWJBdSsTEAWfh7mKRw2bcz.jpg",
-            "backdropPath": "/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-            "releaseDate": "2023-05-04",
-            "rating": 8.231,
-            "description": "末日后的世界，人类被困在神秘地堡中，与外界隔绝。工程师朱丽叶·尼科尔斯因接连发生的死亡事件展开调查，逐渐揭开地堡社会背后的秘密与真相。该剧基于休·豪伊所著同名畅销科幻系列小说改编。"
+            "posterPath": "/eOlETecebCmBWLo55cRMHXYjPcj.jpg",
+            "backdropPath": "/xivs6fayQ8Vvwg4kOt4PrqUcgT1.jpg",
+            "releaseDate": "2017-09-15",
+            "rating": 0.0,
+            "description": "All his life, Adam and his three siblings are raised in an underground silo by a woman they call Mother, safe from the apocalyptic world above where mutated monsters called Red Eyes roam. Everything changes when an explosion erupts and Mother gets critically injured. Forced to venture up into the nuclear-active world, will they survive the shocks and dangers in store for them?"
           },
           {
             "rank": 9,
@@ -2960,7 +2960,7 @@
             "posterPath": "/9nVeWeCfoEB7iGwQwEmk1Tl5P0C.jpg",
             "backdropPath": "/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
             "releaseDate": "2026-09-09",
-            "rating": 7.219,
+            "rating": 7.216,
             "description": "一个世代都是女巫的家族，被诅咒几个世纪都无法拥有爱情，他们试​​图通过直面黑暗的秘密和为彼此牺牲来打破诅咒。"
           },
           {
@@ -3329,7 +3329,7 @@
             "posterPath": "/aISbkfH8LYhWeCTltSIiofYy5MY.jpg",
             "backdropPath": "/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
             "releaseDate": "2026-09-23",
-            "rating": 7.246,
+            "rating": 7.245,
             "description": "改编自简·奥斯汀的同名经典名著。乔治亚时期英格兰，达什伍德先生去世后，遗孀与三名女儿失去庄园继承权，被迫迁居乡间简陋房屋。长女埃莉诺与次女玛丽安在拮据处境与社会压力下各自面对求婚、心碎与对真爱的探寻。"
           },
           {
@@ -3344,7 +3344,7 @@
             "posterPath": "/yyrBBEHvwdJEgNgALxuh0EyWmsN.jpg",
             "backdropPath": "/h61Kc0NC7d90jNwXfBx5js7DnSQ.jpg",
             "releaseDate": "2021-09-15",
-            "rating": 7.787,
+            "rating": 7.786,
             "description": "改编自弗兰克·赫伯特的科幻小说《沙丘》。保罗·厄崔迪随家族前往沙漠星球厄拉科斯，卷入围绕珍贵资源“香料”的权力争斗，并逐渐发现自己肩负的命运。"
           },
           {
@@ -3608,7 +3608,7 @@
             "posterPath": "/9nVeWeCfoEB7iGwQwEmk1Tl5P0C.jpg",
             "backdropPath": "/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
             "releaseDate": "2026-09-09",
-            "rating": 7.219,
+            "rating": 7.216,
             "description": "一个世代都是女巫的家族，被诅咒几个世纪都无法拥有爱情，他们试​​图通过直面黑暗的秘密和为彼此牺牲来打破诅咒。"
           },
           {
@@ -5636,14 +5636,14 @@
             "sourcePath": "/title/against-the-current/",
             "movement": "–",
             "days": "50 d",
-            "tmdbId": 282326,
-            "tmdbTitle": "蘭香如故",
-            "mediaType": "tv",
-            "posterPath": "/dGK4rZcfSSO3EPbttlcSMr2RF1B.jpg",
-            "backdropPath": "/lKsZNWBsKYJysXQsbtC2GbJS8E2.jpg",
-            "releaseDate": "2026-09-11",
-            "rating": 7.8,
-            "description": "大学士府长孙女沈嘉兰（谭松韵饰）与吏部尚书林昭祥（侯长荣饰）的长孙林锦岐（刘学义饰）订下婚约，然而朝堂风云突变，祖父沈大学士沈其翰（章申饰）被判谋逆之罪，沈家惨遭灭门。林家为自保与沈家退婚，另与御前新贵赵家结亲。沈嘉兰母亲崔氏（柯蓝饰）曾接济过的林家家奴许万全（陈创饰）、薛桂花（郭柯宇饰）夫妇用刚病亡的女儿许兰香替下嘉兰。嘉兰从此顶着许兰香的身份，成为林府的一名三等丫鬟。在艰难的境遇中，兰香没有向命运低头，始终为自己和家人的幸福生活努力着，反抗一切不公与压迫。最终，兰香凭借自己的善良与聪慧，突破阶级身份的束缚，赢得林锦岐倾心的同时也获得了林家上下的信服与尊重，成为林家的当家人，将命运牢牢掌控在自己的手中，为沈家洗刷冤屈、讨回公道。"
+            "tmdbId": 42561,
+            "tmdbTitle": "逆流而行",
+            "mediaType": "movie",
+            "posterPath": "/34WsAP7eztMucxKDscFZZrgnJsM.jpg",
+            "backdropPath": "/iTMnnTBPmf4qVUqN23d9b5oyOg3.jpg",
+            "releaseDate": "2009-01-18",
+            "rating": 5.5,
+            "description": "为了从伤心的往事走出来，保罗在朋友丽兹和杰夫的帮助下，决定要横渡纽约哈德逊河，这段行程从纽约的Troy到曼哈顿，共长150英里。"
           },
           {
             "rank": 9,
@@ -5665,15 +5665,7 @@
             "title": "Irreplaceable",
             "sourcePath": "/title/irreplaceable/",
             "movement": "–",
-            "days": "8 d",
-            "tmdbId": 297982,
-            "tmdbTitle": "無可替代",
-            "mediaType": "tv",
-            "posterPath": "/vYmmVtjEC0WlVDcri4d1gUh4NS7.jpg",
-            "backdropPath": "/yuLtXqvkwQngAlSJ9KZmvwoXCyb.jpg",
-            "releaseDate": "2026-09-28",
-            "rating": 7.583,
-            "description": "少女徐迟在目睹母亲因离婚而自杀，发誓这一生绝对不要成为被代替的弱者。为此，她以普通院校毕业生的身份，凭借自己超乎常人的拼博与机敏，成为了一名专业出色的咨询顾问。业界精英合伙人叶信之在职业生涯之初曾被上司陷害，制定复仇计划后，力邀他早早看好的徐迟成为自己的助手，更以良师益友的身份不断指导她，帮她更上层楼。两人经历了暧昧与试探，在完成各自目标后，关系渐渐升温，但此时叶信之突遇事业重大波动，徐迟却面对着直升公司高层的机会……面对命运新一轮的试探，他们将如何选择各自的未来？"
+            "days": "8 d"
           }
         ]
       }
@@ -5703,14 +5695,14 @@
             "sourcePath": "/title/sister-wives/",
             "movement": "–",
             "days": "27 d",
-            "tmdbId": 1216322,
-            "tmdbTitle": "姐妹妻情缘",
-            "mediaType": "movie",
-            "posterPath": "/u0PBPONQI4y5ZTRMaNebDbTv6b1.jpg",
-            "backdropPath": "/yAhchyYcHZnrxk9XEykeb3SVlBR.jpg",
-            "releaseDate": "2024-04-15",
-            "rating": 7.5,
-            "description": "讲述了在美国亚利桑那州和犹他州边界 - 肖特溪，两位与同一位男人结婚的姐妹妻，渐渐对彼此产生了感情。\r （该区是FLDS教会的聚居地，因多妻制教义而知名。）"
+            "tmdbId": 34045,
+            "tmdbTitle": "我的妻子们是好姐妹",
+            "mediaType": "tv",
+            "posterPath": "/6un5dscsiO3shoKsXpANnxTLGba.jpg",
+            "backdropPath": "/bpD0l55NTyHzIGX0QdTdogTk1ro.jpg",
+            "releaseDate": "2010-09-26",
+            "rating": 6.0,
+            "description": "　　TLC真人秀节目《Sister Wives》描述了一个一夫多妻（丈夫Kody Brown和他的四位妻子，16个孩子）的家庭中发生的种种小故事。"
           },
           {
             "rank": 3,
@@ -5732,15 +5724,7 @@
             "title": "Gold Rush",
             "sourcePath": "/title/gold-rush/",
             "movement": "–",
-            "days": "25 d",
-            "tmdbId": 34634,
-            "tmdbTitle": "阿拉斯加大淘金",
-            "mediaType": "tv",
-            "posterPath": "/txNpF64c82fQijUUAS7YyNQv4Rg.jpg",
-            "backdropPath": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
-            "releaseDate": "2010-12-03",
-            "rating": 7.184,
-            "description": "每当世道艰辛时，强者总会开辟新天地。在俄勒冈，六位遭经济不景气重创的有志之士变身为新手矿工。他们拼上全部身家北上阿拉斯加开采金矿，希望能赚到大钱、帮自己摆脱财务危机。尽管豪猪溪危险重重，但现实逼迫他们必须用最短的时间淘到黄金。他们开始重建废墟，但灰熊对这些新邻居不太友善，给他们来了个下马威。淘金队争分夺秒地安装完采矿设备，开始筛沙淘金。但从俄勒冈搬来的家人却质疑他们为何迟迟找不到黄金。"
+            "days": "25 d"
           },
           {
             "rank": 5,
@@ -5890,14 +5874,14 @@
             "sourcePath": "/title/halloween/",
             "movement": "–",
             "days": "53 d",
-            "tmdbId": 948,
+            "tmdbId": 424139,
             "tmdbTitle": "月光光心慌慌",
             "mediaType": "movie",
-            "posterPath": "/d62YzdOrC4LfObyb2q1qGVxUvID.jpg",
-            "backdropPath": "/lyhiX9Q7hsu6geGl85KSL7TGPFk.jpg",
-            "releaseDate": "1978-10-25",
-            "rating": 7.56,
-            "description": "1963年万圣节之夜，六岁的迈克尔·迈尔斯持刀杀害了自己的姐姐。在精神病院监禁十五年后，迈尔斯逃脱并重返伊利诺伊州哈登菲尔德镇展开杀戮。"
+            "posterPath": "/5e4qKfDdTmyONulX1KJps2kXVCQ.jpg",
+            "backdropPath": "/crn09DUYgmFUPbOroxt1tQSoi0r.jpg",
+            "releaseDate": "2018-10-18",
+            "rating": 6.561,
+            "description": "在万圣节前夜，杀人狂迈克尔·麦尔斯逃走了，开始前往伊利诺伊州的哈登菲尔德，这是他最原始的屠杀地。一直负责治疗迈克尔·麦尔斯的精神病专家兰比尔·萨坦博士，警长弗兰克·霍金斯在疯狂寻找迈克尔·麦尔斯的下落，后者继续着他的残杀，并无情地接近着上次屠杀中唯一的幸存者劳瑞。劳瑞死里逃生所带来的创伤与压力，使她在精神上伤痕累累并开始疑神疑鬼，这也导致女儿凯伦与她渐渐疏远 。"
           },
           {
             "rank": 5,
@@ -6039,14 +6023,14 @@
             "sourcePath": "/title/the-institute/",
             "movement": "–",
             "days": "1 d",
-            "tmdbId": 253372,
-            "tmdbTitle": "研究院",
-            "mediaType": "tv",
-            "posterPath": "/aaXaJgX4L20j16ODQk9JNvff4Fm.jpg",
-            "backdropPath": "/9LALiE3I9dInFmMlI1BvzlhFMmP.jpg",
-            "releaseDate": "2025-07-13",
-            "rating": 7.5,
-            "description": "《迷失》导演杰克·本德与《大小谎言》)编剧大卫·E·凯利将把史蒂芬·金最新小说《研究院》打造为限定剧。本剧将由本德执导，凯利执笔剧本，据悉小说被描述为“自《小丑回魂》问世以来，有关孩子战胜邪恶的最令人揪心的故事”。"
+            "tmdbId": 159988,
+            "tmdbTitle": "The Institute",
+            "mediaType": "movie",
+            "posterPath": "/mrgeNjB4lVeQZDmhVOwnajBw5QZ.jpg",
+            "backdropPath": "/5rc0yJy2AcbLqaD1BT1UoFMp8dP.jpg",
+            "releaseDate": "2013-10-11",
+            "rating": 6.1,
+            "description": "Thousands of participants in a San Francisco-based alternate reality game end up getting more than they bargained for. Told from the players’ perspectives, the film looks over the precipice at an emergent new art form where the real world and fictional narratives merge to create unforeseen and often unsettling consequences. Examining counter-culture, new religious movements and street art, this film takes the viewer on a journey into a secret underground world teeming just beneath the surface of everyday life."
           },
           {
             "rank": 5,
@@ -6637,14 +6621,14 @@
             "sourcePath": "/title/halloween/",
             "movement": "–",
             "days": "70 d",
-            "tmdbId": 948,
+            "tmdbId": 424139,
             "tmdbTitle": "月光光心慌慌",
             "mediaType": "movie",
-            "posterPath": "/d62YzdOrC4LfObyb2q1qGVxUvID.jpg",
-            "backdropPath": "/lyhiX9Q7hsu6geGl85KSL7TGPFk.jpg",
-            "releaseDate": "1978-10-25",
-            "rating": 7.56,
-            "description": "1963年万圣节之夜，六岁的迈克尔·迈尔斯持刀杀害了自己的姐姐。在精神病院监禁十五年后，迈尔斯逃脱并重返伊利诺伊州哈登菲尔德镇展开杀戮。"
+            "posterPath": "/5e4qKfDdTmyONulX1KJps2kXVCQ.jpg",
+            "backdropPath": "/crn09DUYgmFUPbOroxt1tQSoi0r.jpg",
+            "releaseDate": "2018-10-18",
+            "rating": 6.561,
+            "description": "在万圣节前夜，杀人狂迈克尔·麦尔斯逃走了，开始前往伊利诺伊州的哈登菲尔德，这是他最原始的屠杀地。一直负责治疗迈克尔·麦尔斯的精神病专家兰比尔·萨坦博士，警长弗兰克·霍金斯在疯狂寻找迈克尔·麦尔斯的下落，后者继续着他的残杀，并无情地接近着上次屠杀中唯一的幸存者劳瑞。劳瑞死里逃生所带来的创伤与压力，使她在精神上伤痕累累并开始疑神疑鬼，这也导致女儿凯伦与她渐渐疏远 。"
           },
           {
             "rank": 3,
@@ -6785,15 +6769,7 @@
             "title": "Insidious",
             "sourcePath": "/title/insidious/",
             "movement": "–",
-            "days": "3 d",
-            "tmdbId": 49018,
-            "tmdbTitle": "潜伏",
-            "mediaType": "movie",
-            "posterPath": "/vLhdIew5DouaMXuZRYX4wglz1lY.jpg",
-            "backdropPath": "/aXOUc4dkzp9wmJG5lC2iAE6VUdt.jpg",
-            "releaseDate": "2011-03-31",
-            "rating": 6.961,
-            "description": "在高中担任教师的乔什·莱姆波特和身为自由音乐人的妻子兰娜拥有一个幸福的五口之家。然而自他们乔迁新居之后，恐慌和不安便尾随而至。尚在襁褓中的女儿凯莉经常莫名大哭，次子福斯特对卧室充满恐惧，而长子达尔顿更在一次惊吓过后陷入长久的昏迷之中。在此之后，各种奇怪恐怖的事件接连发生。莱姆波特夫妇不胜其扰，精神几近崩溃，他们最终决定搬离这个不祥之地。但是一切并未就此结束，侵扰他们的魔鬼似乎尾随莱姆波特一家来至新的住所，更扬言要占据达尔顿的身体。"
+            "days": "3 d"
           },
           {
             "rank": 3,

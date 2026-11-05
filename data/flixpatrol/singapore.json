@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "FlixPatrol",
   "sourceUrl": "https://flixpatrol.com/top10/streaming/singapore/",
-  "updatedAt": "2026-11-05T18:12:25+00:00",
+  "updatedAt": "2026-11-05T18:39:20+00:00",
   "chartDate": "2026-11-05",
   "country": {
     "slug": "singapore",
@@ -572,13 +572,13 @@
             "movement": "–",
             "days": "3 d",
             "mediaType": "movie",
-            "tmdbId": 1760311,
-            "tmdbTitle": "芭比与胡桃夹子的梦幻之旅",
-            "posterPath": "/mNDMKW02K1dprHF56oKGNrEBflR.jpg",
-            "backdropPath": "/evGVyMugYXACdxZg4QB4kXW3N9r.jpg",
-            "releaseDate": "2026-10-31",
-            "rating": 1.0,
-            "description": "这部时长45分钟的全新演绎，为经典故事注入了现代动画风格与耳目一新的叙事方式。在这场全新的冒险中，“布鲁克林”芭比（Barbie “Brooklyn” Roberts）化身为“糖梅公主”，而“马里布”芭比（Barbie “Malibu” Roberts）则饰演克拉拉（Clara）。她们一同踏上一段奇妙的音乐梦幻之旅，在充满节日奇迹、勇气与友谊的世界中展开探索。"
+            "tmdbId": 15167,
+            "tmdbTitle": "芭比与胡桃夹子的奇幻之旅",
+            "posterPath": "/i0wPpr91WeWG9zY85DWyDw7QKQO.jpg",
+            "backdropPath": "/haIcBLkuIzeJJ7WB8rOwHBc54NY.jpg",
+            "releaseDate": "2001-09-30",
+            "rating": 6.906,
+            "description": "克拉拉（Kelly Sheridan 配音）的生日即将到来，伊丽莎白阿姨（凯思林·巴尔 Kathleen Barr 配音）送了她一只胡桃夹子，没想到却意外的将克拉拉卷入了一段充满了魔幻的传奇故事中去。"
           },
           {
             "rank": 9,
@@ -792,13 +792,13 @@
             "movement": "–",
             "days": "2 d",
             "mediaType": "movie",
-            "tmdbId": 9323,
+            "tmdbId": 315837,
             "tmdbTitle": "攻壳机动队",
-            "posterPath": "/fjUtWKx4t9g0fGZxPThsEsWYHy9.jpg",
-            "backdropPath": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
-            "releaseDate": "1995-11-18",
-            "rating": 7.929,
-            "description": "公元2029年，未来世界是高科技与信息化的世界。人类生活水平的提高伴随着犯罪活动的高科技化，于是，专门镇压高科技犯罪的特殊部队——公安9课成立了。队长草薙素子，作为一位全身“义体化”的女警，带领公安9课不断展开行动。这次，公安9课帮助公安6课秘密解决了一位程序员外逃他国的麻烦琐事，又卷入传说中的黑客“傀儡师”的犯罪事件。当行动陷入僵局之际，傀儡师竟然不请自来，出现在公安9课！素子与她的战友们，不知不觉地被卷入了一场涉及政府的阴谋之中。"
+            "posterPath": "/8IkonHWR13kbhtUkOnXlUXAne31.jpg",
+            "backdropPath": "/dDVqfmCzSy3TKSmiS2pJ9QB5E3P.jpg",
+            "releaseDate": "2017-03-29",
+            "rating": 6.118,
+            "description": "近未来，人类的各种器官均可实现移植，一时间机器人、生化人、仿生人充斥世间，与人类真假莫辨。某座繁华都市的大厦内，汉卡公司高管正与非洲来宾洽谈业务，突然宴会变成血腥大屠杀，暴走的机器人大开杀戒。隶属公安九课的米拉·基里安少佐（斯嘉丽·约翰逊 Scarlett Johansson 饰）带领巴特（皮鲁·埃斯贝克 Pilou Asbæk 饰）等手下赶往现场，平息事态。根据对暴走艺伎机器人的调查发现，被称作“久世”的神秘之人策划了这一系列的行动，而且他的目标全部指向了掌握着生化前沿尖端科技的汉卡公司及其研发人员。经过一番凶险的周旋，少佐逐渐逼近真相，同时也渐渐解开了发生在自己身上的惊天秘密……"
           },
           {
             "rank": 4,
@@ -1136,7 +1136,7 @@
             "posterPath": "/mzlhM9GKP9a2WZ3xv5eKbJA6ayJ.jpg",
             "backdropPath": "/s3owzvmihtDrunVxB2DyGjn9iJt.jpg",
             "releaseDate": "2021-12-07",
-            "rating": 7.5,
+            "rating": 7.517,
             "description": "一群敬业、热情的老师和一位略显失聪的校长聚集在费城的一所公立学校，决心帮助学生在生活中取得成功。"
           },
           {
@@ -1689,13 +1689,13 @@
             "movement": "–",
             "days": "26 d",
             "mediaType": "movie",
-            "tmdbId": 946940,
+            "tmdbId": 1631887,
             "tmdbTitle": "Matchbox",
-            "posterPath": "/3iI6MGWT4Bkpn2KPiCCGdgQxrdw.jpg",
-            "backdropPath": null,
-            "releaseDate": "2002-02-24",
+            "posterPath": "/9jldgwqF3fwr027N6NRoU8NBanB.jpg",
+            "backdropPath": "/vAroLszBrRHVgRbIU9tNOEQIuWe.jpg",
+            "releaseDate": "2026-02-13",
             "rating": 0.0,
-            "description": "A fast-paced love story goes wrong when a match looses his box."
+            "description": "Matchbox follows John, a young white-collar worker trapped in a cycle of exhaustion, pressure, and quiet dread as he struggles through a late night of unfinished work. Seeking relief from the relentless glow of deadlines and expectations, he turns to a familiar coping ritual, only to find that the small escape he relies on begins to unravel the world around him. As the night darkens, ordinary spaces feel unfamiliar, time seems to slip, and what once offered comfort starts to demand attention in return."
           },
           {
             "rank": 2,
@@ -2432,13 +2432,13 @@
             "movement": "+1",
             "days": "55 d",
             "mediaType": "movie",
-            "tmdbId": 348692,
-            "tmdbTitle": "Army Daze",
-            "posterPath": "/1mR2yQ39Rh9noNy15tT26UR0Fqa.jpg",
-            "backdropPath": null,
-            "releaseDate": "1956-03-22",
-            "rating": 10.0,
-            "description": "Joe is drafted into the army of Starvania, and falls in love with Olga, a beautiful Starvanian WAC, but Joe's sergeant also has his eyes on Olga. But Joe wins her hand when he captures two spies in the Colonel's office."
+            "tmdbId": 210994,
+            "tmdbTitle": "新兵小传",
+            "posterPath": "/mRDER4CRSxb4iTOgKkCORSaL6aS.jpg",
+            "backdropPath": "/jgPyD6aQ8M4S0uP1huWKmEDGbPa.jpg",
+            "releaseDate": "1996-07-12",
+            "rating": 7.3,
+            "description": "一群古怪的年轻人来到新加坡武装部队参加服兵役，他们为了缓解训练的艰辛而成为了朋友。"
           },
           {
             "rank": 10,

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "FlixPatrol",
   "sourceUrl": "https://flixpatrol.com/top10/streaming/japan/",
-  "updatedAt": "2026-11-05T18:13:13+00:00",
+  "updatedAt": "2026-11-05T18:39:34+00:00",
   "chartDate": "2026-11-05",
   "country": {
     "slug": "japan",
@@ -1675,13 +1675,13 @@
             "movement": "–",
             "days": "26 d",
             "mediaType": "movie",
-            "tmdbId": 946940,
+            "tmdbId": 1631887,
             "tmdbTitle": "Matchbox",
-            "posterPath": "/3iI6MGWT4Bkpn2KPiCCGdgQxrdw.jpg",
-            "backdropPath": null,
-            "releaseDate": "2002-02-24",
+            "posterPath": "/9jldgwqF3fwr027N6NRoU8NBanB.jpg",
+            "backdropPath": "/vAroLszBrRHVgRbIU9tNOEQIuWe.jpg",
+            "releaseDate": "2026-02-13",
             "rating": 0.0,
-            "description": "A fast-paced love story goes wrong when a match looses his box."
+            "description": "Matchbox follows John, a young white-collar worker trapped in a cycle of exhaustion, pressure, and quiet dread as he struggles through a late night of unfinished work. Seeking relief from the relentless glow of deadlines and expectations, he turns to a familiar coping ritual, only to find that the small escape he relies on begins to unravel the world around him. As the night darkens, ordinary spaces feel unfamiliar, time seems to slip, and what once offered comfort starts to demand attention in return."
           },
           {
             "rank": 3,
@@ -1932,13 +1932,13 @@
             "movement": "n/a",
             "days": "30 d",
             "mediaType": "tv",
-            "tmdbId": 66515,
-            "tmdbTitle": "Ang Probinsyano",
-            "posterPath": "/uX5ldo2snjJuZ8P9AxOharboxJn.jpg",
-            "backdropPath": "/lt9fFOFhR6QI5oIAvfWVx4G7nt0.jpg",
-            "releaseDate": "2015-09-28",
-            "rating": 6.6,
-            "description": "Ador is a well known and respected CIDG Police Official, with a loving family as his support. Cardo, on the other hand, loves the solitude of the mountains in the province as a SAF Trooper. Their lives take a sudden turn when Ador gets himself entangled in a syndicate by being betrayed by one of his own colleagues, resulting to his death. To conceal this fact, Cardo was ordered to pretend to be Ador and finish the mission what his brother left behind. He will also be force to pretend to his brother's family and friends, and be re-united with his grandmother, whom he despised, for assuming she abandoned him."
+            "tmdbId": 250203,
+            "tmdbTitle": "荷里活好兄弟",
+            "posterPath": "/sapz1NirksJH5GvRqPnWuNI3O4a.jpg",
+            "backdropPath": "/uw7VNIqQGKcZH9hph6R4fuX9WMA.jpg",
+            "releaseDate": "2026-09-22",
+            "rating": 7.083,
+            "description": "好莱坞演员马修麦康纳和伍迪哈里森是多年好友，但一个令人震惊的家族秘密，表明他们之间的关系可能还要更亲近。"
           },
           {
             "rank": 10,
@@ -2024,13 +2024,13 @@
             "movement": "–",
             "days": "26 d",
             "mediaType": "movie",
-            "tmdbId": 946940,
+            "tmdbId": 1631887,
             "tmdbTitle": "Matchbox",
-            "posterPath": "/3iI6MGWT4Bkpn2KPiCCGdgQxrdw.jpg",
-            "backdropPath": null,
-            "releaseDate": "2002-02-24",
+            "posterPath": "/9jldgwqF3fwr027N6NRoU8NBanB.jpg",
+            "backdropPath": "/vAroLszBrRHVgRbIU9tNOEQIuWe.jpg",
+            "releaseDate": "2026-02-13",
             "rating": 0.0,
-            "description": "A fast-paced love story goes wrong when a match looses his box."
+            "description": "Matchbox follows John, a young white-collar worker trapped in a cycle of exhaustion, pressure, and quiet dread as he struggles through a late night of unfinished work. Seeking relief from the relentless glow of deadlines and expectations, he turns to a familiar coping ritual, only to find that the small escape he relies on begins to unravel the world around him. As the night darkens, ordinary spaces feel unfamiliar, time seems to slip, and what once offered comfort starts to demand attention in return."
           },
           {
             "rank": 6,
@@ -2098,14 +2098,14 @@
             "sourcePath": "/title/silo/",
             "movement": "–",
             "days": "113 d",
-            "tmdbId": 125988,
-            "tmdbTitle": "末日地堡",
+            "tmdbId": 256215,
+            "tmdbTitle": "Silo",
             "mediaType": "tv",
-            "posterPath": "/ahHiXJWJBdSsTEAWfh7mKRw2bcz.jpg",
-            "backdropPath": "/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-            "releaseDate": "2023-05-04",
-            "rating": 8.231,
-            "description": "末日后的世界，人类被困在神秘地堡中，与外界隔绝。工程师朱丽叶·尼科尔斯因接连发生的死亡事件展开调查，逐渐揭开地堡社会背后的秘密与真相。该剧基于休·豪伊所著同名畅销科幻系列小说改编。"
+            "posterPath": "/eOlETecebCmBWLo55cRMHXYjPcj.jpg",
+            "backdropPath": "/xivs6fayQ8Vvwg4kOt4PrqUcgT1.jpg",
+            "releaseDate": "2017-09-15",
+            "rating": 0.0,
+            "description": "All his life, Adam and his three siblings are raised in an underground silo by a woman they call Mother, safe from the apocalyptic world above where mutated monsters called Red Eyes roam. Everything changes when an explosion erupts and Mother gets critically injured. Forced to venture up into the nuclear-active world, will they survive the shocks and dangers in store for them?"
           }
         ]
       }
@@ -2313,7 +2313,7 @@
             "posterPath": "/cBCEjorNuzAGUlNmgbTBf8SB8CB.jpg",
             "backdropPath": "/arsn3fOtlPnzbvlJE5OMVxbK7h2.jpg",
             "releaseDate": "2005-10-22",
-            "rating": 7.8,
+            "rating": 7.781,
             "description": "美国怀俄明州的西部，沉默寡言的农夫恩尼斯·德·玛尔和热情开朗的牛仔杰克·特威斯特一道被派到山上牧羊，那里人迹罕至，他们只有与羊群为伴，生活单调无味。一个天寒地冻的夜晚，在酒精与荷尔蒙的作用下，他们做了“不该做的事情”，也就此他们在断背山上度过了人生中最美好的时光。季节性放牧结束，迫于世俗压力，杰克和恩尼斯不舍地与对方分离并各自结婚生子。恩尼斯迎娶了自幼相识的阿尔玛，并有了两个可爱的女儿；杰克到了德州，在妻子露琳家族的扶植下事业顺利，还有了个儿子。虽然彼此真心相应，他们只能每年定期约会。一边知情的阿尔玛痛苦无比，而他们又无法满足一年只有几天的团聚。这时意外发生……"
           },
           {
@@ -2689,14 +2689,14 @@
             "sourcePath": "/title/hide-and-seek-2026-2/",
             "movement": "-5",
             "days": "2 d",
-            "tmdbId": 81745,
-            "tmdbTitle": "捉迷藏",
-            "mediaType": "tv",
-            "posterPath": "/1jd7omVyKVKiecOyyZHRW5l5sXb.jpg",
-            "backdropPath": "/45CtSWBbMtGQqb0cIk9xBmkjS5l.jpg",
-            "releaseDate": "2018-08-25",
-            "rating": 6.3,
-            "description": "此剧讲述韩国最大化妆品公司的女继承人，和被逼代替她生活的另一个女人之间的欲望和秘密的故事。"
+            "tmdbId": 1724001,
+            "tmdbTitle": "Hide and Seek",
+            "mediaType": "movie",
+            "posterPath": "/7EFtVgRVoE5NIVmfKRYiyWUAFWv.jpg",
+            "backdropPath": "/rYXikps0mPYjbHTzIMMFbnVFCy6.jpg",
+            "releaseDate": "2026-07-01",
+            "rating": 0.0,
+            "description": "When Kyla wakes up to find Ellis missing, she sets out and plays the game that the sisters are most familiar with—hide and seek. However, one game is never like the other."
           },
           {
             "rank": 9,
@@ -3437,13 +3437,13 @@
             "movement": "–",
             "days": "19 d",
             "mediaType": "movie",
-            "tmdbId": 1423191,
-            "tmdbTitle": "生化危机：爆发夜",
-            "posterPath": "/9YzsMLLSpCbAiDiEXlwkZr3m5Ri.jpg",
-            "backdropPath": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-            "releaseDate": "2026-09-16",
-            "rating": 7.5,
-            "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？"
+            "tmdbId": 1576,
+            "tmdbTitle": "生化危机",
+            "posterPath": "/1lHchko5bbt8KuLh7x5sxi2GtEo.jpg",
+            "backdropPath": "/WcmrlndXAPw3a2l9VJw9hHeKOo.jpg",
+            "releaseDate": "2002-03-15",
+            "rating": 6.686,
+            "description": "为军方研究生化武器的保护伞公司在浣熊市地下设有巨大的研究中心——蜂巢，由于一次意外事故导致可通过空气传播的生化武器泄露，负责蜂巢安保的电脑系统“红后”启动应急措施，却导致数百名工作人员罹难……四小时后，蜂巢安保人员爱丽丝（米拉·乔沃维奇 饰）在蜂巢出口醒来，并且因为催眠气体而失忆。一支受命关闭红后的特种小队来到此处，与爱丽丝、自称警察的安德森，以及蜂巢工作人员帕克斯组队深入地下。一行人因任务目标与红后冲突而先后遭遇保卫系统和丧尸的连番袭击，而爱丽丝渐渐恢复的记忆揭示了她与同行者非同一般的联系。这场生化丧尸危机该如何解除？又或者根本是一曲绝望的前奏？"
           },
           {
             "rank": 9,
