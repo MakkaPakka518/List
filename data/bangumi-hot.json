@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06 04:21:45",
+  "last_updated": "2026-11-06 15:28:39",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -408,21 +408,6 @@
       "regionTitle": "未知地区"
     },
     {
-      "id": "46512",
-      "tmdbId": 46512,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "机动战士高达0080：口袋里的战争",
-      "releaseDate": "1989-03-25",
-      "lastUpdateDate": "1989-08-25",
-      "posterPath": "/udR8caibfkSr2ALTlzlRQOPFRZ5.jpg",
-      "backdropPath": "/21fk0W388vXQ4TpQ2iZgGzXqwru.jpg",
-      "rating": 7.9,
-      "description": "宇宙历0079年8月，地球联邦军为了发挥阿姆罗·雷的NEWTYPE能力而着手开发高达阿历克斯，制式编号RX-78NT-1。12月21日，吉恩公国军的特务部队“独眼巨人”（CYCLOPS）袭击联邦军的北极基地，企图破坏Alex未果，其成员安迪·司特罗斯战死。Alex被运往宇宙，这一事件引发了之后发生在殖民卫星第6区域的一场小战争。那场战争是如此的渺小，既不影响到整个一年战争，也没有多少人知晓，但是这场口袋中的战争之残酷，却让人无法忘怀。生活在和平中的人们会麻痹自己的感觉，忘却战争的残酷与无情；好奇心旺盛的孩子们天真地玩着打仗的游戏，对于“战争”这一字眼根本不会理解它所带来巨大的痛苦与悲伤，等他们了解到时，已经失去了太多宝贵的东西。《机动战士高达0080：口袋里的战争》会告诉我们这一不为人知的小小战役，通过一个孩子的眼睛来看清那残酷的真实。",
-      "genreTitle": "科幻奇幻 / 剧情",
-      "regionTitle": "日本"
-    },
-    {
       "id": "301513",
       "tmdbId": 301513,
       "type": "tmdb",
@@ -436,6 +421,21 @@
       "description": "在东京山谷的宿民街突然出现了一位少年。他的名字叫矢吹丈。有一天小丈遇到了，对他相当感兴趣的而沉溺于酒精中毒的前拳击手丹下段平，他们因此相遇。在他与小丈打过一架后，他从他的动作中发现他具备有拳击手的天生资质，他认为如果能将小丈好好磨练，那小丈一定可以成为一流的拳击手。但是小丈他却带领着居住在宿民街的孩子们，做出一些令人瞠目睁舌的行动，并且还利用段平对他的热情，竟然不惜利用犯罪来脏了自己的手，在他被警察逮捕之后，他被移送到鉴别所·此后还送到少年院这地方给予管教。 有一天，待在少年鉴别所的小丈他，收到一封段平给他的一封明信片，上面写着“为了明日”。在这明信片中，为他讲解了要如何使出左刺拳的拳击的技术方面的事情。然而觉得时间和体力都很空闲的小丈，因此就对那个建议开始了拳击的练习并给予吸收，在他自己吸收这拳不久后，他的体会力慢慢的提高，让他想起以往他从来没有对某件事情这么认真。在野菊岛的东光特等少年院里，他遇到了终生宿敌·力石彻，他与力石彻命运的相遇，却在这种情况下让小丈正式的踏进了拳击的道路之中。",
       "genreTitle": "动作 / 剧情",
       "regionTitle": "未知地区"
+    },
+    {
+      "id": "46512",
+      "tmdbId": 46512,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "机动战士高达0080：口袋里的战争",
+      "releaseDate": "1989-03-25",
+      "lastUpdateDate": "1989-08-25",
+      "posterPath": "/udR8caibfkSr2ALTlzlRQOPFRZ5.jpg",
+      "backdropPath": "/21fk0W388vXQ4TpQ2iZgGzXqwru.jpg",
+      "rating": 7.9,
+      "description": "宇宙历0079年8月，地球联邦军为了发挥阿姆罗·雷的NEWTYPE能力而着手开发高达阿历克斯，制式编号RX-78NT-1。12月21日，吉恩公国军的特务部队“独眼巨人”（CYCLOPS）袭击联邦军的北极基地，企图破坏Alex未果，其成员安迪·司特罗斯战死。Alex被运往宇宙，这一事件引发了之后发生在殖民卫星第6区域的一场小战争。那场战争是如此的渺小，既不影响到整个一年战争，也没有多少人知晓，但是这场口袋中的战争之残酷，却让人无法忘怀。生活在和平中的人们会麻痹自己的感觉，忘却战争的残酷与无情；好奇心旺盛的孩子们天真地玩着打仗的游戏，对于“战争”这一字眼根本不会理解它所带来巨大的痛苦与悲伤，等他们了解到时，已经失去了太多宝贵的东西。《机动战士高达0080：口袋里的战争》会告诉我们这一不为人知的小小战役，通过一个孩子的眼睛来看清那残酷的真实。",
+      "genreTitle": "科幻奇幻 / 剧情",
+      "regionTitle": "日本"
     },
     {
       "id": "42573",
@@ -573,21 +573,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "645440",
-      "tmdbId": 645440,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "少女☆歌剧 Revue Starlight 剧场版",
-      "releaseDate": "2021-06-04",
-      "lastUpdateDate": "2021-06-04",
-      "posterPath": "/ltDvOB8DOWHf8GF9IkyU7xfEVA4.jpg",
-      "backdropPath": "/8fBQX8o5jGolmObNMeOBca5nZ8D.jpg",
-      "rating": 8.4,
-      "description": "「STARLIGHT」——那是遥远的星球上，很久很久以前，很久很久以后的故事。  在这个戏曲的舞台上，沐浴着星光闪耀的二名少女，交换了各自的命运。  “二人一起成为STAR。”“在舞台上等着你。”  为了完成这样的命运，燃烬了普普通通的快乐、喜悦。  仅仅5岁就将命运化为熔炉。  ——很危险，对吧。  终于二人再会了。  其中一人站在了悲剧的舞台上，另一人则是跳进舞台、被拉开、再次跳进舞台，改写了两个人的命运……诞生充满了星光闪耀的新章。  已经没有被烧伤眼睛掉落塔底的少女了，已经没有被幽禁在塔顶的少女了。  那么……这个新章的结局是？  「STARLIGHT」是作者不详的故事。  星光闪耀从何而来、又将走向何方。  然后，这个故事的“主演”是谁。  我想看这个故事更多的后续。  呐——圣翔音乐学院三年生，爱城华恋？",
-      "genreTitle": "剧情 / 奇幻 / 动作",
-      "regionTitle": "未知地区"
-    },
-    {
       "id": "116727",
       "tmdbId": 116727,
       "type": "tmdb",
@@ -601,6 +586,21 @@
       "description": "平凡的出租车司机·小户川。没有亲戚，也不想与人扯上关系，有点古怪且寡言的司机。兴趣是在睡前听落语以及工作时听收音机。目前，唯一有联络的是医生朋友·刚力以及高中同级生·柿花。本该载着各式各样的乘客，平凡的每一日，小户川与一名失踪的女孩事件扯上了关系……",
       "genreTitle": "喜剧 / 悬疑 / 犯罪",
       "regionTitle": "日本"
+    },
+    {
+      "id": "645440",
+      "tmdbId": 645440,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "少女☆歌剧 Revue Starlight 剧场版",
+      "releaseDate": "2021-06-04",
+      "lastUpdateDate": "2021-06-04",
+      "posterPath": "/ltDvOB8DOWHf8GF9IkyU7xfEVA4.jpg",
+      "backdropPath": "/8fBQX8o5jGolmObNMeOBca5nZ8D.jpg",
+      "rating": 8.4,
+      "description": "「STARLIGHT」——那是遥远的星球上，很久很久以前，很久很久以后的故事。  在这个戏曲的舞台上，沐浴着星光闪耀的二名少女，交换了各自的命运。  “二人一起成为STAR。”“在舞台上等着你。”  为了完成这样的命运，燃烬了普普通通的快乐、喜悦。  仅仅5岁就将命运化为熔炉。  ——很危险，对吧。  终于二人再会了。  其中一人站在了悲剧的舞台上，另一人则是跳进舞台、被拉开、再次跳进舞台，改写了两个人的命运……诞生充满了星光闪耀的新章。  已经没有被烧伤眼睛掉落塔底的少女了，已经没有被幽禁在塔顶的少女了。  那么……这个新章的结局是？  「STARLIGHT」是作者不详的故事。  星光闪耀从何而来、又将走向何方。  然后，这个故事的“主演”是谁。  我想看这个故事更多的后续。  呐——圣翔音乐学院三年生，爱城华恋？",
+      "genreTitle": "剧情 / 奇幻 / 动作",
+      "regionTitle": "未知地区"
     },
     {
       "id": "209867",
@@ -678,21 +678,6 @@
       "regionTitle": "未知地区"
     },
     {
-      "id": "39853",
-      "tmdbId": 39853,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "猫儿协奏曲",
-      "releaseDate": "1947-04-26",
-      "lastUpdateDate": "1947-04-26",
-      "posterPath": "/6SzmXunaQe0kzsF6o3JetgtJNjc.jpg",
-      "backdropPath": "/7vvjgWlWdSkiaKe47RypQX8k6WC.jpg",
-      "rating": 7.6,
-      "description": "身着燕尾服一本正经的钢琴家汤姆走上舞台，与乐队合作为观众演奏李斯特的《匈牙利狂想曲》。专心致志的汤姆丝毫没有料到，一位不速之客将打乱它的表演。此时此刻，小老鼠杰瑞正在钢琴内高音区睡觉，汤姆的演奏搅扰了它的睡眠，生气的杰瑞索性起身，干扰汤姆的演出。汤姆一面要应付小杰瑞的捣乱，一面又要努力演奏，手忙脚乱，应接不暇。在杰瑞的捣乱下，整场演出妙趣横生，当然对汤姆来说这无疑是一场恶梦……本片荣获1947年奥斯卡最佳动画短片奖。",
-      "genreTitle": "喜剧 / 音乐",
-      "regionTitle": "未知地区"
-    },
-    {
       "id": "44684",
       "tmdbId": 44684,
       "type": "tmdb",
@@ -706,6 +691,21 @@
       "description": "表面上看来，东云名乃（古谷静佳 配音）是一个外表可爱又有点天然呆的黑发女孩，可是，她背后醒目的发条暴露了她的真实身份——由博士（今野宏美 配音）所改造的少女机器人。虽然对于自己背后的发条感到十分自卑，但博士总是以其非常可爱为由拒绝帮助名乃进行改造。在名乃就读的1年纪Q班中，汇聚着名乃的诸多好友们——个性过于活泼以至于经常暴走的相生祐子（本多真梨子 配音），常常陷于对同性恋情的幻想之中的美术型女生长野原美绪（相泽舞 配音），以及外表沉默安静内里腹黑毒舌的三好学生水上麻衣（富樫美铃 配音）。就这样，经常处于脱线状态的日常和激烈的吐槽在这三人之间展开了。",
       "genreTitle": "喜剧",
       "regionTitle": "日本"
+    },
+    {
+      "id": "39853",
+      "tmdbId": 39853,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "猫儿协奏曲",
+      "releaseDate": "1947-04-26",
+      "lastUpdateDate": "1947-04-26",
+      "posterPath": "/6SzmXunaQe0kzsF6o3JetgtJNjc.jpg",
+      "backdropPath": "/7vvjgWlWdSkiaKe47RypQX8k6WC.jpg",
+      "rating": 7.6,
+      "description": "身着燕尾服一本正经的钢琴家汤姆走上舞台，与乐队合作为观众演奏李斯特的《匈牙利狂想曲》。专心致志的汤姆丝毫没有料到，一位不速之客将打乱它的表演。此时此刻，小老鼠杰瑞正在钢琴内高音区睡觉，汤姆的演奏搅扰了它的睡眠，生气的杰瑞索性起身，干扰汤姆的演出。汤姆一面要应付小杰瑞的捣乱，一面又要努力演奏，手忙脚乱，应接不暇。在杰瑞的捣乱下，整场演出妙趣横生，当然对汤姆来说这无疑是一场恶梦……本片荣获1947年奥斯卡最佳动画短片奖。",
+      "genreTitle": "喜剧 / 音乐",
+      "regionTitle": "未知地区"
     },
     {
       "id": "60625",
@@ -918,21 +918,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "60625",
-      "tmdbId": 60625,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "瑞克和莫蒂",
-      "releaseDate": "2013-12-02",
-      "lastUpdateDate": "2026-07-26",
-      "posterPath": "/uXdv0YRy4mkaCGv22Qjq6IV168H.jpg",
-      "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-      "rating": 8.7,
-      "description": "一名反社会人格的天才科学家拉着他天性胆怯的孙子一同进行疯狂又危险的跨宇宙探险的故事。瑞克·桑切斯和女儿贝丝一家同住，他经常带着她、女婿杰瑞、孙女桑美和孙子莫蒂一同踏上大胆的星系冒险之旅。",
-      "genreTitle": "喜剧 / 科幻奇幻 / 动作冒险",
-      "regionTitle": "美国"
-    },
-    {
       "id": "13916",
       "tmdbId": 13916,
       "type": "tmdb",
@@ -946,6 +931,21 @@
       "description": "　　\"名字被写在这个笔记本上的人会死\"——死神流克拥有这样的死亡笔记，却将它遗失在人间。天才高中生夜神月捡到这本笔记本，本以为是恶作剧的他，在笔记本上写下了电视中播放的罪犯的名字，确认了笔记本能力的真实性。厌倦腐朽世界的夜神月使用笔记本的力量，开始杀死犯罪者，以此希望建立一个没有犯罪的美好理想世界，而自己成为“新世界的神”。  　　连续罪犯死亡事件，吸引了全世界警察的目光，更吸引了世界第一名侦探L的注意，L能否将被崇拜者称为“基拉”的夜神月逮捕？  　　一本死神的笔记本，拉开了天才与天才之间卓越巅峰的头脑战争的序幕。本已对人间失去兴趣的流克，在旁观惊心动魄的斗智过程中感叹“人类，真有趣。”",
       "genreTitle": "悬疑 / 科幻奇幻",
       "regionTitle": "日本"
+    },
+    {
+      "id": "60625",
+      "tmdbId": 60625,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "瑞克和莫蒂",
+      "releaseDate": "2013-12-02",
+      "lastUpdateDate": "2026-07-26",
+      "posterPath": "/uXdv0YRy4mkaCGv22Qjq6IV168H.jpg",
+      "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+      "rating": 8.7,
+      "description": "一名反社会人格的天才科学家拉着他天性胆怯的孙子一同进行疯狂又危险的跨宇宙探险的故事。瑞克·桑切斯和女儿贝丝一家同住，他经常带着她、女婿杰瑞、孙女桑美和孙子莫蒂一同踏上大胆的星系冒险之旅。",
+      "genreTitle": "喜剧 / 科幻奇幻 / 动作冒险",
+      "regionTitle": "美国"
     },
     {
       "id": "14092",
@@ -1068,21 +1068,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "18874",
-      "tmdbId": 18874,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "攻壳机动队：SSS",
-      "releaseDate": "2007-09-01",
-      "lastUpdateDate": "2007-09-01",
-      "posterPath": "/cZGAWVbnziB9jl7ef1G2eULA0bb.jpg",
-      "backdropPath": "/xl7yVV8WH71aOBfcTgnkoGOx2qz.jpg",
-      "rating": 7.5,
-      "description": "时间指向2034年，在“难民事件”之后的第2年，加入了20名新人而新生的公安9课再次被卷入了事件之中。这些事件就是于以梵之刺青为标志的13名恐怖分子相关的连续自杀事件以及机场人质劫持事件。最后，9课将劫持人质的罪犯逼入了绝境，他边说着：“傀儡廻来了 ”边自杀了。同时，数个离奇事件同时发生了……这其中一定存在着超巫师级的黑客之影…… “傀儡廻”到底是何方神圣？巴特和素子之间会如何？“傀儡廻”和素子的关系又是什么？而这一连串事件的元凶是谁？最后事件的结果会是？答案就将在这如同谜题套谜题的Solid State Society里被一一揭晓……",
-      "genreTitle": "动作 / 犯罪 / 科幻",
-      "regionTitle": "未知地区"
-    },
-    {
       "id": "128",
       "tmdbId": 128,
       "type": "tmdb",
@@ -1095,6 +1080,21 @@
       "rating": 8.3,
       "description": "室町时代，生活在偏远村落的少年阿席达卡为了保护族人，与一头被邪魔侵蚀的山猪神交战，却因此受到可怕的诅咒。为了寻找诅咒的来源和活下去的方法，他离开故乡前往西方。在旅途中，阿席达卡来到一片古老森林附近，发现以黑帽大人为首的人类为了炼铁不断开采资源，与守护森林的神祇陷入日益激烈的冲突。他也由此遇见了由山犬养大、憎恨人类破坏森林的少女小桑。面对为了生存开拓土地的人类与誓死守护家园的森林生灵，阿席达卡逐渐被卷入双方无法调和的争斗，并试图寻找一条不必以毁灭彼此为代价的道路……",
       "genreTitle": "冒险 / 奇幻",
+      "regionTitle": "未知地区"
+    },
+    {
+      "id": "18874",
+      "tmdbId": 18874,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "攻壳机动队：SSS",
+      "releaseDate": "2007-09-01",
+      "lastUpdateDate": "2007-09-01",
+      "posterPath": "/cZGAWVbnziB9jl7ef1G2eULA0bb.jpg",
+      "backdropPath": "/xl7yVV8WH71aOBfcTgnkoGOx2qz.jpg",
+      "rating": 7.5,
+      "description": "时间指向2034年，在“难民事件”之后的第2年，加入了20名新人而新生的公安9课再次被卷入了事件之中。这些事件就是于以梵之刺青为标志的13名恐怖分子相关的连续自杀事件以及机场人质劫持事件。最后，9课将劫持人质的罪犯逼入了绝境，他边说着：“傀儡廻来了 ”边自杀了。同时，数个离奇事件同时发生了……这其中一定存在着超巫师级的黑客之影…… “傀儡廻”到底是何方神圣？巴特和素子之间会如何？“傀儡廻”和素子的关系又是什么？而这一连串事件的元凶是谁？最后事件的结果会是？答案就将在这如同谜题套谜题的Solid State Society里被一一揭晓……",
+      "genreTitle": "动作 / 犯罪 / 科幻",
       "regionTitle": "未知地区"
     },
     {
@@ -1158,21 +1158,6 @@
       "regionTitle": "未知地区"
     },
     {
-      "id": "63463",
-      "tmdbId": 63463,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "偶像大师",
-      "releaseDate": "2011-07-08",
-      "lastUpdateDate": "2011-12-23",
-      "posterPath": "/6Apjxs1eRlp2H4WZHQoDXktXd76.jpg",
-      "backdropPath": "/6ljZuz9ABmOQDVB58aV5xeKV62A.jpg",
-      "rating": 6.8,
-      "description": "偶像，是女孩子们一直以来的憧憬。但能站在顶点的，只有仅仅数人。13位少女，就此经她们所属的事务所“765 Production”，跨进了那个充满竞争的世界。出道约半年，事务所来了一位全新的制作人。他跟少女们都下定决心，向顶级偶像之路进发。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本"
-    },
-    {
       "id": "83121",
       "tmdbId": 83121,
       "type": "tmdb",
@@ -1185,6 +1170,21 @@
       "rating": 8.5,
       "description": "不论家世还是人品都很优秀！将来备受期待的人才云集的秀知院学园！在此处的学生会相遇的副会长·四宫辉夜，以及会长·白银御行本该会被对方所吸引，然而……就这样什么都没发生地过了半年！自尊心极强而又不坦率的两个人，陷入了总是想着“如何让对方告白”这种麻烦的事态！？直到恋爱开花结果之前，尽情期待吧！新感觉“头脑战”恋爱喜剧，开战！",
       "genreTitle": "喜剧",
+      "regionTitle": "日本"
+    },
+    {
+      "id": "63463",
+      "tmdbId": 63463,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "偶像大师",
+      "releaseDate": "2011-07-08",
+      "lastUpdateDate": "2011-12-23",
+      "posterPath": "/6Apjxs1eRlp2H4WZHQoDXktXd76.jpg",
+      "backdropPath": "/6ljZuz9ABmOQDVB58aV5xeKV62A.jpg",
+      "rating": 6.8,
+      "description": "偶像，是女孩子们一直以来的憧憬。但能站在顶点的，只有仅仅数人。13位少女，就此经她们所属的事务所“765 Production”，跨进了那个充满竞争的世界。出道约半年，事务所来了一位全新的制作人。他跟少女们都下定决心，向顶级偶像之路进发。",
+      "genreTitle": "剧情",
       "regionTitle": "日本"
     },
     {
@@ -1278,21 +1278,6 @@
       "regionTitle": "日本/美国"
     },
     {
-      "id": "72636",
-      "tmdbId": 72636,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "来自深渊",
-      "releaseDate": "2017-07-07",
-      "lastUpdateDate": "2022-09-28",
-      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
-      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
-      "rating": 8.3,
-      "description": "在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
-      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
-      "regionTitle": "日本"
-    },
-    {
       "id": "42500",
       "tmdbId": 42500,
       "type": "tmdb",
@@ -1305,6 +1290,21 @@
       "rating": 7.5,
       "description": "高中二年级女生泉此方是一个不折不扣的御宅族。在学校，她与性格迥异的柊家姐妹、经常考虑问题不周全的高良美幸成为了好朋友。四个人经常一起游玩、讨论。今天的午餐时间，泉此方提出的话题居然是“夹心面包从那边开始吃”的奇怪话题！而大家竟然也饶有兴趣的开始了讨论。融合了日常生活与动漫恶搞的《幸运☆星》，根据热门四格漫画改编，一个个小故事，以四位少女为中心展开。京都动画公司继《凉宫春日的忧郁》之后，又一部充满温馨与欢乐的校园喜剧。",
       "genreTitle": "喜剧",
+      "regionTitle": "日本"
+    },
+    {
+      "id": "72636",
+      "tmdbId": 72636,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "来自深渊",
+      "releaseDate": "2017-07-07",
+      "lastUpdateDate": "2022-09-28",
+      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
+      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
+      "rating": 8.3,
+      "description": "在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
+      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
       "regionTitle": "日本"
     },
     {
@@ -1323,19 +1323,19 @@
       "regionTitle": "未知地区"
     },
     {
-      "id": "67851",
-      "tmdbId": 67851,
+      "id": "62564",
+      "tmdbId": 62564,
       "type": "tmdb",
-      "mediaType": "movie",
-      "title": "传说巨神伊迪安 发动篇",
-      "releaseDate": "1982-07-10",
-      "lastUpdateDate": "1982-07-10",
-      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
-      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
-      "rating": 7.9,
-      "description": "传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
-      "genreTitle": "科幻 / 动作 / 剧情",
-      "regionTitle": "未知地区"
+      "mediaType": "tv",
+      "title": "吹响吧！上低音号",
+      "releaseDate": "2015-04-08",
+      "lastUpdateDate": "2024-06-30",
+      "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
+      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
+      "rating": 8.0,
+      "description": "作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
+      "genreTitle": "剧情",
+      "regionTitle": "日本"
     },
     {
       "id": "37280",
@@ -1353,34 +1353,19 @@
       "regionTitle": "未知地区"
     },
     {
-      "id": "62564",
-      "tmdbId": 62564,
+      "id": "67851",
+      "tmdbId": 67851,
       "type": "tmdb",
-      "mediaType": "tv",
-      "title": "吹响吧！上低音号",
-      "releaseDate": "2015-04-08",
-      "lastUpdateDate": "2024-06-30",
-      "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
-      "backdropPath": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
-      "rating": 8.0,
-      "description": "作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
-      "genreTitle": "剧情",
-      "regionTitle": "日本"
-    },
-    {
-      "id": "53787",
-      "tmdbId": 53787,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "水星领航员",
-      "releaseDate": "2005-10-06",
-      "lastUpdateDate": "2008-04-01",
-      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
-      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
-      "rating": 8.5,
-      "description": "随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
-      "genreTitle": "科幻奇幻",
-      "regionTitle": "日本"
+      "mediaType": "movie",
+      "title": "传说巨神伊迪安 发动篇",
+      "releaseDate": "1982-07-10",
+      "lastUpdateDate": "1982-07-10",
+      "posterPath": "/lTbHfpTV1TgGeZvLYmmucVwMEZH.jpg",
+      "backdropPath": "/yuGPkGqofAlNMG1dIOStXEr6TkT.jpg",
+      "rating": 7.9,
+      "description": "传说巨神伊迪安的史诗结局，以电视连续剧的最后 5 集为特色。 Solo Ship 及其船员继续与 Buff Clan 进行激烈的战斗，决定宇宙中所有生命的最终命运。这部电影是《传说巨神伊迪安 接触篇》的第二部分。",
+      "genreTitle": "科幻 / 动作 / 剧情",
+      "regionTitle": "未知地区"
     },
     {
       "id": "105248",
@@ -1396,6 +1381,21 @@
       "description": "夜之城每一季都有新故事，也总有一群特立独行的新角色登场，讲述属于他们的传奇。",
       "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
       "regionTitle": "日本/PL/美国"
+    },
+    {
+      "id": "53787",
+      "tmdbId": 53787,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "水星领航员",
+      "releaseDate": "2005-10-06",
+      "lastUpdateDate": "2008-04-01",
+      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
+      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+      "rating": 8.5,
+      "description": "随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本"
     },
     {
       "id": "30982",
@@ -1443,18 +1443,18 @@
       "regionTitle": "日本"
     },
     {
-      "id": "66862",
-      "tmdbId": 66862,
+      "id": "207250",
+      "tmdbId": 207250,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "昭和元禄落语心中",
-      "releaseDate": "2016-01-09",
-      "lastUpdateDate": "2017-03-25",
-      "posterPath": "/m4qKvXM6l15Yq48N8rITeVobix4.jpg",
-      "backdropPath": "/22YtPgohea5ADkePsnISEU34U99.jpg",
-      "rating": 8.0,
-      "description": "因无法忘记在刑务所的落语慰问会中见到的大名人八云的《死神》落语段子，出狱的与太郎径直前往寄席，拜倒在八云面前。成为八云住所雇工以及弟子的与太郎，却发现在八云之处住着一位名叫小夏的女性，八云与小夏似乎有着他人无从触及的因缘。",
-      "genreTitle": "剧情",
+      "title": "我心里危险的东西",
+      "releaseDate": "2023-04-02",
+      "lastUpdateDate": "2024-03-31",
+      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
+      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "rating": 8.6,
+      "description": "重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
+      "genreTitle": "喜剧",
       "regionTitle": "日本"
     },
     {
@@ -1473,33 +1473,18 @@
       "regionTitle": "日本"
     },
     {
-      "id": "207250",
-      "tmdbId": 207250,
+      "id": "66862",
+      "tmdbId": 66862,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "我心里危险的东西",
-      "releaseDate": "2023-04-02",
-      "lastUpdateDate": "2024-03-31",
-      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
-      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "rating": 8.6,
-      "description": "重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本"
-    },
-    {
-      "id": "53787",
-      "tmdbId": 53787,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "水星领航员",
-      "releaseDate": "2005-10-06",
-      "lastUpdateDate": "2008-04-01",
-      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
-      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
-      "rating": 8.5,
-      "description": "随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
-      "genreTitle": "科幻奇幻",
+      "title": "昭和元禄落语心中",
+      "releaseDate": "2016-01-09",
+      "lastUpdateDate": "2017-03-25",
+      "posterPath": "/m4qKvXM6l15Yq48N8rITeVobix4.jpg",
+      "backdropPath": "/22YtPgohea5ADkePsnISEU34U99.jpg",
+      "rating": 8.0,
+      "description": "因无法忘记在刑务所的落语慰问会中见到的大名人八云的《死神》落语段子，出狱的与太郎径直前往寄席，拜倒在八云面前。成为八云住所雇工以及弟子的与太郎，却发现在八云之处住着一位名叫小夏的女性，八云与小夏似乎有着他人无从触及的因缘。",
+      "genreTitle": "剧情",
       "regionTitle": "日本"
     },
     {
@@ -1515,6 +1500,21 @@
       "rating": 8.8,
       "description": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
       "genreTitle": "动作冒险 / 喜剧",
+      "regionTitle": "日本"
+    },
+    {
+      "id": "53787",
+      "tmdbId": 53787,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "水星领航员",
+      "releaseDate": "2005-10-06",
+      "lastUpdateDate": "2008-04-01",
+      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
+      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+      "rating": 8.5,
+      "description": "随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
+      "genreTitle": "科幻奇幻",
       "regionTitle": "日本"
     },
     {
@@ -1623,21 +1623,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "40075",
-      "tmdbId": 40075,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "怪诞小镇",
-      "releaseDate": "2012-06-15",
-      "lastUpdateDate": "2016-02-15",
-      "posterPath": "/yIZXD8FVxLiuA1lutKIO1UOXoOn.jpg",
-      "backdropPath": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
-      "rating": 8.6,
-      "description": "暑假到了，双胞胎姐弟俩梅宝（克里斯汀·沙尔配音）和迪普（杰森·雷特配音）被爸妈赶到一个偏僻小镇“重力泉”过暑假，在这里，他们的斯坦叔公经营着一家专门敲诈游客的旅游景点“神秘小屋”，其中有着各种各样稀奇古怪的东西。然而更让人感到毛骨悚然的，则是这个怪诞小镇里的森林。为人慎重、头脑聪明的迪普觉察到森林的异样，继而发现了一本埋在地下的神秘笔记本，里面记载着存在于神秘小镇的不为人知的秘密。乐天派的梅宝和机智的迪普，结识了神秘小屋的店员温蒂和苏斯，还遇到各种奇妙的小镇居民。在怪诞小镇重力泉，他们经历了一系列奇异事件，小矮人，湖怪，蜡像，通灵者，他们这个暑假注定不平凡。",
-      "genreTitle": "动作冒险 / 喜剧 / 家庭",
-      "regionTitle": "美国"
-    },
-    {
       "id": "72636",
       "tmdbId": 72636,
       "type": "tmdb",
@@ -1681,6 +1666,21 @@
       "description": "很久很久以前，曾流传着这样一个传说：世界各地散落着七颗龙珠，只要集齐这些珠子，就可召唤出神龙，而神龙可以帮助你实现任何一个愿望。住在深山中的小悟空本领高强，偶然的机会他随时尚少女布玛走出大山，四处寻找传说中的龙珠。期间碰上好色的龟仙人与乌龙、一碰女人就面红耳赤的乐平、自大的小和尚克林，经历了各种各样的艰险和奇遇，也惹出一连串爆笑的故事。当然还有许多邪恶的家伙为了满足私欲寻找龙珠，与小悟空他们展开了连番激斗……根据鸟山明同名漫画改编。",
       "genreTitle": "动作冒险 / 科幻奇幻",
       "regionTitle": "日本"
+    },
+    {
+      "id": "40075",
+      "tmdbId": 40075,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "怪诞小镇",
+      "releaseDate": "2012-06-15",
+      "lastUpdateDate": "2016-02-15",
+      "posterPath": "/yIZXD8FVxLiuA1lutKIO1UOXoOn.jpg",
+      "backdropPath": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+      "rating": 8.6,
+      "description": "暑假到了，双胞胎姐弟俩梅宝（克里斯汀·沙尔配音）和迪普（杰森·雷特配音）被爸妈赶到一个偏僻小镇“重力泉”过暑假，在这里，他们的斯坦叔公经营着一家专门敲诈游客的旅游景点“神秘小屋”，其中有着各种各样稀奇古怪的东西。然而更让人感到毛骨悚然的，则是这个怪诞小镇里的森林。为人慎重、头脑聪明的迪普觉察到森林的异样，继而发现了一本埋在地下的神秘笔记本，里面记载着存在于神秘小镇的不为人知的秘密。乐天派的梅宝和机智的迪普，结识了神秘小屋的店员温蒂和苏斯，还遇到各种奇妙的小镇居民。在怪诞小镇重力泉，他们经历了一系列奇异事件，小矮人，湖怪，蜡像，通灵者，他们这个暑假注定不平凡。",
+      "genreTitle": "动作冒险 / 喜剧 / 家庭",
+      "regionTitle": "美国"
     }
   ]
 }
