@@ -8278,5 +8278,955 @@
     "releaseDate": "2026-02-18",
     "rating": 6.4,
     "description": "在时装周的狂热中，三位女性在巴黎的生活中不期而遇，她们一边应对着世界的悲剧，一边思索着自己人生的问题：麦克斯（Maxine），一位40多岁的美国电影导演，发现自己患上了癌症；阿达（Ada），一位年轻的南苏丹模特，逃离了她注定的命运，却被推入了一个充满欺骗的世界；安吉尔（Angèle），一位在T台幕后默默工作的法国化妆师，梦想着逃离自己的生活。"
+  },
+  "v7:movie:adogsperfectchristmas:": {
+    "tmdbId": 1570488,
+    "tmdbTitle": "狗狗的完美圣诞节",
+    "mediaType": "movie",
+    "posterPath": "/qxbtN0FKqn22AHAIgqSOOVxGUB9.jpg",
+    "backdropPath": "/53ryl4Cyds4DE91oVPKsunH7J0m.jpg",
+    "releaseDate": "2026-11-04",
+    "rating": 8.2,
+    "description": "影片改编自《一条狗的使命》系列作者W·布鲁斯·卡梅伦的同名小说。一次医疗紧急状况导致戈斯一家四分五裂，意志坚定的狗狗温斯特决定竭尽全力，赶在平安夜前让家人重聚。"
+  },
+  "v7:tv:mother:2016": {
+    "tmdbId": 68569,
+    "tmdbTitle": "Anne",
+    "mediaType": "tv",
+    "posterPath": "/r3yJ5rWvoKPogrgdEDQFzdYsOxG.jpg",
+    "backdropPath": "/mZD8Y1qlVUY7kwExzdUgZXjiyOK.jpg",
+    "releaseDate": "2016-10-25",
+    "rating": 8.4,
+    "description": "7 yaşındaki Melek, pavyonda çalışan annesi Şule ve onun zalim sevgilisi Cengiz'le aynı evde yaşamakta ve sistemli olarak dayak ve işkenceye maruz kalmaktadır. Minik kız ne yaşarsa yaşasın minik tavşanı Pamuk'la ve hayal ettiklerini yazdığı defterle mutlu olmaya çalışmakta ve bir gün hayatının tamamen değişeceğine inanarak hayaller kurmaktan hiç vazgeçmemektedir. Yeterince beslenemediği için çok çelimsiz ve bakımsız görünen minik Melek ile Zeynep arasında çok özel bir bağ kurulur. Zeynep aslında turna kuşlarını fotoğraflayan, soğuk duruşlu, duygularını pek belli etmeyen bir fotoğraf sanatçısıdır. Bir üniversiteye proje sunmuş ve onun onaylanmasını beklerken de geçici olarak okulda ücretli öğretmenlik yapmaya başlamıştır. Kız kardeşleri ve annesi ile 10 yıldır görüşmüyordur. Melek'in son olarak ölüme terk edilmesi Zeynep'in bütün gelecek planlarını değiştirmesine neden olur."
+  },
+  "v7:tv:anaesthesia:": {
+    "tmdbId": 312006,
+    "tmdbTitle": "麻木医生",
+    "mediaType": "tv",
+    "posterPath": "/78tzKjQPyZEjOSL0THlWRxH5IAj.jpg",
+    "backdropPath": "/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+    "releaseDate": "2026-11-04",
+    "rating": 8.0,
+    "description": "达维德·瓦扎什曾是大城市医院里最耀眼的神经外科医生。他的手稳，胆子更大，可一次大胆却失败的手术，将他的职业生涯在巅峰处骤然折断。光环褪去，他被迫离开顶级医疗中心，带着一身傲气和未愈的伤口，走进了一座小镇的地方医院。\n\n这里的规则完全不同。资源有限，人手不足，社区疲惫而多疑。瓦扎什的傲慢与当地人格格不入，可他那套打破常规的行医方式，也在一点一点改变着这间医院的呼吸。每一台手术都是一场生死赌局，每一个决定都在伦理的刀刃上行走。他要拯救的不只是躺在手术台上的病人，还有那个在失败中几乎被自己埋葬的自己。\n\n剧集将镜头对准医院的日常 —— 紧绷的医生、仓促的抉择、以及那些字面意义上决定生死的瞬间。在麻醉生效之前，所有的真相都无处躲藏。"
+  },
+  "v7:movie:christmasatthepalace:": {
+    "tmdbId": 550023,
+    "tmdbTitle": "王子爱上我",
+    "mediaType": "movie",
+    "posterPath": "/8kvJrYuG3mR5IG7X8W8MnPXByn.jpg",
+    "backdropPath": "/oBjpAYu0wDLjYbiU48PVMnJdev2.jpg",
+    "releaseDate": "2018-11-22",
+    "rating": 6.375,
+    "description": "滑冰编舞凯蒂在这个圣诞节有可能收获一段皇室恋情，但她该如何在爱情和家乡的理想事业之间进行抉择呢？"
+  },
+  "v7:movie:thelegendoftarzan:": {
+    "tmdbId": 258489,
+    "tmdbTitle": "泰山归来：险战丛林",
+    "mediaType": "movie",
+    "posterPath": "/qv4ake325i9ul1jS20NaxS12qAX.jpg",
+    "backdropPath": "/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
+    "releaseDate": "2016-06-29",
+    "rating": 5.926,
+    "description": "19世纪80年代，泰山（亚历山大·斯卡斯加德饰）已经离开了刚果丛林十年了，他与心爱的珍·波特（玛歌特·罗比饰）在维多利亚女王时代的英国伦敦生活。看似平静的城市生活对泰山来说并非真的自在，甚至感到窒息，身着考究的礼服，住在豪宅里，却找不到家的感觉。一次，他以英国议会贸易大使的身份重新回到刚果，但这次派遣实际上是一次比利时人里昂·罗姆（克里斯托弗·瓦尔兹饰）的阴谋。泰山、珍以及他的朋友们都陷入了危险，但丛林是泰山的天下，他开始重新飞檐走壁，拯救爱人和朋友 。"
+  },
+  "v7:movie:monstersummer:": {
+    "tmdbId": 928480,
+    "tmdbTitle": "怪诞夏日",
+    "mediaType": "movie",
+    "posterPath": "/yI56VzvXPHG3t3yYV18GrM7o8SZ.jpg",
+    "backdropPath": "/sJL9R7V1VZcB7i6so6zrQSfYrWa.jpg",
+    "releaseDate": "2024-10-04",
+    "rating": 6.3,
+    "description": "当一股神秘的力量开始扰乱Noah和他朋友们的夏日欢乐时光后，他们与一名退休探员联手，开始了一场拯救小岛的冒险之旅。"
+  },
+  "v7:movie:deathwish:2018": {
+    "tmdbId": 395990,
+    "tmdbTitle": "虎胆追凶",
+    "mediaType": "movie",
+    "posterPath": "/gnZDLmAjKAQzwiR6UZVWjofnHvx.jpg",
+    "backdropPath": "/6McrjaqmwyVEIgGrtDemVKMd1LY.jpg",
+    "releaseDate": "2018-03-01",
+    "rating": 6.236,
+    "description": "在枪案频发的芝加哥，保罗原本是一个温文儒雅仁心妙手的医生，拥有一个幸福美满的家庭。一场突如其来的厄运让他的妻女惨遭暴徒欺凌，女儿昏迷不醒，爱妻更因此丧失生命，与他天人永隔。然而，城市里连串的凶案让警方束手无策，种种原因使得保罗的案件无法结案，本应受到制裁的凶徒逍遥法外。在崩溃和绝望中，保罗的人生价值观彻底改变。为了替家人复仇，保罗决定孤身寻凶，主动出击，单枪匹马在城市街头制裁暴力犯罪。警方和大众对这位伸张正义的神秘“帽兜男”众说纷纭，争论不休。在“守护天使”的外衣下，保罗最终迎来了和仇人的生死决战。"
+  },
+  "v7:tv:blackdoves:": {
+    "tmdbId": 225385,
+    "tmdbTitle": "黑鸽",
+    "mediaType": "tv",
+    "posterPath": "/xzX1tPr8W9I9S1dhunTsH4XlSN1.jpg",
+    "backdropPath": "/mH2ekoZOwbOg51tjF4Z3f4Qwfq2.jpg",
+    "releaseDate": "2024-12-05",
+    "rating": 7.045,
+    "description": "嫁给政客的卧底间谍依靠多年好友兼职业杀手的协助完成秘密行动，如履薄冰地维系自己的双重生活。"
+  },
+  "v7:tv:gravesend:": {
+    "tmdbId": 101905,
+    "tmdbTitle": "Gravesend",
+    "mediaType": "tv",
+    "posterPath": "/qt5m4xUGir1zgXAZl1RIKHD0hGF.jpg",
+    "backdropPath": null,
+    "releaseDate": "2020-04-03",
+    "rating": 6.0,
+    "description": "A 1980's series of events revolving around Benny Zerletta (William DeMeo), a Brooklyn based Italian-American, soldier in the Colezzo crime family. Benny depicts the difficulties."
+  },
+  "v7:tv:interviewwiththevampire:2022": {
+    "tmdbId": 128098,
+    "tmdbTitle": "夜访吸血鬼",
+    "mediaType": "tv",
+    "posterPath": "/whYzbTJ7tns1K28OQlURkNYpVm7.jpg",
+    "backdropPath": "/r5RoeEWuslP6svlZsHsCKo7TZs7.jpg",
+    "releaseDate": "2022-10-02",
+    "rating": 7.615,
+    "description": "改编自安妮·莱斯的同名哥特小说。记者丹尼尔采访吸血鬼路易斯，听他讲述与莱斯特、克劳迪娅跨越百年的爱恨纠葛。随着真相逐渐浮出水面，吸血鬼世界的秘密与恩怨也随之展开。"
+  },
+  "v7:movie:persianlessons:": {
+    "tmdbId": 581577,
+    "tmdbTitle": "波斯语课",
+    "mediaType": "movie",
+    "posterPath": "/gvaTcXUK03D9NhzflYGJXS5Gemx.jpg",
+    "backdropPath": "/7zEKSdFYIQsqZvgekrGSzVOpHka.jpg",
+    "releaseDate": "2020-04-17",
+    "rating": 7.592,
+    "description": "二战期间，犹太人吉尔斯在集中营谎称自己是波斯人保命，被一位德国军官看中要求教自己波斯语。对波斯语完全不懂的小卷只能凭空编出一门语言，他开始用集中营中关押的犹太人的名字作为词根，编造出上千个“波斯语”单词。军官在残暴的环境中对小卷竟有了依赖，并开始袒护他。不料集中营中来了一个真正的波斯人……"
+  },
+  "v7:tv:takennataleeholloway:": {
+    "tmdbId": 338684,
+    "tmdbTitle": "被夺走的女儿：娜塔莉·霍洛威失踪案",
+    "mediaType": "tv",
+    "posterPath": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
+    "backdropPath": "/1bPhaBAhFpr51hWBK18HLxvWSIy.jpg",
+    "releaseDate": "2026-11-04",
+    "rating": 7.7,
+    "description": "2005 年，娜塔莉·霍洛威在阿鲁巴岛失踪。这部真实犯罪系列纪录片回顾了长达数年的搜寻过程。最终，她的母亲与涉嫌杀害她的嫌疑人正面相见。"
+  },
+  "v7:tv:hannibal:2013": {
+    "tmdbId": 40008,
+    "tmdbTitle": "汉尼拔",
+    "mediaType": "tv",
+    "posterPath": "/SZbHh09RfJ3hDwXaHy4APhYYAr.jpg",
+    "backdropPath": "/zdInKTFSytx5bTnU8qkIfMFxP8I.jpg",
+    "releaseDate": "2013-04-04",
+    "rating": 8.262,
+    "description": "取材于托马斯·哈里斯《红龙》《汉尼拔》《汉尼拔崛起》中的人物及元素。FBI特别调查员威尔·格雷厄姆擅长理解连环杀手的心理，与精神科医生汉尼拔·莱克特合作调查凶案，却逐渐陷入莱克特精心构筑的黑暗世界。"
+  },
+  "v7:movie:thelastdaysofdisco:": {
+    "tmdbId": 16980,
+    "tmdbTitle": "最后的迪斯科",
+    "mediaType": "movie",
+    "posterPath": "/x3VG7J32prr8D95AKGN8gGA7jZ7.jpg",
+    "backdropPath": "/pCbpvQ2dAfh7EAzApKruqDMkygU.jpg",
+    "releaseDate": "1998-05-29",
+    "rating": 6.3,
+    "description": "　　斯蒂尔曼自编自导的风尚喜剧。亦是其“都会三部曲”的完结篇。讲述出浴迪斯科热潮末期的两个女人在俱乐部里寻找爱情的故事。主演是电影圈的时尚达人Chloe Sevigny。"
+  },
+  "v7:movie:themummy:2017": {
+    "tmdbId": 282035,
+    "tmdbTitle": "新木乃伊",
+    "mediaType": "movie",
+    "posterPath": "/eWWzEpo78aOJd4OFHBBI784llJp.jpg",
+    "backdropPath": "/i4ZougHEyBAboDpi6jsaTUDTjUl.jpg",
+    "releaseDate": "2017-06-06",
+    "rating": 5.52,
+    "description": "五千年前，埃及公主安玛奈特本来有望成为古埃及首位女法老王，但事与愿违，新的继承人出世，王位受到威胁。不甘心的她求助黑暗力量，结果事败被捉，被活生生制成木乃伊，封印在远离家乡之地。并被埋葬于沙漠深处的坟墓中。现代，一支由尼克为首的海豹突击队在中东的沙漠中寻获了其公主的古老棺木，但却因此唤醒了可怕的远古诅咒；复活于现代的安玛奈特带来了一个恶毒的怨念，并打算以深埋了上千年的邪恶力量降临于现代的世界，这使得在空难中意外幸存的尼克必须找出防止世界遭到毁灭的方法。"
+  },
+  "v7:tv:1000lbroomies:": {
+    "tmdbId": 291934,
+    "tmdbTitle": "1000-lb Roomies",
+    "mediaType": "tv",
+    "posterPath": "/mQmLAmmFmnXemv9a8kOwp6HV6ZG.jpg",
+    "backdropPath": "/pQghDt6yyvsywUJfvrdrckt38PG.jpg",
+    "releaseDate": "2025-06-03",
+    "rating": 5.5,
+    "description": "Self-proclaimed 'extra' in every way, Jaz and Nesha are each other's ride-or-die and co-conspirators in laughter, snacks and survival. But when Jaz' doctor gives her the shocking news that her life is at risk if she doesn't lose weight soon, the duo realizes that it's time to turn over a new leaf and kickstart their wellness journey. Jaz doesn't want to leave her daughter without a mother, so she commits to losing almost 200 lbs. Nesha, still not sold on surgery, isn't quite ready to jump on board. As roles shift and tensions rise, the pair must navigate new boundaries, old habits and the weight of what's at stake. The decision to change their lives and embark on this endeavor will test their commitment, willpower and unbreakable bond in unimaginable ways, but through it all, they will always have each other's backs."
+  },
+  "v7:movie:thefirstpurge:": {
+    "tmdbId": 442249,
+    "tmdbTitle": "人类清除计划4",
+    "mediaType": "movie",
+    "posterPath": "/AouHkDl3CDN2ukcaBqdtKhb0zwh.jpg",
+    "backdropPath": "/r4clWIxKeWoqrHspQP0XunuUmB7.jpg",
+    "releaseDate": "2018-07-04",
+    "rating": 6.0,
+    "description": "影片前三部讲述了近未来的美国，全国失业率仅为1%，犯罪率则创下史上最低纪录，暴力几乎消失无踪。美利坚合众国仿佛进入宛如天堂的美好黄金时代，而促成这完美表象的则是前所未闻的大扫荡计划。国家为了有效释放公民心底的压抑和不满情绪，特别规定每年有一天的晚上7点之后举行长达十二小时的全国性大扫荡，届时人们将走上街头，展开完全不用承担法律责任的杀戮。\r 电影聚焦于导致清除计划发生的原因，讲述了由于人口膨胀，社会问题加剧，一个名为New Founding Fathers of America的组织进行了一种社会学理论测试，即在某一孤立的社区进行为时一晚的发泄、攻击、侵略，促成社区人们之间的相互残杀。这一制度在全美推广，一时间马路街道都成为了杀戮的战场。故事的荒谬性吸引了大量观众，第一年的杀戮日就要降临，恶魔们都已经准备好了。"
+  },
+  "v7:tv:bobbystriplethreat:": {
+    "tmdbId": 211201,
+    "tmdbTitle": "巴比的三道关卡",
+    "mediaType": "tv",
+    "posterPath": "/7W2Mfoy21zPtxfWT8JPnFIsMCHw.jpg",
+    "backdropPath": "/Ac3OJ3FXttWOfmpW7EktfFMjd6.jpg",
+    "releaseDate": "2022-09-27",
+    "rating": 8.8,
+    "description": "巴比富雷主持史上最难的烹饪比赛，每位参赛厨师将对决巴比钦点的料理三强，这三位神厨组成三道关卡，阻止挑战者争夺25000美元的大奖。"
+  },
+  "v7:tv:theneighborhood:": {
+    "tmdbId": 81144,
+    "tmdbTitle": "东邻西舍",
+    "mediaType": "tv",
+    "posterPath": "/3YsPDnRBMX5XqQtFFQahzL4xXfL.jpg",
+    "backdropPath": "/rca7DzvnlJGYtyOmtC111PCZsJ6.jpg",
+    "releaseDate": "2018-10-01",
+    "rating": 7.564,
+    "description": "本剧讲述一个原本住在中西部的大好人 Dave Johnson 举家搬到洛杉矶后，试图融入这个邻里关系复杂的社区的故事。"
+  },
+  "v7:movie:kingarthurlegendofthesword:": {
+    "tmdbId": 274857,
+    "tmdbTitle": "亚瑟王：斗兽争霸",
+    "mediaType": "movie",
+    "posterPath": "/dER8GXvXAvmNjUaUaMbPS2vS6kb.jpg",
+    "backdropPath": "/wukZorHsdbsbgtfJe4Ocfy3vpn.jpg",
+    "releaseDate": "2017-05-09",
+    "rating": 6.6,
+    "description": "亚瑟（查理·汉纳姆 Charlie Hunnam 饰）的父亲乌瑟王在他年幼时即惨遭杀害，叔叔沃帝根（裘德·洛 Jude Law 饰）篡夺了王位，亚瑟不仅被剥夺了王位继承权，他甚至不知道自己的出身背景与皇家血统，失去父母的他独自一人流落街头，在弱肉强食的街头中长大，也因此深刻体认了暴政下人民的痛苦。  国王沃帝根用极强大的力量压制人民，只因石中剑的预言让他的心理感到强烈的不安。而就在亚瑟奋力拔起石中剑的那一刻，他的人生从此出现转折，重大天命加诸在他身上，王者天生，尽管那不是他企求而来的权力，但是亚瑟与沃帝根之间终需一战。"
+  },
+  "v7:movie:vforvendetta:": {
+    "tmdbId": 752,
+    "tmdbTitle": "V字仇杀队",
+    "mediaType": "movie",
+    "posterPath": "/16gmXqmV9Cfnq1d97a0zASJyKiL.jpg",
+    "backdropPath": "/sGcqFRwQEpgp4pD1DUewf1vSjbQ.jpg",
+    "releaseDate": "2006-02-23",
+    "rating": 7.897,
+    "description": "未来的英国社会处于极权统治的高压下，不能容许同性恋者、异教徒等社会角色的存在，人民在黑暗政权下苟延残喘。  这晚，年轻女子艾薇身陷险境，幸得V相助。V是一个永远带着面具的神秘男子，拥有高智商和超凡战斗力。他摧毁了伦敦的标志性建筑，同时也点燃了反政府的熊熊烈火。 艾薇在和V深入接触后，不仅得知了V的神秘使命，还渐渐发现了自己的身世，这也注定了自己和V会是同一条阵线的人。"
+  },
+  "v7:movie:jeffdunham250thredwhiteandbluebirthdayspecial:": {
+    "tmdbId": 1734155,
+    "tmdbTitle": "Jeff Dunham: 250th Red, White, and Blue Birthday Special",
+    "mediaType": "movie",
+    "posterPath": "/g9J7up2TMdiXFMfNvfP3bMywqRh.jpg",
+    "backdropPath": "/hulFAmKUxGso4tgOI7ZURwimRfM.jpg",
+    "releaseDate": "2026-07-02",
+    "rating": 0.0,
+    "description": "America is turning 250, and the guys and I figured there was only one way to mark the occasion!  Come join me, Walter, Peanut, Achmed, and Bubba J, for my all-new standup special: Jeff Dunham's 250th Red, White, and Blue Birthday Special. Here’s the cool part: It was last minute, so we shot the entire thing on iPhones!  Call your friends, fire up the grill (or order pizza!), and grab a front-row seat… This is one fun show you won't want to miss! Happy 250th Birthday, America!"
+  },
+  "v7:multi:avengersageofultron:": {
+    "tmdbId": 99861,
+    "tmdbTitle": "复仇者联盟2：奥创纪元",
+    "mediaType": "movie",
+    "posterPath": "/fW6pOb6EEJ8wAoIhwtcOuuKY4v3.jpg",
+    "backdropPath": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+    "releaseDate": "2015-04-22",
+    "rating": 7.278,
+    "description": "托尼·斯塔克试图启动一项旨在保护地球的维和计划，却意外催生出拥有自我意识的人工智能“奥创”。奥创很快认定人类才是地球最大的威胁，并开始实施自己的毁灭计划。钢铁侠、美国队长、雷神、绿巨人、黑寡妇和鹰眼不得不再次集结，却在面对奥创的同时遭遇旺达·马克西莫夫和皮特罗·马克西莫夫这对拥有特殊能力的兄妹。随着奥创的力量不断壮大，复仇者联盟内部的矛盾与恐惧也逐渐显现，一场关系到人类未来的危机由此展开……"
+  },
+  "v7:tv:survivor:2000": {
+    "tmdbId": 14658,
+    "tmdbTitle": "幸存者 真人秀",
+    "mediaType": "tv",
+    "posterPath": "/rlIuUR6RFnKooQ65t5UYkCtpxnU.jpg",
+    "backdropPath": "/5tgxUQXBH8ambV5ky77oKtGqvWy.jpg",
+    "releaseDate": "2000-05-31",
+    "rating": 7.274,
+    "description": "《幸存者》（英文：Survivor）是一个在遍布世界许多国家进行的电视真人实境秀节目。这个节目中，参与者被限定在一个特定的环境下依靠有限的工具维持生存，并参与竞赛，最终胜出者将赢得100万美元的奖金。"
+  },
+  "v7:tv:familyguy:": {
+    "tmdbId": 1434,
+    "tmdbTitle": "恶搞之家",
+    "mediaType": "tv",
+    "posterPath": "/woXlNGitaiF5d7jRIwccmdum6fz.jpg",
+    "backdropPath": "/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+    "releaseDate": "1999-01-31",
+    "rating": 7.414,
+    "description": "本剧集讲述了格里芬一家的冒险故事。无知得可爱的皮特及其家庭主妇妻子路易丝居住在罗得岛圆蛤市，他们有三个孩子。最大的孩子梅根与周围人格格不入，而青少年克里斯在面对异性时笨拙而无知。最小的孩子斯图尔特是个天才宝宝，一心想要杀死妈妈并毁灭世界。会说话的狗布莱恩在喝着马提尼酒和解决自己生活问题的同时，控制着斯图尔特。"
+  },
+  "v7:movie:supertroopers3:": {
+    "tmdbId": 675871,
+    "tmdbTitle": "超级骑警3",
+    "mediaType": "movie",
+    "posterPath": "/f2bPrlXRpprJArJfKhE7a6HeZJT.jpg",
+    "backdropPath": "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
+    "releaseDate": "2026-08-06",
+    "rating": 6.2,
+    "description": "法瓦与索尼妹妹的印度式订婚闹得一团糟，索尼试图拆散两人之际，超级骑警还要调查一个新型贩毒团伙，设法挽救婚礼。"
+  },
+  "v7:movie:jurassicworld:": {
+    "tmdbId": 135397,
+    "tmdbTitle": "侏罗纪世界",
+    "mediaType": "movie",
+    "posterPath": "/zlZCxYnYeeMNhBE9QCyH5PpdKoy.jpg",
+    "backdropPath": "/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
+    "releaseDate": "2015-06-06",
+    "rating": 6.703,
+    "description": "多年过去，努布拉岛终于实现了约翰·哈蒙德曾经的梦想，一座拥有大量活体恐龙的主题公园“侏罗纪世界”每天吸引着成千上万的游客。然而随着人们逐渐习惯恐龙带来的震撼，公园为了制造新的吸引力，利用多种生物的基因培育出前所未有的混种恐龙“暴虐霸王龙”。负责公园运营的克莱尔邀请长期研究迅猛龙的欧文·格雷迪评估它的安全设施，却很快发现这种聪明而危险的生物远比任何人预想的更加难以控制。当暴虐霸王龙成功逃出围栏，一座原本井然有序的恐龙乐园也随之陷入前所未有的危机……"
+  },
+  "v7:movie:fall2deadpoint:": {
+    "tmdbId": 1101412,
+    "tmdbTitle": "坠落2：死点",
+    "mediaType": "movie",
+    "posterPath": "/au44HwfaYPJAdRZP4zlM32xbJVO.jpg",
+    "backdropPath": "/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
+    "releaseDate": "2026-09-01",
+    "rating": 7.312,
+    "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。"
+  },
+  "v7:tv:therealhousewivesofsaltlakecity:": {
+    "tmdbId": 110381,
+    "tmdbTitle": "盐湖城娇妻",
+    "mediaType": "tv",
+    "posterPath": "/v24F5lQe757pBn9NeA3p7DEQHy2.jpg",
+    "backdropPath": "/52C5LxFmg4z0dSUUbYnLhJij0Jv.jpg",
+    "releaseDate": "2020-11-11",
+    "rating": 6.2,
+    "description": "Fueled by multi-million-dollar businesses and brands, a hidden social circle of successful women have created their own paradise in the majestic mountains of Utah."
+  },
+  "v7:multi:thecrow:2024": {
+    "tmdbId": 957452,
+    "tmdbTitle": "乌鸦",
+    "mediaType": "movie",
+    "posterPath": "/mFHctbYKGhmjET2LpC1wkxYAbIH.jpg",
+    "backdropPath": "/503LUrI9juBk1rktOPzxyMUTDEu.jpg",
+    "releaseDate": "2024-08-21",
+    "rating": 5.8,
+    "description": "本片将更加忠实詹姆斯·奥·巴尔的同名漫画。讲述摇滚乐手埃里克·德雷文（比尔·斯卡斯加德 Bill Skarsgård 饰）和他的未婚妻雪莉（小枝女孩 FKA twigs 饰）被残忍杀害。一年后，埃里克从坟墓中苏醒，并进行复仇。复活后的埃里克拥有着超自然的力量，而他所到之处必定有乌鸦跟随。"
+  },
+  "v7:tv:theoffice:2005": {
+    "tmdbId": 2316,
+    "tmdbTitle": "办公室",
+    "mediaType": "tv",
+    "posterPath": "/nzpl8A70g9s6RaoAiZ0hPcw20LQ.jpg",
+    "backdropPath": "/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
+    "releaseDate": "2005-03-24",
+    "rating": 8.6,
+    "description": "本剧发生在“Dunder Mifflin”纸业公司一家小小分公司的办公室里，在头脑非常脱线的区域经理迈克尔领导下，一群办公室职员的生活每天充满古怪趣味。吉姆是个诙谐、脑子灵活的恶作剧狂人，整天想出不同点子折腾坐对面的学究型同事杜维特，后者每每气恼不已，也在工作上暗自对吉姆使坏，还视他做升职最大竞争对手；吉姆的恶作剧搭档是前台女孩潘，两人制造出无止境的欢笑，但潘已经有了未婚夫，吉姆对她动心也只能发乎情止乎礼。办公司里还有脾气古怪的大龄剩女安吉拉、深受迈克尔歧视的同性恋会计奥斯卡、拼命想融入大家都实习生瑞恩，无论大家性格合拍与否，彼此的共识都是，经理迈克尔是整间屋最大的极品……"
+  },
+  "v7:movie:oneyeartolivebuyaman:": {
+    "tmdbId": 1654940,
+    "tmdbTitle": "余命一年买男人",
+    "mediaType": "movie",
+    "posterPath": "/2ZiZMQQ8sn2WNlxpmR9CDy03Dv.jpg",
+    "backdropPath": "/yfoenuSXIqSUbh0bt0DPpCDOY4T.jpg",
+    "releaseDate": "2026-11-05",
+    "rating": 8.0,
+    "description": "得知自己只剩一年寿命后，节俭的 40 岁女人唯终于舍得花钱：“买下”夜总会男公关濑名。原本只是一纸合同，却发生了意想不到的转折。"
+  },
+  "v7:movie:deckthehallways:": {
+    "tmdbId": 1564001,
+    "tmdbTitle": "Deck the Hallways",
+    "mediaType": "movie",
+    "posterPath": "/1A1Sltz1NMLsK6MYt5eRBHzyDFu.jpg",
+    "backdropPath": "/tCtCIVTl0G4gSa51BZvGy0zrjkx.jpg",
+    "releaseDate": "2025-12-06",
+    "rating": 2.0,
+    "description": "Zoe, a Bay Area tech exec, returns to Chicago to visit her grandmother Agnes, who’s traded old traditions for bold new adventures — including canceling the cherished holiday party her late husband started. Missing the festive warmth of her childhood, Zoe teams up with her charming childhood crush Jace and their fifth floor neighbors to revive the celebration. As sparks fly between Zoe and Jace, a last-minute cancelation threatens the fun, but Agnes steps up. Together, the building rallies for a joyful Christmas Eve — showing that holiday spirit, new memories, and maybe even new love are made by those bold enough to keep traditions alive."
+  },
+  "v7:movie:salli:": {
+    "tmdbId": 1007980,
+    "tmdbTitle": "莎莉",
+    "mediaType": "movie",
+    "posterPath": "/66ITX4b86lYDXRUAQH8ooaFJq7Y.jpg",
+    "backdropPath": "/kfWS8IY9Pl3MmW9QkiS8IYNrWcJ.jpg",
+    "releaseDate": "2024-04-03",
+    "rating": 4.5,
+    "description": "超过适婚年龄的农妇林惠君（刘品言 饰）在深山养鸡、种玉米，过着简单惬意的日子，身边有总担心自己嫁不出去的姑姑、从上海回来且正值叛逆期的侄女，还有整天和未婚妻你浓我浓的弟弟林伟宏（林柏宏 饰），看着两人的甜腻模样，也让她心生想谈恋爱的念头。内心渴望爱情却又怯于表达的她，只能透过交友软件化名“莎莉”与法国男子谈情说爱，此举一出不仅弟弟唱酸，全村的人都说她被骗了，她决定义无反顾飞到巴黎，展开一场属于自己的追爱之旅！温暖又疗愈的故事，先后在釜山影展、金马影展、大坂亚洲影展及瑞典哥德堡影展大受好评。本片荣获大坂亚洲电影节：最具潜力创作者奖及ABC TV奖！电影将于 4 月 3 日全台上映！"
+  },
+  "v7:movie:lemonysnicketsaseriesofunfortunateevents:": {
+    "tmdbId": 11774,
+    "tmdbTitle": "雷蒙·斯尼奇的不幸历险",
+    "mediaType": "movie",
+    "posterPath": "/dt4soC2nKHctz2Lnyhbnh3K43rS.jpg",
+    "backdropPath": "/7xl8GzdUXwbBLrCDZ82vbvwEUwe.jpg",
+    "releaseDate": "2004-12-16",
+    "rating": 6.82,
+    "description": "　　三姐弟在一场大火中失去了父母，继承了父母留下的一大笔遗产。因为年龄尚小，只能到了法定年龄才能动用这笔钱。于是，三姐弟被暂时带到远房亲戚奥拉夫（金·凯瑞 Jim Carrey饰）家，由奥拉夫来抚养。 　　姐姐维奥莱特（艾米莉·布朗宁 Emily Browning饰）是个善于发明创作的小精灵，弟弟克劳斯则博闻强识，是个地道的小博士。最小的孩子有一口锋利的牙齿，呀呀说些姐姐哥哥才能听得懂的话。这次三姐弟却落进了奥拉夫的圈套里，被这个贪婪的亲戚盯上了那笔遗产。他们一次次陷入险境，看来奥拉夫非把他们害死不可。 　　于是，他们逃到了做生物学家的叔叔家里，然而这里却满是蛇类动物，颇为惊悚。更不妙的是，奥拉夫像摆脱不掉的影子跟随而至。三个孩子继续出逃，在发现姑妈家也不是去处时，他们决定自力更生，跟邪恶的奥拉夫周旋到底。"
+  },
+  "v7:tv:themarkofempire:2020": {
+    "tmdbId": 116403,
+    "tmdbTitle": "The Mark Of Empire",
+    "mediaType": "tv",
+    "posterPath": "/8GFnACVgoBZN2Df4M5cMpeBlOXJ.jpg",
+    "backdropPath": "/eqV3Mc4uEvftCmQfQqsATz8UJEI.jpg",
+    "releaseDate": "2020-05-03",
+    "rating": 10.0,
+    "description": "Singaporean curator and scholar Peter Lee explores the history of four Southeast Asian empires that made their mark on the world. Travelling from Thailand, Myanmar, Cambodia to Indonesia, Peter explores ancient ruins, epic legends and vibrant traditions to chart the rise and fall of four distinct empires, and how their legacy still shapes cultures and identities in the region today."
+  },
+  "v7:tv:harrypotterwizardsofbaking:": {
+    "tmdbId": 254514,
+    "tmdbTitle": "哈利·波特：烘焙巫师",
+    "mediaType": "tv",
+    "posterPath": "/AiM4uv9gtbAzBTThN2HdWNtBykx.jpg",
+    "backdropPath": "/oJfXAfxBua9eR64HLfW3hIb3Y2Q.jpg",
+    "releaseDate": "2024-11-14",
+    "rating": 8.2,
+    "description": "比赛以超长篇章拉开序幕，九支糕点师和蛋糕艺术家团队的任务是制作大量令人着迷的可食用展品，这些展品的灵感来自哈利波特传奇中的瞬间和主题。每周，烹饪艺术家们都会设计出令人瞠目结舌的作品，不仅能挑逗味蕾，还能提供令人惊喜和迷人的视觉元素。哈利波特的粉丝们会认出许多熟悉的标志性地方，因为该系列是在华纳兄弟利维斯登工作室拍摄的，包括在华纳兄弟伦敦工作室之旅——哈利波特的制作过程中，以及哈利波特的旅程在屏幕上栩栩如生的一些原始场景中。参赛者将有前所未有的机会在 9¾ 站台、大厅、古灵阁巫师银行、对角巷、禁林等著名地点展示他们的作品。"
+  },
+  "v7:movie:weatheringwithyou:2019": {
+    "tmdbId": 568160,
+    "tmdbTitle": "天气之子",
+    "mediaType": "movie",
+    "posterPath": "/6Jm87GS4kzr8qkldw3EyZFJjQig.jpg",
+    "backdropPath": "/fnhjdgvayKvRrDPaCtrIzbIWf4M.jpg",
+    "releaseDate": "2019-07-19",
+    "rating": 7.97,
+    "description": "影片发生在天气错乱、阴雨连绵的时代。离家出走、独自上京闯荡的少年森岛帆高，遇到了同样生存艰难的少女天野阳菜。两人在大城市中相互依赖，并萌生情愫。拥有超能力的“100%晴天女孩”阳菜，为了重现晴天而离奇失踪。但对于帆高而言，哪怕与世界为敌，他也一定要找回阳菜。"
+  },
+  "v7:movie:greenland2migration:": {
+    "tmdbId": 840464,
+    "tmdbTitle": "末日逃生2：迁移",
+    "mediaType": "movie",
+    "posterPath": "/oEGnHmRkpNfUsxnh0gOKuTqNeQk.jpg",
+    "backdropPath": "/2Z4NjgS8hj9fyRdr8nvTqbHDo97.jpg",
+    "releaseDate": "2026-01-07",
+    "rating": 6.372,
+    "description": "由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……"
+  },
+  "v7:tv:quitethegirl:": {
+    "tmdbId": 338103,
+    "tmdbTitle": "好一個乖乖女",
+    "mediaType": "tv",
+    "posterPath": "/gQ57F5lwycHpLa5924kXXChxxNo.jpg",
+    "backdropPath": "/ooGr4gKqBq89VuyZKtExaetKuFd.jpg",
+    "releaseDate": "2026-10-12",
+    "rating": 7.0,
+    "description": "鹿鸣于表面是鹿家乖巧的千金，实则寄人篱下，长期遭受欺辱，逐渐变得心狠手辣。段休冥走进她的生活，成为她复仇路上的助力，两人携手对抗仇敌，追寻自由。"
+  },
+  "v7:movie:thehungergamesmockingjaypart2:": {
+    "tmdbId": 131634,
+    "tmdbTitle": "饥饿游戏3：嘲笑鸟（下）",
+    "mediaType": "movie",
+    "posterPath": "/AedDI1FoOsYIb0kWqu4UHuzOBZ.jpg",
+    "backdropPath": "/qVgLMRVNB5bHU0inmRa0ueShacN.jpg",
+    "releaseDate": "2015-11-18",
+    "rating": 6.898,
+    "description": "　　饥饿游戏施惠国爆发了全面战争，凯特尼斯将在最后关头对峙斯诺总统。在盖尔、芬尼克和皮塔等好友的陪伴下，凯特尼斯和十三区的小队一起为了解放施惠国的人民而冒险抗争，并且策划暗杀越来越执迷于杀死她的斯诺总统。凯特尼斯将面对致命陷阱、劲敌和道义上的选择，而这些挑战都不曾出现在饥饿游戏的竞技场中。"
+  },
+  "v7:movie:passengers:2016": {
+    "tmdbId": 274870,
+    "tmdbTitle": "太空旅客",
+    "mediaType": "movie",
+    "posterPath": "/5exWJo3lt17rbKcanVVoqsLLJOb.jpg",
+    "backdropPath": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+    "releaseDate": "2016-12-21",
+    "rating": 6.956,
+    "description": "在遥远的未来，一艘运送数千人到遥远殖民地星球的太空飞船发生了技术故障，让本该再沉睡90年的乘客吉姆与奥罗拉提前从休眠中醒来。孤独的太空旅行中，两位孤独的乘客开始相识相爱，但之后他们发现乘坐的飞船中还存在着更严重的隐患，甚至会危及所有人的生命，而拯救5000名乘客的任务落到了他们两人肩上。"
+  },
+  "v7:movie:thespringoutsidethefence:": {
+    "tmdbId": 625119,
+    "tmdbTitle": "竹篱笆外的春天",
+    "mediaType": "movie",
+    "posterPath": "/yIyAEjjvZlGUXimkomJ16tx9Wdw.jpg",
+    "backdropPath": null,
+    "releaseDate": "1985-08-10",
+    "rating": 6.0,
+    "description": "　　李琳（苏明明 饰）和吴爱华（钟楚红 饰）是从小玩到大的青梅竹马的好友，两人一同在眷村长大，李琳长得漂亮，个性也张扬，吴爱华则是她的想对面，性格内向害羞，但内心里感情充沛。李琳和吴爱华同时爱上了名叫何刚的飞行员，聪慧的吴爱华知道李琳心里和自己想的一样，于是在这段三角关系中，她选择了默默的退出。 　　终于，李琳和何刚走到了一起，准备携手步入婚姻殿堂，在这个节骨眼上，何刚在一场事故中死去了，而李琳的腹中已经怀上了他的骨肉。在被迫堕胎之后，李琳只身一人来到了台北，在一家酒吧里上班，而吴爱华从商校毕业之后亦来到台北，两人重逢了"
+  },
+  "v7:movie:goodbyeemmanuelle:": {
+    "tmdbId": 39412,
+    "tmdbTitle": "艾曼纽3：再见艾曼纽",
+    "mediaType": "movie",
+    "posterPath": "/6TMvJX8PHS6672JI9R5YuCllGB6.jpg",
+    "backdropPath": "/sKhgptv9H7muJF7dBDfdMot7yQE.jpg",
+    "releaseDate": "1977-10-14",
+    "rating": 4.672,
+    "description": "艾曼纽和丈夫继续以开放的态度生活在塞舌尔群岛上。然而有一天岛上来了一个英俊的电影导演，艾曼纽的丈夫变得没有那么开放了，他心生妒忌心态变得像一个传统的男人……"
+  },
+  "v7:movie:madeinabyssdawnofthedeepsoul:": {
+    "tmdbId": 573730,
+    "tmdbTitle": "来自深渊：深魂的黎明",
+    "mediaType": "movie",
+    "posterPath": "/dMfE61GIc9CnhJDMBybFCspH8fV.jpg",
+    "backdropPath": "/arE5uCd1RPO8IfdtEvL4JAj8B13.jpg",
+    "releaseDate": "2020-01-17",
+    "rating": 7.852,
+    "description": "这个各角落都被探索殆尽的世界，只剩唯一仅存的秘境——大洞穴“阿比斯”。在这个会延伸到哪里不得而知，且深不见底的巨大纵向洞穴中，除了栖息着各种奇奇怪怪的生物之外，还藏有现今人类制作不出来的珍贵遗物。“阿比斯”处处不可思议的景象，让人们为之着迷，并前仆后继地前去冒险。于是，数度挑战这巨洞的冒险家们，后来便被称为“探窟家”。住在建造于阿比斯边缘的城镇“奥斯”的孤儿莉可，梦想着有一天要成为像母亲那样的伟大探窟家，力图解开阿比斯的谜团。有一天，莉可母亲的白笛被人发现，让她毅然决定要潜入阿比斯深处。而莉可收留的失忆机器人·雷古为了找回自己的记忆，也决心和她同行。莉可在深界四层遭受穿弹兽的毒素折磨，而救了她的人就是“生骸”娜娜奇。娜娜奇加入后，他们继续往波多尔多所在的深界五层冒险。在那里，遇到一个自称是普鲁修卡的女孩。"
+  },
+  "v7:movie:doraemonnobitasgreatadventureintheworldofmagic:": {
+    "tmdbId": 161699,
+    "tmdbTitle": "哆啦A梦：大雄的魔界大冒险",
+    "mediaType": "movie",
+    "posterPath": "/upLkOiv3MR4DR6guGaL2fO0H2D9.jpg",
+    "backdropPath": "/7XpyULffvAInwCAElftsmK4SbJE.jpg",
+    "releaseDate": "1984-03-17",
+    "rating": 6.9,
+    "description": "面对生活的诸多不顺的大雄，开始抱怨起现实世界为什么没有魔法。一天，大雄（小原乃梨子 配音）发现了一个哆啦A梦（大山信代 配音）的石像，正打算找出石像的来源，但渴望拥有魔法的大雄，突发奇想到了“如果电话亭”来实现自己的梦想。现实对大雄来说总是很残酷，大雄并没因此而拥有强大的魔力，而且拥有魔毯是一件和奢侈的事情，而大雄家是支付不起的。另外，在这里，科学被视为迷信。著名的魔法研究者满月博士（中村正 配音）告知大家一个可怕的消息：魔界星不过多久便会完全接近地球。大雄想变回现实世界，但是“如果电话亭”早己被妈妈处理掉了。满月博士解读古文书后被捉走，逃亡的美夜子（小山茉美 配音）找到了大雄等人并得到他们的支持，大家一起出发至魔界星，解救博士……"
+  },
+  "v7:movie:merrychristmasmrlawrence:": {
+    "tmdbId": 11948,
+    "tmdbTitle": "战场上的快乐圣诞",
+    "mediaType": "movie",
+    "posterPath": "/fnBZHBDMam4QNRimp9Z2k5q2AaZ.jpg",
+    "backdropPath": "/tlR95c16na3nkVwD5WkUZ5NjlRR.jpg",
+    "releaseDate": "1983-05-28",
+    "rating": 7.3,
+    "description": "1942年，第二次世界大战如火如荼，此时的日本在亚洲各战场所向披靡，无往不利。在南洋爪哇岛的热带丛林中，一所日军战俘看守所伫立于此，陆军大尉世野井和大原上士共同管理看守所。大原作风粗鲁，冷酷无情，他对待欧美战俘从来不留情面，而对于那些有同性恋倾向的人更残酷至极。相比之下，相貌俊美的世野则显得绅士许多。英国陆军少佐杰克潇洒俊朗。他的第一次出现便让世野心有所动。同性之风盛行的战俘营中，几多情感不能自已。在接下来的日子里，两个人徘徊在家国恩怨和个人情感之间，彼此心中进行着辛苦而残酷的角力……"
+  },
+  "v7:movie:lostparadise:1997": {
+    "tmdbId": 68606,
+    "tmdbTitle": "失乐园",
+    "mediaType": "movie",
+    "posterPath": "/9gKORGNk9bZvfOnDtKoTVEDaofc.jpg",
+    "backdropPath": "/2y8KrD46v9lI2zeqYYSFLD592fD.jpg",
+    "releaseDate": "1997-05-10",
+    "rating": 6.0,
+    "description": "久木祥一郎（役所广司饰）是一家出版社的高级编辑，妻子久木文枝（星野知子饰）做设计陶制品，已成年的女儿在医院工作，很少回家。祥一朗感到家庭生活乏味，夫妻间总是客客气气。 祥一郎有个情人，业余书法教师松原凛子（黑木瞳饰）。凛子气质高雅，是个聪慧女子。可惜嫁了个毫无情趣的医生丈夫松原晴彦。他冷冰冰的，导致二人婚姻空虚。一次他坚决地告诉凛子决不会和她离婚，他掌握有妻子偷情的证据，并揭发了事情。另一边文枝却默默承受，最终也只能离婚。冬季到来，祥一郎和凛子怎么才能永远的和对方长相厮守呢？"
+  },
+  "v7:tv:manvsbaby:": {
+    "tmdbId": 279601,
+    "tmdbTitle": "人来宝",
+    "mediaType": "tv",
+    "posterPath": "/yFp97D8VdLZdqup1aAnoNHDIFDQ.jpg",
+    "backdropPath": "/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+    "releaseDate": "2025-12-11",
+    "rating": 6.765,
+    "description": "圣诞节临近，这位笨手笨脚的爸爸不仅要照看伦敦的一间豪华顶层公寓，还要应对一个始料未及的麻烦：照顾一个被丢弃的婴儿。"
+  },
+  "v7:tv:pursuitofjade:": {
+    "tmdbId": 279388,
+    "tmdbTitle": "逐玉",
+    "mediaType": "tv",
+    "posterPath": "/cIbGKxrY5W18BX0Kyd9mbmoJW74.jpg",
+    "backdropPath": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
+    "releaseDate": "2026-03-06",
+    "rating": 8.132,
+    "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！"
+  },
+  "v7:movie:duneparttwo:": {
+    "tmdbId": 693134,
+    "tmdbTitle": "沙丘2",
+    "mediaType": "movie",
+    "posterPath": "/76upJ0fnQ3osESX8mkTyfuXK5Ju.jpg",
+    "backdropPath": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+    "releaseDate": "2024-02-27",
+    "rating": 8.1,
+    "description": "改编自弗兰克·赫伯特的科幻小说《沙丘》。保罗·厄崔迪与契妮及弗雷曼人结盟，踏上向摧毁其家族的阴谋者复仇之路。面对挚爱与已知宇宙命运之间的抉择，他必须努力阻止自己预见的可怕未来。"
+  },
+  "v7:movie:mercy:2026": {
+    "tmdbId": 1236153,
+    "tmdbTitle": "极限审判",
+    "mediaType": "movie",
+    "posterPath": "/2M7oQor0TM5OsYUECUG9cdDgPQK.jpg",
+    "backdropPath": "/gIClklFGYBe0uiOoiP2vtocJbss.jpg",
+    "releaseDate": "2026-01-19",
+    "rating": 7.053,
+    "description": "2029年的洛杉矶，暴力犯罪不断攀升，一套由人工智能主导的司法系统应运而生：被告只有90分钟时间利用系统提供的数据证明自己无罪，否则便可能被当庭处决。曾大力支持并参与推动这套AI法庭的警探雷文，某天醒来却发现自己坐上了审判席，被指控谋杀妻子妮可，而现有证据几乎全部指向他。面对AI法官马多克斯给出的高额有罪概率，雷文只能反过来借助能够调取监控、通讯和私人数据的“天眼”系统，在倒计时结束前重新调查妻子的死亡。随着一条条线索被重新审视，他也逐渐发现，自己熟悉的人和过去隐藏着远比想象中复杂的秘密……"
+  },
+  "v7:movie:epicelvispresleyinconcert:": {
+    "tmdbId": 1445363,
+    "tmdbTitle": "传奇：演唱的猫王",
+    "mediaType": "movie",
+    "posterPath": "/233jLORQFTkvnrxkFyAYEXsQAWr.jpg",
+    "backdropPath": "/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
+    "releaseDate": "2026-02-18",
+    "rating": 8.2,
+    "description": "一部关于埃尔维斯·普雷斯利（猫王）的纪录片，特别收录了首度公开的影像与录音资料。"
+  },
+  "v7:movie:28yearslaterthebonetemple:": {
+    "tmdbId": 1272837,
+    "tmdbTitle": "惊变28年2：白骨圣殿",
+    "mediaType": "movie",
+    "posterPath": "/tEqbXPFNPeOOrwXuoNK9HzBDmH2.jpg",
+    "backdropPath": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+    "releaseDate": "2026-01-14",
+    "rating": 7.098,
+    "description": "凯尔森博士有了一项可能改变他们已知世界的发现，而斯派克与吉米·克里斯特的遭遇，则成为一场无法逃脱的噩梦。感染者不再是生存的唯一威胁——幸存者之间泯灭人性的行径，可能更加怪异，也更加恐怖。"
+  },
+  "v7:multi:huntingmatthewnichols:": {
+    "tmdbId": 1308388,
+    "tmdbTitle": "消失的马修",
+    "mediaType": "movie",
+    "posterPath": "/9xIkurPlys7VZqrw8HfKgWuESbp.jpg",
+    "backdropPath": "/kOttC22G94ZxDdEcudcB3Lie94t.jpg",
+    "releaseDate": "2026-03-30",
+    "rating": 5.7,
+    "description": "Twenty-three years after her brother mysteriously disappeared on Vancouver Island, a documentary filmmaker sets out to solve his missing person's case. When a disturbing piece of evidence is revealed, she comes to believe he might still be alive."
+  },
+  "v7:movie:rushhour3:": {
+    "tmdbId": 5174,
+    "tmdbTitle": "尖峰时刻3",
+    "mediaType": "movie",
+    "posterPath": "/5jsUT6FNzd8yx5zmkyJ1DaZmXM3.jpg",
+    "backdropPath": "/ozsLB1HRCN6ZAmJN89pWtoiAwnb.jpg",
+    "releaseDate": "2007-08-08",
+    "rating": 6.502,
+    "description": "严肃机警的李探长（成龙 饰）和贫嘴的警探James Carter (Chris Tucker饰)，在成功完成两次的跨国任务之后，这次又迎来了更加艰巨的任务。调查“三和会”犯罪证据的韩领事被人暗杀，深感自责的李警官疯狂追击杀手，却被贬职当交警的James Carter帮了一个倒忙，理所当然，他们二日的奇特组合又开始。一方面，按照韩领事的线索，他们到了巴黎——这个“三和会”千方百计隐藏的心脏地带，克服重重困难，探索真相；另一方面，他们还要保护韩领事长大成人的女儿苏阳（张静初），而杀手，却是李探长小时候在孤儿院的好兄弟Kenji（Hiroyuki Sanada 饰）。重重危机之下，二人如何应对？尖峰时刻，李探长的中国功夫将扭转乾坤。"
+  },
+  "v7:movie:hauntingofmountwelirang:": {
+    "tmdbId": 1630865,
+    "tmdbTitle": "灵山恶灾",
+    "mediaType": "movie",
+    "posterPath": "/5xGB0dyoA0hpa0WtrKnqmMXvU5c.jpg",
+    "backdropPath": "/mxWlC6FhyMh3VkFHtsGM1c8YND3.jpg",
+    "releaseDate": "2026-07-02",
+    "rating": 4.0,
+    "description": "Five friends camp on Mount Welirang. On their way to the summit, they encounter a Queen and her royal troops. What mysteries lie hidden within Mount Welirang?"
+  },
+  "v7:multi:thekardashians:": {
+    "tmdbId": 154521,
+    "tmdbTitle": "卡戴珊家族",
+    "mediaType": "tv",
+    "posterPath": "/v8D56NOVuoYoGLurqgpnXD9Og3r.jpg",
+    "backdropPath": "/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
+    "releaseDate": "2022-04-14",
+    "rating": 8.472,
+    "description": "你所认识和爱的家庭在这里推出了一个全新的系列，为他们的生活提供了一个全方位的通道。克里斯、考特尼、金、科洛埃、肯德尔和凯莉把摄像机带回来，揭露头条新闻背后的真相。从经营数十亿美元企业的巨大压力，到季后赛和辍学带来的欢闹乐趣，这部电视剧以一个引人入胜的诚实爱情和生活故事吸引观众。"
+  },
+  "v7:tv:myimperfectfamily:": {
+    "tmdbId": 296899,
+    "tmdbTitle": "至爱",
+    "mediaType": "tv",
+    "posterPath": "/mS02CPnyq9YCibbR5YAflknWtgO.jpg",
+    "backdropPath": "/22jWkRTbL7FxWrrwsKRbyByX1Pv.jpg",
+    "releaseDate": "2025-07-29",
+    "rating": 0.0,
+    "description": "母爱本意是保护，但当它变成控制时，却会撕裂她的儿子们。在嫉妒和怨恨的废墟中，爱最终能否拯救他们？"
+  },
+  "v7:tv:연애기숙학교돌싱n모솔:": {
+    "tmdbId": 319744,
+    "tmdbTitle": "离异N母单",
+    "mediaType": "tv",
+    "posterPath": "/7rIefMAZADc39liLbom5nO5ZkBm.jpg",
+    "backdropPath": "/lHnRnanfc2SqfmAjb1AoznvGifb.jpg",
+    "releaseDate": "2026-04-14",
+    "rating": 0.0,
+    "description": "　2026年4月14日首播的MBC Every1·E频道新综艺节目《离异N母单》是了解爱情苦涩的离婚女们和完全没有恋爱经验的母索男们进入\"恋爱寄宿学校\",寻找真正爱情的史无前例的恋爱综艺节目。 平时以酷爽洒脱的魅力受到大众喜爱的蔡贞安将与金风、李俊英一起出演3MC。"
+  },
+  "v7:movie:ponyo:": {
+    "tmdbId": 12429,
+    "tmdbTitle": "崖上的波妞",
+    "mediaType": "movie",
+    "posterPath": "/n2evWdfs0xzxlIDrohjdmX4ljOH.jpg",
+    "backdropPath": "/efZ10EscERir1yU60KsSjLNa6ZJ.jpg",
+    "releaseDate": "2008-07-19",
+    "rating": 7.759,
+    "description": "5岁的宗介和妈妈理莎住在海边小城的悬崖上。一天，他在岸边发现了一条被困在玻璃瓶里的小金鱼，并将她救了出来，给她取名“波妞”。来自海底世界的波妞很快喜欢上了宗介，宗介也答应会一直保护她。然而波妞的父亲藤本并不愿女儿留在人类世界，强行将她带回海底。无法忘记宗介的波妞却下定决心，要再次回到他的身边，甚至希望真正变成人类。为了兑现这份小小却坚定的心愿，波妞再次奔向陆地，也让原本平静的海边小城迎来一场意想不到的奇幻冒险……"
+  },
+  "v7:movie:residentevilthefinalchapter:": {
+    "tmdbId": 173897,
+    "tmdbTitle": "生化危机6：终章",
+    "mediaType": "movie",
+    "posterPath": "/o0Z1ZF89SCKje2S8HSX0YUrTlkn.jpg",
+    "backdropPath": "/sQRfWdDxH53Vk7ZJ1UqzcaBHocO.jpg",
+    "releaseDate": "2016-12-23",
+    "rating": 6.102,
+    "description": "爱丽丝在华盛顿特区被威斯克背叛后身陷险境，人类几乎要失去最后的希望。作为唯一的幸存者，也是人类对抗僵尸大军的最后防线，爱丽丝必须回到噩梦开始的地方——浣熊市，才能完成拯救世界救赎人类的正义使命。回归故事发生的起点浣熊市，爱丽丝将和昔日的朋友一起对抗僵尸和最新变种怪物，与保护伞公司展开一场惊心动魄的终极决战。"
+  },
+  "v7:movie:kokuho:": {
+    "tmdbId": 1379266,
+    "tmdbTitle": "国宝",
+    "mediaType": "movie",
+    "posterPath": "/mHzok6x9rd8dGdUxuhRXX9R7Qqy.jpg",
+    "backdropPath": "/vzWs49sOCjDVrJb41M78QGix6Mz.jpg",
+    "releaseDate": "2025-06-06",
+    "rating": 7.9,
+    "description": "　本片改编自吉田为了采访3年，穿着歌舞伎的黑衣进入后台的经验而写出的长篇小说，出生于任侠一门、投身于歌舞伎世界、将青春献给演艺之路的喜久雄，赌上自己的生命去追求无尽的梦想的宏伟故事：舞台是从战后到高度经济成长期的日本。出生于任侠家族的喜久雄，遭遇了数奇的命运，被拽到歌舞伎演员的家中。不久后，在动荡的人生中，他作为歌舞伎演员的才能开花结果。"
+  },
+  "v7:multi:실화탐사대:": {
+    "tmdbId": 134778,
+    "tmdbTitle": "实话探查队",
+    "mediaType": "tv",
+    "posterPath": "/2VLdVvsZdCfPEtDv5tYsRrokHGV.jpg",
+    "backdropPath": "/16tBUQDRtqJwH6tlzoS3CafNFRF.jpg",
+    "releaseDate": "2018-09-12",
+    "rating": 0.0,
+    "description": "　　在千变万化的世界里，以光速倾泻而出的无数故事中，因为是真实的，所以寻找更加惊人的“真实故事”的正式真实故事探索节目。"
+  },
+  "v7:movie:theantbully:": {
+    "tmdbId": 9906,
+    "tmdbTitle": "别惹蚂蚁",
+    "mediaType": "movie",
+    "posterPath": "/pH71wyCRIp75HiRC3OHCbL8Bz9T.jpg",
+    "backdropPath": "/jUP6mIaRdvGJBdTOj1D5H2ifdGQ.jpg",
+    "releaseDate": "2006-07-28",
+    "rating": 5.807,
+    "description": "想象下你是个在校没朋友，没人陪你玩，又被恶霸欺负的小孩？这是件多么可怕的事。在华纳兄弟出品的动画片《别惹蚂蚁》里的主人公就遇到这种状况。故事根据童话作家约翰·尼科尔(John Nickle)创作的同名儿童小说改编,讲述刚搬家的卢卡斯,在学校没朋友，又被邻居恶霸欺负，只好把怒气出在蚂蚁上,破坏他们的巢穴，不料蚂蚁起来报复，用一把神奇缩小枪，将卢卡斯变成蚂蚁般大小，并把他带回巢穴一同生活，经过这次，卢卡斯学会了宽容与同情，友情的真谛和欣赏和敬畏自然本身。"
+  },
+  "v7:multi:divorcerebootcamp:2024": {
+    "tmdbId": 262400,
+    "tmdbTitle": "이혼숙려캠프",
+    "mediaType": "tv",
+    "posterPath": "/rf27SgwSKwJ7y9i1Mv9Bjr5k3Iv.jpg",
+    "backdropPath": "/jLWUGsA5rlVH6QfxeAXofm7Qirm.jpg",
+    "releaseDate": "2024-08-15",
+    "rating": 10.0,
+    "description": "인생을 새로고침하기 위한 부부들의 이야기 <이혼숙려캠프> - 정규편성"
+  },
+  "v7:multi:radiostar:2007": {
+    "tmdbId": 65270,
+    "tmdbTitle": "黄金渔场之明星电台",
+    "mediaType": "tv",
+    "posterPath": "/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
+    "backdropPath": "/wRc3hkk1IK1W0wYN9FgOBNEcZ5X.jpg",
+    "releaseDate": "2007-05-30",
+    "rating": 5.5,
+    "description": "2007년 5월 30일부터 MBC TV에서 방송되고 있는 예능 프로그램으로, 라디오 프로그램들의 '보이는 라디오'를 이용하여 들리는 TV로 콘셉트를 잡아 현재까지 방송되고 있는 코너이다. 진행자들은 각각 DJ로 불리며, 매주 다양한 게스트들을 초대해서 근황에 대해 여러가지 질문을 하고 답하는 리얼 토크쇼 프로그램이다. 개인별 초대손님의 경우 한 번에 최대 4명을, 그룹의 경우 최대 5명의 초대손님으로 최대 3회까지 녹화한다."
+  },
+  "v7:multi:reincarnatedasasword:": {
+    "tmdbId": 134667,
+    "tmdbTitle": "转生成为魔剑了",
+    "mediaType": "tv",
+    "posterPath": "/rUxRgqGZUXbvpRFvsm1hSt240H6.jpg",
+    "backdropPath": "/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+    "releaseDate": "2022-10-05",
+    "rating": 7.3,
+    "description": "转生后，我竟然成为了一把剑！？这个故事的主角，一回神发现自己已经转生至异世界了。但不是作为普通人类，而是一把被称作“智能武器”的剑。当他环顾周围，发现这里是个魔物猖獗，险象环生的草原地带。觉得性命受到威胁的他，怀抱着与装备者相遇的梦想，运用让自己身体飘浮的能力，逐步猎杀魔物。某天，他为了休息一时不慎踏入会吸收魔力的“干涸之森”，结果完全动弹不得。就在束手无策之际，他遇见了长期遭受奴役与虐待的黑猫族少女·芙兰。芙兰遭到巨大魔兽袭击，陷入生死关头之际，拔出了插在眼前的他，并利用他的力量成功脱离危机。之后，她将他命名为“师父”，并正式成为他的装备者。成为冒险者的芙兰与师父，一边彼此磨练技能，一边完成各种委托。芙兰为了追求位于强大尽头的“进化”，而师父则为了实现少女的“愿望”。猫耳少女和爱女心切的魔剑的最初冒险，即将开始！"
+  },
+  "v7:multi:howdoyouplay:": {
+    "tmdbId": 91121,
+    "tmdbTitle": "闲着干嘛呢？",
+    "mediaType": "tv",
+    "posterPath": "/eSnE0QTQhEssSLjhMyUhUPu4bCq.jpg",
+    "backdropPath": "/8GFGa8SUZ5EwJaCBBzvxrXDJldb.jpg",
+    "releaseDate": "2019-07-27",
+    "rating": 7.2,
+    "description": "为韩国MBC电视台于2019年推出的综艺节目，由前《无限挑战》PD金泰浩策划，刘在锡则为主持及唯一固定成员，此节目也被其朋友戏称为“刘在锡一个人的《无限挑战》”。\n\n节目名称为刘在锡每次在休息日时会问朋友的话：“今天闲着，要做什么呢？”而衍生。刘在锡凭借此节目，以溜三丝的身份，获得2019年的MBC演艺大赏的新人奖，该奖项也为刘在锡出道以来的第一个新人奖。"
+  },
+  "v7:tv:blacktorch:": {
+    "tmdbId": 285993,
+    "tmdbTitle": "暗黑灯火",
+    "mediaType": "tv",
+    "posterPath": "/p9rZGowYou2cLE1cNQSiofPaDm9.jpg",
+    "backdropPath": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
+    "releaseDate": "2026-07-04",
+    "rating": 8.1,
+    "description": "次郎是一个拥有与动物交谈能力的少年。从小由祖父抚养并接受忍者训练，他因与众不同而被他人疏远，却在动物中找到了慰藉，并致力于保护它们。一天，他救了一只受伤的黑猫——拉格，但很快发现它并非普通的猫，而是一只“物怪”，正被一个神秘组织追捕。面对这一情况，次郎毫不犹豫地决定帮助他的新朋友。"
+  },
+  "v7:tv:blackclover:": {
+    "tmdbId": 73223,
+    "tmdbTitle": "黑色五叶草",
+    "mediaType": "tv",
+    "posterPath": "/qqFxflPjvS2S8VZONeDffkbs6lr.jpg",
+    "backdropPath": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+    "releaseDate": "2017-10-03",
+    "rating": 8.5,
+    "description": "两个孤儿一起长大，情同手足，却为争夺这个世界最高的魔法等级“魔法帝”的称号成为了对手。"
+  },
+  "v7:movie:anpanmannandaandrundafromstaroftoys:": {
+    "tmdbId": 717022,
+    "tmdbTitle": "麵包超人電影版：玩具之星的南達與倫妲",
+    "mediaType": "movie",
+    "posterPath": "/ypeGgEfWU2WbLsnMcgx6VVgFSPG.jpg",
+    "backdropPath": null,
+    "releaseDate": "2016-07-02",
+    "rating": 7.0,
+    "description": "ルンダはおもちゃの星からやって来たゼンマイ仕掛けのお姫様。彼女は「皆が自分のために何かをしてくれる事が当たり前」と考えているわがままなお姫様だった。そんなルンダは、体は大きいが不器用なおもちゃのロボット・ナンダといつも一緒にいた。  ある日、ルンダとナンダは様々な物をおもちゃに変えることが出来る大切な「おもちゃスティック」をアンパンマンワールドに落としてしまった。2人は慌ててスティックを探しに向かうが雷に打たれてしまい、ナンダはクリームパンダ達の所、ルンダはばいきんまん達の所へそれぞれ飛ばされ、離ればなれになってしまう。  果たして2人はアンパンマン達と力を合わせ、スティックを取り戻す事ができるのか。"
+  },
+  "v7:multi:ncis:": {
+    "tmdbId": 4614,
+    "tmdbTitle": "海军罪案调查处",
+    "mediaType": "tv",
+    "posterPath": "/4YQyYx45DZNwYVgVE3fafpymB6d.jpg",
+    "backdropPath": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "releaseDate": "2003-09-23",
+    "rating": 7.61,
+    "description": "NCIS（海军犯罪调查机构）是一部关于一支特工小组的动作剧集，这支小组隶属五角大楼的特别部门，肩负着调查任何有一丝证据证明与海军及海军陆战队人员有关的犯罪，且不论其级别或职位的高低。领导这支小组并独立于海军指挥系统的是NCIS特工Leroy Jethro Gibbs，这名经验丰富的调查员与审问员是个机智、强硬并且为了完成任务愿意打破常规的人。直接受Gibbs领导的是Anthony DiNozzo特工，作为一名前重案组探员，其出色的本能来自于大量的调查经验。之后加入他们俩的是Kate Todd，一个美丽而又坚强的前特勤处特工，曾与Gibbs短兵相接。还有从事技术分析工作的Abby Sciuto，是一名天才科学家，她那黑色幽默与哥特风格的装扮相得益彰。新加入小队的是Timothy McGee，麻省理工学院（MIT，剧中经常会提到）的毕业生，他对电脑的精通使他在Gibbs率领的小组中成为一名见习特工。在小组背后默默支持的是法医Donald \\\"Ducky\\\" Mallard，他见多识广。从谋杀、间谍活动到恐怖活动、盗窃潜艇，这些特工们为了调查所有与海军及海军陆战队相关的犯罪活动，足迹遍布全世界。"
+  },
+  "v7:movie:ironman2:": {
+    "tmdbId": 10138,
+    "tmdbTitle": "钢铁侠2",
+    "mediaType": "movie",
+    "posterPath": "/ioME0JgsvWQN75UAAS7CyvjAnB6.jpg",
+    "backdropPath": "/lsJ7Pg49OqX5mGtyIR4OezLYuAr.jpg",
+    "releaseDate": "2010-04-28",
+    "rating": 6.855,
+    "description": "公开钢铁侠身份后，托尼·斯塔克成为全球瞩目的焦点，却也面临来自政府和军方要求交出钢铁战甲技术的巨大压力。与此同时，胸口微型电弧反应炉所使用的钯元素正不断毒害他的身体，令他的生命陷入危机。为了处理公司事务，托尼将斯塔克工业交给佩珀·波茨管理，而自己则继续寻找解决身体问题的方法。此时，与斯塔克家族有着旧怨的伊凡·万科利用相似的技术制造武器，向托尼展开报复，军火商贾斯汀·汉默也试图借机挑战斯塔克工业。内外交困之下，托尼与好友詹姆斯·罗德斯之间的关系也开始出现裂痕……"
+  },
+  "v7:tv:thesoundofsugarcubes:": {
+    "tmdbId": 322051,
+    "tmdbTitle": "方糖之声",
+    "mediaType": "tv",
+    "posterPath": "/hzUlNrpapxmh1OkAaDtct7rsjrG.jpg",
+    "backdropPath": "/bGveCIHFN2FZrn4OcXsHZiQrrgr.jpg",
+    "releaseDate": "2026-10-23",
+    "rating": 8.0,
+    "description": "在经历恐怖事件之后，韩律抛弃了歌唱，甚至隐姓埋名地生活。就在这时，天才作曲家李元出现在他的面前，提议帮他夺回被抢走的已故好友的歌曲，并劝他重新站上舞台。尽管韩律对觊觎自己声音的李元充满戒备，但面对这个让自己重新开口唱歌的男人，他的心门还是开始渐渐打开。然而，曾想独占韩律声音的昔日好友兼明星歌手希律再次出现，让韩律拼命想要逃避的过去重新接踵而至。在两个以不同方式渴望得到自己声音的男人之间，韩律开始重新面对自己失去的声音与爱情。"
+  },
+  "v7:movie:aibouthemovieii:": {
+    "tmdbId": 439056,
+    "tmdbTitle": "相棒剧场版2",
+    "mediaType": "movie",
+    "posterPath": "/zQzkv6FgWithFjcSraMjRodcNbq.jpg",
+    "backdropPath": "/22Vki3w3FDwCbkc4gVUyjlIrpyW.jpg",
+    "releaseDate": "2010-12-23",
+    "rating": 7.3,
+    "description": "某个夜晚，首都圈警视厅高层举行例会。突然一名持枪男子闯入会场，将所有长官劫为人质。警方迅速调查劫匪身份，发现其竟是早已离职的前巡查部长八重坚哲也（小泽征悦 饰）。此后不久，特种部队强突会场，营救行动圆满完成，混乱中八重坚饮弹身亡。由于不清楚八重坚的真实目的，而他被杀的过程中也存在蹊跷，杉下右京（水谷丰 饰）和神户（及川光博 饰）旋即展开调查，发现这一切似乎与七年前某起足以引起国际纷争的恐怖袭击案件有关。而另一方面，警方高层出于某种原因也不断施压，试图阻止特名组的调查。层层迷雾后面，究竟隐藏着怎样惊人的真相？本片为同名电视连续剧第二部剧场版。"
+  },
+  "v7:movie:thematrix:": {
+    "tmdbId": 603,
+    "tmdbTitle": "黑客帝国",
+    "mediaType": "movie",
+    "posterPath": "/cz2tKU9d9thHwgu2NvT4eDrf0vD.jpg",
+    "backdropPath": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+    "releaseDate": "1999-03-31",
+    "rating": 8.263,
+    "description": "不久的将来，网络黑客尼奥对这个看似正常的现实世界产生了怀疑。他结识了黑客崔妮蒂，并见到了黑客组织的首领墨菲斯。墨菲斯告诉他，现实世界其实是由一个名叫“母体”的计算机人工智能系统控制，人们就像他们饲养的动物，没有自由和思想，而尼奥就是能够拯救人类的救世主。可是，救赎之路从来都不会一帆风顺，到底哪里才是真实的世界？如何才能打败那些超人一样的特勤？尼奥是不是人类的希望？这是黑客的帝国，程序和代码欢迎大家的到来。"
+  },
+  "v7:movie:theproposal:": {
+    "tmdbId": 18240,
+    "tmdbTitle": "假结婚",
+    "mediaType": "movie",
+    "posterPath": "/oqvu9yqwiu2kHUozuYC7nAC4itc.jpg",
+    "backdropPath": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+    "releaseDate": "2009-06-02",
+    "rating": 7.182,
+    "description": "玛格丽特是美国一家知名出版公司的高管，办事出色，为人却极为强势，一旦她的身影出现在办公室，气氛立即会降至冰点，员工们在表面上无不对她噤若寒蝉，在心底则暗呼她为“女魔头”。玛格丽特对这一切置若罔闻，照旧施行铁腕政策，可就在她事业如日中天之际，一个噩耗却几乎把她砸晕——因为某些技术性原因，她的签证无法续签，而她本人不得不被遣送回原籍加拿大。为了保住她苦心经营的一切，玛格丽特决定和助手安德鲁伪装结婚，以取得在美居住权。在半利诱半胁迫之下，安德鲁答应了这个荒唐的要求。移民局将在一周后对两人进行测试，而玛格丽特对安德鲁还是一无所知，这个周末，她和安德鲁一同回到他的家乡……"
+  },
+  "v7:movie:lastholiday:": {
+    "tmdbId": 17379,
+    "tmdbTitle": "最后的假期",
+    "mediaType": "movie",
+    "posterPath": "/qZW9zbpx4aVWG9gmKQyxWFDbbfn.jpg",
+    "backdropPath": "/7D1v3y0RPoyJBZAx4eGdjcqJUuD.jpg",
+    "releaseDate": "2006-01-13",
+    "rating": 7.3,
+    "description": "　　体态丰腴的黑人女子乔姬娅（奎恩•拉提法 Queen Latifah 饰）是新奥尔良一家餐饮厨具连锁店的普通店员，生活在社会底层的她生性乐观，总是幻想无数的可能。她喜爱美食，暗暗喜欢着一位男同事，然而因种种原因这些都无一达成。某天，一个意外改变了乔姬娅的人生，在医院的例行检查中，她被诊断患有名为“蓝氏综合症”的绝症，只剩下三周左右的生命。倍感绝望的乔姬娅决定尽情享受最后的时光，她辞去工作，取出所有积蓄，乘飞机前往欧洲，只为品尝仰慕已久的名厨戴笛尔（杰拉尔•德帕迪约 Gérard Depardieu 饰）的手艺。在此期间，她入住昂贵的总统套房，滑雪、做SPA、游走上流社交圈。她的个性言语与生活作风引起了名流们的注意……"
+  },
+  "v7:movie:pikeriver:": {
+    "tmdbId": 1287063,
+    "tmdbTitle": "派克河之殇",
+    "mediaType": "movie",
+    "posterPath": "/1crqteI52UCeS90b2vUn8kTVdMy.jpg",
+    "backdropPath": "/bF9TE1PsxtupqJqdECTWBOBU1nN.jpg",
+    "releaseDate": "2025-10-30",
+    "rating": 5.833,
+    "description": "讲述了安娜·奥斯本和索尼亚·罗克豪斯的真实故事，这两位女性在2010年派克河煤矿悲剧后为正义而战，该悲剧夺去了29名男子的生命。"
+  },
+  "v7:movie:tombstone:": {
+    "tmdbId": 11969,
+    "tmdbTitle": "墓碑镇",
+    "mediaType": "movie",
+    "posterPath": "/wbWBDZiCSiLmUjGFobftE892h5b.jpg",
+    "backdropPath": "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
+    "releaseDate": "1993-12-25",
+    "rating": 7.582,
+    "description": "厄普警长向来执法强悍，令匪徒闻风丧胆而威震四方，在19世纪无法无天的西部，自成一股安定人心的力量。然而，他曾有过厌倦之感，希望能在别的地方度日，从此不问世事，可是人在江湖身不由己，他无故被卷入一场纷争，为了维护自己所追求的和平，再次披甲上阵..."
+  },
+  "v7:tv:thetraitors:": {
+    "tmdbId": 215307,
+    "tmdbTitle": "叛徒：英版",
+    "mediaType": "tv",
+    "posterPath": "/xkguAyt51GbtpUxw2f5CrhNaMvD.jpg",
+    "backdropPath": "/bbpVUkpOZZteOdB6WtMtQNRI6dg.jpg",
+    "releaseDate": "2022-11-29",
+    "rating": 7.2,
+    "description": "改编自荷兰原创电视真人秀节目《叛徒》。一群英国选手齐聚一处与世隔绝的庄园，参与一场充满欺骗与猜疑的心理博弈。他们通过团队挑战累积奖金，而隐藏其中的叛徒则暗中淘汰忠诚者，试图瞒过所有人并赢得奖金。忠诚者必须识破叛徒的身份，并在被逐一淘汰前将其驱逐出局。"
+  },
+  "v7:multi:thecraft:": {
+    "tmdbId": 9100,
+    "tmdbTitle": "魔女游戏",
+    "mediaType": "movie",
+    "posterPath": "/kVUtVZqMW80IzEHfps8QTTL8YnW.jpg",
+    "backdropPath": "/yAaAsbossCADVFdiqm8qAhd2gL0.jpg",
+    "releaseDate": "1996-05-03",
+    "rating": 6.775,
+    "description": "16岁的少女萨拉·贝利（Robin Tunney 饰）外表阳光美丽，却拥有不为人知的痛苦过去。为了寻找生活的希望，她随父亲（Cliff De Young 饰）和继母从旧金山搬到了位于洛杉矶的一座城市，并在当地一所教会学校继续学业。在这里她遇见三个打扮和举止都很怪异的女孩——（费尔鲁扎·鲍克 Fairuza Balk 饰）、邦妮（Neve Campbell 饰）和罗谢丽（Rachel True 饰）。周围的学生没有一个愿意与她们交往，甚至盛传他们就是恐怖的女巫。萨拉无意间展现出的超能力引起南希等人的注意，这四个本质上有着相同气质的女孩很快便走到一起。  　　他们希望召唤万物之灵马农（Manon），让其进入自己的身体，由此可以使糟糕的生活变得好转起来。只是，世界上绝对没有免费的午餐……"
+  },
+  "v7:multi:unhinged:": {
+    "tmdbId": 625568,
+    "tmdbTitle": "精神错乱",
+    "mediaType": "movie",
+    "posterPath": "/vqBHPagMRrwWhW8lZjJC6t9ijEx.jpg",
+    "backdropPath": "/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg",
+    "releaseDate": "2020-07-16",
+    "rating": 6.424,
+    "description": "　　讲述两辆车路上发生摩擦，“公路泄愤”升级：克劳饰演的男子抑制不住愤怒发飙了，拿着锤子和刀追到了对方母子家里，破坏、跟踪、撞车、纠缠身边人……"
+  },
+  "v7:multi:girlinthebasement:": {
+    "tmdbId": 801335,
+    "tmdbTitle": "地牢女孩",
+    "mediaType": "movie",
+    "posterPath": "/oy4PsM3MLntsfyTUqqjfWWuvcVK.jpg",
+    "backdropPath": "/cfGmZ0VWxniubteLM2qo9wXwSYG.jpg",
+    "releaseDate": "2021-02-27",
+    "rating": 7.58,
+    "description": "根据真实事件改编，一个充满活力的十几岁的女孩莎拉，她期待着她的18岁生日，这样她就可以离开她控制她的父亲唐（贾德·尼尔森）。但在她吹灭蜡烛 之前，唐把她关在他们家的地下室里，她的世界变得非常黑暗。当唐试图说服妻子艾琳（乔莉·费希尔饰）莎拉离家出走时，他会偷偷到地下室探望 她，折磨并强奸她，而艾琳和她的妹妹艾米（艾米丽·托普饰）继续住在楼上。随着时间的流逝，莎拉生下了几个孩子，独自在地下室里 。唐最终抚养了他们最小的儿子，把他留在了门阶上，艾琳发现了他和一张便条，便条上是莎拉写的，说那是她的儿子，她不能照顾他，艾 琳最终接受了唐关于莎拉的说法。在被囚禁禁了几十年之后，莎拉终于逃脱了，她的家人知道了20年来发生在他们脚下的毁灭性真相。"
+  },
+  "v7:multi:liveforever:": {
+    "tmdbId": 318884,
+    "tmdbTitle": "長生契",
+    "mediaType": "tv",
+    "posterPath": "/raLPK35tyTZITBwpRCLvbQ36ofX.jpg",
+    "backdropPath": "/4ipPELpw6fwBclwFjWYdNXN6kJw.jpg",
+    "releaseDate": "2026-09-24",
+    "rating": 0.0,
+    "description": "讲述了宁长樾与宋亦秋跨越三千年的深沉羁绊。他们在无尽时光中相守，遍历人间烟火，成为彼此唯一的坐标。步入现代，他们开始重新审视永恒的意义，在追寻内心归宿时，一段被漫长岁月尘封的过往与复杂的未解之缘逐渐浮现。面对历史的涟漪与当下的波澜，他们必须做出关于爱与归宿的最终抉择，完成一场与时间和自我的对话。"
+  },
+  "v7:movie:enough:": {
+    "tmdbId": 1957,
+    "tmdbTitle": "忍无可忍",
+    "mediaType": "movie",
+    "posterPath": "/fo85jZIkVukA3jdWcfIv7Zq449h.jpg",
+    "backdropPath": "/no8xs5qEB7yG5vYXVASe1STfa4h.jpg",
+    "releaseDate": "2002-05-21",
+    "rating": 6.634,
+    "description": "　　《忍无可忍》以女性应勇敢抗争为主题，片中有不少暴力镜头。\r 　　六年前，在餐馆打工的Slim（詹妮弗·洛佩兹 Jennifer Lopez 饰）被客人纠缠，幸得Mitch（比利·坎尔贝 Bill Campbell 饰）挺身而出，很快两人坠入爱河并结了婚。6年过去了，他们有了女儿Gracie，一家人过着平静富足的生活。但偶然，Slim发现Mitch和其他女人有染而发生了争吵被Mitch打伤，从此恶梦般的生活开始了。Mitch有严重暴力倾向，他的变本加厉彻底毁灭了Slim原本打算忍辱偷生的念头，不堪忍受痛苦的她带着女儿逃离了这个家。她们辗转于西亚图、旧金山等多个城市，却仍无法摆脱Slim幽灵一般的纠缠。Slim终于被逼到崩溃的边缘，她决定用最极端的方法来结束自己和女儿的恶梦——杀死Mitch......"
+  },
+  "v7:movie:joanofarc:": {
+    "tmdbId": 10047,
+    "tmdbTitle": "圣女贞德",
+    "mediaType": "movie",
+    "posterPath": "/x7fpR8NbKBbf7xlXEciEdfDakrs.jpg",
+    "backdropPath": "/iW2ZLRkKJvFuI6ZkSchk5f8kCPc.jpg",
+    "releaseDate": "1999-10-27",
+    "rating": 6.436,
+    "description": "14世纪爆发的英法持续超过百年，法国节节败退，大部分国土都被英国占领了。就在这个时候，珍妮（米拉•乔沃维奇 Milla Jovovich 饰）出生在法国的穷乡僻壤中。年少起，珍妮就经常看到各种幻想。一次，她看到幻想并根据指示找到了一把剑，当她带着剑回到家时发现家里已遭英军蹂躏。珍妮知道是上天安排她来捍卫法国。于是她向当时的皇太子查理（约翰•马尔科维奇 John Malkovich 饰）请求率领一支军队去抗击英军。走投无路的查理答应了珍妮的请求。随后珍妮率领法军节节胜利，查理亦顺利登基。登基后的查理不再需要珍妮帮助，珍妮在以后的一次战斗中陷入困境但无人来救，她被英军捉住并带到了英国审批……"
+  },
+  "v7:movie:unknown:": {
+    "tmdbId": 48138,
+    "tmdbTitle": "不明身份",
+    "mediaType": "movie",
+    "posterPath": "/k24XksWSmbQ0RD8K4o5rypB5UP6.jpg",
+    "backdropPath": "/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
+    "releaseDate": "2011-02-16",
+    "rating": 6.697,
+    "description": "马丁·哈里斯博士（Liam Neeson）在柏林遭遇一场车祸后从昏迷中苏醒，发现妻子（January Jones）突然不认识自己了，而另一个陌生人（Aidan Quinn）盗用了他的身份。柏林当地警署对他的申诉将信将疑，无意展开调查，同时又有杀手不断追杀。虽然希望渺茫，在异国他乡举目无亲的马丁，别无选择地试图从一个偶然结识的人（Diane Kruger）那里，获得援助。一场突如其来的意外让他身陷绝境，致命的谜团死死缠绕着他，逼着他开始质疑自己是否神经正常，他的身份怎么丢了，他还要冒多大的生命危险才能查出事情的真相，一场无助的亡命之旅就此展开。"
+  },
+  "v7:movie:backtothefuture:": {
+    "tmdbId": 105,
+    "tmdbTitle": "回到未来",
+    "mediaType": "movie",
+    "posterPath": "/2aFbFXuzqaBOwiG33S3bqZIn5mn.jpg",
+    "backdropPath": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+    "releaseDate": "1985-07-03",
+    "rating": 8.332,
+    "description": "马蒂·麦克弗莱，一位典型的八十年代美国青少年，意外被一台由钚动力驱动的德罗宁“时间机器”送回到1955年——这台机器由一位略带疯狂的科学家发明。在这段时常癫狂、总是惊人的穿越之旅中，马蒂必须确保他那正值青春期的未来父母相遇并坠入爱河，他才能顺利返回未来。[官方简介]"
+  },
+  "v7:movie:aviewtoakill:": {
+    "tmdbId": 707,
+    "tmdbTitle": "007：雷霆杀机",
+    "mediaType": "movie",
+    "posterPath": "/wMYnBbjebPpBoZnTp0Di2GZwslX.jpg",
+    "backdropPath": "/9OstcUXgbO5nd5yd35l9fKi8zAS.jpg",
+    "releaseDate": "1985-05-24",
+    "rating": 6.258,
+    "description": "这次，007（罗杰·摩尔 Roger Moore 饰）在西伯利亚死亡的英国特工身上找到了科技秘密“微晶硒”之后，发现这个样品与英国的样品一样，证明克格勃的间谍肯定混进了英国的高科技研究秘密领域。于是，007奉命去调查在进行高科技研究的富商佐林（克里斯托弗·沃肯 Christopher Walken 饰）。不料他的身份被人识破，007被锁入车中沉进湖底。幸亏命运之神帮了007一个大忙，他得以侥幸逃脱。随后，007跟踪佐林来到了美国。007从苏联女间谍口中套出佐林正计划炸毁位于旧金山的硒矿的计划。为了阻止佐林的阴谋得逞，007行动开始了！"
+  },
+  "v7:movie:bedevilled:": {
+    "tmdbId": 59421,
+    "tmdbTitle": "金福南杀人事件始末",
+    "mediaType": "movie",
+    "posterPath": "/m8nO2D0iM47FHSJYVsGMZCp9Sp1.jpg",
+    "backdropPath": "/jf6kM2xVDbR9MsqbYPATqpFuhkM.jpg",
+    "releaseDate": "2010-08-19",
+    "rating": 7.212,
+    "description": "在首尔金融业独自打拼的单身女子郑海媛（池成媛 饰）自然承受来自方方面面的巨大压力，她的情绪越来越紧张，最终不得不被迫休假。利用假期，海媛回到阔别已久的家乡无岛。这里风景秀美，民风粗犷甚至有些野蛮，男尊女卑的现象依然十分严重。海媛重逢了童年的玩伴金福南（徐英姬 饰），这是一个温和开朗、任劳任怨的女人，但是她的丈夫和家人都视其为猪狗，任意欺负和凌辱。福南希望女儿小燕拥有更好的人生，只是在这个蛮荒所在，人的尊严被肆意践踏。巨大的压力下，逆来顺受的福南化身为悲剧的复仇女王……"
+  },
+  "v7:tv:dearx:": {
+    "tmdbId": 256226,
+    "tmdbTitle": "亲爱的X",
+    "mediaType": "tv",
+    "posterPath": "/5lxgUYEH5qbwmzKwnLu2ZLUXXVg.jpg",
+    "backdropPath": "/iDnZoZvv220H6pigUWt3BlfPdxQ.jpg",
+    "releaseDate": "2025-11-06",
+    "rating": 8.658,
+    "description": "本剧讲述女演员白雅珍隐藏自己伤痕累累的过去，透过操纵人心和欺骗手段攀上顶峰的故事。"
+  },
+  "v7:movie:1917:": {
+    "tmdbId": 530915,
+    "tmdbTitle": "1917",
+    "mediaType": "movie",
+    "posterPath": "/oG1mL3IgPJQsEdqilmXOpw5uDV0.jpg",
+    "backdropPath": "/tJgmraUAmVlJPlq72yC76tKDyC4.jpg",
+    "releaseDate": "2019-12-25",
+    "rating": 8.0,
+    "description": "1917 年，第一次世界大战进入最激烈之际，两个年仅 16 岁的英国士兵接到的命令，需立即赶往死亡前线，向那里的将军传达一个“立刻停止进攻”讯息。 时间只有八小时，武器弹药有限，无人知晓前方敌况：死亡寂静之地、布满尸体的铁丝网、突入其来的敌军、随时毙命的危险境况……这一次两个少年为救 1600 个人的性命，不完成，毋宁死！"
+  },
+  "v7:multi:kamaigachi:": {
+    "tmdbId": 293640,
+    "tmdbTitle": "かまいガチ",
+    "mediaType": "tv",
+    "posterPath": "/9sQyQswMLPN0uK8qj2khGSIUt7G.jpg",
+    "backdropPath": "/NOIlZcMUoZT4uQdyfuCNHEoWs3.jpg",
+    "releaseDate": "2020-10-06",
+    "rating": 0.0,
+    "description": "\"Kamai Gachi\" is a variety show that has been broadcast on TV Asahi since October 6, 2020 (midnight on October 5). It is the crown program of Kamaitachi."
   }
 }
