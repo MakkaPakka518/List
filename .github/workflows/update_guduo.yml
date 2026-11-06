@@ -2,8 +2,8 @@ name: 📈 Update Guduo Hot List
 
 on:
   schedule:
-    # 每天北京时间中午 17:00 自动更新 (UTC时间 09:00)
-    - cron: '0 9 * * *'
+    # 每天北京时间中午 19:00 自动更新 (UTC时间 09:00)
+    - cron: '0 11 * * *'
   workflow_dispatch: # 允许在 Actions 页面手动点击运行
 
 jobs:
