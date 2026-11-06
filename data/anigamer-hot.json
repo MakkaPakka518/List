@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "AniGamer",
   "sourceUrl": "https://ani.gamer.com.tw/animeList.php",
-  "updatedAt": "2026-11-05T21:24:27+00:00",
+  "updatedAt": "2026-11-06T04:24:39+00:00",
   "lists": {
     "monthly": {
       "1": [
@@ -1091,19 +1091,19 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114200",
-          "sourceTitle": "螢火蟲的出嫁",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 320909,
-          "mediaType": "tv"
-        },
-        {
           "sn": "114203",
           "sourceTitle": "朱色假面",
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 295420,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114200",
+          "sourceTitle": "螢火蟲的出嫁",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 320909,
           "mediaType": "tv"
         },
         {
@@ -1287,35 +1287,19 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114214",
-          "sourceTitle": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 303060,
-          "mediaType": "tv"
-        }
-      ],
-      "2": [
-        {
           "sn": "114219",
           "sourceTitle": "小狸貓和小狐狸",
           "year": "2026",
           "mediaHint": ""
-        },
+        }
+      ],
+      "2": [
         {
           "sn": "114208",
           "sourceTitle": "魔法★探險家",
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 335194,
-          "mediaType": "tv"
-        },
-        {
-          "sn": "114211",
-          "sourceTitle": "大叔喜歡可愛小玩意",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 330505,
           "mediaType": "tv"
         },
         {
@@ -1327,19 +1311,27 @@
           "mediaType": "tv"
         },
         {
+          "sn": "114211",
+          "sourceTitle": "大叔喜歡可愛小玩意",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 330505,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114214",
+          "sourceTitle": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 303060,
+          "mediaType": "tv"
+        },
+        {
           "sn": "114201",
           "sourceTitle": "KERORO 軍曹☆",
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 308977,
-          "mediaType": "tv"
-        },
-        {
-          "sn": "114206",
-          "sourceTitle": "黑色五葉草 Season 2",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 73223,
           "mediaType": "tv"
         },
         {
@@ -1356,6 +1348,14 @@
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 285710,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114206",
+          "sourceTitle": "黑色五葉草 Season 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 73223,
           "mediaType": "tv"
         },
         {
@@ -2075,19 +2075,19 @@
           "mediaHint": ""
         },
         {
-          "sn": "114028",
-          "sourceTitle": "魔法姊妹露露特莉莉",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 286361,
-          "mediaType": "tv"
-        },
-        {
           "sn": "114047",
           "sourceTitle": "鑽石王牌 act2 第二季",
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 60761,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114028",
+          "sourceTitle": "魔法姊妹露露特莉莉",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 286361,
           "mediaType": "tv"
         },
         {
@@ -10950,6 +10950,18 @@
               "sn": "113083",
               "sourceTitle": "冰冰冰 冰淇淋君 第二季",
               "year": "2022",
+              "mediaHint": ""
+            },
+            {
+              "sn": "114242",
+              "sourceTitle": "忍者亂太郎 第 29 季",
+              "year": "2021",
+              "mediaHint": ""
+            },
+            {
+              "sn": "114241",
+              "sourceTitle": "KERORO 軍曹 第四季",
+              "year": "2007",
               "mediaHint": ""
             }
           ]
