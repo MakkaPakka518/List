@@ -2218,5 +2218,21 @@
   "v1:113883:2025:all": {
     "tmdbId": 274814,
     "mediaType": "tv"
+  },
+  "v1:73148:2015:all": {
+    "tmdbId": 64140,
+    "mediaType": "tv"
+  },
+  "v1:114245:2021:all": {
+    "tmdbId": 69291,
+    "mediaType": "tv"
+  },
+  "v1:113215:2023:all": {
+    "tmdbId": 128824,
+    "mediaType": "tv"
+  },
+  "v1:113917:2025:all": {
+    "tmdbId": 1148706,
+    "mediaType": "movie"
   }
 }
