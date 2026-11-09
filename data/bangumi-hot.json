@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09 02:07:42",
+  "last_updated": "2026-11-09 15:20:08",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -168,21 +168,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "132131",
-      "tmdbId": 132131,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "未麻的部屋：讲座",
-      "releaseDate": "2008-02-29",
-      "lastUpdateDate": "2008-02-29",
-      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
-      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
-      "rating": 8.0,
-      "description": "《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
-      "genreTitle": "纪录片",
-      "regionTitle": "日本"
-    },
-    {
       "id": "64492",
       "tmdbId": 64492,
       "type": "tmdb",
@@ -195,6 +180,21 @@
       "rating": 7.8,
       "description": "所谓的“白箱”，是指在动画放送之前，专门制作赠送给参与了动画制作的工作人员们的录像带，其本身拥有着令人感动的悠久历史，因为这些录像带通常都被装在白色的盒子里，所以被成为“白箱”。一直坚守着自己理想的制作人宫森葵、个性认真但有些懦弱的原画师安原绘麻、怀才不遇的声优坂木静香、CG画师藤堂美沙和容易沉迷与自身兴趣爱好的剧本作家今井绿，五个个性迥异的女孩，朝着顺利完成白箱的梦想共同努力迈进，在这条并不轻松的道路上，会发生哪些有趣的故事呢？",
       "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本"
+    },
+    {
+      "id": "132131",
+      "tmdbId": 132131,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "未麻的部屋：讲座",
+      "releaseDate": "2008-02-29",
+      "lastUpdateDate": "2008-02-29",
+      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
+      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
+      "rating": 8.0,
+      "description": "《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
+      "genreTitle": "纪录片",
       "regionTitle": "日本"
     },
     {
@@ -716,7 +716,7 @@
       "releaseDate": "2013-12-02",
       "lastUpdateDate": "2026-07-26",
       "posterPath": "/uXdv0YRy4mkaCGv22Qjq6IV168H.jpg",
-      "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+      "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
       "rating": 8.7,
       "description": "一名反社会人格的天才科学家拉着他天性胆怯的孙子一同进行疯狂又危险的跨宇宙探险的故事。瑞克·桑切斯和女儿贝丝一家同住，他经常带着她、女婿杰瑞、孙女桑美和孙子莫蒂一同踏上大胆的星系冒险之旅。",
       "genreTitle": "喜剧 / 科幻奇幻 / 动作冒险",
@@ -806,7 +806,7 @@
       "releaseDate": "2013-12-02",
       "lastUpdateDate": "2026-07-26",
       "posterPath": "/uXdv0YRy4mkaCGv22Qjq6IV168H.jpg",
-      "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+      "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
       "rating": 8.7,
       "description": "一名反社会人格的天才科学家拉着他天性胆怯的孙子一同进行疯狂又危险的跨宇宙探险的故事。瑞克·桑切斯和女儿贝丝一家同住，他经常带着她、女婿杰瑞、孙女桑美和孙子莫蒂一同踏上大胆的星系冒险之旅。",
       "genreTitle": "喜剧 / 科幻奇幻 / 动作冒险",
@@ -941,7 +941,7 @@
       "releaseDate": "2013-12-02",
       "lastUpdateDate": "2026-07-26",
       "posterPath": "/uXdv0YRy4mkaCGv22Qjq6IV168H.jpg",
-      "backdropPath": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+      "backdropPath": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
       "rating": 8.7,
       "description": "一名反社会人格的天才科学家拉着他天性胆怯的孙子一同进行疯狂又危险的跨宇宙探险的故事。瑞克·桑切斯和女儿贝丝一家同住，他经常带着她、女婿杰瑞、孙女桑美和孙子莫蒂一同踏上大胆的星系冒险之旅。",
       "genreTitle": "喜剧 / 科幻奇幻 / 动作冒险",
@@ -1368,21 +1368,6 @@
       "regionTitle": "未知地区"
     },
     {
-      "id": "53787",
-      "tmdbId": 53787,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "水星领航员",
-      "releaseDate": "2005-10-06",
-      "lastUpdateDate": "2008-04-01",
-      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
-      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
-      "rating": 8.5,
-      "description": "随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
-      "genreTitle": "科幻奇幻",
-      "regionTitle": "日本"
-    },
-    {
       "id": "105248",
       "tmdbId": 105248,
       "type": "tmdb",
@@ -1396,6 +1381,21 @@
       "description": "夜之城每一季都有新故事，也总有一群特立独行的新角色登场，讲述属于他们的传奇。",
       "genreTitle": "动作冒险 / 科幻奇幻 / 犯罪",
       "regionTitle": "日本/PL/美国"
+    },
+    {
+      "id": "53787",
+      "tmdbId": 53787,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "水星领航员",
+      "releaseDate": "2005-10-06",
+      "lastUpdateDate": "2008-04-01",
+      "posterPath": "/C7OtvVU019KgMRpdXPeDV5PSFx.jpg",
+      "backdropPath": "/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+      "rating": 8.5,
+      "description": "随着未来科技的飞速发展，人类在2301年将一颗蛮荒行星火星改造成为美丽的“水星”，并命名为“AQUA”。那里最著名的观光都市“新威尼斯”有着一群心怀梦想的少女，被称为“领航员”的她们每天以小船载着游客领略城市的美景。15岁的水无灯里从高度电子机械化的地球只身来到“新威尼斯”，在一所名为“ARIA”的小领航员公司找到了工作，就此开始了她的领航员生涯。",
+      "genreTitle": "科幻奇幻",
+      "regionTitle": "日本"
     },
     {
       "id": "30982",
@@ -1473,21 +1473,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "66862",
-      "tmdbId": 66862,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "昭和元禄落语心中",
-      "releaseDate": "2016-01-09",
-      "lastUpdateDate": "2017-03-25",
-      "posterPath": "/m4qKvXM6l15Yq48N8rITeVobix4.jpg",
-      "backdropPath": "/22YtPgohea5ADkePsnISEU34U99.jpg",
-      "rating": 8.0,
-      "description": "因无法忘记在刑务所的落语慰问会中见到的大名人八云的《死神》落语段子，出狱的与太郎径直前往寄席，拜倒在八云面前。成为八云住所雇工以及弟子的与太郎，却发现在八云之处住着一位名叫小夏的女性，八云与小夏似乎有着他人无从触及的因缘。",
-      "genreTitle": "剧情",
-      "regionTitle": "日本"
-    },
-    {
       "id": "37854",
       "tmdbId": 37854,
       "type": "tmdb",
@@ -1500,6 +1485,21 @@
       "rating": 8.8,
       "description": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
       "genreTitle": "动作冒险 / 喜剧",
+      "regionTitle": "日本"
+    },
+    {
+      "id": "66862",
+      "tmdbId": 66862,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "昭和元禄落语心中",
+      "releaseDate": "2016-01-09",
+      "lastUpdateDate": "2017-03-25",
+      "posterPath": "/m4qKvXM6l15Yq48N8rITeVobix4.jpg",
+      "backdropPath": "/22YtPgohea5ADkePsnISEU34U99.jpg",
+      "rating": 8.0,
+      "description": "因无法忘记在刑务所的落语慰问会中见到的大名人八云的《死神》落语段子，出狱的与太郎径直前往寄席，拜倒在八云面前。成为八云住所雇工以及弟子的与太郎，却发现在八云之处住着一位名叫小夏的女性，八云与小夏似乎有着他人无从触及的因缘。",
+      "genreTitle": "剧情",
       "regionTitle": "日本"
     },
     {
