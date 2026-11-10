@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10 15:33:26",
+  "last_updated": "2026-11-11 03:53:44",
   "tv": [
     {
       "id": "285147",
@@ -1144,6 +1144,21 @@
       "genreTitle": "真人秀"
     },
     {
+      "id": "278513",
+      "type": "tmdb",
+      "title": "我在中国当农人",
+      "description": "《我在中国当农人》是一档国际“新农人”创业真人秀节目，旨在从世界青年的角度探索中国乡村创业新模式、促进中外文化交流。6个不同国家、不同职业和身份的友人组成了一支充满创意与激情的“跨国新农人创业团”，在中国常德桃花源这片充满诗意的土地上，以世界的眼光深度体验中国乡村生活，以“新农人”的身份开创乡村创业模式。",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 0.754,
+      "releaseDate": "2024-11-25",
+      "lastUpdateDate": "2026-10-12",
+      "posterPath": "/7y9B37zqnTY4XSPY4qMnp8uRwJV.jpg",
+      "backdropPath": "/aPUiEgfN1gAqyuvB0ISmxYQHTyJ.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
       "id": "126490",
       "type": "tmdb",
       "title": "我家那闺女",
@@ -1159,17 +1174,17 @@
       "genreTitle": "真人秀"
     },
     {
-      "id": "278513",
+      "id": "281511",
       "type": "tmdb",
-      "title": "我在中国当农人",
-      "description": "《我在中国当农人》是一档国际“新农人”创业真人秀节目，旨在从世界青年的角度探索中国乡村创业新模式、促进中外文化交流。6个不同国家、不同职业和身份的友人组成了一支充满创意与激情的“跨国新农人创业团”，在中国常德桃花源这片充满诗意的土地上，以世界的眼光深度体验中国乡村生活，以“新农人”的身份开创乡村创业模式。",
+      "title": "有你的恋歌",
+      "description": "《有你的恋歌》讲述了具有一定音乐属性的男女嘉宾们共同入住「恋恋小屋」，以“同频”为起点展开的一段甜蜜交往体验。 在此期间，TA们将会不定时地进行约会和音乐创作，并且每天通过“恋恋音乐电台”点歌来向心仪的TA传达自己的心意，展现了在音乐催化下真挚的情感发展和浪漫的恋爱状态，铺陈出一场极致热烈的寻爱之旅。 这群鲜活而又感性的青春男女，以心动的TA为灵感缪斯，用音符描绘甜蜜的故事，用旋律勾勒属于彼此的深刻记忆，用音乐、表达爱！",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 0.9369,
-      "releaseDate": "2024-11-25",
-      "lastUpdateDate": "2026-10-12",
-      "posterPath": "/7y9B37zqnTY4XSPY4qMnp8uRwJV.jpg",
-      "backdropPath": "/aPUiEgfN1gAqyuvB0ISmxYQHTyJ.jpg",
+      "popularity": 1.6688,
+      "releaseDate": "2025-01-08",
+      "lastUpdateDate": "2026-10-19",
+      "posterPath": "/Ri7z7mFfevY6YMOnecoX1zfLZw.jpg",
+      "backdropPath": "/shJJIUuocAxe1FRS9V4jPsv201Z.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
@@ -1187,21 +1202,6 @@
       "backdropPath": "/cf8JG3Ho6reuEmxDVsa5YXIUgHj.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片,新闻"
-    },
-    {
-      "id": "281511",
-      "type": "tmdb",
-      "title": "有你的恋歌",
-      "description": "《有你的恋歌》讲述了具有一定音乐属性的男女嘉宾们共同入住「恋恋小屋」，以“同频”为起点展开的一段甜蜜交往体验。 在此期间，TA们将会不定时地进行约会和音乐创作，并且每天通过“恋恋音乐电台”点歌来向心仪的TA传达自己的心意，展现了在音乐催化下真挚的情感发展和浪漫的恋爱状态，铺陈出一场极致热烈的寻爱之旅。 这群鲜活而又感性的青春男女，以心动的TA为灵感缪斯，用音符描绘甜蜜的故事，用旋律勾勒属于彼此的深刻记忆，用音乐、表达爱！",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 1.6688,
-      "releaseDate": "2025-01-08",
-      "lastUpdateDate": "2026-10-19",
-      "posterPath": "/Ri7z7mFfevY6YMOnecoX1zfLZw.jpg",
-      "backdropPath": "/shJJIUuocAxe1FRS9V4jPsv201Z.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
     },
     {
       "id": "333888",
@@ -1234,21 +1234,6 @@
       "genreTitle": "真人秀"
     },
     {
-      "id": "215280",
-      "type": "tmdb",
-      "title": "南波万的聚会",
-      "description": "以学长们欢快露营聚会好友局为主，聚焦展现学长们开心聚会、友情升温的温馨日常。",
-      "rating": 9.3,
-      "voteCount": 3,
-      "popularity": 2.9815,
-      "releaseDate": "2022-10-30",
-      "lastUpdateDate": "2026-10-25",
-      "posterPath": "/Ae54oy5TD5YdLOqNv76Fpa7hbAG.jpg",
-      "backdropPath": "/ullxyYDWmmAoNj7jdtnT4hOONcI.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "304080",
       "type": "tmdb",
       "title": "当家爸爸的聚会",
@@ -1262,6 +1247,21 @@
       "backdropPath": "/zIxgzMsXIOBSxHlkpbsHiKuBCyO.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀,家庭"
+    },
+    {
+      "id": "215280",
+      "type": "tmdb",
+      "title": "南波万的聚会",
+      "description": "以学长们欢快露营聚会好友局为主，聚焦展现学长们开心聚会、友情升温的温馨日常。",
+      "rating": 9.3,
+      "voteCount": 3,
+      "popularity": 2.9815,
+      "releaseDate": "2022-10-30",
+      "lastUpdateDate": "2026-10-25",
+      "posterPath": "/Ae54oy5TD5YdLOqNv76Fpa7hbAG.jpg",
+      "backdropPath": "/ullxyYDWmmAoNj7jdtnT4hOONcI.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
     },
     {
       "id": "298320",
