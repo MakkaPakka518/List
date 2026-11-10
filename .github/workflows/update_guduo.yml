@@ -2,7 +2,8 @@ name: 📈 Update Guduo Hot List
 
 on:
   schedule:
-    - cron: '30 3 * * *'
+    - cron: '30 15 * * *'
+      timezone: Asia/Shanghai
   workflow_dispatch: # 允许在 Actions 页面手动点击运行
 
 jobs:
