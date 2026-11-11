@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11 04:03:49",
+  "last_updated": "2026-11-11 15:19:04",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -168,21 +168,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "132131",
-      "tmdbId": 132131,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "未麻的部屋：讲座",
-      "releaseDate": "2008-02-29",
-      "lastUpdateDate": "2008-02-29",
-      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
-      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
-      "rating": 8.0,
-      "description": "《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
-      "genreTitle": "纪录片",
-      "regionTitle": "日本"
-    },
-    {
       "id": "64492",
       "tmdbId": 64492,
       "type": "tmdb",
@@ -195,6 +180,21 @@
       "rating": 7.8,
       "description": "所谓的“白箱”，是指在动画放送之前，专门制作赠送给参与了动画制作的工作人员们的录像带，其本身拥有着令人感动的悠久历史，因为这些录像带通常都被装在白色的盒子里，所以被成为“白箱”。一直坚守着自己理想的制作人宫森葵、个性认真但有些懦弱的原画师安原绘麻、怀才不遇的声优坂木静香、CG画师藤堂美沙和容易沉迷与自身兴趣爱好的剧本作家今井绿，五个个性迥异的女孩，朝着顺利完成白箱的梦想共同努力迈进，在这条并不轻松的道路上，会发生哪些有趣的故事呢？",
       "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本"
+    },
+    {
+      "id": "132131",
+      "tmdbId": 132131,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "未麻的部屋：讲座",
+      "releaseDate": "2008-02-29",
+      "lastUpdateDate": "2008-02-29",
+      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
+      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
+      "rating": 8.0,
+      "description": "《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
+      "genreTitle": "纪录片",
       "regionTitle": "日本"
     },
     {
@@ -477,7 +477,7 @@
       "lastUpdateDate": "1961-07-25",
       "posterPath": "/3Aifv9rXv1QW3r2fOIevofecatC.jpg",
       "backdropPath": "/50r2hZEculAYYmLk8mTSmCRKlr9.jpg",
-      "rating": 7.8,
+      "rating": 7.7,
       "description": "有一座花果山，山上有一尊石猴吸收日精月华化身为一只神猴（邱岳峰 音），统领着山中的猴子猴孙。为求得一件称心的宝贝，神猴孙大圣潜入龙宫，强硬求来大禹治水时的定海神针如意金箍棒。东海龙王（毕克 音）心有不甘，于是上天将此事诉诸玉帝（富润生 音）。玉皇大帝命令太白金星（尚华 音）下界招安，许以爵位。不知有诈的孙大圣欣然前往，却发现只是负责养马的弼马温。得知受骗的猴王反下天庭，与天兵天将在花果山展开大战…… 　　本片根据古典名著《西游记》中的故事改编，前后历时4年创作，并荣获1962年捷克斯洛伐克卡罗维发利国际电影节短片特别奖、1978年英国伦敦国际电影节年度杰出电影奖、1982年厄瓜多尔第四届国际儿童电影节三等奖、第二届中国电影“百花奖”最佳美术片奖。",
       "genreTitle": "冒险 / 奇幻 / 动作",
       "regionTitle": "未知地区"
@@ -1413,21 +1413,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "100363",
-      "tmdbId": 100363,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "我的三体",
-      "releaseDate": "2014-02-27",
-      "lastUpdateDate": "2024-09-01",
-      "posterPath": "/wZUio8U3OwiNOAE33naAFmeHRUQ.jpg",
-      "backdropPath": "/4WroLty7DMWH0oykKKvBmsuSQ7F.jpg",
-      "rating": 9.3,
-      "description": "天文学家叶文洁被带到军方绝秘计划「红岸工程」，向宇宙发出地球文明的第一声啼鸣。四光年外的「三体文明」正逃离母星，接收到了地球发来的信息。对人性绝望的叶文洁向三体人暴露了地球的坐标，彻底改变了人类的命运。科学家汪淼进入神秘的网络游戏《三体》，接触到了地球上应对三体人到来而形成的一个秘密组织（ETO），获悉三体人为了得到一个能够稳定生存的世界决定入侵地球。庞大的三体舰队开始向地球进发，人类的末日悄然来临。",
-      "genreTitle": "科幻奇幻 / 悬疑 / 动作冒险",
-      "regionTitle": "中国大陆"
-    },
-    {
       "id": "42253",
       "tmdbId": 42253,
       "type": "tmdb",
@@ -1441,6 +1426,21 @@
       "description": "春天，在新生决定社团的时候，田井中律硬拉着青梅竹马的秋山澪参观轻音部让其入部，在得知前辈们毕业后由于人数不足将面临闭部结局，秋山澪与琴吹䌷成为了轻音部成员，但离4人指标还差1位名额。这时，一名弄错了部名的少女平泽唯误打误撞之下填补了最后一位空位，但这位少女却是一个连乐谱也看不懂的新人，学习成绩又差。而就是这样的4名少女，却展开了奏响青春的音乐之旅。",
       "genreTitle": "喜剧",
       "regionTitle": "日本"
+    },
+    {
+      "id": "100363",
+      "tmdbId": 100363,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "我的三体",
+      "releaseDate": "2014-02-27",
+      "lastUpdateDate": "2024-09-01",
+      "posterPath": "/wZUio8U3OwiNOAE33naAFmeHRUQ.jpg",
+      "backdropPath": "/4WroLty7DMWH0oykKKvBmsuSQ7F.jpg",
+      "rating": 9.3,
+      "description": "天文学家叶文洁被带到军方绝秘计划「红岸工程」，向宇宙发出地球文明的第一声啼鸣。四光年外的「三体文明」正逃离母星，接收到了地球发来的信息。对人性绝望的叶文洁向三体人暴露了地球的坐标，彻底改变了人类的命运。科学家汪淼进入神秘的网络游戏《三体》，接触到了地球上应对三体人到来而形成的一个秘密组织（ETO），获悉三体人为了得到一个能够稳定生存的世界决定入侵地球。庞大的三体舰队开始向地球进发，人类的末日悄然来临。",
+      "genreTitle": "科幻奇幻 / 悬疑 / 动作冒险",
+      "regionTitle": "中国大陆"
     },
     {
       "id": "207250",
@@ -1473,21 +1473,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "37854",
-      "tmdbId": 37854,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "航海王",
-      "releaseDate": "1999-10-20",
-      "lastUpdateDate": "2026-09-27",
-      "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
-      "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "rating": 8.8,
-      "description": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
-      "genreTitle": "动作冒险 / 喜剧",
-      "regionTitle": "日本"
-    },
-    {
       "id": "66862",
       "tmdbId": 66862,
       "type": "tmdb",
@@ -1500,6 +1485,21 @@
       "rating": 8.0,
       "description": "因无法忘记在刑务所的落语慰问会中见到的大名人八云的《死神》落语段子，出狱的与太郎径直前往寄席，拜倒在八云面前。成为八云住所雇工以及弟子的与太郎，却发现在八云之处住着一位名叫小夏的女性，八云与小夏似乎有着他人无从触及的因缘。",
       "genreTitle": "剧情",
+      "regionTitle": "日本"
+    },
+    {
+      "id": "37854",
+      "tmdbId": 37854,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "航海王",
+      "releaseDate": "1999-10-20",
+      "lastUpdateDate": "2026-09-27",
+      "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
+      "backdropPath": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "rating": 8.8,
+      "description": "拥有财富、名声、势力，拥有整个世界的海贼王 – 哥尔·D·罗杰，他在临刑前的一句话，让人们趋之若鹜奔向大海。“想要我的财宝吗？想要的话可以全部给你，去找吧！我把所有财宝都放在那里。”于是所有男子汉航向伟大的航路追逐梦想，世界开始迎接“大海贼时代”。",
+      "genreTitle": "动作冒险 / 喜剧",
       "regionTitle": "日本"
     },
     {
