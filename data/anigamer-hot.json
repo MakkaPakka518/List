@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "AniGamer",
   "sourceUrl": "https://ani.gamer.com.tw/animeList.php",
-  "updatedAt": "2026-11-10T05:24:58+00:00",
+  "updatedAt": "2026-11-11T03:56:31+00:00",
   "lists": {
     "monthly": {
       "1": [
@@ -1161,19 +1161,19 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114189",
-          "sourceTitle": "偵探已經，死了。Season 2",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 117061,
-          "mediaType": "tv"
-        },
-        {
           "sn": "114191",
           "sourceTitle": "魔法騎士雷阿斯",
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 303272,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114189",
+          "sourceTitle": "偵探已經，死了。Season 2",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 117061,
           "mediaType": "tv"
         },
         {
@@ -1185,11 +1185,11 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114187",
-          "sourceTitle": "冷淡的佐藤同學只對我撒嬌",
+          "sn": "114183",
+          "sourceTitle": "Battle Spirits [Re] 絕界之空",
           "year": "2026",
           "mediaHint": "",
-          "tmdbId": 316891,
+          "tmdbId": 316551,
           "mediaType": "tv"
         },
         {
@@ -1201,11 +1201,11 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114183",
-          "sourceTitle": "Battle Spirits [Re] 絕界之空",
+          "sn": "114187",
+          "sourceTitle": "冷淡的佐藤同學只對我撒嬌",
           "year": "2026",
           "mediaHint": "",
-          "tmdbId": 316551,
+          "tmdbId": 316891,
           "mediaType": "tv"
         },
         {
@@ -1321,14 +1321,6 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114204",
-          "sourceTitle": "The Anime「幻想水滸傳」",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 285710,
-          "mediaType": "tv"
-        },
-        {
           "sn": "114201",
           "sourceTitle": "KERORO 軍曹☆",
           "year": "2026",
@@ -1350,6 +1342,14 @@
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 73223,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114204",
+          "sourceTitle": "The Anime「幻想水滸傳」",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 285710,
           "mediaType": "tv"
         },
         {
