@@ -12,7 +12,7 @@ OUTPUT_FILE = os.path.join(DATA_DIR, "guduo-hot.json")
 
 # 自动计算北京时间“昨天”的日期 (骨朵最新数据只有前一天的)
 tz_bj = datetime.timezone(datetime.timedelta(hours=8))
-yesterday = (datetime.datetime.now(tz_bj) - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
+yesterday = (datetime.datetime.now(tz_bj) - datetime.timedelta(days=2)).strftime("%Y-%m-%d")
 
 # 动态构建骨朵 API 字典
 GUDUO_API_URLS = {
