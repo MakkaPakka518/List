@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "AniGamer",
   "sourceUrl": "https://ani.gamer.com.tw/animeList.php",
-  "updatedAt": "2026-11-12T05:03:12+00:00",
+  "updatedAt": "2026-11-13T04:18:41+00:00",
   "lists": {
     "monthly": {
       "1": [
@@ -1087,19 +1087,19 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114200",
-          "sourceTitle": "螢火蟲的出嫁",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 320909,
-          "mediaType": "tv"
-        },
-        {
           "sn": "114203",
           "sourceTitle": "朱色假面",
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 295420,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114200",
+          "sourceTitle": "螢火蟲的出嫁",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 320909,
           "mediaType": "tv"
         },
         {
@@ -1111,14 +1111,6 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114202",
-          "sourceTitle": "暗部共生少女",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 284580,
-          "mediaType": "tv"
-        },
-        {
           "sn": "114197",
           "sourceTitle": "冰劍的魔術師將要統一世界 2",
           "year": "2026",
@@ -1127,10 +1119,12 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114220",
-          "sourceTitle": "新網球王子 U-17 WORLD CUP 世界盃決賽成員決定戰",
+          "sn": "114202",
+          "sourceTitle": "暗部共生少女",
           "year": "2026",
-          "mediaHint": ""
+          "mediaHint": "",
+          "tmdbId": 284580,
+          "mediaType": "tv"
         },
         {
           "sn": "114192",
@@ -1139,6 +1133,12 @@
           "mediaHint": "",
           "tmdbId": 323937,
           "mediaType": "tv"
+        },
+        {
+          "sn": "114220",
+          "sourceTitle": "新網球王子 U-17 WORLD CUP 世界盃決賽成員決定戰",
+          "year": "2026",
+          "mediaHint": ""
         },
         {
           "sn": "114193",
@@ -1235,14 +1235,6 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114216",
-          "sourceTitle": "來自遠方",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 329096,
-          "mediaType": "tv"
-        },
-        {
           "sn": "114179",
           "sourceTitle": "青之蘆葦 第二季",
           "year": "2026",
@@ -1256,6 +1248,14 @@
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 313068,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114216",
+          "sourceTitle": "來自遠方",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 329096,
           "mediaType": "tv"
         },
         {
@@ -1275,23 +1275,13 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114214",
-          "sourceTitle": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 303060,
-          "mediaType": "tv"
-        },
-        {
           "sn": "114212",
           "sourceTitle": "一覺醒來就有了最強裝備跟太空船 決定以自家獨棟建築為目標當傭兵自由過活",
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 283692,
           "mediaType": "tv"
-        }
-      ],
-      "2": [
+        },
         {
           "sn": "114211",
           "sourceTitle": "大叔喜歡可愛小玩意",
@@ -1299,7 +1289,9 @@
           "mediaHint": "",
           "tmdbId": 330505,
           "mediaType": "tv"
-        },
+        }
+      ],
+      "2": [
         {
           "sn": "114208",
           "sourceTitle": "魔法★探險家",
@@ -1321,6 +1313,14 @@
           "sourceTitle": "小狸貓和小狐狸",
           "year": "2026",
           "mediaHint": ""
+        },
+        {
+          "sn": "114214",
+          "sourceTitle": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 303060,
+          "mediaType": "tv"
         },
         {
           "sn": "114201",
