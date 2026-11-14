@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14 14:48:39",
+  "last_updated": "2026-11-15 02:21:27",
   "tv": [
     {
       "id": "285147",
@@ -98,7 +98,7 @@
       "description": "桑宁本是周朝长公主，一人之下万人之上，奈何英年早逝。再次睁眼发现自己来到了未来，成了被豪门遗失在乡下的真千金。假千金南思雅对她为虎作伥，而家人也嘴上愧疚，实则偏心。面对假千金的挑衅和家人的冷漠，她凭借古代长公主的智慧与手段，逐渐在南家站稳脚跟。出身顶级豪门的贺斯屿，玩世不恭，桀骜不驯，后来却不知不觉的被桑宁吸引视线，对她产生了浓厚的兴趣。桑宁在南家争家产的路上阻拦众多，前有假千金挑拨离间，后有家人想利用她上位。凭借智慧和手段，脚踹绿茶假千金，手撕家人虚伪面具，最终让伤害她的人都自食其果。混世魔王贺斯屿也逐渐意识到自己对这个封建小祖宗的感情，她守女德没关系，那他就破了她的女德。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 1.5207,
+      "popularity": 1.7297,
       "releaseDate": "2025-05-30",
       "lastUpdateDate": "2025-05-30",
       "posterPath": "/qwe5NmEw0R9Rc42QLC0XO1Idldd.jpg",
@@ -1028,7 +1028,7 @@
       "description": "尚书之女沈沅芷为恋人顶罪，被迫嫁入侯府受尽樊星序报复。二人揭露顾恒远阴谋后，又卷入叛国事件，两人将计就计达成合作，在相处中消除误会情愫渐生，诛杀叛徒，有情人终成眷属。",
       "rating": 8.7,
       "voteCount": 3,
-      "popularity": 1.7464,
+      "popularity": 1.7121,
       "releaseDate": "2025-08-05",
       "lastUpdateDate": "2025-08-15",
       "posterPath": "/sy6LwTBNu7Ot8UN61wqxsUDbkA.jpg",
@@ -1099,6 +1099,21 @@
       "genreTitle": "真人秀"
     },
     {
+      "id": "341266",
+      "type": "tmdb",
+      "title": "你好湖南",
+      "description": "《你好湖南》项目立足就业、创业、生活、成长四大维度，用接地气的方式解读“年轻人友好省份”。由芒果新生主持，以“建群加好友”搭建沟通桥梁，以通俗提问挖掘真实故事，以主持人手持设备为第一视角，贴身捕捉真实情感，打造沉浸式观感，呈现个体打拼、城市温暖、青年群像等多元内容。",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 0.2763,
+      "releaseDate": "2026-07-20",
+      "lastUpdateDate": "2026-11-05",
+      "posterPath": "/f59tSTInYMuLCuOKmufNqsewwpF.jpg",
+      "backdropPath": "/cf8JG3Ho6reuEmxDVsa5YXIUgHj.jpg",
+      "mediaType": "tv",
+      "genreTitle": "纪录片,新闻"
+    },
+    {
       "id": "339905",
       "type": "tmdb",
       "title": "e顿饭的事儿",
@@ -1114,21 +1129,6 @@
       "genreTitle": ""
     },
     {
-      "id": "114473",
-      "type": "tmdb",
-      "title": "名侦探学院",
-      "description": "《名侦探学院》作为《明星大侦探》第五季的衍生节目，是由芒果TV推出的选拔侦探助理参与《明星大侦探》节目录制的明星推理综艺秀。明星嘉宾在棋格上通过掷骰子决定前进步数，触发游戏时需要完成相应游戏，率先达到终点的嘉宾成为当期No.1，节目结合团队战与个人战的竞赛形式，激发明星嘉宾的智商与逻辑能力的较量。节目中抉择出的No.1将出现在《明星大侦探》第五季的现场。《名侦探学院》由蒲熠星、周峻纬、唐九洲、齐思钧、石凯、郭文韬、邵明明等组成首发阵容，于2019年11月3日首播。",
-      "rating": 7.3,
-      "voteCount": 3,
-      "popularity": 29.3966,
-      "releaseDate": "2019-11-03",
-      "lastUpdateDate": "2026-03-29",
-      "posterPath": "/wuUvhZ2WLqX1z0b1NXkapWoov9j.jpg",
-      "backdropPath": "/hHTfyEC8WWB8XZUkqFNidYDL8MP.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀,悬疑"
-    },
-    {
       "id": "331569",
       "type": "tmdb",
       "title": "不想睡的星期五",
@@ -1142,6 +1142,21 @@
       "backdropPath": "/y8kPD0sQqlL8lo7oYZVtYWP330Y.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
+    },
+    {
+      "id": "114473",
+      "type": "tmdb",
+      "title": "名侦探学院",
+      "description": "《名侦探学院》作为《明星大侦探》第五季的衍生节目，是由芒果TV推出的选拔侦探助理参与《明星大侦探》节目录制的明星推理综艺秀。明星嘉宾在棋格上通过掷骰子决定前进步数，触发游戏时需要完成相应游戏，率先达到终点的嘉宾成为当期No.1，节目结合团队战与个人战的竞赛形式，激发明星嘉宾的智商与逻辑能力的较量。节目中抉择出的No.1将出现在《明星大侦探》第五季的现场。《名侦探学院》由蒲熠星、周峻纬、唐九洲、齐思钧、石凯、郭文韬、邵明明等组成首发阵容，于2019年11月3日首播。",
+      "rating": 7.3,
+      "voteCount": 3,
+      "popularity": 29.3966,
+      "releaseDate": "2019-11-03",
+      "lastUpdateDate": "2026-03-29",
+      "posterPath": "/wuUvhZ2WLqX1z0b1NXkapWoov9j.jpg",
+      "backdropPath": "/hHTfyEC8WWB8XZUkqFNidYDL8MP.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀,悬疑"
     },
     {
       "id": "341434",
@@ -1187,21 +1202,6 @@
       "backdropPath": "/vOu2RYpWGGScdYpNw8WVmDbjdUs.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
-    },
-    {
-      "id": "341266",
-      "type": "tmdb",
-      "title": "你好湖南",
-      "description": "《你好湖南》项目立足就业、创业、生活、成长四大维度，用接地气的方式解读“年轻人友好省份”。由芒果新生主持，以“建群加好友”搭建沟通桥梁，以通俗提问挖掘真实故事，以主持人手持设备为第一视角，贴身捕捉真实情感，打造沉浸式观感，呈现个体打拼、城市温暖、青年群像等多元内容。",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 0.2763,
-      "releaseDate": "2026-07-20",
-      "lastUpdateDate": "2026-11-05",
-      "posterPath": "/f59tSTInYMuLCuOKmufNqsewwpF.jpg",
-      "backdropPath": "/cf8JG3Ho6reuEmxDVsa5YXIUgHj.jpg",
-      "mediaType": "tv",
-      "genreTitle": "纪录片,新闻"
     },
     {
       "id": "333124",
@@ -1255,7 +1255,7 @@
       "description": "节目计划开启一年两季的寒暑假季番规划，每季10期。首季将由《爸爸当家·慢享季》中热度最高的王永鸿家庭作为“东道主”发起聚会邀请，邀约全职爸爸互助会中有时间聚会的几组家庭，开启一段以“来我家聚一聚”为主题的家乡团建和研学之旅。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 0.3239,
+      "popularity": 0.4104,
       "releaseDate": "2025-10-15",
       "lastUpdateDate": "2026-10-25",
       "posterPath": "/12LyvRx6OHbwx5DTnjOKSwWJRZ2.jpg",
@@ -1345,7 +1345,7 @@
       "description": "以学长们欢快露营聚会好友局为主，聚焦展现学长们开心聚会、友情升温的温馨日常。",
       "rating": 9.3,
       "voteCount": 3,
-      "popularity": 3.062,
+      "popularity": 3.3246,
       "releaseDate": "2022-10-30",
       "lastUpdateDate": "2026-10-25",
       "posterPath": "/Ae54oy5TD5YdLOqNv76Fpa7hbAG.jpg",
@@ -1795,7 +1795,7 @@
       "description": "以学长们欢快露营聚会好友局为主，聚焦展现学长们开心聚会、友情升温的温馨日常。",
       "rating": 9.3,
       "voteCount": 3,
-      "popularity": 3.062,
+      "popularity": 3.3246,
       "releaseDate": "2022-10-30",
       "lastUpdateDate": "2026-10-25",
       "posterPath": "/Ae54oy5TD5YdLOqNv76Fpa7hbAG.jpg",
@@ -1810,7 +1810,7 @@
       "description": "节目计划开启一年两季的寒暑假季番规划，每季10期。首季将由《爸爸当家·慢享季》中热度最高的王永鸿家庭作为“东道主”发起聚会邀请，邀约全职爸爸互助会中有时间聚会的几组家庭，开启一段以“来我家聚一聚”为主题的家乡团建和研学之旅。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 0.3239,
+      "popularity": 0.4104,
       "releaseDate": "2025-10-15",
       "lastUpdateDate": "2026-10-25",
       "posterPath": "/12LyvRx6OHbwx5DTnjOKSwWJRZ2.jpg",
