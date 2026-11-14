@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14 04:07:54",
+  "last_updated": "2026-11-14 15:07:28",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -663,21 +663,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "39853",
-      "tmdbId": 39853,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "猫儿协奏曲",
-      "releaseDate": "1947-04-26",
-      "lastUpdateDate": "1947-04-26",
-      "posterPath": "/6SzmXunaQe0kzsF6o3JetgtJNjc.jpg",
-      "backdropPath": "/7vvjgWlWdSkiaKe47RypQX8k6WC.jpg",
-      "rating": 7.6,
-      "description": "身着燕尾服一本正经的钢琴家汤姆走上舞台，与乐队合作为观众演奏李斯特的《匈牙利狂想曲》。专心致志的汤姆丝毫没有料到，一位不速之客将打乱它的表演。此时此刻，小老鼠杰瑞正在钢琴内高音区睡觉，汤姆的演奏搅扰了它的睡眠，生气的杰瑞索性起身，干扰汤姆的演出。汤姆一面要应付小杰瑞的捣乱，一面又要努力演奏，手忙脚乱，应接不暇。在杰瑞的捣乱下，整场演出妙趣横生，当然对汤姆来说这无疑是一场恶梦……本片荣获1947年奥斯卡最佳动画短片奖。",
-      "genreTitle": "喜剧 / 音乐",
-      "regionTitle": "未知地区"
-    },
-    {
       "id": "10515",
       "tmdbId": 10515,
       "type": "tmdb",
@@ -690,6 +675,21 @@
       "rating": 8.0,
       "description": "古老帝国拉普达是一座漂浮在空中的巨大的机器岛，传说那里已经无人居住，蕴藏着巨大的财富。因此，无论军方还是海盗，都在找寻着这座传说中的飞行岛。矿工巴鲁这天偶遇拉普达继承人希达，两人一见如故。因为希达身上有找寻拉普达帝国的重要物件飞行石，军方和海盗两帮人马都在追杀希达。巴鲁带着希达一起逃亡，最终都没有逃出军方的手中，希达被军队掳走了。为救朋友，巴鲁只能选择与海盗合作。巴鲁与海盗成功救出了希达，同时，他们也发现了军方的邪恶计划。为了阻止军方邪恶计划的实施，他们和海盗一起踏上了寻找拉普达之旅。",
       "genreTitle": "冒险 / 奇幻 / 动作",
+      "regionTitle": "未知地区"
+    },
+    {
+      "id": "39853",
+      "tmdbId": 39853,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "猫儿协奏曲",
+      "releaseDate": "1947-04-26",
+      "lastUpdateDate": "1947-04-26",
+      "posterPath": "/6SzmXunaQe0kzsF6o3JetgtJNjc.jpg",
+      "backdropPath": "/7vvjgWlWdSkiaKe47RypQX8k6WC.jpg",
+      "rating": 7.6,
+      "description": "身着燕尾服一本正经的钢琴家汤姆走上舞台，与乐队合作为观众演奏李斯特的《匈牙利狂想曲》。专心致志的汤姆丝毫没有料到，一位不速之客将打乱它的表演。此时此刻，小老鼠杰瑞正在钢琴内高音区睡觉，汤姆的演奏搅扰了它的睡眠，生气的杰瑞索性起身，干扰汤姆的演出。汤姆一面要应付小杰瑞的捣乱，一面又要努力演奏，手忙脚乱，应接不暇。在杰瑞的捣乱下，整场演出妙趣横生，当然对汤姆来说这无疑是一场恶梦……本片荣获1947年奥斯卡最佳动画短片奖。",
+      "genreTitle": "喜剧 / 音乐",
       "regionTitle": "未知地区"
     },
     {
@@ -731,7 +731,7 @@
       "releaseDate": "2015-04-08",
       "lastUpdateDate": "2024-06-30",
       "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
-      "backdropPath": "/zLBnDiJh3nBinUSY5hOA3dofvOi.jpg",
+      "backdropPath": "/mW37TjzADA9Uz9XHu1xktXIOkY1.jpg",
       "rating": 8.0,
       "description": "作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
       "genreTitle": "剧情",
@@ -1331,7 +1331,7 @@
       "releaseDate": "2015-04-08",
       "lastUpdateDate": "2024-06-30",
       "posterPath": "/zbtVKv6accSl0vKbjklgTXPpcC5.jpg",
-      "backdropPath": "/zLBnDiJh3nBinUSY5hOA3dofvOi.jpg",
+      "backdropPath": "/mW37TjzADA9Uz9XHu1xktXIOkY1.jpg",
       "rating": 8.0,
       "description": "作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
       "genreTitle": "剧情",
@@ -1593,21 +1593,6 @@
       "regionTitle": "未知地区"
     },
     {
-      "id": "78102",
-      "tmdbId": 78102,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "命运石之门 0",
-      "releaseDate": "2018-04-12",
-      "lastUpdateDate": "2018-09-26",
-      "posterPath": "/9u07yBllJTBRIcYxnfbgUxougk5.jpg",
-      "backdropPath": "/bSOHmFB4RnUoB6zcNiJmXOaoOXk.jpg",
-      "rating": 8.1,
-      "description": "2010年11月β世界线——\n\n主人公·冈部伦太郎跨越无数的苦难与悲哀，终究还是放弃拯救“她”的世界线。\n\n跌落失意谷底的冈部伦太郎。担心着他的同伴们。\n\n没能得到拯救的“她”将会变得如何？\n\n迎来新的角色，描绘而成的“零”之物语。",
-      "genreTitle": "科幻奇幻 / 剧情",
-      "regionTitle": "日本"
-    },
-    {
       "id": "1429",
       "tmdbId": 1429,
       "type": "tmdb",
@@ -1620,6 +1605,21 @@
       "rating": 8.7,
       "description": "曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
       "genreTitle": "科幻奇幻 / 动作冒险",
+      "regionTitle": "日本"
+    },
+    {
+      "id": "78102",
+      "tmdbId": 78102,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "命运石之门 0",
+      "releaseDate": "2018-04-12",
+      "lastUpdateDate": "2018-09-26",
+      "posterPath": "/9u07yBllJTBRIcYxnfbgUxougk5.jpg",
+      "backdropPath": "/bSOHmFB4RnUoB6zcNiJmXOaoOXk.jpg",
+      "rating": 8.1,
+      "description": "2010年11月β世界线——\n\n主人公·冈部伦太郎跨越无数的苦难与悲哀，终究还是放弃拯救“她”的世界线。\n\n跌落失意谷底的冈部伦太郎。担心着他的同伴们。\n\n没能得到拯救的“她”将会变得如何？\n\n迎来新的角色，描绘而成的“零”之物语。",
+      "genreTitle": "科幻奇幻 / 剧情",
       "regionTitle": "日本"
     },
     {
@@ -1676,7 +1676,7 @@
       "releaseDate": "2012-06-15",
       "lastUpdateDate": "2016-02-15",
       "posterPath": "/yIZXD8FVxLiuA1lutKIO1UOXoOn.jpg",
-      "backdropPath": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+      "backdropPath": "/l0XvAI856XdyDYEfr1njztjH7u0.jpg",
       "rating": 8.6,
       "description": "暑假到了，双胞胎姐弟俩梅宝（克里斯汀·沙尔配音）和迪普（杰森·雷特配音）被爸妈赶到一个偏僻小镇“重力泉”过暑假，在这里，他们的斯坦叔公经营着一家专门敲诈游客的旅游景点“神秘小屋”，其中有着各种各样稀奇古怪的东西。然而更让人感到毛骨悚然的，则是这个怪诞小镇里的森林。为人慎重、头脑聪明的迪普觉察到森林的异样，继而发现了一本埋在地下的神秘笔记本，里面记载着存在于神秘小镇的不为人知的秘密。乐天派的梅宝和机智的迪普，结识了神秘小屋的店员温蒂和苏斯，还遇到各种奇妙的小镇居民。在怪诞小镇重力泉，他们经历了一系列奇异事件，小矮人，湖怪，蜡像，通灵者，他们这个暑假注定不平凡。",
       "genreTitle": "动作冒险 / 喜剧 / 家庭",
