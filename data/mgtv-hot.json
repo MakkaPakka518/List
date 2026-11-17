@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17 16:12:25",
+  "last_updated": "2026-11-18 05:08:54",
   "tv": [
     {
       "id": "285147",
@@ -473,7 +473,7 @@
       "description": "故事始于一场震惊夕晖市的悲剧：天才科学家郝风在其主导的“记忆树”项目基金暴雷后，于黑金大厦6804房间内含冤“自杀”，背负着挪用公款的污名。一年后，一位网络代号“日光”的技术高手，郝风的双胞胎弟弟郝晴回到夕晖市。他立誓要揭开兄弟死亡的真相，让真凶付出代价。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 1.3274,
+      "popularity": 1.4091,
       "releaseDate": "2026-02-12",
       "lastUpdateDate": "2026-02-19",
       "posterPath": "/O42bgOFYSPBLLwAQEtLwwYZYRk.jpg",
@@ -1114,21 +1114,6 @@
       "genreTitle": "真人秀"
     },
     {
-      "id": "126490",
-      "type": "tmdb",
-      "title": "我家那闺女",
-      "description": "由湖南卫视陈歆宇工作室打造，开启全新电视类代际观察综艺。节目以不同职业但努力生活的闺女身份代入，讲述闺女们的生活爱好、奋斗历程细节，还有当下正在面临或者即将面临的职业瓶颈、生活压力、家庭关系、父母养老、与朋友同事合作等问题，展开深入探讨，引导大家多多关注女性生活，鼓励女性努力追求属于自己的梦想。",
-      "rating": 6.2,
-      "voteCount": 4,
-      "popularity": 17.9126,
-      "releaseDate": "2019-01-05",
-      "lastUpdateDate": "2026-10-25",
-      "posterPath": "/8gV9bRO0jVhjOPGD2s2HzyWtl9V.jpg",
-      "backdropPath": "/yA4mTJfmB0hwslIJPMZXeYbtj0k.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "278513",
       "type": "tmdb",
       "title": "我在中国当农人",
@@ -1140,6 +1125,21 @@
       "lastUpdateDate": "2026-10-12",
       "posterPath": "/7y9B37zqnTY4XSPY4qMnp8uRwJV.jpg",
       "backdropPath": "/aPUiEgfN1gAqyuvB0ISmxYQHTyJ.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
+      "id": "126490",
+      "type": "tmdb",
+      "title": "我家那闺女",
+      "description": "由湖南卫视陈歆宇工作室打造，开启全新电视类代际观察综艺。节目以不同职业但努力生活的闺女身份代入，讲述闺女们的生活爱好、奋斗历程细节，还有当下正在面临或者即将面临的职业瓶颈、生活压力、家庭关系、父母养老、与朋友同事合作等问题，展开深入探讨，引导大家多多关注女性生活，鼓励女性努力追求属于自己的梦想。",
+      "rating": 6.2,
+      "voteCount": 4,
+      "popularity": 17.9126,
+      "releaseDate": "2019-01-05",
+      "lastUpdateDate": "2026-10-25",
+      "posterPath": "/8gV9bRO0jVhjOPGD2s2HzyWtl9V.jpg",
+      "backdropPath": "/yA4mTJfmB0hwslIJPMZXeYbtj0k.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
@@ -1180,7 +1180,7 @@
       "description": "节目计划开启一年两季的寒暑假季番规划，每季10期。首季将由《爸爸当家·慢享季》中热度最高的王永鸿家庭作为“东道主”发起聚会邀请，邀约全职爸爸互助会中有时间聚会的几组家庭，开启一段以“来我家聚一聚”为主题的家乡团建和研学之旅。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 0.4322,
+      "popularity": 0.4067,
       "releaseDate": "2025-10-15",
       "lastUpdateDate": "2026-10-25",
       "posterPath": "/12LyvRx6OHbwx5DTnjOKSwWJRZ2.jpg",
@@ -1234,21 +1234,6 @@
       "genreTitle": ""
     },
     {
-      "id": "341434",
-      "type": "tmdb",
-      "title": "后会友期 沉浸版",
-      "description": "《后会友期 沉浸版》是《后会友期》的官方衍生节目，完整展示四组真人秀嘉宾友情关系，沉浸式感受真实的友情困局。",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 1.8422,
-      "releaseDate": "2026-10-22",
-      "lastUpdateDate": "2026-11-06",
-      "posterPath": "/bNVRk1wQas6mHedxbfwVCqsNURF.jpg",
-      "backdropPath": "/f7Nbj5FwSsoCqxE2ZWq1MMcu8Kd.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "339488",
       "type": "tmdb",
       "title": "佳佳的花园",
@@ -1262,6 +1247,21 @@
       "backdropPath": "/rPq8LM6f0Ja0QJPEt8Yh5RdAPEr.jpg",
       "mediaType": "tv",
       "genreTitle": ""
+    },
+    {
+      "id": "341434",
+      "type": "tmdb",
+      "title": "后会友期 沉浸版",
+      "description": "《后会友期 沉浸版》是《后会友期》的官方衍生节目，完整展示四组真人秀嘉宾友情关系，沉浸式感受真实的友情困局。",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 1.8422,
+      "releaseDate": "2026-10-22",
+      "lastUpdateDate": "2026-11-06",
+      "posterPath": "/bNVRk1wQas6mHedxbfwVCqsNURF.jpg",
+      "backdropPath": "/f7Nbj5FwSsoCqxE2ZWq1MMcu8Kd.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
     },
     {
       "id": "338938",
@@ -1825,7 +1825,7 @@
       "description": "节目计划开启一年两季的寒暑假季番规划，每季10期。首季将由《爸爸当家·慢享季》中热度最高的王永鸿家庭作为“东道主”发起聚会邀请，邀约全职爸爸互助会中有时间聚会的几组家庭，开启一段以“来我家聚一聚”为主题的家乡团建和研学之旅。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 0.4322,
+      "popularity": 0.4067,
       "releaseDate": "2025-10-15",
       "lastUpdateDate": "2026-10-25",
       "posterPath": "/12LyvRx6OHbwx5DTnjOKSwWJRZ2.jpg",
