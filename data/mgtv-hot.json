@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18 15:46:29",
+  "last_updated": "2026-11-19 04:45:57",
   "tv": [
     {
       "id": "285147",
@@ -578,7 +578,7 @@
       "description": "杨荔荔踏入社会不久，做着有趣的创意工作，但看似惬意美好的生活背后种种压力一起袭来，荔荔心灰意冷一气之下爬上天台，一段都市奇遇随之开始，荔荔邂逅神秘的猫王开启了体验多重身份获得完美人生的冒险。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 1.4603,
+      "popularity": 1.3456,
       "releaseDate": "2025-12-29",
       "lastUpdateDate": "2025-12-29",
       "posterPath": "/9msDdxT7EKnGHiLA1Pgr8WA9ogH.jpg",
@@ -758,7 +758,7 @@
       "description": "正邪莫辨的唐俪辞被昔日好友构陷，被迫卷入风流店颠覆武林的阴谋。他冷眼睥睨天下，以域外武学\"往生谱\"秘探十三楼，智斗剑王城，联盟碧落宫，入主中原剑会，与风流店对弈，但却在此过程中与池云、沈郎魂等人产生羁绊，也被群侠为守护苍生不计生死的血性所感染，最终选择肩负起江湖未来使命。",
       "rating": 7.9,
       "voteCount": 23,
-      "popularity": 6.4619,
+      "popularity": 6.428,
       "releaseDate": "2025-10-24",
       "lastUpdateDate": "2025-11-14",
       "posterPath": "/gnHze06gHDwfKcR3Ignz13CqhnN.jpg",
@@ -983,7 +983,7 @@
       "description": "商山王病危，妄想寻得传说中的“长生仙药”，命各诸侯国送其子来朝成立世子营，替商山王寻药。以“混世魔王”江闻奂、暗藏身世的落魄小奴隶昆吾、草原战士崇义彪、风流倜傥辛甲等性格迥异的四人为首集结成世子团。少年们一路历劫，腹背受敌，在历经了重重考验后，逐渐从争锋相对转变为肝胆相照，共同携手揭开“长生仙药”背后的滔天阴谋，为阻止阴谋而奋勇杀敌、守护百姓，成为一群保家卫国的“少年英雄”的故事。",
       "rating": 9.0,
       "voteCount": 2,
-      "popularity": 1.9417,
+      "popularity": 1.9567,
       "releaseDate": "2025-08-26",
       "lastUpdateDate": "2025-09-08",
       "posterPath": "/3U1KJmF3lAt5S4PAuP1swSRnRSp.jpg",
@@ -1065,39 +1065,9 @@
       "backdropPath": "/yK6kU63QOLHVpIgFtRuLXrffTEo.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情"
-    },
-    {
-      "id": "284851",
-      "type": "tmdb",
-      "title": "橘祥如意",
-      "description": "少女秀橘家境贫寒，母亲卧病在床，兄嫂百般欺压。心灵手巧的她每天清晨来到学堂附近，一边兜售小物什为母亲赚取药钱，一边偷听课程。她结识了率性真诚的沈家六爷沈晏洲，并与之生出情愫。然而，秀橘为救母也为报恩，被迫嫁给沈家大爷沈晏清，她陷入沈家兄弟的情感漩涡中......",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 2.4413,
-      "releaseDate": "2025-06-25",
-      "lastUpdateDate": "2025-06-30",
-      "posterPath": "/2zgkvmKoI8BGxZNKPT1wtrW5LjJ.jpg",
-      "backdropPath": "/6SLsnrAGZMHj20d4Fc00BlGiqA3.jpg",
-      "mediaType": "tv",
-      "genreTitle": "剧情"
     }
   ],
   "show": [
-    {
-      "id": "281511",
-      "type": "tmdb",
-      "title": "有你的恋歌",
-      "description": "《有你的恋歌》讲述了具有一定音乐属性的男女嘉宾们共同入住「恋恋小屋」，以“同频”为起点展开的一段甜蜜交往体验。 在此期间，TA们将会不定时地进行约会和音乐创作，并且每天通过“恋恋音乐电台”点歌来向心仪的TA传达自己的心意，展现了在音乐催化下真挚的情感发展和浪漫的恋爱状态，铺陈出一场极致热烈的寻爱之旅。 这群鲜活而又感性的青春男女，以心动的TA为灵感缪斯，用音符描绘甜蜜的故事，用旋律勾勒属于彼此的深刻记忆，用音乐、表达爱！",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 1.9024,
-      "releaseDate": "2025-01-08",
-      "lastUpdateDate": "2026-10-19",
-      "posterPath": "/Ri7z7mFfevY6YMOnecoX1zfLZw.jpg",
-      "backdropPath": "/shJJIUuocAxe1FRS9V4jPsv201Z.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
     {
       "id": "304080",
       "type": "tmdb",
@@ -1114,17 +1084,17 @@
       "genreTitle": "真人秀,家庭"
     },
     {
-      "id": "239038",
+      "id": "281511",
       "type": "tmdb",
-      "title": "爱的修学旅行",
-      "description": "邀请四组不同婚龄的夫妻和一组准夫妻代表，展开一场为期18天的家庭关系修学之旅，五组夫妻通过爱的联系修取学分，为亲密关系助力，修满即可毕业。",
-      "rating": 7.0,
-      "voteCount": 1,
-      "popularity": 3.0357,
-      "releaseDate": "2023-11-07",
-      "lastUpdateDate": "2026-11-04",
-      "posterPath": "/3mcekQNoJFgciDfKRoKpW7JrD1X.jpg",
-      "backdropPath": "/oDsJr57a2H29P4DVzZLUCztVMPZ.jpg",
+      "title": "有你的恋歌",
+      "description": "《有你的恋歌》讲述了具有一定音乐属性的男女嘉宾们共同入住「恋恋小屋」，以“同频”为起点展开的一段甜蜜交往体验。 在此期间，TA们将会不定时地进行约会和音乐创作，并且每天通过“恋恋音乐电台”点歌来向心仪的TA传达自己的心意，展现了在音乐催化下真挚的情感发展和浪漫的恋爱状态，铺陈出一场极致热烈的寻爱之旅。 这群鲜活而又感性的青春男女，以心动的TA为灵感缪斯，用音符描绘甜蜜的故事，用旋律勾勒属于彼此的深刻记忆，用音乐、表达爱！",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 1.9024,
+      "releaseDate": "2025-01-08",
+      "lastUpdateDate": "2026-10-19",
+      "posterPath": "/Ri7z7mFfevY6YMOnecoX1zfLZw.jpg",
+      "backdropPath": "/shJJIUuocAxe1FRS9V4jPsv201Z.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
@@ -1140,6 +1110,21 @@
       "lastUpdateDate": "2026-10-23",
       "posterPath": "/ladRcczkCEFXFxycIleWgx9yV5q.jpg",
       "backdropPath": "/y8kPD0sQqlL8lo7oYZVtYWP330Y.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
+      "id": "239038",
+      "type": "tmdb",
+      "title": "爱的修学旅行",
+      "description": "邀请四组不同婚龄的夫妻和一组准夫妻代表，展开一场为期18天的家庭关系修学之旅，五组夫妻通过爱的联系修取学分，为亲密关系助力，修满即可毕业。",
+      "rating": 7.0,
+      "voteCount": 1,
+      "popularity": 3.0357,
+      "releaseDate": "2023-11-07",
+      "lastUpdateDate": "2026-11-04",
+      "posterPath": "/3mcekQNoJFgciDfKRoKpW7JrD1X.jpg",
+      "backdropPath": "/oDsJr57a2H29P4DVzZLUCztVMPZ.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
@@ -1249,21 +1234,6 @@
       "genreTitle": ""
     },
     {
-      "id": "341434",
-      "type": "tmdb",
-      "title": "后会友期 沉浸版",
-      "description": "《后会友期 沉浸版》是《后会友期》的官方衍生节目，完整展示四组真人秀嘉宾友情关系，沉浸式感受真实的友情困局。",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 1.4885,
-      "releaseDate": "2026-10-22",
-      "lastUpdateDate": "2026-11-06",
-      "posterPath": "/bNVRk1wQas6mHedxbfwVCqsNURF.jpg",
-      "backdropPath": "/f7Nbj5FwSsoCqxE2ZWq1MMcu8Kd.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "339488",
       "type": "tmdb",
       "title": "佳佳的花园",
@@ -1277,6 +1247,21 @@
       "backdropPath": "/rPq8LM6f0Ja0QJPEt8Yh5RdAPEr.jpg",
       "mediaType": "tv",
       "genreTitle": ""
+    },
+    {
+      "id": "341434",
+      "type": "tmdb",
+      "title": "后会友期 沉浸版",
+      "description": "《后会友期 沉浸版》是《后会友期》的官方衍生节目，完整展示四组真人秀嘉宾友情关系，沉浸式感受真实的友情困局。",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 1.4885,
+      "releaseDate": "2026-10-22",
+      "lastUpdateDate": "2026-11-06",
+      "posterPath": "/bNVRk1wQas6mHedxbfwVCqsNURF.jpg",
+      "backdropPath": "/f7Nbj5FwSsoCqxE2ZWq1MMcu8Kd.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
     },
     {
       "id": "338938",
