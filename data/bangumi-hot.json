@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19 04:57:01",
+  "last_updated": "2026-11-19 16:05:36",
   "total_matched": 112,
   "hot_anime": [
     {
@@ -168,21 +168,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "132131",
-      "tmdbId": 132131,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "未麻的部屋：讲座",
-      "releaseDate": "2008-02-29",
-      "lastUpdateDate": "2008-02-29",
-      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
-      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
-      "rating": 8.0,
-      "description": "《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
-      "genreTitle": "纪录片",
-      "regionTitle": "日本"
-    },
-    {
       "id": "64492",
       "tmdbId": 64492,
       "type": "tmdb",
@@ -195,6 +180,21 @@
       "rating": 7.8,
       "description": "所谓的“白箱”，是指在动画放送之前，专门制作赠送给参与了动画制作的工作人员们的录像带，其本身拥有着令人感动的悠久历史，因为这些录像带通常都被装在白色的盒子里，所以被成为“白箱”。一直坚守着自己理想的制作人宫森葵、个性认真但有些懦弱的原画师安原绘麻、怀才不遇的声优坂木静香、CG画师藤堂美沙和容易沉迷与自身兴趣爱好的剧本作家今井绿，五个个性迥异的女孩，朝着顺利完成白箱的梦想共同努力迈进，在这条并不轻松的道路上，会发生哪些有趣的故事呢？",
       "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本"
+    },
+    {
+      "id": "132131",
+      "tmdbId": 132131,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "未麻的部屋：讲座",
+      "releaseDate": "2008-02-29",
+      "lastUpdateDate": "2008-02-29",
+      "posterPath": "/jI2Qu1FDrLwNfpWLVHzQXL490b1.jpg",
+      "backdropPath": "/pv49gBHvLtSgSipjIaK0wwrRlnl.jpg",
+      "rating": 8.0,
+      "description": "《未麻的部屋》导演今敏给学生开的大师课，讲解他第一部动画电影不同的意义。",
+      "genreTitle": "纪录片",
       "regionTitle": "日本"
     },
     {
@@ -618,21 +618,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "13674",
-      "tmdbId": 13674,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "机动战士Z高达",
-      "releaseDate": "1985-03-02",
-      "lastUpdateDate": "1986-02-22",
-      "posterPath": "/mnQ9OFEu2CCoNpQaNPivkObLl7F.jpg",
-      "backdropPath": "/zK1OaOHgl7dNAE1sKEMXatu2I1s.jpg",
-      "rating": 7.8,
-      "description": "故事舞台是在机动战士高达中的一年战争终结后七年。\n\n战争结束后一部份吉恩公国军事势力并未降伏继续在各地与地球联邦军发生军事冲突，因此地球联邦军内部强力主张追杀吉恩残余份子的激进排他势力泰坦斯（Titans）结成。\n\n由于泰坦斯对宇宙住民的强硬血腥镇压的手段，反势力奥古(A.E.U.G.)结成。\n\n故事的开始于宇宙世纪0087年（U.C. 0087），前半主要围绕奥古和泰坦斯两派系的对抗，中段吉恩残余份子阿克西斯登场，与奥古、泰坦斯角力周周旋，展开激战。",
-      "genreTitle": "动作冒险 / 剧情",
-      "regionTitle": "日本"
-    },
-    {
       "id": "16157",
       "tmdbId": 16157,
       "type": "tmdb",
@@ -646,6 +631,21 @@
       "description": "宇宙世纪0093年，成为新吉恩总帅的夏亚·阿兹纳布尔对依然被地球重力所束缚的人类灵魂感到绝望，决心以激烈的手段加以肃正。查知此事的地球联邦军王牌驾驶员阿姆罗·雷及其所属的朗德·贝尔舰队一起与夏亚所领导的新吉恩军展开最后的决战……",
       "genreTitle": "动作 / 科幻",
       "regionTitle": "未知地区"
+    },
+    {
+      "id": "13674",
+      "tmdbId": 13674,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "机动战士Z高达",
+      "releaseDate": "1985-03-02",
+      "lastUpdateDate": "1986-02-22",
+      "posterPath": "/mnQ9OFEu2CCoNpQaNPivkObLl7F.jpg",
+      "backdropPath": "/zK1OaOHgl7dNAE1sKEMXatu2I1s.jpg",
+      "rating": 7.8,
+      "description": "故事舞台是在机动战士高达中的一年战争终结后七年。\n\n战争结束后一部份吉恩公国军事势力并未降伏继续在各地与地球联邦军发生军事冲突，因此地球联邦军内部强力主张追杀吉恩残余份子的激进排他势力泰坦斯（Titans）结成。\n\n由于泰坦斯对宇宙住民的强硬血腥镇压的手段，反势力奥古(A.E.U.G.)结成。\n\n故事的开始于宇宙世纪0087年（U.C. 0087），前半主要围绕奥古和泰坦斯两派系的对抗，中段吉恩残余份子阿克西斯登场，与奥古、泰坦斯角力周周旋，展开激战。",
+      "genreTitle": "动作冒险 / 剧情",
+      "regionTitle": "日本"
     },
     {
       "id": "26867",
@@ -663,21 +663,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "10515",
-      "tmdbId": 10515,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "天空之城",
-      "releaseDate": "1986-08-02",
-      "lastUpdateDate": "1986-08-02",
-      "posterPath": "/evy3OHJrqWEPnkeBNzpPAAylG5K.jpg",
-      "backdropPath": "/3cyjYtLWCBE1uvWINHFsFnE8LUK.jpg",
-      "rating": 8.0,
-      "description": "古老帝国拉普达是一座漂浮在空中的巨大的机器岛，传说那里已经无人居住，蕴藏着巨大的财富。因此，无论军方还是海盗，都在找寻着这座传说中的飞行岛。矿工巴鲁这天偶遇拉普达继承人希达，两人一见如故。因为希达身上有找寻拉普达帝国的重要物件飞行石，军方和海盗两帮人马都在追杀希达。巴鲁带着希达一起逃亡，最终都没有逃出军方的手中，希达被军队掳走了。为救朋友，巴鲁只能选择与海盗合作。巴鲁与海盗成功救出了希达，同时，他们也发现了军方的邪恶计划。为了阻止军方邪恶计划的实施，他们和海盗一起踏上了寻找拉普达之旅。",
-      "genreTitle": "冒险 / 奇幻 / 动作",
-      "regionTitle": "未知地区"
-    },
-    {
       "id": "39853",
       "tmdbId": 39853,
       "type": "tmdb",
@@ -690,6 +675,21 @@
       "rating": 7.6,
       "description": "身着燕尾服一本正经的钢琴家汤姆走上舞台，与乐队合作为观众演奏李斯特的《匈牙利狂想曲》。专心致志的汤姆丝毫没有料到，一位不速之客将打乱它的表演。此时此刻，小老鼠杰瑞正在钢琴内高音区睡觉，汤姆的演奏搅扰了它的睡眠，生气的杰瑞索性起身，干扰汤姆的演出。汤姆一面要应付小杰瑞的捣乱，一面又要努力演奏，手忙脚乱，应接不暇。在杰瑞的捣乱下，整场演出妙趣横生，当然对汤姆来说这无疑是一场恶梦……本片荣获1947年奥斯卡最佳动画短片奖。",
       "genreTitle": "喜剧 / 音乐",
+      "regionTitle": "未知地区"
+    },
+    {
+      "id": "10515",
+      "tmdbId": 10515,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "天空之城",
+      "releaseDate": "1986-08-02",
+      "lastUpdateDate": "1986-08-02",
+      "posterPath": "/evy3OHJrqWEPnkeBNzpPAAylG5K.jpg",
+      "backdropPath": "/3cyjYtLWCBE1uvWINHFsFnE8LUK.jpg",
+      "rating": 8.0,
+      "description": "古老帝国拉普达是一座漂浮在空中的巨大的机器岛，传说那里已经无人居住，蕴藏着巨大的财富。因此，无论军方还是海盗，都在找寻着这座传说中的飞行岛。矿工巴鲁这天偶遇拉普达继承人希达，两人一见如故。因为希达身上有找寻拉普达帝国的重要物件飞行石，军方和海盗两帮人马都在追杀希达。巴鲁带着希达一起逃亡，最终都没有逃出军方的手中，希达被军队掳走了。为救朋友，巴鲁只能选择与海盗合作。巴鲁与海盗成功救出了希达，同时，他们也发现了军方的邪恶计划。为了阻止军方邪恶计划的实施，他们和海盗一起踏上了寻找拉普达之旅。",
+      "genreTitle": "冒险 / 奇幻 / 动作",
       "regionTitle": "未知地区"
     },
     {
@@ -993,6 +993,21 @@
       "regionTitle": "日本"
     },
     {
+      "id": "77694",
+      "tmdbId": 77694,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "赛马娘 Pretty Derby",
+      "releaseDate": "2018-04-02",
+      "lastUpdateDate": "2023-12-28",
+      "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
+      "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
+      "rating": 8.3,
+      "description": "这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
+      "genreTitle": "喜剧 / 剧情",
+      "regionTitle": "日本"
+    },
+    {
       "id": "283566",
       "tmdbId": 283566,
       "type": "tmdb",
@@ -1020,21 +1035,6 @@
       "rating": 8.4,
       "description": "作为网络吉他手“吉他英雄”而广受好评的后藤独，在现实中却是个什么都不会的沟通障碍者。独有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作经历的独，在人前完全发挥不出原本的实力。为了努力克服沟通障碍，独与“结束乐队”的成员们一同开始努力……",
       "genreTitle": "喜剧",
-      "regionTitle": "日本"
-    },
-    {
-      "id": "77694",
-      "tmdbId": 77694,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "赛马娘 Pretty Derby",
-      "releaseDate": "2018-04-02",
-      "lastUpdateDate": "2023-12-28",
-      "posterPath": "/zshFhzPssTGkt95HPsidu5cgMOO.jpg",
-      "backdropPath": "/pTBU3Xnxp2zzQjrEIO3BQkXyabY.jpg",
-      "rating": 8.3,
-      "description": "这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！\n\n这是从异世界传承下光辉的姓名与竞跑能力的“赛马娘”、长久以来与人类共存着的世界的故事。憧憬着皇帝，向不败的三连冠冲刺的赛马娘东海帝皇，以及背负着名家的荣耀，向天皇赏连霸发起挑战的目白麦昆。二人既是对手，也是伙伴，一同向着梦想——“闪光系列赛”的优胜，全力奔跑！",
-      "genreTitle": "喜剧 / 剧情",
       "regionTitle": "日本"
     },
     {
@@ -1248,21 +1248,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "72636",
-      "tmdbId": 72636,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "来自深渊",
-      "releaseDate": "2017-07-07",
-      "lastUpdateDate": "2022-09-28",
-      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
-      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
-      "rating": 8.3,
-      "description": "在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
-      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
-      "regionTitle": "日本"
-    },
-    {
       "id": "31654",
       "tmdbId": 31654,
       "type": "tmdb",
@@ -1308,6 +1293,21 @@
       "regionTitle": "日本"
     },
     {
+      "id": "72636",
+      "tmdbId": 72636,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "来自深渊",
+      "releaseDate": "2017-07-07",
+      "lastUpdateDate": "2022-09-28",
+      "posterPath": "/mvsqo90yoawfkPvibQXkXeWEEoz.jpg",
+      "backdropPath": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
+      "rating": 8.3,
+      "description": "在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
+      "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
+      "regionTitle": "日本"
+    },
+    {
       "id": "357405",
       "tmdbId": 357405,
       "type": "tmdb",
@@ -1320,6 +1320,21 @@
       "rating": 6.9,
       "description": "故事在电视动画版完结之后，虽然大洗女子学园在第63届全国战车道大赛中拿得冠军，但文部科学省违背承诺，仍决定要大洗学园废校。不过，官员们仍给大洗学员一次机会，就是要大洗战车道部和大学生选拔队来一场对战。可是，大学生选拔队的实力比一般高中生战车道队强很多倍之外，她们所使用的战车比高中生们所用的更先进，此外，队长还是西住流旗鼓相当的战车道世家—岛田流出身……不过，美穗等人得到各个学园舰的战车道部出手支援，一起为守护大洗学园而并肩作战。",
       "genreTitle": "动作 / 喜剧",
+      "regionTitle": "未知地区"
+    },
+    {
+      "id": "37280",
+      "tmdbId": 37280,
+      "type": "tmdb",
+      "mediaType": "movie",
+      "title": "蜡笔小新：呼风唤雨！大人帝国的反击",
+      "releaseDate": "2001-04-21",
+      "lastUpdateDate": "2001-04-21",
+      "posterPath": "/AgU1NkeXlkizsIdg9atqyomO1P1.jpg",
+      "backdropPath": "/xGGqwdWOrCfOpwK6RGqswbihwxY.jpg",
+      "rating": 8.2,
+      "description": "这天在小新居住的春日部附近，突然新开了一家叫“20世纪博”的游乐园。游乐园里到处播放着从前20世纪的旧的电视节目和电影，这里，一切都是从前时光的回放。每一个到了这里的大人，都沉浸在过去的旧时光里，而对小孩子来说，这些的东西一点意思都没有。令小新万万想不到的是，进入了游乐园的爸爸妈妈都不在理会其他事情，只是一直沉醉在以往的时光里。城里的大人们都进去了，只剩下了小孩子！这到底是谁的阴谋，小新他们能否粉碎这阴谋？",
+      "genreTitle": "喜剧 / 冒险",
       "regionTitle": "未知地区"
     },
     {
@@ -1336,21 +1351,6 @@
       "description": "作品主要讲述了进入北宇治高中就读的主人公黄前久美子，在同班同学加藤叶月的热烈影响下加入了该校的吹奏部。北宇治高中吹奏部直到5年前还是关西大会的常客，并且过去还是全国大会出场过的强校代表，然而自从顾问换了之后，该吹奏部就再也没有挺进过关西大会。之后以新顾问的赴任为契机，怀揣着高远目标的部员们挥洒着奋斗的青春，过着波澜万丈的每一天。终于，比赛的日子也即将到来……",
       "genreTitle": "剧情",
       "regionTitle": "日本"
-    },
-    {
-      "id": "37280",
-      "tmdbId": 37280,
-      "type": "tmdb",
-      "mediaType": "movie",
-      "title": "蜡笔小新：呼风唤雨！大人帝国的反击",
-      "releaseDate": "2001-04-21",
-      "lastUpdateDate": "2001-04-21",
-      "posterPath": "/AgU1NkeXlkizsIdg9atqyomO1P1.jpg",
-      "backdropPath": "/xGGqwdWOrCfOpwK6RGqswbihwxY.jpg",
-      "rating": 8.2,
-      "description": "这天在小新居住的春日部附近，突然新开了一家叫“20世纪博”的游乐园。游乐园里到处播放着从前20世纪的旧的电视节目和电影，这里，一切都是从前时光的回放。每一个到了这里的大人，都沉浸在过去的旧时光里，而对小孩子来说，这些的东西一点意思都没有。令小新万万想不到的是，进入了游乐园的爸爸妈妈都不在理会其他事情，只是一直沉醉在以往的时光里。城里的大人们都进去了，只剩下了小孩子！这到底是谁的阴谋，小新他们能否粉碎这阴谋？",
-      "genreTitle": "喜剧 / 冒险",
-      "regionTitle": "未知地区"
     },
     {
       "id": "67851",
@@ -1443,21 +1443,6 @@
       "regionTitle": "日本"
     },
     {
-      "id": "207250",
-      "tmdbId": 207250,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "我心里危险的东西",
-      "releaseDate": "2023-04-02",
-      "lastUpdateDate": "2024-03-31",
-      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
-      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "rating": 8.6,
-      "description": "重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
-      "genreTitle": "喜剧",
-      "regionTitle": "日本"
-    },
-    {
       "id": "330287",
       "tmdbId": 330287,
       "type": "tmdb",
@@ -1469,6 +1454,21 @@
       "backdropPath": "/ZJpPJj5lFTLFhdaqt1vwj7xPY3.jpg",
       "rating": 8.0,
       "description": "「每一样都令人怀念，而全部都是无可取代的重要回忆。」这里是聚集秀才的菁英学校──秀知院学园。\n\n在那里的学生会中相遇的副会长四宫辉夜，与学生会长白银御行，两人经历长期的恋爱头脑战后，终于确定交往……。\n\n时光流逝──辉夜独自在房间里翻阅着一本图库。\n\n图库中的一张张照片，收录着她与白银，以及在秀知院学园度过的伙伴们之间的点滴回忆。\n\n随着她沉浸在怀念之情中，一页又一页翻过。\n\n而辉夜的回忆也再次鲜明地涌上心头……",
+      "genreTitle": "喜剧",
+      "regionTitle": "日本"
+    },
+    {
+      "id": "207250",
+      "tmdbId": 207250,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "我心里危险的东西",
+      "releaseDate": "2023-04-02",
+      "lastUpdateDate": "2024-03-31",
+      "posterPath": "/n8aZlg8QZrqhCRYsobYh7LYElO7.jpg",
+      "backdropPath": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "rating": 8.6,
+      "description": "重度中二病的阴暗角色市川京太郎和班级内受欢迎的山田杏奈\n\n市川看着做出不符合美少女身份的行为的山田\n\n她究竟知道市川的这份感情吗\n\n山田天真烂漫地走了过来\n\n完全是不同世界的两个人，他们的距离却在渐渐靠近……",
       "genreTitle": "喜剧",
       "regionTitle": "日本"
     },
@@ -1533,21 +1533,6 @@
       "regionTitle": "未知地区"
     },
     {
-      "id": "57041",
-      "tmdbId": 57041,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "银魂",
-      "releaseDate": "2006-04-04",
-      "lastUpdateDate": "2018-10-08",
-      "posterPath": "/wSV3CS1zwKf06HofZyHLUwAOiMi.jpg",
-      "backdropPath": "/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
-      "rating": 8.2,
-      "description": "江户时代末期（本作的 20 年前）, 被称为“天人（あまんと）”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签订不平等条约，准许他们入国。其后更颁布了“废刀令”，夺走了武士的刀，使他们无力反抗。自此，天人横行霸道，幕府为天人所影响，甚至被控制，成为了“傀儡政权”。在这样的时代，有一个武士与同伴愉快地过著异想天开的生活。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
-      "regionTitle": "日本"
-    },
-    {
       "id": "46195",
       "tmdbId": 46195,
       "type": "tmdb",
@@ -1578,18 +1563,18 @@
       "regionTitle": "日本"
     },
     {
-      "id": "78102",
-      "tmdbId": 78102,
+      "id": "57041",
+      "tmdbId": 57041,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "命运石之门 0",
-      "releaseDate": "2018-04-12",
-      "lastUpdateDate": "2018-09-26",
-      "posterPath": "/9u07yBllJTBRIcYxnfbgUxougk5.jpg",
-      "backdropPath": "/bSOHmFB4RnUoB6zcNiJmXOaoOXk.jpg",
-      "rating": 8.1,
-      "description": "2010年11月β世界线——\n\n主人公·冈部伦太郎跨越无数的苦难与悲哀，终究还是放弃拯救“她”的世界线。\n\n跌落失意谷底的冈部伦太郎。担心着他的同伴们。\n\n没能得到拯救的“她”将会变得如何？\n\n迎来新的角色，描绘而成的“零”之物语。",
-      "genreTitle": "科幻奇幻 / 剧情",
+      "title": "银魂",
+      "releaseDate": "2006-04-04",
+      "lastUpdateDate": "2018-10-08",
+      "posterPath": "/wSV3CS1zwKf06HofZyHLUwAOiMi.jpg",
+      "backdropPath": "/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+      "rating": 8.2,
+      "description": "江户时代末期（本作的 20 年前）, 被称为“天人（あまんと）”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签订不平等条约，准许他们入国。其后更颁布了“废刀令”，夺走了武士的刀，使他们无力反抗。自此，天人横行霸道，幕府为天人所影响，甚至被控制，成为了“傀儡政权”。在这样的时代，有一个武士与同伴愉快地过著异想天开的生活。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
       "regionTitle": "日本"
     },
     {
@@ -1623,33 +1608,18 @@
       "regionTitle": "日本"
     },
     {
-      "id": "40075",
-      "tmdbId": 40075,
+      "id": "78102",
+      "tmdbId": 78102,
       "type": "tmdb",
       "mediaType": "tv",
-      "title": "怪诞小镇",
-      "releaseDate": "2012-06-15",
-      "lastUpdateDate": "2016-02-15",
-      "posterPath": "/yIZXD8FVxLiuA1lutKIO1UOXoOn.jpg",
-      "backdropPath": "/l0XvAI856XdyDYEfr1njztjH7u0.jpg",
-      "rating": 8.6,
-      "description": "暑假到了，双胞胎姐弟俩梅宝（克里斯汀·沙尔配音）和迪普（杰森·雷特配音）被爸妈赶到一个偏僻小镇“重力泉”过暑假，在这里，他们的斯坦叔公经营着一家专门敲诈游客的旅游景点“神秘小屋”，其中有着各种各样稀奇古怪的东西。然而更让人感到毛骨悚然的，则是这个怪诞小镇里的森林。为人慎重、头脑聪明的迪普觉察到森林的异样，继而发现了一本埋在地下的神秘笔记本，里面记载着存在于神秘小镇的不为人知的秘密。乐天派的梅宝和机智的迪普，结识了神秘小屋的店员温蒂和苏斯，还遇到各种奇妙的小镇居民。在怪诞小镇重力泉，他们经历了一系列奇异事件，小矮人，湖怪，蜡像，通灵者，他们这个暑假注定不平凡。",
-      "genreTitle": "动作冒险 / 喜剧 / 悬疑",
-      "regionTitle": "美国"
-    },
-    {
-      "id": "12609",
-      "tmdbId": 12609,
-      "type": "tmdb",
-      "mediaType": "tv",
-      "title": "龙珠",
-      "releaseDate": "1986-02-26",
-      "lastUpdateDate": "1989-04-19",
-      "posterPath": "/mL9mLIRrYdjIQLv9wFlbo0lGTaA.jpg",
-      "backdropPath": "/30L49n4Dhn7dzuGG50GV3ybMhC3.jpg",
-      "rating": 8.3,
-      "description": "很久很久以前，曾流传着这样一个传说：世界各地散落着七颗龙珠，只要集齐这些珠子，就可召唤出神龙，而神龙可以帮助你实现任何一个愿望。住在深山中的小悟空本领高强，偶然的机会他随时尚少女布玛走出大山，四处寻找传说中的龙珠。期间碰上好色的龟仙人与乌龙、一碰女人就面红耳赤的乐平、自大的小和尚克林，经历了各种各样的艰险和奇遇，也惹出一连串爆笑的故事。当然还有许多邪恶的家伙为了满足私欲寻找龙珠，与小悟空他们展开了连番激斗……根据鸟山明同名漫画改编。",
-      "genreTitle": "动作冒险 / 科幻奇幻",
+      "title": "命运石之门 0",
+      "releaseDate": "2018-04-12",
+      "lastUpdateDate": "2018-09-26",
+      "posterPath": "/9u07yBllJTBRIcYxnfbgUxougk5.jpg",
+      "backdropPath": "/bSOHmFB4RnUoB6zcNiJmXOaoOXk.jpg",
+      "rating": 8.1,
+      "description": "2010年11月β世界线——\n\n主人公·冈部伦太郎跨越无数的苦难与悲哀，终究还是放弃拯救“她”的世界线。\n\n跌落失意谷底的冈部伦太郎。担心着他的同伴们。\n\n没能得到拯救的“她”将会变得如何？\n\n迎来新的角色，描绘而成的“零”之物语。",
+      "genreTitle": "科幻奇幻 / 剧情",
       "regionTitle": "日本"
     },
     {
@@ -1681,6 +1651,36 @@
       "description": "在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“深渊”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“深渊”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人……",
       "genreTitle": "剧情 / 动作冒险 / 科幻奇幻",
       "regionTitle": "日本"
+    },
+    {
+      "id": "12609",
+      "tmdbId": 12609,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "龙珠",
+      "releaseDate": "1986-02-26",
+      "lastUpdateDate": "1989-04-19",
+      "posterPath": "/mL9mLIRrYdjIQLv9wFlbo0lGTaA.jpg",
+      "backdropPath": "/30L49n4Dhn7dzuGG50GV3ybMhC3.jpg",
+      "rating": 8.3,
+      "description": "很久很久以前，曾流传着这样一个传说：世界各地散落着七颗龙珠，只要集齐这些珠子，就可召唤出神龙，而神龙可以帮助你实现任何一个愿望。住在深山中的小悟空本领高强，偶然的机会他随时尚少女布玛走出大山，四处寻找传说中的龙珠。期间碰上好色的龟仙人与乌龙、一碰女人就面红耳赤的乐平、自大的小和尚克林，经历了各种各样的艰险和奇遇，也惹出一连串爆笑的故事。当然还有许多邪恶的家伙为了满足私欲寻找龙珠，与小悟空他们展开了连番激斗……根据鸟山明同名漫画改编。",
+      "genreTitle": "动作冒险 / 科幻奇幻",
+      "regionTitle": "日本"
+    },
+    {
+      "id": "40075",
+      "tmdbId": 40075,
+      "type": "tmdb",
+      "mediaType": "tv",
+      "title": "怪诞小镇",
+      "releaseDate": "2012-06-15",
+      "lastUpdateDate": "2016-02-15",
+      "posterPath": "/yIZXD8FVxLiuA1lutKIO1UOXoOn.jpg",
+      "backdropPath": "/l0XvAI856XdyDYEfr1njztjH7u0.jpg",
+      "rating": 8.6,
+      "description": "暑假到了，双胞胎姐弟俩梅宝（克里斯汀·沙尔配音）和迪普（杰森·雷特配音）被爸妈赶到一个偏僻小镇“重力泉”过暑假，在这里，他们的斯坦叔公经营着一家专门敲诈游客的旅游景点“神秘小屋”，其中有着各种各样稀奇古怪的东西。然而更让人感到毛骨悚然的，则是这个怪诞小镇里的森林。为人慎重、头脑聪明的迪普觉察到森林的异样，继而发现了一本埋在地下的神秘笔记本，里面记载着存在于神秘小镇的不为人知的秘密。乐天派的梅宝和机智的迪普，结识了神秘小屋的店员温蒂和苏斯，还遇到各种奇妙的小镇居民。在怪诞小镇重力泉，他们经历了一系列奇异事件，小矮人，湖怪，蜡像，通灵者，他们这个暑假注定不平凡。",
+      "genreTitle": "动作冒险 / 喜剧 / 悬疑",
+      "regionTitle": "美国"
     }
   ]
 }
