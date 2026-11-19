@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19 15:42:29",
+  "last_updated": "2026-11-20 04:51:34",
   "tv": [
     {
       "id": "285147",
@@ -368,7 +368,7 @@
       "description": "白面书生萧白娶悍妻徐三娘，谁知她是失忆女将军，他是隐姓世子爷。假夫妻变真战友，组百姓军抗倭寇，斗权宦，夫妻联手揭阴谋，救孤寡，在乱世中为百姓打下一座侠义之城。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 1.2524,
+      "popularity": 1.021,
       "releaseDate": "2026-03-17",
       "lastUpdateDate": "2026-03-17",
       "posterPath": "/xp46fyn4eaecwJZ0cBnTfGwwxwY.jpg",
@@ -1114,21 +1114,6 @@
       "genreTitle": "真人秀"
     },
     {
-      "id": "304080",
-      "type": "tmdb",
-      "title": "当家爸爸的聚会",
-      "description": "节目计划开启一年两季的寒暑假季番规划，每季10期。首季将由《爸爸当家·慢享季》中热度最高的王永鸿家庭作为“东道主”发起聚会邀请，邀约全职爸爸互助会中有时间聚会的几组家庭，开启一段以“来我家聚一聚”为主题的家乡团建和研学之旅。",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 0.3984,
-      "releaseDate": "2025-10-15",
-      "lastUpdateDate": "2026-10-25",
-      "posterPath": "/12LyvRx6OHbwx5DTnjOKSwWJRZ2.jpg",
-      "backdropPath": "/zIxgzMsXIOBSxHlkpbsHiKuBCyO.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀,家庭"
-    },
-    {
       "id": "281511",
       "type": "tmdb",
       "title": "有你的恋歌",
@@ -1142,6 +1127,21 @@
       "backdropPath": "/shJJIUuocAxe1FRS9V4jPsv201Z.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
+    },
+    {
+      "id": "304080",
+      "type": "tmdb",
+      "title": "当家爸爸的聚会",
+      "description": "节目计划开启一年两季的寒暑假季番规划，每季10期。首季将由《爸爸当家·慢享季》中热度最高的王永鸿家庭作为“东道主”发起聚会邀请，邀约全职爸爸互助会中有时间聚会的几组家庭，开启一段以“来我家聚一聚”为主题的家乡团建和研学之旅。",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 0.3984,
+      "releaseDate": "2025-10-15",
+      "lastUpdateDate": "2026-10-25",
+      "posterPath": "/12LyvRx6OHbwx5DTnjOKSwWJRZ2.jpg",
+      "backdropPath": "/zIxgzMsXIOBSxHlkpbsHiKuBCyO.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀,家庭"
     },
     {
       "id": "331569",
@@ -1174,21 +1174,6 @@
       "genreTitle": "真人秀"
     },
     {
-      "id": "126490",
-      "type": "tmdb",
-      "title": "我家那闺女",
-      "description": "由湖南卫视陈歆宇工作室打造，开启全新电视类代际观察综艺。节目以不同职业但努力生活的闺女身份代入，讲述闺女们的生活爱好、奋斗历程细节，还有当下正在面临或者即将面临的职业瓶颈、生活压力、家庭关系、父母养老、与朋友同事合作等问题，展开深入探讨，引导大家多多关注女性生活，鼓励女性努力追求属于自己的梦想。",
-      "rating": 6.2,
-      "voteCount": 4,
-      "popularity": 16.3136,
-      "releaseDate": "2019-01-05",
-      "lastUpdateDate": "2026-10-25",
-      "posterPath": "/8gV9bRO0jVhjOPGD2s2HzyWtl9V.jpg",
-      "backdropPath": "/yA4mTJfmB0hwslIJPMZXeYbtj0k.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "278513",
       "type": "tmdb",
       "title": "我在中国当农人",
@@ -1200,6 +1185,21 @@
       "lastUpdateDate": "2026-10-12",
       "posterPath": "/7y9B37zqnTY4XSPY4qMnp8uRwJV.jpg",
       "backdropPath": "/aPUiEgfN1gAqyuvB0ISmxYQHTyJ.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
+      "id": "126490",
+      "type": "tmdb",
+      "title": "我家那闺女",
+      "description": "由湖南卫视陈歆宇工作室打造，开启全新电视类代际观察综艺。节目以不同职业但努力生活的闺女身份代入，讲述闺女们的生活爱好、奋斗历程细节，还有当下正在面临或者即将面临的职业瓶颈、生活压力、家庭关系、父母养老、与朋友同事合作等问题，展开深入探讨，引导大家多多关注女性生活，鼓励女性努力追求属于自己的梦想。",
+      "rating": 6.2,
+      "voteCount": 4,
+      "popularity": 16.3136,
+      "releaseDate": "2019-01-05",
+      "lastUpdateDate": "2026-10-25",
+      "posterPath": "/8gV9bRO0jVhjOPGD2s2HzyWtl9V.jpg",
+      "backdropPath": "/yA4mTJfmB0hwslIJPMZXeYbtj0k.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
@@ -1540,7 +1540,7 @@
       "description": "节目中每期有多位明星嘉宾出席，扮演不同的人物角色，他们中有一个侦探、一个凶手和四个嫌疑人，并同处于一个固定空间。他们共同面对一起精心策划的谋杀案，并需要通过搜集证据和推理找出真正的凶手。根据节目设定，整个过程中只有凶手一人可以说谎，为了隐藏身份会选择嫁祸他人，洗脱自己的嫌疑。\n\n《明星大侦探》是芒果TV小盒子工作室推出的系列明星推理真人秀节目。以“烧脑的剧情”与“悬疑推理以及找出真相完成破案”等节目主打，结合电视剧与综艺节目特点激发明星们的智慧的脑与刺激的剧情。等侦探们来破案，完成推理。节目制作模式引进自韩国JTBC节目《Crime Scene 犯罪现场》并进行本土化，芒果TV购得独家版权，并在原版PD指导下历时7个月制作了第一季节目。\n\n第7季起由晏吉工作室制作，并节目改名《大侦探》，转型为普法教育推理节目，并与最高人民法院共同推出全民普法宣传教育环节《大侦探合议庭》。",
       "rating": 8.6,
       "voteCount": 16,
-      "popularity": 82.1443,
+      "popularity": 80.5041,
       "releaseDate": "2016-03-27",
       "lastUpdateDate": "2026-05-13",
       "posterPath": "/bBtd3p4DZmVEuv8L9SelQ0MVE2B.jpg",
