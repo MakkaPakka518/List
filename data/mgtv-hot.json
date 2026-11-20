@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20 15:33:21",
+  "last_updated": "2026-11-21 04:36:04",
   "tv": [
     {
       "id": "285147",
@@ -128,7 +128,7 @@
       "description": "大蔚朝党争四起，沈苏禾被迫嫁二皇子，受尽欺辱家破人亡惨死寺中。一朝重生大婚当日，她决意伪装痴傻查真相，与煜王穆云峥联手查清冤案，扳倒皇后与四皇子，事后二人归隐相守。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 1.1157,
+      "popularity": 0.9895,
       "releaseDate": "2026-07-23",
       "lastUpdateDate": "2026-08-01",
       "posterPath": "/nkLOVsZql9IoWavTNNF0FaYwB9f.jpg",
@@ -711,7 +711,7 @@
       "type": "tmdb",
       "title": "还珠格格",
       "description": "紫薇（林心如 饰）偕丫环金锁（范冰冰 饰）带着乾隆（张铁林 饰）留给母亲的信物，从江南来到京城想与乾隆相认，发现进宫面圣根本无门，走投无路之际，她们遇上女飞贼小燕子（赵薇 饰），与之结为好友，不想因机缘巧合，本热心为紫薇帮忙的小燕子被乾隆错认为是自己女儿。为庆贺重获爱女，乾隆举行祭天 酬神仪式，仪仗队伍行经市街时被紫薇、金锁看到，紫薇太过激动昏倒在地，被大学士福伦之子福尔康（周杰 饰）所救，得知紫薇身世后，福家人将其收留，其后，紫薇在福尔康的安排下终又与小燕子见面，众人开始为紫薇与乾隆相认一事作种种安排，而在这一过程中，紫薇与福尔康，小燕子与五阿哥永琪（苏有朋 饰）也开始了爱情之旅。",
-      "rating": 7.6,
+      "rating": 7.617,
       "voteCount": 47,
       "popularity": 18.146,
       "releaseDate": "1998-04-28",
@@ -1075,7 +1075,7 @@
       "description": "《后会友期 沉浸版》是《后会友期》的官方衍生节目，完整展示四组真人秀嘉宾友情关系，沉浸式感受真实的友情困局。",
       "rating": 0.0,
       "voteCount": 0,
-      "popularity": 1.6079,
+      "popularity": 1.5629,
       "releaseDate": "2026-10-22",
       "lastUpdateDate": "2026-11-06",
       "posterPath": "/bNVRk1wQas6mHedxbfwVCqsNURF.jpg",
@@ -1144,21 +1144,6 @@
       "genreTitle": "真人秀"
     },
     {
-      "id": "281511",
-      "type": "tmdb",
-      "title": "有你的恋歌",
-      "description": "《有你的恋歌》讲述了具有一定音乐属性的男女嘉宾们共同入住「恋恋小屋」，以“同频”为起点展开的一段甜蜜交往体验。 在此期间，TA们将会不定时地进行约会和音乐创作，并且每天通过“恋恋音乐电台”点歌来向心仪的TA传达自己的心意，展现了在音乐催化下真挚的情感发展和浪漫的恋爱状态，铺陈出一场极致热烈的寻爱之旅。 这群鲜活而又感性的青春男女，以心动的TA为灵感缪斯，用音符描绘甜蜜的故事，用旋律勾勒属于彼此的深刻记忆，用音乐、表达爱！",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 1.8228,
-      "releaseDate": "2025-01-08",
-      "lastUpdateDate": "2026-10-19",
-      "posterPath": "/Ri7z7mFfevY6YMOnecoX1zfLZw.jpg",
-      "backdropPath": "/shJJIUuocAxe1FRS9V4jPsv201Z.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "304080",
       "type": "tmdb",
       "title": "当家爸爸的聚会",
@@ -1172,6 +1157,21 @@
       "backdropPath": "/zIxgzMsXIOBSxHlkpbsHiKuBCyO.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀,家庭"
+    },
+    {
+      "id": "281511",
+      "type": "tmdb",
+      "title": "有你的恋歌",
+      "description": "《有你的恋歌》讲述了具有一定音乐属性的男女嘉宾们共同入住「恋恋小屋」，以“同频”为起点展开的一段甜蜜交往体验。 在此期间，TA们将会不定时地进行约会和音乐创作，并且每天通过“恋恋音乐电台”点歌来向心仪的TA传达自己的心意，展现了在音乐催化下真挚的情感发展和浪漫的恋爱状态，铺陈出一场极致热烈的寻爱之旅。 这群鲜活而又感性的青春男女，以心动的TA为灵感缪斯，用音符描绘甜蜜的故事，用旋律勾勒属于彼此的深刻记忆，用音乐、表达爱！",
+      "rating": 0.0,
+      "voteCount": 0,
+      "popularity": 1.8228,
+      "releaseDate": "2025-01-08",
+      "lastUpdateDate": "2026-10-19",
+      "posterPath": "/Ri7z7mFfevY6YMOnecoX1zfLZw.jpg",
+      "backdropPath": "/shJJIUuocAxe1FRS9V4jPsv201Z.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
     },
     {
       "id": "342265",
@@ -1275,21 +1275,6 @@
       "lastUpdateDate": "2026-10-24",
       "posterPath": "/e1yLFGZOJyyFulvpJ0ajgZR4Xux.jpg",
       "backdropPath": "/nkdf4VIYq0Gvy8hCXZ6I2VkuNO.jpg",
-      "mediaType": "tv",
-      "genreTitle": ""
-    },
-    {
-      "id": "339488",
-      "type": "tmdb",
-      "title": "佳佳的花园",
-      "description": "《佳佳的花园》是靳梦佳为自己、也为同路人打造的一座城市之外的“精神自留地”。每期她邀请一位女性同行者来到花园，以“轻劳作+深对谈”的沉浸形式，在泥土与植物的包裹下，卸下心防，自然交心。从身体感知到心灵共鸣，传递真实、松弛、不完美的治愈力量，陪伴当代女性找到属于自己的生长节奏。",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 0.2579,
-      "releaseDate": "2026-10-02",
-      "lastUpdateDate": "2026-10-16",
-      "posterPath": "/osgHAsIInlQ3whr9NyUtlfbZCkh.jpg",
-      "backdropPath": "/rPq8LM6f0Ja0QJPEt8Yh5RdAPEr.jpg",
       "mediaType": "tv",
       "genreTitle": ""
     },
@@ -1450,7 +1435,7 @@
       "description": "首次聚焦全职男性视角的表达方式，通过不同阶段全职爸爸家庭的记录和观察，探讨新型态的家庭模式，带观众深度理解全职爸爸/妈妈，打破对于全职群体的偏见，思考自我价值实现的更多可能性。",
       "rating": 7.7,
       "voteCount": 3,
-      "popularity": 8.4634,
+      "popularity": 8.4729,
       "releaseDate": "2022-05-10",
       "lastUpdateDate": "2026-08-24",
       "posterPath": "/A4pxfbEafQWo9DMNU2b79r7Nafv.jpg",
