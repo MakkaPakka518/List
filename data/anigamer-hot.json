@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "AniGamer",
   "sourceUrl": "https://ani.gamer.com.tw/animeList.php",
-  "updatedAt": "2026-11-21T04:57:33+00:00",
+  "updatedAt": "2026-11-22T04:15:27+00:00",
   "lists": {
     "monthly": {
       "1": [
@@ -1219,14 +1219,6 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114209",
-          "sourceTitle": "學生會也有洞！",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 283938,
-          "mediaType": "tv"
-        },
-        {
           "sn": "114216",
           "sourceTitle": "來自遠方",
           "year": "2026",
@@ -1251,6 +1243,14 @@
           "mediaType": "tv"
         },
         {
+          "sn": "114209",
+          "sourceTitle": "學生會也有洞！",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 283938,
+          "mediaType": "tv"
+        },
+        {
           "sn": "114181",
           "sourceTitle": "轉生哥布林有問題嗎？",
           "year": "2026",
@@ -1267,29 +1267,29 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114214",
-          "sourceTitle": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 303060,
-          "mediaType": "tv"
-        },
-        {
           "sn": "114212",
           "sourceTitle": "一覺醒來就有了最強裝備跟太空船 決定以自家獨棟建築為目標當傭兵自由過活",
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 283692,
           "mediaType": "tv"
-        }
-      ],
-      "2": [
+        },
         {
           "sn": "114211",
           "sourceTitle": "大叔喜歡可愛小玩意",
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 330505,
+          "mediaType": "tv"
+        }
+      ],
+      "2": [
+        {
+          "sn": "114214",
+          "sourceTitle": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 303060,
           "mediaType": "tv"
         },
         {
@@ -1301,17 +1301,25 @@
           "mediaType": "tv"
         },
         {
+          "sn": "114210",
+          "sourceTitle": "用【循環利息】強制收回借出的魔力",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 333622,
+          "mediaType": "tv"
+        },
+        {
           "sn": "114219",
           "sourceTitle": "小狸貓和小狐狸",
           "year": "2026",
           "mediaHint": ""
         },
         {
-          "sn": "114210",
-          "sourceTitle": "用【循環利息】強制收回借出的魔力",
+          "sn": "114201",
+          "sourceTitle": "KERORO 軍曹☆",
           "year": "2026",
           "mediaHint": "",
-          "tmdbId": 333622,
+          "tmdbId": 308977,
           "mediaType": "tv"
         },
         {
@@ -1323,11 +1331,11 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114201",
-          "sourceTitle": "KERORO 軍曹☆",
+          "sn": "114206",
+          "sourceTitle": "黑色五葉草 Season 2",
           "year": "2026",
           "mediaHint": "",
-          "tmdbId": 308977,
+          "tmdbId": 73223,
           "mediaType": "tv"
         },
         {
@@ -1336,14 +1344,6 @@
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 285899,
-          "mediaType": "tv"
-        },
-        {
-          "sn": "114206",
-          "sourceTitle": "黑色五葉草 Season 2",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 73223,
           "mediaType": "tv"
         },
         {
@@ -1993,19 +1993,19 @@
           "mediaType": "tv"
         },
         {
-          "sn": "114031",
-          "sourceTitle": "茉莉花同學的好感度壞得很徹底",
-          "year": "2026",
-          "mediaHint": "",
-          "tmdbId": 315816,
-          "mediaType": "tv"
-        },
-        {
           "sn": "114042",
           "sourceTitle": "異世界悠閒農家 2",
           "year": "2026",
           "mediaHint": "",
           "tmdbId": 196285,
+          "mediaType": "tv"
+        },
+        {
+          "sn": "114031",
+          "sourceTitle": "茉莉花同學的好感度壞得很徹底",
+          "year": "2026",
+          "mediaHint": "",
+          "tmdbId": 315816,
           "mediaType": "tv"
         },
         {
@@ -10831,18 +10831,18 @@
               "mediaType": "tv"
             },
             {
+              "sn": "113160",
+              "sourceTitle": "刑警X戰士美少女",
+              "year": "2020",
+              "mediaHint": ""
+            },
+            {
               "sn": "113633",
               "sourceTitle": "香蕉喵遊世界",
               "year": "2024",
               "mediaHint": "",
               "tmdbId": 67656,
               "mediaType": "tv"
-            },
-            {
-              "sn": "113160",
-              "sourceTitle": "刑警X戰士美少女",
-              "year": "2020",
-              "mediaHint": ""
             },
             {
               "sn": "113787",
@@ -10899,18 +10899,18 @@
               "mediaType": "tv"
             },
             {
+              "sn": "113783",
+              "sourceTitle": "全力兔 第二季",
+              "year": "2025",
+              "mediaHint": ""
+            },
+            {
               "sn": "113595",
               "sourceTitle": "現代誤譯",
               "year": "2024",
               "mediaHint": "",
               "tmdbId": 257046,
               "mediaType": "tv"
-            },
-            {
-              "sn": "113783",
-              "sourceTitle": "全力兔 第二季",
-              "year": "2025",
-              "mediaHint": ""
             },
             {
               "sn": "110719",
