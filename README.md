@@ -48,6 +48,20 @@ FlixPatrol 数据按国家拆分，`data/flixpatrol/index.json` 提供国家与�
 https://raw.githubusercontent.com/MakkaPakka518/List/main/widget.js
 ```
 
+## 每日一言邮票
+
+独立测试模块：[widgets/daily-stamp.js](widgets/daily-stamp.js)。在 Rex 添加下面的 GitHub 原始文件地址，选择「每日三枚」：
+
+```text
+https://raw.githubusercontent.com/MakkaPakka518/List/main/widgets/daily-stamp.js
+```
+
+返回固定三条电影配图与一言，按北京时间日期缓存。短句分别来自一言的诗词、文学和哲学分类，保留作者、出处与日期；配图取自 TMDB 电影周趋势，优先寻找 4:3 图片，缺少时使用横图。短句与配图独立，详情返回配图电影的真实简介。首页排版由 rexhome 的 daily-stamp HTML 组件负责。
+
+```sh
+node --test tests/daily-stamp.test.cjs
+```
+
 ## 本地验证
 ```bash
 node test-widget.js   # 用真实 raw 数据回测 6 模块读取/映射/排序/分页
