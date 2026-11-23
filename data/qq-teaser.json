@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T04:33:15+08:00",
+  "updatedAt": "2026-11-24T04:49:15+08:00",
   "source": "腾讯视频 + 爱奇艺片库列表",
   "channels": {
     "tv": [
@@ -15,11 +15,12 @@
         "tags": [
           "家庭",
           "家长里短",
-          "家庭纠葛",
           "代际冲突",
+          "家庭纠葛",
           "亲情",
           "剧情"
         ],
+        "displayTitle": "多喜一家人",
         "tmdbId": 294498,
         "mediaType": "tv",
         "posterPath": "/oEHYm8uzdqbfD5aIe1YBJLq2ko3.jpg",
@@ -47,6 +48,7 @@
           "黑色幽默",
           "剧情"
         ],
+        "displayTitle": "走马上任",
         "tmdbId": 275297,
         "mediaType": "tv",
         "posterPath": "/6CT609w00EyrcUSZ4XFNfZJx19K.jpg",
@@ -72,6 +74,7 @@
           "守护爱人",
           "剧情"
         ],
+        "displayTitle": "尚公主",
         "tmdbId": 286171,
         "mediaType": "tv",
         "posterPath": "/bgPVGcFIlY2vetjneDXQ1WQbJRD.jpg",
@@ -94,6 +97,7 @@
           "犯罪",
           "悬疑"
         ],
+        "displayTitle": "繁华落尽",
         "tmdbId": 312533,
         "mediaType": "tv",
         "posterPath": "/5cul5XCefWdGJcUcf2ir5p2aQoJ.jpg",
@@ -118,6 +122,7 @@
           "探寻真相",
           "剧情"
         ],
+        "displayTitle": "玫瑰战争",
         "tmdbId": 299276,
         "mediaType": "tv",
         "posterPath": "/jXn1BymqkQhc4cAQ79diSJmo0KD.jpg",
@@ -141,6 +146,7 @@
           "热血战争",
           "War & Politics"
         ],
+        "displayTitle": "伟大的长征",
         "tmdbId": 297253,
         "mediaType": "tv",
         "posterPath": "/a9omtYBq4ViiIClL9PjGUk6JB4b.jpg",
@@ -150,8 +156,8 @@
         "voteCount": 5,
         "popularity": 6.5403,
         "alsoOn": [
-          "iq",
-          "qq"
+          "qq",
+          "iq"
         ]
       },
       {
@@ -170,6 +176,7 @@
           "守护爱人",
           "剧情"
         ],
+        "displayTitle": "庶女",
         "tmdbId": 342038,
         "mediaType": "tv",
         "posterPath": "/jgbeLg92joIBmlHp39l6natPjwz.jpg",
@@ -198,6 +205,7 @@
           "剧情",
           "家庭"
         ],
+        "displayTitle": "兰香如故",
         "tmdbId": 282326,
         "mediaType": "tv",
         "posterPath": "/kfurXRMH1ZkUoyT5HN72zLTQxzZ.jpg",
@@ -222,6 +230,7 @@
           "悬案",
           "犯罪"
         ],
+        "displayTitle": "醉梦",
         "tmdbId": 279923,
         "mediaType": "tv",
         "posterPath": "/3GNpPFZM6cuLMJCpuOFY0sgxHwf.jpg",
@@ -246,6 +255,7 @@
           "AI制作",
           "探寻真相"
         ],
+        "displayTitle": "秦岭青铜诡事录",
         "tmdbId": 320818,
         "mediaType": "tv",
         "posterPath": "/ieeZDf278zIcn0zE8Pzszv4dleP.jpg",
@@ -254,6 +264,29 @@
         "rating": 0,
         "voteCount": 0,
         "popularity": 0.6602
+      },
+      {
+        "source": "qq",
+        "cid": "mzc00200gif5djk",
+        "title": "贵妃欺人太甚",
+        "teaser": "弃妃为女复仇掀翻深宫",
+        "year": "2026",
+        "genre": "古装",
+        "area": "内地",
+        "episodeText": "全28集",
+        "tags": [
+          "古装",
+          "剧情"
+        ],
+        "displayTitle": "贵妃欺人太甚",
+        "tmdbId": 340544,
+        "mediaType": "tv",
+        "posterPath": "/tgXiP9UW20yqPd1NtbS3g35YQA2.jpg",
+        "backdropPath": "",
+        "releaseDate": "2026-11-02",
+        "rating": 8.0,
+        "voteCount": 1,
+        "popularity": 2.2055
       },
       {
         "source": "qq",
@@ -271,6 +304,7 @@
           "年代爱情",
           "年代感"
         ],
+        "displayTitle": "北境往事",
         "tmdbId": 318902,
         "mediaType": "tv",
         "posterPath": "/wRcvFG9jvL8xxKKY4MJLiImgE3C.jpg",
@@ -279,28 +313,6 @@
         "rating": 0,
         "voteCount": 0,
         "popularity": 1.9001
-      },
-      {
-        "source": "qq",
-        "cid": "mzc00200gif5djk",
-        "title": "贵妃欺人太甚",
-        "teaser": "弃妃为女复仇掀翻深宫",
-        "year": "2026",
-        "genre": "古装",
-        "area": "内地",
-        "episodeText": "全28集",
-        "tags": [
-          "古装",
-          "剧情"
-        ],
-        "tmdbId": 340544,
-        "mediaType": "tv",
-        "posterPath": "/tgXiP9UW20yqPd1NtbS3g35YQA2.jpg",
-        "backdropPath": "",
-        "releaseDate": "2026-11-02",
-        "rating": 8.0,
-        "voteCount": 1,
-        "popularity": 2.2055
       },
       {
         "source": "iq",
@@ -314,6 +326,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "两京十五日",
         "tmdbId": 203483,
         "mediaType": "tv",
         "posterPath": "/4VnwFQyDgAVN7tL7SPGe0AwngRd.jpg",
@@ -335,6 +348,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "小城良方",
         "tmdbId": 285625,
         "mediaType": "tv",
         "posterPath": "/fONYOXlKcphO290BSGxSCjnMPZg.jpg",
@@ -356,6 +370,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "折月亮",
         "tmdbId": 270431,
         "mediaType": "tv",
         "posterPath": "/3RrrTbz5zYmv8nZEj4PDXX47axi.jpg",
@@ -377,6 +392,7 @@
         "tags": [
           "悬疑"
         ],
+        "displayTitle": "罪恶拼图",
         "tmdbId": 336198,
         "mediaType": "tv",
         "posterPath": "/eYVkovBbF9jAlTQsnZtaO6FOyzE.jpg",
@@ -398,6 +414,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "蒸蒸日上",
         "tmdbId": 289080,
         "mediaType": "tv",
         "posterPath": "/jzGDCMFErqM8Ceus8BNbyK8bzic.jpg",
@@ -419,6 +436,7 @@
         "tags": [
           "悬疑"
         ],
+        "displayTitle": "自首真相",
         "tmdbId": 330828,
         "mediaType": "tv",
         "posterPath": "/sHruICRf9AIEVfSQ2lPqLsApEvS.jpg",
@@ -442,6 +460,7 @@
           "悬疑",
           "喜剧"
         ],
+        "displayTitle": "成何体统",
         "tmdbId": 280632,
         "mediaType": "tv",
         "posterPath": "/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
@@ -463,6 +482,7 @@
         "tags": [
           "犯罪"
         ],
+        "displayTitle": "余红旧事",
         "tmdbId": 301494,
         "mediaType": "tv",
         "posterPath": "/gQuFRZI5AhEpyuX93SvfY5sgGfP.jpg",
@@ -484,6 +504,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "魅影神捕",
         "tmdbId": 290699,
         "mediaType": "tv",
         "posterPath": "/caOlKDmGojKfaX3mTLZsG6VEGdz.jpg",
@@ -507,6 +528,7 @@
           "动作冒险",
           "犯罪"
         ],
+        "displayTitle": "狂飙",
         "tmdbId": 210757,
         "mediaType": "tv",
         "posterPath": "/xmBmR46Nks73VlTrCsH9i6KCWSH.jpg",
@@ -530,6 +552,7 @@
           "剧情",
           "家庭"
         ],
+        "displayTitle": "武林外传",
         "tmdbId": 64709,
         "mediaType": "tv",
         "posterPath": "/d2RpcJazbDxLVPVTK41pv11WrEy.jpg",
@@ -553,6 +576,7 @@
           "动作冒险",
           "War & Politics"
         ],
+        "displayTitle": "逐玉",
         "tmdbId": 279388,
         "mediaType": "tv",
         "posterPath": "/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
@@ -575,6 +599,7 @@
           "悬疑",
           "动作冒险"
         ],
+        "displayTitle": "唐朝诡事录之长安",
         "tmdbId": 333920,
         "mediaType": "tv",
         "posterPath": "/rL1SKeaZSglVPi1rBmQuIvFrB9c.jpg",
@@ -597,6 +622,7 @@
           "剧情",
           "悬疑"
         ],
+        "displayTitle": "莲花楼",
         "tmdbId": 230835,
         "mediaType": "tv",
         "posterPath": "/h8DteNYVPnGn6ZgCjIlQXW5KFUb.jpg",
@@ -618,6 +644,7 @@
         "tags": [
           "悬疑"
         ],
+        "displayTitle": "深渊",
         "tmdbId": 321036,
         "mediaType": "tv",
         "posterPath": "/lffTF1AQGPmR6o4TNEkaoZ97xQd.jpg",
@@ -639,6 +666,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "琅琊榜",
         "tmdbId": 64197,
         "mediaType": "tv",
         "posterPath": "/pzDC9rdyJhGdgVGoYuAj8LTHBtJ.jpg",
@@ -660,6 +688,7 @@
         "tags": [
           "悬疑"
         ],
+        "displayTitle": "唐朝诡事录之西行",
         "tmdbId": 325397,
         "mediaType": "tv",
         "posterPath": "/mXb1lfYoh3IYbiCRRH8C5rDZ9XQ.jpg",
@@ -681,6 +710,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "我和妈妈的长征",
         "tmdbId": 341814,
         "mediaType": "tv",
         "posterPath": "/jr4kQFgpSAM1OT3QekyIHoqKaaT.jpg",
@@ -705,6 +735,7 @@
           "犯罪",
           "喜剧"
         ],
+        "displayTitle": "低智商犯罪",
         "tmdbId": 272432,
         "mediaType": "tv",
         "posterPath": "/e4JlZu0PAQ2Qpg4Tj4qDfD0ePO1.jpg",
@@ -727,6 +758,7 @@
           "喜剧",
           "剧情"
         ],
+        "displayTitle": "卿卿日常",
         "tmdbId": 214172,
         "mediaType": "tv",
         "posterPath": "/m6fbbZQ7NvkFCG8jvls5f5nl2Lf.jpg",
@@ -749,6 +781,7 @@
           "剧情",
           "家庭"
         ],
+        "displayTitle": "我心灿烂",
         "tmdbId": 61813,
         "mediaType": "tv",
         "posterPath": "/h5bhCaLI7Au5OPHTbrfvMkUEkMi.jpg",
@@ -770,6 +803,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "夺金战",
         "tmdbId": 338308,
         "mediaType": "tv",
         "posterPath": "/yzLSHOwXxP7YpGuwRzAYBWYqAvw.jpg",
@@ -794,6 +828,7 @@
           "剧情",
           "动作冒险"
         ],
+        "displayTitle": "唐朝诡事录",
         "tmdbId": 211089,
         "mediaType": "tv",
         "posterPath": "/sgv6nwj1TlDDKqxbcUEuds8fqoz.jpg",
@@ -815,6 +850,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "家业",
         "tmdbId": 275966,
         "mediaType": "tv",
         "posterPath": "/fIdqYhJhuIGLMbWlvfZdIQalf2p.jpg",
@@ -837,6 +873,7 @@
           "犯罪",
           "剧情"
         ],
+        "displayTitle": "我是刑警",
         "tmdbId": 233971,
         "mediaType": "tv",
         "posterPath": "/b45ALi57pCGfucKOXLeWR0Sc2QB.jpg",
@@ -859,6 +896,7 @@
           "剧情",
           "悬疑"
         ],
+        "displayTitle": "冬至",
         "tmdbId": 243028,
         "mediaType": "tv",
         "posterPath": "/zXdl9MIQSfAZlxuDO6H8jUqglln.jpg",
@@ -881,6 +919,7 @@
           "剧情",
           "悬疑"
         ],
+        "displayTitle": "重案六组：消失的警号",
         "tmdbId": 319659,
         "mediaType": "tv",
         "posterPath": "/xiq23i6XsryjJvxYvqQsyE9Nzen.jpg",
@@ -903,6 +942,7 @@
           "喜剧",
           "剧情"
         ],
+        "displayTitle": "东北有个周东北",
         "tmdbId": 312027,
         "mediaType": "tv",
         "posterPath": "/zeyXoLKhpPWHcGCjN0RDE7MWCLn.jpg",
@@ -924,6 +964,7 @@
         "tags": [
           "喜剧"
         ],
+        "displayTitle": "请回答1988",
         "tmdbId": 64010,
         "mediaType": "tv",
         "posterPath": "/cX068rNsLNFnRCTNbqqARhwbhug.jpg",
@@ -946,6 +987,7 @@
           "剧情",
           "喜剧"
         ],
+        "displayTitle": "爱情有烟火",
         "tmdbId": 230311,
         "mediaType": "tv",
         "posterPath": "/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
@@ -967,6 +1009,7 @@
         "tags": [
           "犯罪"
         ],
+        "displayTitle": "罚罪2",
         "tmdbId": 296146,
         "mediaType": "tv",
         "posterPath": "/2YzIgz1Bi0hsXabPqnHU9ISn44F.jpg",
@@ -988,6 +1031,7 @@
         "tags": [
           "悬疑"
         ],
+        "displayTitle": "凛冬下的罪恶",
         "tmdbId": 327916,
         "mediaType": "tv",
         "posterPath": "/8PbjBwbkZgFj8k2bitxMFkllal5.jpg",
@@ -1009,6 +1053,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "雀骨",
         "tmdbId": 295558,
         "mediaType": "tv",
         "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
@@ -1030,6 +1075,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "人世间",
         "tmdbId": 156568,
         "mediaType": "tv",
         "posterPath": "/cK3LtFQexT7fj8h8ePJesEqUwj7.jpg",
@@ -1051,6 +1097,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "生万物",
         "tmdbId": 272485,
         "mediaType": "tv",
         "posterPath": "/ymPem0W7g2ZtoQMqhsOsBFJxlKh.jpg",
@@ -1072,6 +1119,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "赴山海",
         "tmdbId": 263034,
         "mediaType": "tv",
         "posterPath": "/jOEKN1yCpbTwuVCN4RxLCVHEn8c.jpg",
@@ -1093,6 +1141,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "黑岛监狱",
         "tmdbId": 335024,
         "mediaType": "tv",
         "posterPath": "/tJZPTF2kZSu1zMVlXGf9dUIh96Q.jpg",
@@ -1114,6 +1163,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "重器",
         "tmdbId": 291856,
         "mediaType": "tv",
         "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
@@ -1135,6 +1185,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "爱你",
         "tmdbId": 256128,
         "mediaType": "tv",
         "posterPath": "/n9wfQg9QHCksPH3BGbvR0YIn5cz.jpg",
@@ -1143,27 +1194,6 @@
         "rating": 7.993,
         "voteCount": 67,
         "popularity": 7.9862
-      },
-      {
-        "source": "iq",
-        "cid": "iq6101774791374801",
-        "title": "醒来",
-        "teaser": "小人物误入乱世风云",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "22集全",
-        "tags": [
-          "剧情"
-        ],
-        "tmdbId": 289761,
-        "mediaType": "tv",
-        "posterPath": "/lxULhYKRE1C6zhaCNO0R0Id7ReM.jpg",
-        "backdropPath": "/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
-        "releaseDate": "2026-08-26",
-        "rating": 6.75,
-        "voteCount": 4,
-        "popularity": 2.4834
       },
       {
         "source": "iq",
@@ -1178,14 +1208,37 @@
           "动作冒险",
           "剧情"
         ],
+        "displayTitle": "西游记",
         "tmdbId": 13923,
         "mediaType": "tv",
         "posterPath": "/XQHP9xEE1yEnvPpAQLSkjS6aKy.jpg",
         "backdropPath": "/vbl5Spyx3vEkxvtAVFYji6Z0Z7v.jpg",
         "releaseDate": "1986-02-09",
-        "rating": 8.364,
+        "rating": 8.4,
         "voteCount": 66,
         "popularity": 12.0071
+      },
+      {
+        "source": "iq",
+        "cid": "iq6101774791374801",
+        "title": "醒来",
+        "teaser": "小人物误入乱世风云",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "22集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "醒来",
+        "tmdbId": 289761,
+        "mediaType": "tv",
+        "posterPath": "/lxULhYKRE1C6zhaCNO0R0Id7ReM.jpg",
+        "backdropPath": "/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
+        "releaseDate": "2026-08-26",
+        "rating": 6.75,
+        "voteCount": 4,
+        "popularity": 2.4834
       },
       {
         "source": "iq",
@@ -1201,6 +1254,7 @@
           "犯罪",
           "家庭"
         ],
+        "displayTitle": "南来北往",
         "tmdbId": 233973,
         "mediaType": "tv",
         "posterPath": "/tEnoQHXZllNyZyIjkT0lKuYzCUU.jpg",
@@ -1222,6 +1276,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "一瓯春",
         "tmdbId": 294990,
         "mediaType": "tv",
         "posterPath": "/2WmnEfppQZ73qIX9agjvu99453q.jpg",
@@ -1243,6 +1298,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "与晋长安",
         "tmdbId": 253093,
         "mediaType": "tv",
         "posterPath": "/pjoIBOqCxIZNMhvXySYMmc9mcH.jpg",
@@ -1264,6 +1320,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "未尽之言",
         "tmdbId": 331484,
         "mediaType": "tv",
         "posterPath": "/maeEEbrcWTx63xEmGhuPS5QqXIx.jpg",
@@ -1287,6 +1344,7 @@
           "剧情",
           "犯罪"
         ],
+        "displayTitle": "深渊无间",
         "tmdbId": 301489,
         "mediaType": "tv",
         "posterPath": "/b9ngtGNgaHBbLihRrT0MsPRY0GW.jpg",
@@ -1308,6 +1366,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "悬崖",
         "tmdbId": 90588,
         "mediaType": "tv",
         "posterPath": "/camE9FFFJooazmPnjbQZSuf1aeq.jpg",
@@ -1329,6 +1388,7 @@
         "tags": [
           "悬疑"
         ],
+        "displayTitle": "把黑夜点燃",
         "tmdbId": 288328,
         "mediaType": "tv",
         "posterPath": "/aVfdtNadMfaxrwubm2cbL2nTDk3.jpg",
@@ -1350,6 +1410,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "特种兵之火凤凰",
         "tmdbId": 88419,
         "mediaType": "tv",
         "posterPath": "/hI2MNmO56DHTGpujUBhfcxtlD1S.jpg",
@@ -1371,6 +1432,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "谜林",
         "tmdbId": 336458,
         "mediaType": "tv",
         "posterPath": "/bPrwPDVoJOoLB02Tp8U8qZeKjaC.jpg",
@@ -1379,28 +1441,6 @@
         "rating": 0,
         "voteCount": 0,
         "popularity": 0.8609
-      },
-      {
-        "source": "iq",
-        "cid": "iq8059059459762501",
-        "title": "双轨",
-        "teaser": "日月同辉 暮暮朝朝",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "29集全",
-        "tags": [
-          "剧情",
-          "动作冒险"
-        ],
-        "tmdbId": 279041,
-        "mediaType": "tv",
-        "posterPath": "/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
-        "backdropPath": "/wCBgNbukU0eaTCdJrtX4wMpjfgx.jpg",
-        "releaseDate": "2025-12-12",
-        "rating": 8.4,
-        "voteCount": 52,
-        "popularity": 13.5531
       },
       {
         "source": "iq",
@@ -1415,6 +1455,7 @@
           "剧情",
           "War & Politics"
         ],
+        "displayTitle": "三国演义",
         "tmdbId": 72645,
         "mediaType": "tv",
         "posterPath": "/uDBCI4WlTNgiielf52HFKwYVseM.jpg",
@@ -1423,6 +1464,29 @@
         "rating": 9.1,
         "voteCount": 40,
         "popularity": 19.872
+      },
+      {
+        "source": "iq",
+        "cid": "iq8059059459762501",
+        "title": "双轨",
+        "teaser": "日月同辉 暮暮朝朝",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "29集全",
+        "tags": [
+          "剧情",
+          "动作冒险"
+        ],
+        "displayTitle": "双轨",
+        "tmdbId": 279041,
+        "mediaType": "tv",
+        "posterPath": "/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+        "backdropPath": "/wCBgNbukU0eaTCdJrtX4wMpjfgx.jpg",
+        "releaseDate": "2025-12-12",
+        "rating": 8.4,
+        "voteCount": 52,
+        "popularity": 13.5531
       },
       {
         "source": "iq",
@@ -1436,6 +1500,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "沉默的荣耀",
         "tmdbId": 281538,
         "mediaType": "tv",
         "posterPath": "/f9qtCpNe2pkahpHCQ4GlFrgFI2w.jpg",
@@ -1458,6 +1523,7 @@
           "动作冒险",
           "悬疑"
         ],
+        "displayTitle": "南部档案",
         "tmdbId": 278605,
         "mediaType": "tv",
         "posterPath": "/2QcMONqmPUeBJyzTe9G9GahGbqz.jpg",
@@ -1480,6 +1546,7 @@
           "剧情",
           "喜剧"
         ],
+        "displayTitle": "爱情公寓3",
         "tmdbId": 68809,
         "mediaType": "tv",
         "posterPath": "/jLMUydug1jJxAZdAuT5Y2JnjvQI.jpg",
@@ -1502,6 +1569,7 @@
           "剧情",
           "悬疑"
         ],
+        "displayTitle": "我不是大师",
         "tmdbId": 289078,
         "mediaType": "tv",
         "posterPath": "/sGxyz6BCOpbn9rKxqCfrW2yBOkX.jpg",
@@ -1524,6 +1592,7 @@
           "悬疑",
           "剧情"
         ],
+        "displayTitle": "伪装者",
         "tmdbId": 65176,
         "mediaType": "tv",
         "posterPath": "/dPFwcqEr9OrPABEwHVZPtwHg6zD.jpg",
@@ -1532,27 +1601,6 @@
         "rating": 8.3,
         "voteCount": 20,
         "popularity": 5.9394
-      },
-      {
-        "source": "iq",
-        "cid": "iq3955178982927801",
-        "title": "长风渡",
-        "teaser": "白敬亭宋轶先婚后爱",
-        "year": "2023",
-        "genre": "",
-        "area": "",
-        "episodeText": "40集全",
-        "tags": [
-          "剧情"
-        ],
-        "tmdbId": 207004,
-        "mediaType": "tv",
-        "posterPath": "/euObSynAyvmGkfrp297WIjfkOM5.jpg",
-        "backdropPath": "/7XO5iQaEvrqfMzDVpjTWYfI6OH5.jpg",
-        "releaseDate": "2023-06-18",
-        "rating": 7.4,
-        "voteCount": 13,
-        "popularity": 7.681
       },
       {
         "source": "iq",
@@ -1566,6 +1614,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "北上",
         "tmdbId": 233961,
         "mediaType": "tv",
         "posterPath": "/s60DHmR5niyYBAtLijp4n0Fn8Jg.jpg",
@@ -1574,6 +1623,28 @@
         "rating": 7.0,
         "voteCount": 7,
         "popularity": 8.155
+      },
+      {
+        "source": "iq",
+        "cid": "iq3955178982927801",
+        "title": "长风渡",
+        "teaser": "白敬亭宋轶先婚后爱",
+        "year": "2023",
+        "genre": "",
+        "area": "",
+        "episodeText": "40集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "长风渡",
+        "tmdbId": 207004,
+        "mediaType": "tv",
+        "posterPath": "/euObSynAyvmGkfrp297WIjfkOM5.jpg",
+        "backdropPath": "/7XO5iQaEvrqfMzDVpjTWYfI6OH5.jpg",
+        "releaseDate": "2023-06-18",
+        "rating": 7.4,
+        "voteCount": 13,
+        "popularity": 7.681
       },
       {
         "source": "iq",
@@ -1587,6 +1658,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "书卷一梦",
         "tmdbId": 253193,
         "mediaType": "tv",
         "posterPath": "/e2vANOfJOrbejmlHyNFUs175p0C.jpg",
@@ -1608,6 +1680,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "天才，女友",
         "tmdbId": 289116,
         "mediaType": "tv",
         "posterPath": "/z1FtSOVSWow6n1Jj8jdtn8rfm4L.jpg",
@@ -1629,6 +1702,7 @@
         "tags": [
           "悬疑"
         ],
+        "displayTitle": "在下打更人",
         "tmdbId": 325222,
         "mediaType": "tv",
         "posterPath": "/cJZXMnDezxR4GecGBHJPfktRGNZ.jpg",
@@ -1654,6 +1728,7 @@
           "热血战争",
           "战争"
         ],
+        "displayTitle": "四渡",
         "tmdbId": 1604133,
         "mediaType": "movie",
         "posterPath": "/wiENneAwj5c4X86dHpLNx9Z746d.jpg",
@@ -1663,8 +1738,8 @@
         "voteCount": 7,
         "popularity": 3.9181,
         "alsoOn": [
-          "iq",
-          "qq"
+          "qq",
+          "iq"
         ]
       },
       {
@@ -1689,6 +1764,7 @@
           "喜剧",
           "奇幻"
         ],
+        "displayTitle": "八仙！",
         "tmdbId": 1633056,
         "mediaType": "movie",
         "posterPath": "/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
@@ -1698,8 +1774,8 @@
         "voteCount": 41,
         "popularity": 7.9332,
         "alsoOn": [
-          "iq",
-          "qq"
+          "qq",
+          "iq"
         ]
       },
       {
@@ -1723,17 +1799,18 @@
           "科幻",
           "冒险"
         ],
+        "displayTitle": "蜘蛛侠：崭新之日",
         "tmdbId": 969681,
         "mediaType": "movie",
         "posterPath": "/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
         "backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
         "releaseDate": "2026-07-29",
-        "rating": 8.457,
-        "voteCount": 7065,
+        "rating": 8.456,
+        "voteCount": 7079,
         "popularity": 310.0185,
         "alsoOn": [
-          "iq",
-          "qq"
+          "qq",
+          "iq"
         ]
       },
       {
@@ -1756,6 +1833,7 @@
           "年代感",
           "剧情"
         ],
+        "displayTitle": "空枪",
         "tmdbId": 1567937,
         "mediaType": "movie",
         "posterPath": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
@@ -1765,8 +1843,8 @@
         "voteCount": 15,
         "popularity": 4.4411,
         "alsoOn": [
-          "iq",
-          "qq"
+          "qq",
+          "iq"
         ]
       },
       {
@@ -1780,13 +1858,14 @@
         "episodeText": "",
         "tags": [
           "喜剧",
+          "都市职场",
           "职场喜剧",
           "时尚题材",
-          "都市职场",
           "美国电影",
           "女性成长",
           "剧情"
         ],
+        "displayTitle": "穿普拉达的女王2",
         "tmdbId": 1314481,
         "mediaType": "movie",
         "posterPath": "/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
@@ -1796,8 +1875,8 @@
         "voteCount": 2581,
         "popularity": 21.6329,
         "alsoOn": [
-          "iq",
-          "qq"
+          "qq",
+          "iq"
         ]
       },
       {
@@ -1814,9 +1893,10 @@
           "热血战斗",
           "奇幻冒险",
           "AI制作",
-          "跨物种对决",
-          "修炼"
+          "修炼",
+          "跨物种对决"
         ],
+        "displayTitle": "补天",
         "tmdbId": 1841135,
         "mediaType": "movie",
         "posterPath": "/xSxV6kYqNaFnO0Resrz4OcyX64e.jpg",
@@ -1837,15 +1917,16 @@
         "episodeText": "",
         "tags": [
           "喜剧",
-          "极限运动",
           "动作喜剧",
           "灾难事故",
-          "小人物逆袭",
+          "极限运动",
           "爆笑囧事",
           "自救",
           "救援",
+          "小人物逆袭",
           "动作"
         ],
+        "displayTitle": "极限逃生",
         "tmdbId": 1698208,
         "mediaType": "movie",
         "posterPath": "/ax69xhnlPenLvpHLlIN1F5qxzgF.jpg",
@@ -1872,6 +1953,7 @@
           "反转",
           "惊悚"
         ],
+        "displayTitle": "记忆碎片",
         "tmdbId": 77,
         "mediaType": "movie",
         "posterPath": "/rO9d5ES2v5h2xDDZzVWUfQwdZ42.jpg",
@@ -1881,8 +1963,8 @@
         "voteCount": 17086,
         "popularity": 16.7834,
         "alsoOn": [
-          "iq",
-          "qq"
+          "qq",
+          "iq"
         ]
       },
       {
@@ -1902,6 +1984,7 @@
           "一见钟情",
           "奇幻"
         ],
+        "displayTitle": "我想留在你身边",
         "tmdbId": 1716541,
         "mediaType": "movie",
         "posterPath": "/eUconXwgew1PsFuDG6DtFdOI0UK.jpg",
@@ -1932,6 +2015,7 @@
           "动作",
           "奇幻"
         ],
+        "displayTitle": "功夫女足",
         "tmdbId": 1491920,
         "mediaType": "movie",
         "posterPath": "/jc1SybJxwSqZMATFghslCk011Wp.jpg",
@@ -1941,8 +2025,8 @@
         "voteCount": 59,
         "popularity": 20.5181,
         "alsoOn": [
-          "iq",
-          "qq"
+          "qq",
+          "iq"
         ]
       },
       {
@@ -1963,6 +2047,7 @@
           "保卫家园",
           "历史"
         ],
+        "displayTitle": "敦煌英雄",
         "tmdbId": 1089598,
         "mediaType": "movie",
         "posterPath": "/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
@@ -1972,8 +2057,8 @@
         "voteCount": 5,
         "popularity": 2.2207,
         "alsoOn": [
-          "iq",
-          "qq"
+          "qq",
+          "iq"
         ]
       },
       {
@@ -1989,6 +2074,7 @@
           "动作",
           "惊悚"
         ],
+        "displayTitle": "怒之杀",
         "tmdbId": 1288445,
         "mediaType": "movie",
         "posterPath": "/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
@@ -2014,6 +2100,7 @@
           "动作",
           "犯罪"
         ],
+        "displayTitle": "生死制暴",
         "tmdbId": 1828486,
         "mediaType": "movie",
         "posterPath": "/eSUpaqfvhto8dy914tFfNNKEYkq.jpg",
@@ -2037,6 +2124,7 @@
           "犯罪",
           "西部"
         ],
+        "displayTitle": "猎虎贰",
         "tmdbId": 1745149,
         "mediaType": "movie",
         "posterPath": "/jUdZnyCzqGmbcFcDqGNnuoOBAyk.jpg",
@@ -2058,6 +2146,7 @@
         "tags": [
           "历史"
         ],
+        "displayTitle": "大秦文公",
         "tmdbId": 1831518,
         "mediaType": "movie",
         "posterPath": "/l5xuwKcY3wsTULnXVgvyv3e2Ckl.jpg",
@@ -2080,6 +2169,7 @@
           "剧情",
           "喜剧"
         ],
+        "displayTitle": "给阿嬷的情书",
         "tmdbId": 1671548,
         "mediaType": "movie",
         "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
@@ -2107,6 +2197,7 @@
           "剧情",
           "惊悚"
         ],
+        "displayTitle": "捕风追影",
         "tmdbId": 1419406,
         "mediaType": "movie",
         "posterPath": "/o25Tk1FYQi2BLk0OEAvx2h69QvB.jpg",
@@ -2131,6 +2222,7 @@
           "奇幻",
           "冒险"
         ],
+        "displayTitle": "哪吒之魔童闹海",
         "tmdbId": 980477,
         "mediaType": "movie",
         "posterPath": "/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
@@ -2154,6 +2246,7 @@
           "动作",
           "剧情"
         ],
+        "displayTitle": "双枪红娘子",
         "tmdbId": 1743624,
         "mediaType": "movie",
         "posterPath": "/nPbHFUTDom9cURjbkZAXYoyTsCM.jpg",
@@ -2177,6 +2270,7 @@
           "战争",
           "历史"
         ],
+        "displayTitle": "开国将帅授衔1955",
         "tmdbId": 1190494,
         "mediaType": "movie",
         "posterPath": "/kCj7afKp5zdqfqnUjrO7VqQW238.jpg",
@@ -2200,6 +2294,7 @@
           "喜剧",
           "犯罪"
         ],
+        "displayTitle": "老江湖",
         "tmdbId": 1086176,
         "mediaType": "movie",
         "posterPath": "/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
@@ -2222,6 +2317,7 @@
           "剧情",
           "犯罪"
         ],
+        "displayTitle": "震耳欲聋",
         "tmdbId": 1466319,
         "mediaType": "movie",
         "posterPath": "/nTnlCq1JKCujY8bZGNqanq6UQX4.jpg",
@@ -2244,6 +2340,7 @@
           "剧情",
           "家庭"
         ],
+        "displayTitle": "出入平安",
         "tmdbId": 1241918,
         "mediaType": "movie",
         "posterPath": "/dEBGIgF3mjHHEozd2VMcrbTP6g1.jpg",
@@ -2266,6 +2363,7 @@
           "剧情",
           "喜剧"
         ],
+        "displayTitle": "飞驰人生3",
         "tmdbId": 1462229,
         "mediaType": "movie",
         "posterPath": "/fzkfI2LWgPEHiFOFW2JveqlAY3h.jpg",
@@ -2288,6 +2386,7 @@
           "喜剧",
           "剧情"
         ],
+        "displayTitle": "燃烧吧！爸爸",
         "tmdbId": 1444590,
         "mediaType": "movie",
         "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
@@ -2311,6 +2410,7 @@
           "动作",
           "犯罪"
         ],
+        "displayTitle": "扫黑·决战",
         "tmdbId": 821699,
         "mediaType": "movie",
         "posterPath": "/7P8ZjqjnZkcsnABPwj8Mfy9yPgC.jpg",
@@ -2333,6 +2433,7 @@
           "历史",
           "剧情"
         ],
+        "displayTitle": "抓特务",
         "tmdbId": 1305672,
         "mediaType": "movie",
         "posterPath": "/ozQe6oNmGHvwk2zdCQilMikUTBZ.jpg",
@@ -2355,6 +2456,7 @@
           "犯罪",
           "动作"
         ],
+        "displayTitle": "杯雪·一战成名",
         "tmdbId": 1563627,
         "mediaType": "movie",
         "posterPath": "/350om1pKdv14AdTWxpwqEYR9WrS.jpg",
@@ -2378,6 +2480,7 @@
           "科幻",
           "冒险"
         ],
+        "displayTitle": "铁血战士：杀戮之地",
         "tmdbId": 1242898,
         "mediaType": "movie",
         "posterPath": "/xexWbMMgTf3YJ4Qw2yTusmcA8V.jpg",
@@ -2402,6 +2505,7 @@
           "奇幻",
           "喜剧"
         ],
+        "displayTitle": "浪浪山小妖怪",
         "tmdbId": 1304434,
         "mediaType": "movie",
         "posterPath": "/t3Rs1BeIDXhwjOt10iyjiFe7BpL.jpg",
@@ -2423,6 +2527,7 @@
         "tags": [
           "动作"
         ],
+        "displayTitle": "逆行战场",
         "tmdbId": 1726445,
         "mediaType": "movie",
         "posterPath": "/qIffKt5M3go5pPAYg6na9BV3wAH.jpg",
@@ -2447,6 +2552,7 @@
           "喜剧",
           "家庭"
         ],
+        "displayTitle": "熊出没·年年有熊",
         "tmdbId": 1607088,
         "mediaType": "movie",
         "posterPath": "/5CQwamd3nlDkAvGAopJU4qvdHLm.jpg",
@@ -2470,6 +2576,7 @@
           "惊悚",
           "动作"
         ],
+        "displayTitle": "惊蛰无声",
         "tmdbId": 1447971,
         "mediaType": "movie",
         "posterPath": "/pKvogvxeYK0OhseQyLCmjcRRcWG.jpg",
@@ -2492,6 +2599,7 @@
           "剧情",
           "爱情"
         ],
+        "displayTitle": "一个男人和一个女人",
         "tmdbId": 42726,
         "mediaType": "movie",
         "posterPath": "/1GJWBUOkXF3JeXESjgiJ2uipSlx.jpg",
@@ -2515,6 +2623,7 @@
           "犯罪",
           "惊悚"
         ],
+        "displayTitle": "速度与激情10",
         "tmdbId": 385687,
         "mediaType": "movie",
         "posterPath": "/4HvouZcwdO4DDhb1RPPARcZWZLV.jpg",
@@ -2538,6 +2647,7 @@
           "剧情",
           "历史"
         ],
+        "displayTitle": "南京照相馆",
         "tmdbId": 1500536,
         "mediaType": "movie",
         "posterPath": "/lwrANgpPEBmYZ59oExpCiuv34Ou.jpg",
@@ -2560,6 +2670,7 @@
           "动作",
           "冒险"
         ],
+        "displayTitle": "镖人：风起大漠",
         "tmdbId": 1305781,
         "mediaType": "movie",
         "posterPath": "/ki0ilBYgbOZKUuE1NN53FYWK9zQ.jpg",
@@ -2584,6 +2695,7 @@
           "家庭",
           "喜剧"
         ],
+        "displayTitle": "疯狂动物城",
         "tmdbId": 269149,
         "mediaType": "movie",
         "posterPath": "/6L0nYQqqEYPaSMjmsWH8dr8I4Sk.jpg",
@@ -2598,28 +2710,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq6927203450250900",
-        "title": "长安三万里",
-        "teaser": "再现大唐华美诗篇",
-        "year": "2023",
-        "genre": "",
-        "area": "",
-        "episodeText": "9.0",
-        "tags": [
-          "动画",
-          "历史"
-        ],
-        "tmdbId": 1089654,
-        "mediaType": "movie",
-        "posterPath": "/7wxk8Ka5AGUIjCpEPg4vBOwSSul.jpg",
-        "backdropPath": "/zXyYAcZmTh1l6jaJzl8cxP5NN9P.jpg",
-        "releaseDate": "2023-07-02",
-        "rating": 7.6,
-        "voteCount": 71,
-        "popularity": 2.089
-      },
-      {
-        "source": "iq",
         "cid": "iq97731600",
         "title": "哈利·波特1:魔法石",
         "teaser": "魔法旅程开篇之作",
@@ -2631,14 +2721,38 @@
           "冒险",
           "奇幻"
         ],
+        "displayTitle": "哈利·波特1:魔法石",
         "tmdbId": 671,
         "mediaType": "movie",
         "posterPath": "/rUcN8fnvb6R8GY1NttAoLyjsRw0.jpg",
         "backdropPath": "/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
         "releaseDate": "2001-11-16",
         "rating": 7.9,
-        "voteCount": 30677,
+        "voteCount": 30680,
         "popularity": 44.2228
+      },
+      {
+        "source": "iq",
+        "cid": "iq6927203450250900",
+        "title": "长安三万里",
+        "teaser": "再现大唐华美诗篇",
+        "year": "2023",
+        "genre": "",
+        "area": "",
+        "episodeText": "9.0",
+        "tags": [
+          "动画",
+          "历史"
+        ],
+        "displayTitle": "长安三万里",
+        "tmdbId": 1089654,
+        "mediaType": "movie",
+        "posterPath": "/7wxk8Ka5AGUIjCpEPg4vBOwSSul.jpg",
+        "backdropPath": "/zXyYAcZmTh1l6jaJzl8cxP5NN9P.jpg",
+        "releaseDate": "2023-07-02",
+        "rating": 7.6,
+        "voteCount": 71,
+        "popularity": 2.089
       },
       {
         "source": "iq",
@@ -2653,6 +2767,7 @@
           "喜剧",
           "剧情"
         ],
+        "displayTitle": "年会不能停！2",
         "tmdbId": 1541125,
         "mediaType": "movie",
         "posterPath": "/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
@@ -2675,6 +2790,7 @@
           "悬疑",
           "惊悚"
         ],
+        "displayTitle": "家弑服务",
         "tmdbId": 1368166,
         "mediaType": "movie",
         "posterPath": "/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
@@ -2698,6 +2814,7 @@
           "科幻",
           "战争"
         ],
+        "displayTitle": "蜂鸟行动",
         "tmdbId": 1765955,
         "mediaType": "movie",
         "posterPath": "/oZXH2DonlPsDVPBTIy5gQxBZLcU.jpg",
@@ -2720,6 +2837,7 @@
           "喜剧",
           "犯罪"
         ],
+        "displayTitle": "不留活口",
         "tmdbId": 1709565,
         "mediaType": "movie",
         "posterPath": "/sePE65oFsMYz6z9MkYV3djRe7yo.jpg",
@@ -2728,6 +2846,30 @@
         "rating": 6.0,
         "voteCount": 1,
         "popularity": 0.4473
+      },
+      {
+        "source": "iq",
+        "cid": "iq7553694978824100",
+        "title": "器子",
+        "teaser": "以暴制暴杀穿黑市",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "7.4",
+        "tags": [
+          "动作",
+          "剧情",
+          "犯罪"
+        ],
+        "displayTitle": "器子",
+        "tmdbId": 1005985,
+        "mediaType": "movie",
+        "posterPath": "/prmdcWDzvhKiHKp6naKwADj9KU7.jpg",
+        "backdropPath": "/o0n8l6Itc3vjf9svwHGzC3uuQhZ.jpg",
+        "releaseDate": "2025-04-11",
+        "rating": 6.0,
+        "voteCount": 38,
+        "popularity": 1.6415
       },
       {
         "source": "iq",
@@ -2743,6 +2885,7 @@
           "动作",
           "剧情"
         ],
+        "displayTitle": "灰猎犬号",
         "tmdbId": 516486,
         "mediaType": "movie",
         "posterPath": "/eOLtGkRRzylBnKLUOLknoKnxnoA.jpg",
@@ -2766,6 +2909,7 @@
           "动作",
           "西部"
         ],
+        "displayTitle": "猎虎",
         "tmdbId": 1448324,
         "mediaType": "movie",
         "posterPath": "/e2Q57wXlVe4kp5cWskz5Q51IM6u.jpg",
@@ -2777,29 +2921,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq7553694978824100",
-        "title": "器子",
-        "teaser": "以暴制暴杀穿黑市",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "7.4",
-        "tags": [
-          "动作",
-          "剧情",
-          "犯罪"
-        ],
-        "tmdbId": 1005985,
-        "mediaType": "movie",
-        "posterPath": "/prmdcWDzvhKiHKp6naKwADj9KU7.jpg",
-        "backdropPath": "/o0n8l6Itc3vjf9svwHGzC3uuQhZ.jpg",
-        "releaseDate": "2025-04-11",
-        "rating": 6.0,
-        "voteCount": 38,
-        "popularity": 1.6415
-      },
-      {
-        "source": "iq",
         "cid": "iq1667401988875900",
         "title": "诡岭迷窟",
         "teaser": "地宫迷雾暗藏杀机",
@@ -2808,6 +2929,7 @@
         "area": "",
         "episodeText": "",
         "tags": [],
+        "displayTitle": "诡岭迷窟",
         "tmdbId": 1824073,
         "mediaType": "movie",
         "posterPath": "/ahw5pSQHrGk9erNXPxeGgZPu0BF.jpg",
@@ -2834,6 +2956,7 @@
           "家庭",
           "动作"
         ],
+        "displayTitle": "汪汪队立大功大电影2：超能大冒险",
         "tmdbId": 893723,
         "mediaType": "movie",
         "posterPath": "/ljFpoD1aK4Tcbtf5YXHmrwNVo7X.jpg",
@@ -2855,6 +2978,7 @@
         "tags": [
           "剧情"
         ],
+        "displayTitle": "巨蛇闯体校",
         "tmdbId": 1817028,
         "mediaType": "movie",
         "posterPath": "/iB2HL07LiczGOhMsKDK1ZtgSGdY.jpg",
@@ -2878,6 +3002,7 @@
           "战争",
           "历史"
         ],
+        "displayTitle": "勇者无疆",
         "tmdbId": 1662256,
         "mediaType": "movie",
         "posterPath": "/5ENxl6xf3YUpcoUFVz4AebdHVi4.jpg",
@@ -2901,6 +3026,7 @@
           "科幻",
           "动作"
         ],
+        "displayTitle": "复仇者联盟4：终局之战",
         "tmdbId": 299534,
         "mediaType": "movie",
         "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
@@ -2924,6 +3050,7 @@
           "战争",
           "历史"
         ],
+        "displayTitle": "志愿军：存亡之战",
         "tmdbId": 1298727,
         "mediaType": "movie",
         "posterPath": "/r6HElBAywIPAVo8OFkOzCQYns6B.jpg",
@@ -2947,6 +3074,7 @@
           "动作",
           "恐怖"
         ],
+        "displayTitle": "蛇女",
         "tmdbId": 1478029,
         "mediaType": "movie",
         "posterPath": "/nAiJpgPEa97Ipeil0begvxsTvjf.jpg",
@@ -2955,6 +3083,29 @@
         "rating": 7.0,
         "voteCount": 2,
         "popularity": 1.4156
+      },
+      {
+        "source": "iq",
+        "cid": "iq4929008325116700",
+        "title": "斩毒行动",
+        "teaser": "于荣光石兆琪对决",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "6.2",
+        "tags": [
+          "动作",
+          "犯罪"
+        ],
+        "displayTitle": "斩毒行动",
+        "tmdbId": 1743442,
+        "mediaType": "movie",
+        "posterPath": "/bMhkYBG6GzlIVsisyd064fXbIkR.jpg",
+        "backdropPath": "",
+        "releaseDate": "2026-08-05",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 0.3432
       },
       {
         "source": "iq",
@@ -2970,6 +3121,7 @@
           "喜剧",
           "家庭"
         ],
+        "displayTitle": "无价之宝",
         "tmdbId": 1110347,
         "mediaType": "movie",
         "posterPath": "/oepJGgxb563e3BLxoPgEBduvdvv.jpg",
@@ -2978,28 +3130,6 @@
         "rating": 6.9,
         "voteCount": 10,
         "popularity": 0.9283
-      },
-      {
-        "source": "iq",
-        "cid": "iq4929008325116700",
-        "title": "斩毒行动",
-        "teaser": "于荣光石兆琪对决",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "6.2",
-        "tags": [
-          "动作",
-          "犯罪"
-        ],
-        "tmdbId": 1743442,
-        "mediaType": "movie",
-        "posterPath": "/bMhkYBG6GzlIVsisyd064fXbIkR.jpg",
-        "backdropPath": "",
-        "releaseDate": "2026-08-05",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 0.3432
       },
       {
         "source": "iq",
@@ -3014,6 +3144,7 @@
           "恐怖",
           "悬疑"
         ],
+        "displayTitle": "死神来了：血脉诅咒",
         "tmdbId": 574475,
         "mediaType": "movie",
         "posterPath": "/wE72HUX9jbKqDZLT8O0Omyj4vE.jpg",
@@ -3037,6 +3168,7 @@
           "战争",
           "剧情"
         ],
+        "displayTitle": "战神戚继光之不让江山",
         "tmdbId": 1796449,
         "mediaType": "movie",
         "posterPath": "/2uZ52YvqH93DHFINIdtv4naPPZV.jpg",
@@ -3048,27 +3180,26 @@
       },
       {
         "source": "iq",
-        "cid": "iq117045200",
-        "title": "饥饿游戏",
-        "teaser": "暴力俏萝莉大开杀戒",
-        "year": "2012",
+        "cid": "iq1370600624114900",
+        "title": "731",
+        "teaser": "平民视角直击暴行",
+        "year": "2025",
         "genre": "",
         "area": "",
         "episodeText": "7.8",
         "tags": [
-          "科幻",
-          "冒险",
-          "动作",
-          "惊悚"
+          "剧情",
+          "战争"
         ],
-        "tmdbId": 70160,
+        "displayTitle": "731",
+        "tmdbId": 1321624,
         "mediaType": "movie",
-        "posterPath": "/fxBIWTPqv8aZwzgRqPr9ApgWDmz.jpg",
-        "backdropPath": "/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
-        "releaseDate": "2012-03-12",
-        "rating": 7.227,
-        "voteCount": 24092,
-        "popularity": 67.8689
+        "posterPath": "/alNUuyYisn5IB3b2gWqDyLtMKQr.jpg",
+        "backdropPath": "/1sU4w7DLJbcKdYjPrLB9jeiIkfz.jpg",
+        "releaseDate": "2025-09-18",
+        "rating": 5.3,
+        "voteCount": 28,
+        "popularity": 2.2147
       }
     ],
     "variety": [
@@ -3093,6 +3224,7 @@
           "喜剧",
           "狼人杀"
         ],
+        "displayTitle": "现在就出发",
         "tmdbId": 231620,
         "mediaType": "tv",
         "posterPath": "/dtW4geMnFX2YCx6n3Ao0LkR14Hu.jpg",
@@ -3121,6 +3253,7 @@
           "甜蜜互动",
           "真人秀"
         ],
+        "displayTitle": "日落时分说爱你",
         "tmdbId": 309015,
         "mediaType": "tv",
         "posterPath": "/uHozET4VnjItqP69W688sf0Nafv.jpg",
@@ -3129,34 +3262,6 @@
         "rating": 6.0,
         "voteCount": 1,
         "popularity": 3.2167
-      },
-      {
-        "source": "qq",
-        "cid": "mzc00200r0w51xd",
-        "title": "奔跑吧·大湾区篇",
-        "teaser": "嚟啦，玩嘢！",
-        "year": "2026",
-        "genre": "",
-        "area": "内地",
-        "episodeText": "2026-07-22期",
-        "tags": [
-          "游戏节目",
-          "趣味游戏",
-          "明星体验",
-          "剧情"
-        ],
-        "tmdbId": 319662,
-        "mediaType": "tv",
-        "posterPath": "",
-        "backdropPath": "",
-        "releaseDate": "2026-07-15",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 0.2426,
-        "alsoOn": [
-          "iq",
-          "qq"
-        ]
       },
       {
         "source": "qq",
@@ -3174,6 +3279,7 @@
           "甜蜜互动",
           "真人秀"
         ],
+        "displayTitle": "心动的信号",
         "tmdbId": 103147,
         "mediaType": "tv",
         "posterPath": "/7PuIc34ONGP9YOfUy3fMbgDiLu6.jpg",
@@ -3201,6 +3307,7 @@
           "真人秀",
           "喜剧"
         ],
+        "displayTitle": "喜人奇妙夜",
         "tmdbId": 257161,
         "mediaType": "tv",
         "posterPath": "/nQFCp0Tlfqq3NhF2kiNAGwXLfnX.jpg",
@@ -3225,6 +3332,7 @@
           "职场技巧",
           "真人秀"
         ],
+        "displayTitle": "令人心动的offer",
         "tmdbId": 106621,
         "mediaType": "tv",
         "posterPath": "/y3Hh8P4maWEK00F3K6IC7D8buor.jpg",
@@ -3252,6 +3360,7 @@
           "明星体验",
           "真人秀"
         ],
+        "displayTitle": "地球超新鲜",
         "tmdbId": 296202,
         "mediaType": "tv",
         "posterPath": "/olnV8BefOFnj3U3qcvlYdylAzDq.jpg",
@@ -3278,6 +3387,7 @@
           "趣味游戏",
           "真人秀"
         ],
+        "displayTitle": "哈哈哈哈哈",
         "tmdbId": 112732,
         "mediaType": "tv",
         "posterPath": "/7DcQsNG1Jw1NOASzQe1j4JOHkap.jpg",
@@ -3287,8 +3397,8 @@
         "voteCount": 9,
         "popularity": 37.4381,
         "alsoOn": [
-          "iq",
-          "qq"
+          "qq",
+          "iq"
         ]
       },
       {
@@ -3306,6 +3416,7 @@
           "明星体验",
           "真人秀"
         ],
+        "displayTitle": "开始推理吧",
         "tmdbId": 203003,
         "mediaType": "tv",
         "posterPath": "/64xFi1olZzxBFFX93fIVGa6tU7h.jpg",
@@ -3327,6 +3438,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "音乐缘计划",
         "tmdbId": 261394,
         "mediaType": "tv",
         "posterPath": "/dhSsanINXfStQ00kJzHm2jCmGSb.jpg",
@@ -3353,6 +3465,7 @@
           "脱口秀",
           "喜剧"
         ],
+        "displayTitle": "喜剧之王单口季",
         "tmdbId": 261391,
         "mediaType": "tv",
         "posterPath": "/cmFj3DOPyBaSBQKRGdiOFhTdcN0.jpg",
@@ -3377,6 +3490,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "大哥小助理",
         "tmdbId": 331649,
         "mediaType": "tv",
         "posterPath": "/42KdZo0AtIxGtdeEe0Z5uStiPYQ.jpg",
@@ -3398,6 +3512,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "种地吧",
         "tmdbId": 219934,
         "mediaType": "tv",
         "posterPath": "/mEKdjL9ELTq9Ee8hMzcOBFgbycU.jpg",
@@ -3422,6 +3537,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "一年一度喜剧大赛",
         "tmdbId": 136503,
         "mediaType": "tv",
         "posterPath": "/3aqEj2RPkxNW6VmZtDuJGGohtLZ.jpg",
@@ -3446,6 +3562,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "偶像练习生",
         "tmdbId": 77577,
         "mediaType": "tv",
         "posterPath": "/kmXMs2TPnREtFpzSVYeiloJaNB.jpg",
@@ -3467,6 +3584,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "此生要去的100个地方",
         "tmdbId": 255818,
         "mediaType": "tv",
         "posterPath": "/bbfaQQeN1jQTWFLtKng2P3vTuay.jpg",
@@ -3489,6 +3607,7 @@
         "area": "",
         "episodeText": "2025-07-13期",
         "tags": [],
+        "displayTitle": "种地吧",
         "tmdbId": 322060,
         "mediaType": "tv",
         "posterPath": "/chQvY8OIQzMXms7ZbJ34oagxdNm.jpg",
@@ -3511,6 +3630,7 @@
           "喜剧",
           "真人秀"
         ],
+        "displayTitle": "奔跑吧",
         "tmdbId": 98031,
         "mediaType": "tv",
         "posterPath": "/jOl12DTFiMcp9ga2KaEKwt5H8oo.jpg",
@@ -3532,6 +3652,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "你好种地少年",
         "tmdbId": 238136,
         "mediaType": "tv",
         "posterPath": "/aUDt7i3hwipRBl29Sb0qc1Ihvw2.jpg",
@@ -3556,6 +3677,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "王牌对王牌",
         "tmdbId": 88580,
         "mediaType": "tv",
         "posterPath": "/dJLq9SHSJ04sVghgStXR1ypGHDA.jpg",
@@ -3577,6 +3699,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "喜欢你我也是",
         "tmdbId": 124265,
         "mediaType": "tv",
         "posterPath": "/tDJcQL4KpY50OZrqQjP5L7tHKo6.jpg",
@@ -3598,6 +3721,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "宇宙闪烁请注意",
         "tmdbId": 309100,
         "mediaType": "tv",
         "posterPath": "/gpNhdNSr6wzPbAuw10bmyou4Pdt.jpg",
@@ -3619,6 +3743,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "听，谁在唱歌",
         "tmdbId": 299000,
         "mediaType": "tv",
         "posterPath": "/nHHk2E4qBhbL1rwQ7CuTjI4urRK.jpg",
@@ -3640,6 +3765,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "姐姐当家",
         "tmdbId": 296215,
         "mediaType": "tv",
         "posterPath": "/2e0F03Mwd5e1lquypDCBVtN220I.jpg",
@@ -3661,6 +3787,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "你好时光",
         "tmdbId": 294748,
         "mediaType": "tv",
         "posterPath": "/sVR70KcNpacEkdprHVdZZRIkBWH.jpg",
@@ -3682,6 +3809,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "天赐的声音",
         "tmdbId": 116777,
         "mediaType": "tv",
         "posterPath": "/xqVefZwWSe0Z0aLtzW1lAoC9WUU.jpg",
@@ -3706,6 +3834,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "青春有你",
         "tmdbId": 119848,
         "mediaType": "tv",
         "posterPath": "/t5Mco7vVtY2u4gi2YaH6VviVcwH.jpg",
@@ -3730,6 +3859,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "夏日的星星",
         "tmdbId": 341771,
         "mediaType": "tv",
         "posterPath": "/vA8VNoZiOMUvAgoUndhmlx4qP73.jpg",
@@ -3751,6 +3881,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "趁热打铁",
         "tmdbId": 341535,
         "mediaType": "tv",
         "posterPath": "/tRkf3CCDINww90kTUC8k234OuB5.jpg",
@@ -3772,6 +3903,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "“味”你而来",
         "tmdbId": 304722,
         "mediaType": "tv",
         "posterPath": "/7SdGU5COSr1Hm86ZPM5RxmGNXse.jpg",
@@ -3793,6 +3925,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "极限挑战",
         "tmdbId": 89620,
         "mediaType": "tv",
         "posterPath": "/nYsiHMplUCBFazdAOVr1gQaGy34.jpg",
@@ -3817,6 +3950,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "向内一公里",
         "tmdbId": 336866,
         "mediaType": "tv",
         "posterPath": "/ooPu5fY0E4c5XC5TCtmMgOWnrHt.jpg",
@@ -3838,6 +3972,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "中国唱将",
         "tmdbId": 300268,
         "mediaType": "tv",
         "posterPath": "/jULGpvUMmf6x7uluNQjNQwYIM8b.jpg",
@@ -3859,6 +3994,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "梦想改造家",
         "tmdbId": 87150,
         "mediaType": "tv",
         "posterPath": "/rrg87cIKnTvy411Nx3MPjAb0hrD.jpg",
@@ -3878,6 +4014,7 @@
         "area": "",
         "episodeText": "2026-11-22期",
         "tags": [],
+        "displayTitle": "金牌调解",
         "tmdbId": 275529,
         "mediaType": "tv",
         "posterPath": "/AhoI6746q8PsEHdCBIOw2vFQxj3.jpg",
@@ -3899,6 +4036,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "超燃青春的合唱",
         "tmdbId": 320614,
         "mediaType": "tv",
         "posterPath": "/noZO3kfCQo6rzwhx1h7HfVxPg0K.jpg",
@@ -3920,6 +4058,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "风华合伙人",
         "tmdbId": 318025,
         "mediaType": "tv",
         "posterPath": "/naolaCD3ctL503aGeJy2D1VwBrg.jpg",
@@ -3941,6 +4080,7 @@
         "tags": [
           "真人秀"
         ],
+        "displayTitle": "萌探探探案",
         "tmdbId": 126544,
         "mediaType": "tv",
         "posterPath": "/epoCnqVnMqohtKnf8QiT1eGaV9A.jpg",
@@ -3962,6 +4102,7 @@
         "tags": [
           "脱口秀"
         ],
+        "displayTitle": "坑王驾到",
         "tmdbId": 74747,
         "mediaType": "tv",
         "posterPath": "/cvp9AennF0hFfvmiETDP3jN36hP.jpg",
@@ -3994,6 +4135,7 @@
           "动画",
           "冒险"
         ],
+        "displayTitle": "斗破苍穹剧场版 双帝之战",
         "tmdbId": 1599184,
         "mediaType": "movie",
         "posterPath": "/kQA44KCjcI284f3uxCRAdiS9blt.jpg",
@@ -4024,6 +4166,7 @@
           "动画",
           "剧情"
         ],
+        "displayTitle": "仙逆",
         "tmdbId": 223911,
         "mediaType": "tv",
         "posterPath": "/zlJ4dqSnoraUSB821BZEGUcveP9.jpg",
@@ -4054,6 +4197,7 @@
           "动画",
           "动作冒险"
         ],
+        "displayTitle": "斗破苍穹",
         "tmdbId": 79481,
         "mediaType": "tv",
         "posterPath": "/oyoahIcdamTXwjIaL3CqZ1v5CLl.jpg",
@@ -4083,6 +4227,7 @@
           "Sci-Fi & Fantasy",
           "动作冒险"
         ],
+        "displayTitle": "吞噬星空",
         "tmdbId": 101172,
         "mediaType": "tv",
         "posterPath": "/dShQsQFLSivwCIRjC7crsnznPXY.jpg",
@@ -4113,6 +4258,7 @@
           "动画",
           "Sci-Fi & Fantasy"
         ],
+        "displayTitle": "斗罗大陆Ⅱ绝世唐门",
         "tmdbId": 228429,
         "mediaType": "tv",
         "posterPath": "/kVlTNqhSVRHudCRTjSJbBGmAZby.jpg",
@@ -4142,6 +4288,7 @@
           "动画",
           "动作冒险"
         ],
+        "displayTitle": "完美世界",
         "tmdbId": 124003,
         "mediaType": "tv",
         "posterPath": "/mNJPCv2dLADVVSgLlzsMJoXdTmb.jpg",
@@ -4172,6 +4319,7 @@
           "动画",
           "剧情"
         ],
+        "displayTitle": "斗罗大陆",
         "tmdbId": 76572,
         "mediaType": "tv",
         "posterPath": "/apAcmACYNWwSFKafCSNTafYU7UY.jpg",
@@ -4202,6 +4350,7 @@
           "喜剧",
           "动作冒险"
         ],
+        "displayTitle": "大王饶命",
         "tmdbId": 146339,
         "mediaType": "tv",
         "posterPath": "/jO4DI02wo9hqimvELQGPa44T47Q.jpg",
@@ -4232,6 +4381,7 @@
           "动画",
           "动作冒险"
         ],
+        "displayTitle": "遮天",
         "tmdbId": 224839,
         "mediaType": "tv",
         "posterPath": "/z9JNGlJ8eGy6S6SOlBhpmxjjXGT.jpg",
@@ -4261,6 +4411,7 @@
           "Sci-Fi & Fantasy",
           "剧情"
         ],
+        "displayTitle": "武动乾坤",
         "tmdbId": 87007,
         "mediaType": "tv",
         "posterPath": "/6O1uKLhWmNe5eH9L0AUEr7E5ELg.jpg",
@@ -4283,6 +4434,7 @@
           "动画",
           "动作冒险"
         ],
+        "displayTitle": "大主宰",
         "tmdbId": 226045,
         "mediaType": "tv",
         "posterPath": "/e9kdsUK01YSa8Ou5tO72QJ0830X.jpg",
@@ -4306,6 +4458,7 @@
           "喜剧",
           "动画"
         ],
+        "displayTitle": "航海王",
         "tmdbId": 37854,
         "mediaType": "tv",
         "posterPath": "/f9AFdxegmmWOghgw9E6ebICkstl.jpg",
@@ -4329,6 +4482,7 @@
           "动作冒险",
           "剧情"
         ],
+        "displayTitle": "择日飞升",
         "tmdbId": 326695,
         "mediaType": "tv",
         "posterPath": "/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
@@ -4351,6 +4505,7 @@
           "儿童",
           "动画"
         ],
+        "displayTitle": "开心锤锤",
         "tmdbId": 300553,
         "mediaType": "tv",
         "posterPath": "/ltOJHTZOMYxXYPO7IdF5CpfQhzE.jpg",
@@ -4362,6 +4517,57 @@
         "alsoOn": [
           "iq"
         ]
+      },
+      {
+        "source": "iq",
+        "cid": "iq106741901",
+        "title": "名侦探柯南 普通话",
+        "teaser": "真相只有一个",
+        "year": "1996",
+        "genre": "",
+        "area": "",
+        "episodeText": "更新至1281集",
+        "tags": [
+          "动画",
+          "犯罪",
+          "悬疑",
+          "喜剧"
+        ],
+        "displayTitle": "名侦探柯南",
+        "tmdbId": 30983,
+        "mediaType": "tv",
+        "posterPath": "/mCfswh8wgMW8rzUrSEdviUGu5Ax.jpg",
+        "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+        "releaseDate": "1996-01-08",
+        "rating": 8.02,
+        "voteCount": 805,
+        "popularity": 140.1916,
+        "alsoOn": [
+          "iq"
+        ]
+      },
+      {
+        "source": "iq",
+        "cid": "iq8837962497879001",
+        "title": "逆天邪神年番",
+        "teaser": "逆天改命 主宰苍穹",
+        "year": "2023",
+        "genre": "",
+        "area": "",
+        "episodeText": "更新至64集",
+        "tags": [
+          "动画",
+          "动作冒险"
+        ],
+        "displayTitle": "逆天邪神",
+        "tmdbId": 235643,
+        "mediaType": "tv",
+        "posterPath": "/xORt4bvPxAlRPddiwIjq8YF8Gbq.jpg",
+        "backdropPath": "/fN6yIzyr1xQXaVSN27OhtNy6u5n.jpg",
+        "releaseDate": "2023-09-23",
+        "rating": 8.571,
+        "voteCount": 7,
+        "popularity": 7.4099
       },
       {
         "source": "iq",
@@ -4377,6 +4583,7 @@
           "动作冒险",
           "Sci-Fi & Fantasy"
         ],
+        "displayTitle": "灵武大陆",
         "tmdbId": 259844,
         "mediaType": "tv",
         "posterPath": "/dKm6tbjFXdgOODSfBMzqbQNoL9y.jpg",
@@ -4400,6 +4607,7 @@
           "喜剧",
           "家庭"
         ],
+        "displayTitle": "海绵宝宝",
         "tmdbId": 387,
         "mediaType": "tv",
         "posterPath": "/sl8dabGsTXQ3ebtfL1muLf7v1SU.jpg",
@@ -4424,6 +4632,7 @@
         "tags": [
           "动画"
         ],
+        "displayTitle": "蜡笔小新",
         "tmdbId": 323180,
         "mediaType": "tv",
         "posterPath": "/jnl86M7eXWwGzZYglC98D2aneHF.jpg",
@@ -4449,6 +4658,7 @@
           "动画",
           "Sci-Fi & Fantasy"
         ],
+        "displayTitle": "罗小黑战记",
         "tmdbId": 88319,
         "mediaType": "tv",
         "posterPath": "/1BfuESuEwnahwRwIXQeLLv87lB.jpg",
@@ -4475,14 +4685,39 @@
           "儿童",
           "家庭"
         ],
+        "displayTitle": "哆啦A梦",
         "tmdbId": 65733,
         "mediaType": "tv",
         "posterPath": "/2R1F6QbSefVGTwUgpDTRgFUAZin.jpg",
         "backdropPath": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
         "releaseDate": "2005-04-22",
-        "rating": 8.093,
-        "voteCount": 264,
+        "rating": 8.094,
+        "voteCount": 265,
         "popularity": 318.0837
+      },
+      {
+        "source": "iq",
+        "cid": "iq90927301",
+        "title": "迪迦奥特曼 普通话",
+        "teaser": "奥特曼大战怪兽",
+        "year": "1996",
+        "genre": "",
+        "area": "",
+        "episodeText": "52集全",
+        "tags": [
+          "Sci-Fi & Fantasy",
+          "动作冒险",
+          "剧情"
+        ],
+        "displayTitle": "迪迦奥特曼",
+        "tmdbId": 2253,
+        "mediaType": "tv",
+        "posterPath": "/nQd4dTq1otOhQSEoziKqo26gO5t.jpg",
+        "backdropPath": "/t2ggqJXCholMf7n3Xij4WgGG1EQ.jpg",
+        "releaseDate": "1996-09-07",
+        "rating": 8.189,
+        "voteCount": 127,
+        "popularity": 9.5917
       },
       {
         "source": "iq",
@@ -4498,6 +4733,7 @@
           "动作冒险",
           "剧情"
         ],
+        "displayTitle": "财神窦占龙",
         "tmdbId": 330609,
         "mediaType": "tv",
         "posterPath": "/mCrTWs2VDsg4cV7j12ykJeDG85a.jpg",
@@ -4506,30 +4742,6 @@
         "rating": 7.7,
         "voteCount": 3,
         "popularity": 2.7088
-      },
-      {
-        "source": "iq",
-        "cid": "iq202134201",
-        "title": "名侦探柯南",
-        "teaser": "真相只有一个",
-        "year": "1996",
-        "genre": "",
-        "area": "",
-        "episodeText": "更新至1281集",
-        "tags": [
-          "动画",
-          "犯罪",
-          "悬疑",
-          "喜剧"
-        ],
-        "tmdbId": 30983,
-        "mediaType": "tv",
-        "posterPath": "/mCfswh8wgMW8rzUrSEdviUGu5Ax.jpg",
-        "backdropPath": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-        "releaseDate": "1996-01-08",
-        "rating": 8.02,
-        "voteCount": 805,
-        "popularity": 140.1916
       },
       {
         "source": "iq",
@@ -4545,6 +4757,7 @@
           "动作冒险",
           "Sci-Fi & Fantasy"
         ],
+        "displayTitle": "凌天独尊",
         "tmdbId": 295142,
         "mediaType": "tv",
         "posterPath": "/iM6YKZY5S9k58puP2PykFCR4SPs.jpg",
@@ -4568,6 +4781,7 @@
           "动作冒险",
           "Sci-Fi & Fantasy"
         ],
+        "displayTitle": "鬼灭之刃",
         "tmdbId": 85937,
         "mediaType": "tv",
         "posterPath": "/tZ0yGfG4EIox7bYJTxAtqUhoOmR.jpg",
@@ -4591,6 +4805,7 @@
           "动作冒险",
           "剧情"
         ],
+        "displayTitle": "择天记",
         "tmdbId": 282158,
         "mediaType": "tv",
         "posterPath": "/3AMU6NZGA8GDaMdyMN277Swbcqr.jpg",
@@ -4610,6 +4825,7 @@
         "area": "",
         "episodeText": "更新至399集",
         "tags": [],
+        "displayTitle": "大神探诸葛九九",
         "tmdbId": 286565,
         "mediaType": "tv",
         "posterPath": "/qkd6stDkLOcmc4iaNHh9HnHwGoH.jpg",
@@ -4633,6 +4849,7 @@
           "Sci-Fi & Fantasy",
           "动作冒险"
         ],
+        "displayTitle": "龙珠Z",
         "tmdbId": 12971,
         "mediaType": "tv",
         "posterPath": "/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg",
@@ -4654,6 +4871,7 @@
         "tags": [
           "动画"
         ],
+        "displayTitle": "太古神尊",
         "tmdbId": 330275,
         "mediaType": "tv",
         "posterPath": "/y4b8iiCBMafawRSir5hJk5sj9vA.jpg",
@@ -4677,6 +4895,7 @@
           "动作冒险",
           "Sci-Fi & Fantasy"
         ],
+        "displayTitle": "李熊猫",
         "tmdbId": 329026,
         "mediaType": "tv",
         "posterPath": "/jSkwEvYUoTw1frP6w5pucxtqpQs.jpg",
@@ -4685,6 +4904,29 @@
         "rating": 8.4,
         "voteCount": 5,
         "popularity": 5.8694
+      },
+      {
+        "source": "iq",
+        "cid": "iq253111601",
+        "title": "泽塔奥特曼 普通话",
+        "teaser": "赛罗弟子热血物语",
+        "year": "2020",
+        "genre": "",
+        "area": "",
+        "episodeText": "28集全",
+        "tags": [
+          "动作冒险",
+          "Sci-Fi & Fantasy"
+        ],
+        "displayTitle": "泽塔奥特曼",
+        "tmdbId": 101005,
+        "mediaType": "tv",
+        "posterPath": "/7Js67qzMrrB9zqLIDLBFdVAd0uP.jpg",
+        "backdropPath": "/pHeu8AtIj5v6XXEKRoGDK0PWj3M.jpg",
+        "releaseDate": "2020-06-20",
+        "rating": 8.4,
+        "voteCount": 23,
+        "popularity": 12.8606
       },
       {
         "source": "iq",
@@ -4698,6 +4940,7 @@
         "tags": [
           "纪录"
         ],
+        "displayTitle": "开心锤锤Story：校园武神",
         "tmdbId": 328073,
         "mediaType": "tv",
         "posterPath": "/fAxUEg7LrWhPy0YBwnJoBYx0Ct1.jpg",
@@ -4721,6 +4964,7 @@
           "动作冒险",
           "Sci-Fi & Fantasy"
         ],
+        "displayTitle": "龙珠超",
         "tmdbId": 62715,
         "mediaType": "tv",
         "posterPath": "/2fY7oWbYYnJ8pQGhFvBtBMk7Dp.jpg",
@@ -4729,6 +4973,54 @@
         "rating": 8.2,
         "voteCount": 5421,
         "popularity": 27.9828
+      },
+      {
+        "source": "iq",
+        "cid": "iq227148001",
+        "title": "罗布奥特曼 普通话",
+        "teaser": "双子奥特曼英雄化身",
+        "year": "2018",
+        "genre": "",
+        "area": "",
+        "episodeText": "25集全",
+        "tags": [
+          "动作冒险",
+          "Sci-Fi & Fantasy"
+        ],
+        "displayTitle": "罗布奥特曼",
+        "tmdbId": 81959,
+        "mediaType": "tv",
+        "posterPath": "/t2zZc25hKvAfQNZOSbTyjhmWBGH.jpg",
+        "backdropPath": "/f4kU3rj9smx1NWtINb4x4TXXxls.jpg",
+        "releaseDate": "2018-07-07",
+        "rating": 8.4,
+        "voteCount": 7,
+        "popularity": 8.8607
+      },
+      {
+        "source": "iq",
+        "cid": "iq8435275242341701",
+        "title": "神奇数字马戏团 普通话",
+        "teaser": "一起逃离五彩斑斓的数字牢笼",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "9集全",
+        "tags": [
+          "动画",
+          "喜剧",
+          "剧情",
+          "Sci-Fi & Fantasy"
+        ],
+        "displayTitle": "神奇数字马戏团",
+        "tmdbId": 261145,
+        "mediaType": "tv",
+        "posterPath": "/6uzUmLFFcbgpf9oGeqgth36giqb.jpg",
+        "backdropPath": "/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+        "releaseDate": "2023-10-13",
+        "rating": 8.676,
+        "voteCount": 446,
+        "popularity": 15.7833
       },
       {
         "source": "iq",
@@ -4743,6 +5035,7 @@
           "动画",
           "儿童"
         ],
+        "displayTitle": "我是不白吃",
         "tmdbId": 223694,
         "mediaType": "tv",
         "posterPath": "/lIvptAgW7WzYILAggsRdNMs4YxQ.jpg",
@@ -4766,6 +5059,7 @@
           "Sci-Fi & Fantasy",
           "动作冒险"
         ],
+        "displayTitle": "都市古仙医",
         "tmdbId": 273263,
         "mediaType": "tv",
         "posterPath": "/k4QKWb7xSlGECw2a9Hi8bhTwnNy.jpg",
@@ -4774,6 +5068,76 @@
         "rating": 8.0,
         "voteCount": 5,
         "popularity": 7.179
+      },
+      {
+        "source": "iq",
+        "cid": "iq202918101",
+        "title": "灌篮高手 普通话",
+        "teaser": "教练 我想打篮球",
+        "year": "2015",
+        "genre": "",
+        "area": "",
+        "episodeText": "101集全",
+        "tags": [
+          "动画",
+          "喜剧"
+        ],
+        "displayTitle": "灌篮高手",
+        "tmdbId": 42573,
+        "mediaType": "tv",
+        "posterPath": "/p6RKceYl3SB03ToDR5BbchvmrxC.jpg",
+        "backdropPath": "/eklM8HZeGKB5KMKRqkuff0yW0Oq.jpg",
+        "releaseDate": "1993-10-16",
+        "rating": 8.7,
+        "voteCount": 997,
+        "popularity": 31.2289
+      },
+      {
+        "source": "iq",
+        "cid": "iq208508001",
+        "title": "捷德奥特曼 普通话",
+        "teaser": "贝利亚之子化身正义",
+        "year": "2017",
+        "genre": "",
+        "area": "",
+        "episodeText": "25集全",
+        "tags": [
+          "动作冒险",
+          "Sci-Fi & Fantasy"
+        ],
+        "displayTitle": "捷德奥特曼",
+        "tmdbId": 73169,
+        "mediaType": "tv",
+        "posterPath": "/hif612E1NTVd7vwrXBYJFmOEWLz.jpg",
+        "backdropPath": "/8DoXxaaxT4gJtAJ8bx5f31dJHHt.jpg",
+        "releaseDate": "2017-07-08",
+        "rating": 8.6,
+        "voteCount": 10,
+        "popularity": 8.4746
+      },
+      {
+        "source": "iq",
+        "cid": "iq3103278852671801",
+        "title": "奥美迦奥特曼 普通话",
+        "teaser": "光之巨人再度守护地球",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "28集全",
+        "tags": [
+          "动作冒险",
+          "Sci-Fi & Fantasy",
+          "儿童"
+        ],
+        "displayTitle": "奥美迦奥特曼",
+        "tmdbId": 289745,
+        "mediaType": "tv",
+        "posterPath": "/jQ9fYvTZHpYfjEa5hmHpYarkkUl.jpg",
+        "backdropPath": "/gVKbDOi7ygmN3hM7kOOjHxdDiw8.jpg",
+        "releaseDate": "2025-07-05",
+        "rating": 7.364,
+        "voteCount": 11,
+        "popularity": 8.0047
       },
       {
         "source": "iq",
@@ -4790,6 +5154,7 @@
           "喜剧",
           "Sci-Fi & Fantasy"
         ],
+        "displayTitle": "妖精的尾巴",
         "tmdbId": 46261,
         "mediaType": "tv",
         "posterPath": "/wzk885pfbh0cbSfTSsqYlVfH4bH.jpg",
@@ -4812,6 +5177,7 @@
           "动画",
           "喜剧"
         ],
+        "displayTitle": "成何体统",
         "tmdbId": 256783,
         "mediaType": "tv",
         "posterPath": "/tsPRmcQsvYP1cYRXQmHZmPHvw81.jpg",
@@ -4834,6 +5200,7 @@
           "动画",
           "动作冒险"
         ],
+        "displayTitle": "搜神记",
         "tmdbId": 233291,
         "mediaType": "tv",
         "posterPath": "/mQqHNwv27BDLY1b7z9YpYlezVzv.jpg",
