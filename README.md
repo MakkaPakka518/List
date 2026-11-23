@@ -9,6 +9,7 @@
 |---|---|---|
 | 骨朵热度 | 剧集 / 综艺 / 动漫 / 电影 | `data/guduo-hot.json` |
 | 豆瓣热榜 | 剧集（大陆/欧美/日/韩/动漫/纪录）+ 综艺 | `data/douban-hot.json` |
+| 豆瓣热评 | 独立 `comments` 数据组（按 `媒体类型.tmdbId` 索引，每条一句简短热评） | `data/douban-hot.json` → `comments` |
 | 芒果TV | 剧集 + 王牌综艺 | `data/mgtv-hot.json` |
 | 各平台剧场 | 迷雾/白夜/X/恋恋… 15 个剧场（已开播/即将） | `data/theater-data.json` |
 | 热门番剧 | bgm.tv 排名 + TMDB 匹配 | `data/bangumi-hot.json` |
