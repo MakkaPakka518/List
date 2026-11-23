@@ -26,10 +26,10 @@ test('the workflow runs daily at 03:30 UTC, which is 11:30 Beijing time', () => 
   assert.match(yml, /data\/qq-teaser\.json/);
 });
 
-test('the committed data has both channels and a teaser on every entry', () => {
+test('the committed data has every channel and a teaser on every entry', () => {
   const data = JSON.parse(fs.readFileSync(paths.join(root, 'data/qq-teaser.json'), 'utf8'));
   assert.ok(data.updatedAt && /\+08:00$/.test(data.updatedAt), 'saved in Beijing time');
-  for (const channel of ['tv', 'movie']) {
+  for (const channel of ['tv', 'movie', 'variety', 'anime', 'doc', 'kids']) {
     assert.ok(Array.isArray(data.channels[channel]));
     const entries = data.channels[channel];
     assert.ok(entries.length > 0);
@@ -38,6 +38,18 @@ test('the committed data has both channels and a teaser on every entry', () => {
       assert.ok(entry.cid && entry.title);
       assert.equal(entry.title.includes('更新'), false, 'update marker is stripped from titles');
     }
+  }
+});
+
+test('TV and movie lists merge QQ and iQiyi entries with distinct ids', () => {
+  const data = JSON.parse(fs.readFileSync(paths.join(root, 'data/qq-teaser.json'), 'utf8'));
+  for (const channel of ['tv', 'movie']) {
+    const entries = data.channels[channel];
+    const iq = entries.filter((entry) => entry.cid.startsWith('iq'));
+    const qq = entries.filter((entry) => !entry.cid.startsWith('iq'));
+    assert.ok(iq.length > 0, `${channel} has iQiyi entries`);
+    assert.ok(qq.length > 0, `${channel} keeps QQ entries`);
+    assert.equal(new Set(entries.map((entry) => entry.cid)).size, entries.length, 'no duplicate ids');
   }
 });
 
@@ -59,6 +71,26 @@ print(json.dumps([
   assert.equal(fallback.teaser, '平凡人家大戏启幕');
   assert.equal(noId, null, 'entries without an id are rejected');
   assert.equal(bare.teaser, '', 'an empty teaser stays empty, never invented');
+});
+
+test('iQiyi entries read desc first and fall back to kvs.featureSubTitle', () => {
+  const out = execFileSync('python3', ['-c', `
+import importlib.util, json
+spec = importlib.util.spec_from_file_location("m", "scripts/update_qq_teaser.py")
+m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+print(json.dumps([
+  m.parse_iq({"albumId": 3190714930072901, "albumName": "两京十五日", "desc": "限时闯关“京”险不断", "period": "20261119", "lowerRightCorner": "更新至10集"}),
+  m.parse_iq({"albumId": 5, "albumName": "小城良方", "desc": "", "kvs": {"featureSubTitle": "纯过日子"}, "year": 2026}),
+  m.parse_iq({"albumId": 0, "albumName": "无 ID"}),
+]))
+`], { cwd: root, encoding: 'utf8' });
+  const [first, fallback, bad] = JSON.parse(out);
+  assert.equal(first.cid, 'iq3190714930072901');
+  assert.equal(first.teaser, '限时闯关“京”险不断');
+  assert.equal(first.year, '2026', 'year comes from the period when the year field is empty');
+  assert.equal(fallback.teaser, '纯过日子');
+  assert.equal(fallback.year, '2026');
+  assert.equal(bad, null);
 });
 
 test('an upstream failure keeps the previous data file', () => {
