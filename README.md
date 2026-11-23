@@ -14,7 +14,7 @@
 | 各平台剧场 | 迷雾/白夜/X/恋恋… 15 个剧场（已开播/即将） | `data/theater-data.json` |
 | 热门番剧 | bgm.tv 排名 + TMDB 匹配 | `data/bangumi-hot.json` |
 | FlixPatrol | 全球、美国、台湾、香港、新加坡、韩国、日本的流媒体每日 TOP 10 | `data/flixpatrol/*.json` |
-| 腾讯/爱奇艺看点 | 两个平台剧集、电影、综艺、动漫等列表的简短看点，每天北京时间 11:30 抓取 | `data/qq-teaser.json` |
+| 爱腾芒看点 | 爱奇艺、腾讯、芒果三个平台剧集/电影/综艺/动漫的简短看点，每天北京时间 11:30 抓取 | `data/qq-teaser.json` |
 | 动画疯 | 通过仓库 Secret 中的台湾 SOCKS5 抓取月人气与年份榜，并匹配 TMDB ID | `data/anigamer-hot.json` |
 
 每个条目都经过 TMDB 匹配，自带 `title / rating / posterPath / mediaType / releaseDate` 等完整字段。
@@ -67,10 +67,11 @@ node --test tests/daily-stamp.test.cjs
 
 `scripts/update_qq_teaser.py` 每天由 `.github/workflows/update-qq-teaser.yml` 在北京时间 11:30 抓取看点，写入 `data/qq-teaser.json`：
 
-- 腾讯：`second_title`，缺失时用 `actor_info_core_details`（电视剧、电影）。
-- 爱奇艺：`desc`，缺失时用 `kvs.featureSubTitle`（电视剧、电影、综艺、动漫、纪录片、少儿）。
+- 腾讯：`second_title`，缺失时用 `actor_info_core_details`（电视剧、电影、动漫、综艺）。
+- 爱奇艺：`desc`，缺失时用 `kvs.featureSubTitle`（电视剧、电影、动漫、综艺）。
+- 芒果TV：综艺/动漫用 `subtitle` 原生短看点；电视剧/电影的 `subtitle` 是演员名单，改取 `story` 挑一个 10–16 字的完整分句。
 
-两个平台共用 `channels` 下的同名字段并按 `cid` 去重，平台剧场模块的「騰訊-愛奇藝看點」入口读取该文件并匹配 TMDB。
+三个平台共用 `channels` 下的同名字段并按 TMDB ID 去重，平台剧场模块的「愛騰芒-看點」入口读取该文件做本地筛选排序。数据只保留 TMDB 匹配成功且有海报的条目。
 
 ```sh
 node --test tests/qq-teaser-crawl.test.cjs

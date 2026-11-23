@@ -1,4 +1,4 @@
-"""抓取腾讯视频与爱奇艺片库的「本期看点」，写入 data/qq-teaser.json。
+"""抓取腾讯视频、爱奇艺与芒果TV片库的「本期看点」，写入 data/qq-teaser.json。
 
 每天抓一次，并把每部作品匹配到 TMDB，数据里直接带好：
 - 看点：腾讯 second_title（回退 actor_info_core_details）；爱奇艺 desc（回退 kvs.featureSubTitle）
@@ -573,7 +573,7 @@ def main():
         raise SystemExit("no entries matched TMDB, keeping the previous file")
     payload = {
         "updatedAt": datetime.now(BEIJING).isoformat(timespec="seconds"),
-        "source": "腾讯视频 + 爱奇艺片库列表",
+        "source": "腾讯视频 + 爱奇艺 + 芒果TV片库列表",
         "channels": channels,
     }
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
