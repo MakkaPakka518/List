@@ -326,6 +326,39 @@ def tmdb_genres(kind, tmdb_id):
     return GENRE_CACHE[key]
 
 
+def merge_entries(primary, extra):
+    """同一部作品的两个平台条目合成一条：腾讯优先，缺失字段互相补齐。"""
+    merged = dict(primary)
+    for key, value in extra.items():
+        if merged.get(key) in ("", None, []):
+            merged[key] = value
+    merged["tags"] = list(dict.fromkeys((primary.get("tags") or []) + (extra.get("tags") or [])))
+    merged["alsoOn"] = [s for s in {primary.get("source"), extra.get("source")} if s] \
+        if primary.get("source") != extra.get("source") else [primary.get("source")]
+    return merged
+
+
+def dedupe(entries):
+    """TMDB 匹配后按 tmdbId 去重；腾讯条目优先，其余字段取并集。"""
+    seen = {}
+    order = []
+    for entry in entries:
+        key = (entry.get("mediaType"), entry.get("tmdbId"))
+        if not entry.get("tmdbId"):
+            key = ("raw", entry["cid"])
+        if key in seen:
+            index, current = seen[key]
+            # 腾讯条目信息更全（自带类型标签），保留它作为主条目。
+            if current["source"] != "qq" and entry["source"] == "qq":
+                seen[key] = (index, merge_entries(entry, current))
+            else:
+                seen[key] = (index, merge_entries(current, entry))
+        else:
+            seen[key] = (len(order), entry)
+            order.append(key)
+    return [seen[key][1] for key in order]
+
+
 def enrich(channels):
     jobs = []
     for channel, entries in channels.items():
@@ -342,22 +375,21 @@ def enrich(channels):
             except Exception:
                 match = None
             if match:
-                hit[entry["cid"]] = (entry, match)
+                hit[entry["cid"]] = match
             if index % 25 == 0:
                 print(f"tmdb resolved {index}/{len(jobs)}")
     for channel, entries in channels.items():
         merged = []
         for entry in entries:
-            found = hit.get(entry["cid"])
-            if not found:
+            match = hit.get(entry["cid"])
+            if not match:
                 continue
-            match = found[1]
             tags = list(entry.get("tags") or [])
             for name in match.pop("genres", []):
                 if name not in tags:
                     tags.append(name)
             merged.append({**entry, **match, "tags": tags[:10]})
-        channels[channel] = merged
+        channels[channel] = dedupe(merged)
     return channels
 
 
@@ -366,18 +398,14 @@ def enrich(channels):
 def collect():
     results = {}
     for channel, (qq_id, iq_id, _kind) in CHANNELS.items():
-        entries, seen = [], set()
+        entries = []
         for collector, cid in ((collect_qq, qq_id), (collect_iq, iq_id)):
             try:
                 batch = collector(cid)
             except Exception as error:
                 print(f"{collector.__name__} {channel} failed: {error}")
                 continue
-            for entry in batch:
-                if entry["cid"] in seen:
-                    continue
-                seen.add(entry["cid"])
-                entries.append(entry)
+            entries.extend(batch)
         results[channel] = entries
     return results
 

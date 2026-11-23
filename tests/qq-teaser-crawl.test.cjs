@@ -100,6 +100,33 @@ print(json.dumps([
   assert.equal(bad, null);
 });
 
+test('the same show on both platforms collapses to one QQ-first entry', () => {
+  const out = execFileSync('python3', ['-c', `
+import importlib.util, json
+spec = importlib.util.spec_from_file_location("m", "scripts/update_qq_teaser.py")
+m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+qq = {"source": "qq", "cid": "qqA", "title": "四渡", "teaser": "腾讯看点", "tags": ["历史", "战争"], "year": "2026", "genre": "历史", "episodeText": "120分钟", "mediaType": "movie", "tmdbId": 900, "posterPath": "/q.jpg", "backdropPath": "/qb.jpg", "releaseDate": "2026-01-01", "rating": 7.5, "popularity": 100}
+iq = {"source": "iq", "cid": "iqB", "title": "四渡", "teaser": "爱奇艺看点", "tags": ["战争"], "year": "2026", "genre": "", "episodeText": "", "mediaType": "movie", "tmdbId": 900, "posterPath": "/i.jpg", "backdropPath": "/ib.jpg", "releaseDate": "2026-01-01", "rating": 8.0, "popularity": 200}
+print(json.dumps([m.dedupe([qq, iq]), m.dedupe([iq, qq]), m.dedupe([dict(qq, tmdbId=901), dict(iq, tmdbId=905)])]))
+`], { cwd: root, encoding: 'utf8' });
+  const [qqFirst, iqFirst, distinct] = JSON.parse(out);
+  assert.equal(qqFirst.length, 1);
+  assert.equal(qqFirst[0].cid, 'qqA', 'QQ entry wins regardless of input order');
+  assert.equal(qqFirst[0].teaser, '腾讯看点');
+  assert.deepEqual(qqFirst[0].alsoOn.sort(), ['iq', 'qq'], 'the other platform is recorded');
+  assert.equal(iqFirst.length, 1);
+  assert.equal(iqFirst[0].cid, 'qqA');
+  assert.equal(distinct.length, 2, 'different TMDB ids stay separate');
+});
+
+test('no duplicate TMDB ids remain in the committed data', () => {
+  const data = JSON.parse(fs.readFileSync(paths.join(root, 'data/qq-teaser.json'), 'utf8'));
+  for (const [channel, entries] of Object.entries(data.channels)) {
+    const keys = entries.map((entry) => `${entry.mediaType}.${entry.tmdbId}`);
+    assert.equal(new Set(keys).size, keys.length, `${channel} has no duplicate shows`);
+  }
+});
+
 test('an upstream failure keeps the previous data file', () => {
   const before = fs.readFileSync(paths.join(root, 'data/qq-teaser.json'), 'utf8');
   const dir = fs.mkdtempSync('/tmp/qqf-');
