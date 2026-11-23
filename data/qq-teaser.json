@@ -1,0 +1,226 @@
+{
+  "updatedAt": "2026-11-24T03:24:08+08:00",
+  "source": "腾讯视频片库列表",
+  "channels": {
+    "tv": [
+      {
+        "cid": "mzc002006266llu",
+        "title": "多喜一家人",
+        "teaser": "蒋欣李光洁叔嫂争拆迁款",
+        "year": "2026",
+        "genre": "家庭",
+        "area": "内地",
+        "episodeText": "更新至15集"
+      },
+      {
+        "cid": "mzc00200zsqz54y",
+        "title": "走马上任",
+        "teaser": "赵家班新爆笑喜剧",
+        "year": "2026",
+        "genre": "喜剧",
+        "area": "内地",
+        "episodeText": "全40集"
+      },
+      {
+        "cid": "mzc002001w361jz",
+        "title": "尚公主",
+        "teaser": "扶摇直尚险途携手破危局",
+        "year": "2026",
+        "genre": "爱情",
+        "area": "内地",
+        "episodeText": "全40集"
+      },
+      {
+        "cid": "mzc00200k186ml9",
+        "title": "繁华落尽第二季",
+        "teaser": "新局重启，金瀚狱中翻盘",
+        "year": "2026",
+        "genre": "犯罪",
+        "area": "内地",
+        "episodeText": "更新至14集"
+      },
+      {
+        "cid": "mzc0020005aceo2",
+        "title": "玫瑰战争[普通话版]",
+        "teaser": "娱乐圈致命游戏刺激上演",
+        "year": "2026",
+        "genre": "都市",
+        "area": "中国香港",
+        "episodeText": "全25集"
+      },
+      {
+        "cid": "mzc00200p1ilkw3",
+        "title": "伟大的长征",
+        "teaser": "英雄史诗不朽丰碑",
+        "year": "2026",
+        "genre": "革命",
+        "area": "内地",
+        "episodeText": "全60集"
+      },
+      {
+        "cid": "mzc00200a8uyri7",
+        "title": "庶女",
+        "teaser": "瞎眼庶女入局杀疯全宅",
+        "year": "2026",
+        "genre": "古装",
+        "area": "内地",
+        "episodeText": "更新至06集"
+      },
+      {
+        "cid": "mzc00200803dr6b",
+        "title": "兰香如故",
+        "teaser": "高门跌落！婢女深宅挣生机",
+        "year": "2026",
+        "genre": "古装",
+        "area": "内地",
+        "episodeText": "全47集"
+      },
+      {
+        "cid": "mzc0020098xcllx",
+        "title": "醉梦",
+        "teaser": "刘诗诗开启尘封悬案",
+        "year": "2026",
+        "genre": "悬疑",
+        "area": "内地",
+        "episodeText": "全18集"
+      },
+      {
+        "cid": "mzc00200rz8p62x",
+        "title": "秦岭青铜诡事录第二季",
+        "teaser": "古寨活祭，揭开永生骗局",
+        "year": "2026",
+        "genre": "奇幻",
+        "area": "内地",
+        "episodeText": "全20集"
+      },
+      {
+        "cid": "mzc002008q7p9vk",
+        "title": "北境往事",
+        "teaser": "金瀚高至霆演绎黑道风云",
+        "year": "2026",
+        "genre": "剧情",
+        "area": "内地",
+        "episodeText": "全24集"
+      },
+      {
+        "cid": "mzc002004k31fxg",
+        "title": "蒸蒸日上",
+        "teaser": "澡堂楼上开律所，烟火人间",
+        "year": "2026",
+        "genre": "都市",
+        "area": "内地",
+        "episodeText": "全22集"
+      }
+    ],
+    "movie": [
+      {
+        "cid": "mzc00200nkevtjv",
+        "title": "四渡",
+        "teaser": "全景还原四渡赤水史诗战役",
+        "year": "2026",
+        "genre": "历史",
+        "area": "内地",
+        "episodeText": ""
+      },
+      {
+        "cid": "mzc00200iivbt9k",
+        "title": "八仙！",
+        "teaser": "8.2分！20亿国漫之光",
+        "year": "2026",
+        "genre": "动画",
+        "area": "内地",
+        "episodeText": ""
+      },
+      {
+        "cid": "mzc0020062b3p6v",
+        "title": "蜘蛛侠：崭新之日",
+        "teaser": "影史票房TOP3超级英雄神作",
+        "year": "2026",
+        "genre": "动作",
+        "area": "美国",
+        "episodeText": ""
+      },
+      {
+        "cid": "mzc002000s9f77y",
+        "title": "空枪",
+        "teaser": "朱一龙檀健次梁家辉博弈",
+        "year": "2026",
+        "genre": "犯罪",
+        "area": "内地",
+        "episodeText": ""
+      },
+      {
+        "cid": "mzc00200w84yrah",
+        "title": "狼蛇行动",
+        "teaser": "顶级杀手深陷夺命生死局",
+        "year": "2026",
+        "genre": "犯罪",
+        "area": "内地",
+        "episodeText": ""
+      },
+      {
+        "cid": "mzc00200urc8oxx",
+        "title": "穿普拉达的女王2",
+        "teaser": "时尚“女魔头”华丽归来",
+        "year": "2026",
+        "genre": "喜剧",
+        "area": "美国",
+        "episodeText": ""
+      },
+      {
+        "cid": "mzc00200cxoeil9",
+        "title": "补天",
+        "teaser": "赛博修仙双末日兽灾来袭",
+        "year": "2026",
+        "genre": "动作",
+        "area": "内地",
+        "episodeText": ""
+      },
+      {
+        "cid": "mzc0020051crcu5",
+        "title": "极限逃生",
+        "teaser": "吴昱翰徐璐张海宇爆笑逃生",
+        "year": "2026",
+        "genre": "喜剧",
+        "area": "内地",
+        "episodeText": ""
+      },
+      {
+        "cid": "mzc002009suxdpv",
+        "title": "我想留在你身边",
+        "teaser": "毕雯珺何蓝逗逆时虐恋",
+        "year": "2026",
+        "genre": "爱情",
+        "area": "内地",
+        "episodeText": ""
+      },
+      {
+        "cid": "g9026xzb9g0tqp9",
+        "title": "记忆碎片",
+        "teaser": "诺兰经典烧脑神片",
+        "year": "2000",
+        "genre": "悬疑",
+        "area": "美国",
+        "episodeText": "0"
+      },
+      {
+        "cid": "mzc00200in5doq6",
+        "title": "功夫女足",
+        "teaser": "周星驰出山！爆笑燃球场",
+        "year": "2026",
+        "genre": "喜剧",
+        "area": "中国香港",
+        "episodeText": ""
+      },
+      {
+        "cid": "mzc00200bektv93",
+        "title": "敦煌英雄",
+        "teaser": "章宇窦骁雷佳音血战归唐",
+        "year": "2026",
+        "genre": "动作",
+        "area": "内地",
+        "episodeText": ""
+      }
+    ]
+  }
+}

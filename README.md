@@ -14,6 +14,7 @@
 | 各平台剧场 | 迷雾/白夜/X/恋恋… 15 个剧场（已开播/即将） | `data/theater-data.json` |
 | 热门番剧 | bgm.tv 排名 + TMDB 匹配 | `data/bangumi-hot.json` |
 | FlixPatrol | 全球、美国、台湾、香港、新加坡、韩国、日本的流媒体每日 TOP 10 | `data/flixpatrol/*.json` |
+| 腾讯视频看点 | 剧集/电影列表的「本期看点」，每天北京时间 11:30 抓取 | `data/qq-teaser.json` |
 | 动画疯 | 通过仓库 Secret 中的台湾 SOCKS5 抓取月人气与年份榜，并匹配 TMDB ID | `data/anigamer-hot.json` |
 
 每个条目都经过 TMDB 匹配，自带 `title / rating / posterPath / mediaType / releaseDate` 等完整字段。
@@ -60,6 +61,14 @@ https://raw.githubusercontent.com/MakkaPakka518/List/main/widgets/daily-stamp.js
 
 ```sh
 node --test tests/daily-stamp.test.cjs
+```
+
+## 腾讯视频看点
+
+`scripts/update_qq_teaser.py` 每天由 `.github/workflows/update-qq-teaser.yml` 在北京时间 11:30 抓取电视剧与电影列表的 `second_title` 看点，写入 `data/qq-teaser.json`；平台剧场模块的「騰訊視頻-看點」入口读取该文件并匹配 TMDB。
+
+```sh
+node --test tests/qq-teaser-crawl.test.cjs
 ```
 
 ## 本地验证
