@@ -45,6 +45,7 @@ CHANNELS = {
     "variety": ("100109", 6, "tv"),
     "anime": ("100119", 4, "tv"),
 }
+MG_CHANNELS = {"tv": 2, "movie": 3, "variety": 1, "anime": 50}
 IQ_PAGES = (1, 2, 3)
 OUTPUT = Path("data/qq-teaser.json")
 BEIJING = timezone(timedelta(hours=8))
@@ -209,6 +210,91 @@ def collect_iq(channel_id):
             if entry and entry["cid"] not in seen:
                 seen.add(entry["cid"])
                 entries.append(entry)
+    return entries
+
+
+# ---------------------------------------------------------------- 芒果TV
+
+MG_API = "https://pianku.api.mgtv.com/rider/list/pcweb/v3"
+MG_HEADERS = {
+    "Referer": "https://www.mgtv.com/lib/",
+    "Accept": "application/json",
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+    ),
+}
+
+
+def mg_request(channel_id):
+    from urllib.parse import urlencode as _ue
+
+    query = {
+        "allowedRC": "1", "platform": "pcweb", "channelId": channel_id,
+        "pn": 1, "pc": 30, "hudong": 1, "_support": "10000000",
+    }
+    req = Request(MG_API + "?" + _ue(query), headers=MG_HEADERS)
+    with urlopen(req, timeout=30) as response:
+        body = json.load(response)
+    return ((body.get("data") or {}).get("hitDocs") or [])
+
+
+def mg_teaser(doc):
+    """综艺/动漫等频道 subtitle 是真看点；电视剧/电影 subtitle 是演员名单，
+    改用 story 截到第一个句读（不超过 24 字）。"""
+    subtitle = str(doc.get("subtitle") or "").strip()
+    source_channel = doc.get("_mg_channel")
+    if source_channel in ("variety", "anime") and subtitle and "," not in subtitle and "，" not in subtitle:
+        return subtitle
+    story = str(doc.get("story") or "").strip()
+    if not story:
+        return ""
+    # 挑一个尽量接近 16 字的完整分句；首选短分句拼够长度，避免截半句。
+    clauses = [part.strip() for part in re.split(r"[，；。！？]", story) if len(part.strip()) >= 4]
+    full = [part for part in clauses if len(part) <= 16]
+    if full:
+        best = max(full, key=len)
+        if len(best) >= 10:
+            return best + "。"
+        # 短句拼对：夜雨萦梦(4)+理不清心头方绪(7) → 「夜雨萦梦，理不清心头方绪。」
+        opening = clauses[0]
+        for part in clauses[1:]:
+            joined = opening + "，" + part
+            if len(joined) <= 16:
+                best = joined
+                break
+        return best + "。"
+    if clauses:
+        return min(clauses, key=len)[:15] + "…"
+    return story[:15] + "…"
+
+
+def parse_mg(doc, channel):
+    aid = str(doc.get("clipId") or "").strip()
+    title = clean_title(doc.get("title"))
+    if not aid or not title:
+        return None
+    return {
+        "source": "mgtv",
+        "cid": "mg" + aid,
+        "title": title,
+        "teaser": mg_teaser({**doc, "_mg_channel": channel}),
+        "year": clean_year(doc.get("year")),
+        "genre": "",
+        "area": "",
+        "episodeText": str(doc.get("updateInfo") or "").strip(),
+        "tags": [],
+        "lastUpdateDate": str(doc.get("se_updateTime") or "").strip()[:10],
+    }
+
+
+def collect_mgtv(channel, channel_id):
+    entries, seen = [], set()
+    for doc in mg_request(channel_id):
+        entry = parse_mg(doc, channel)
+        if entry and entry["cid"] not in seen:
+            seen.add(entry["cid"])
+            entries.append(entry)
     return entries
 
 
@@ -466,6 +552,10 @@ def collect():
                 print(f"{collector.__name__} {channel} failed: {error}")
                 continue
             entries.extend(batch)
+        try:
+            entries.extend(collect_mgtv(channel, MG_CHANNELS[channel]))
+        except Exception as error:
+            print(f"mgtv {channel} failed: {error}")
         results[channel] = entries
     return results
 
