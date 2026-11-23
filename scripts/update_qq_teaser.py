@@ -282,6 +282,14 @@ def title_variants(title):
     return out
 
 
+# 榜单只统计国产剧；TMDB 候选必须产自这些地区，避免「黑沙」匹配到冰岛剧。
+CN_REGIONS = {"CN", "HK", "MO", "TW"}
+
+
+def is_chinese_show(result):
+    return bool(set(result.get("origin_country") or []) & CN_REGIONS)
+
+
 def match_score(result, names, year):
     titles = [result.get(key) for key in ("name", "title", "original_name", "original_title")]
     titles = [value for value in titles if value]
@@ -299,10 +307,13 @@ def match_score(result, names, year):
 
 
 def ranked_matches(results, names, year):
-    """所有过阈值的候选，分数高的在前；首位没图时还能试下一位。"""
+    """所有过阈值的候选，分数高的在前；首位没图时还能试下一位。
+    只接受中国大陆/香港/澳门/台湾出品的候选。"""
     scored = []
     for result in results or []:
         if not result or not result.get("id"):
+            continue
+        if not is_chinese_show(result):
             continue
         score = match_score(result, names, year)
         if score >= 0.72:
