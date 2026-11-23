@@ -240,6 +240,30 @@ def norm_title(value):
     return re.sub(r"[^\w]+", "", text, flags=re.UNICODE)
 
 
+# 标题里这些后缀都不是作品本身的一部分，搜 TMDB 之前全部去掉。
+TITLE_NOISE = (
+    r"普通话版?|国语版?|粤语版?|日语版?|中配版?|原声版?|未删减版?|修复版?|重映版?|英语版?|台配版?|港配版?",
+    r"第\s*[0-9一二三四五六七八九十百]+\s*[季期部篇]",
+    r"(?:年番|完结季|完结篇|特别篇|加更篇|衍生篇|番外篇|总篇|精华篇)",
+    r"(?:爽看版|精编版|加更版|会员版|悠享版|抢先版|完整版|导演剪辑版|速看版|高能版|纯享版|竖屏版|横屏版|特辑|大结局|升级版|重逢版)",
+)
+
+
+def clean_search_title(title):
+    text = str(title or "").strip()
+    for pattern in TITLE_NOISE:
+        text = re.sub(pattern, "", text)
+    text = re.sub(r"[（(][^)）]*[)）]", "", text)
+    text = re.sub(r"\[[^\]]*\]", "", text)
+    text = re.sub(r"【[^】]*】", "", text)
+    text = re.sub(r"\s+", " ", text)
+    # 「蜡笔小新 第7季 普通话」这类标题去掉季数后，普通话版会残留在末尾；再清一次。
+    for pattern in TITLE_NOISE:
+        text = re.sub(pattern, "", text)
+    text = re.sub(r"[\s·・]+$", "", text).strip()
+    return text
+
+
 def title_variants(title):
     raw = str(title or "").strip()
     if not raw:
@@ -251,12 +275,9 @@ def title_variants(title):
         if len(text) >= 2 and text not in out:
             out.append(text)
 
-    add(raw)
-    base = re.sub(r"[（(][^)）]*[)）]", "", raw)
-    base = re.sub(r"【[^】]*】|\[[^\]]*\]", "", base).strip()
-    add(base)
+    add(clean_search_title(raw))
+    base = clean_search_title(raw)
     add(base.split("·")[0].strip())
-    add(re.sub(r"第\s*[0-9一二三四五六七八九十]+\s*[季期部篇].*$", "", base).strip())
     return out
 
 
@@ -283,7 +304,10 @@ def best_match(results, names, year):
 
 
 def resolve(entry, media_type):
-    names = title_variants(entry["title"])
+    alias = ALIAS.get(clean_search_title(entry["title"]))
+    names = [alias] if alias else title_variants(entry["title"])
+    if not names:
+        names = title_variants(entry["title"])
     for kind in (media_type, "movie" if media_type == "tv" else "tv"):
         for name in names[:2]:
             try:
@@ -293,13 +317,18 @@ def resolve(entry, media_type):
             hit = best_match(data.get("results"), names, entry["year"])
             if not hit:
                 continue
+            poster = hit.get("poster_path") or ""
+            backdrop = hit.get("backdrop_path") or ""
+            # 拿不到 TMDB 身份或没有一张图就没法展示，直接丢弃。
+            if not poster and not backdrop:
+                return None
             date = str(hit.get("first_air_date") or hit.get("release_date") or "")
             genres = tmdb_genres(kind, hit["id"])
             return {
                 "tmdbId": hit["id"],
                 "mediaType": kind,
-                "posterPath": hit.get("poster_path") or "",
-                "backdropPath": hit.get("backdrop_path") or "",
+                "posterPath": poster,
+                "backdropPath": backdrop,
                 "releaseDate": date,
                 "rating": hit.get("vote_average") or 0,
                 "voteCount": hit.get("vote_count") or 0,
@@ -388,12 +417,32 @@ def enrich(channels):
             for name in match.pop("genres", []):
                 if name not in tags:
                     tags.append(name)
-            merged.append({**entry, **match, "tags": tags[:10]})
+            merged.append({**entry, "displayTitle": display_title(entry), **match, "tags": tags[:10]})
         channels[channel] = dedupe(merged)
+    # 无海报的条目在卡片上没有意义，统一丢弃。
+    for channel, entries in channels.items():
+        channels[channel] = [entry for entry in entries if entry.get("posterPath") or entry.get("backdropPath")]
     return channels
 
 
 # ---------------------------------------------------------------- 汇总
+
+# 同一部作品在腾讯/爱奇艺的叫法不同，TMDB 又搜不到时，按这里映射到正确标题。
+# 值为 TMDB 搜索词；命中后 displayTitle 保持平台原名，只有搜索用映射。
+ALIAS = {
+    # 腾讯「奔跑吧」各季与爱奇艺「奔跑吧」/「奔跑吧兄弟」系列在 TMDB 是同一部综艺。
+    "奔跑吧大湾区篇": "奔跑吧",
+    "奔跑吧第10季": "奔跑吧",
+    "奔跑吧兄弟第10季": "奔跑吧",
+    "奔跑吧": "奔跑吧",
+    "奔跑吧兄弟": "奔跑吧兄弟",
+}
+
+
+def display_title(entry):
+    """卡片显示用的标题：只去掉普通话版等后缀，保留季数信息由各平台展示。"""
+    return clean_search_title(entry["title"])
+
 
 def collect():
     results = {}
