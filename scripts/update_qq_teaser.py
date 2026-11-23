@@ -281,26 +281,33 @@ def title_variants(title):
     return out
 
 
-def best_match(results, names, year):
-    best, best_score = None, 0.0
+def match_score(result, names, year):
+    titles = [result.get(key) for key in ("name", "title", "original_name", "original_title")]
+    titles = [value for value in titles if value]
+    score = 0.0
+    for name in names:
+        for title in titles:
+            score = max(score, SequenceMatcher(None, norm_title(name), norm_title(title)).ratio())
+    date = str(result.get("first_air_date") or result.get("release_date") or "")
+    if year and date[:4] == year:
+        score += 0.5
+    elif year and date and abs(int(date[:4]) - int(year)) == 1:
+        score += 0.25
+    score += min(0.2, float(result.get("popularity") or 0) / 5000)
+    return score
+
+
+def ranked_matches(results, names, year):
+    """所有过阈值的候选，分数高的在前；首位没图时还能试下一位。"""
+    scored = []
     for result in results or []:
         if not result or not result.get("id"):
             continue
-        titles = [result.get(key) for key in ("name", "title", "original_name", "original_title")]
-        titles = [value for value in titles if value]
-        score = 0.0
-        for name in names:
-            for title in titles:
-                score = max(score, SequenceMatcher(None, norm_title(name), norm_title(title)).ratio())
-        date = str(result.get("first_air_date") or result.get("release_date") or "")
-        if year and date[:4] == year:
-            score += 0.5
-        elif year and date and abs(int(date[:4]) - int(year)) == 1:
-            score += 0.25
-        score += min(0.2, float(result.get("popularity") or 0) / 5000)
-        if score > best_score:
-            best, best_score = result, score
-    return best if best_score >= 0.72 else None
+        score = match_score(result, names, year)
+        if score >= 0.72:
+            scored.append((score, result))
+    scored.sort(key=lambda item: -item[0])
+    return [result for _score, result in scored]
 
 
 def resolve(entry, media_type):
@@ -314,45 +321,49 @@ def resolve(entry, media_type):
                 data = tmdb_get(f"search/{kind}", {"query": name, "language": "zh-CN", "include_adult": "false"})
             except Exception:
                 continue
-            hit = best_match(data.get("results"), names, entry["year"])
-            if not hit:
-                continue
-            poster = hit.get("poster_path") or ""
-            backdrop = hit.get("backdrop_path") or ""
-            # 拿不到 TMDB 身份或没有一张图就没法展示，直接丢弃。
-            if not poster and not backdrop:
-                return None
-            date = str(hit.get("first_air_date") or hit.get("release_date") or "")
-            genres = tmdb_genres(kind, hit["id"])
-            return {
-                "tmdbId": hit["id"],
-                "mediaType": kind,
-                "posterPath": poster,
-                "backdropPath": backdrop,
-                "releaseDate": date,
-                "rating": hit.get("vote_average") or 0,
-                "voteCount": hit.get("vote_count") or 0,
-                "popularity": hit.get("popularity") or 0,
-                "genres": genres,
-            }
+            # 首位候选没图时继续试下一位，全部没图才算匹配失败。
+            for hit in ranked_matches(data.get("results"), names, entry["year"]):
+                poster = hit.get("poster_path") or ""
+                backdrop = hit.get("backdrop_path") or ""
+                if not poster and not backdrop:
+                    continue
+                date = str(hit.get("first_air_date") or hit.get("release_date") or "")
+                genres, last_update = tmdb_detail(kind, hit["id"])
+                return {
+                    "tmdbId": hit["id"],
+                    "mediaType": kind,
+                    "posterPath": poster,
+                    "backdropPath": backdrop,
+                    "releaseDate": date,
+                    "lastUpdateDate": last_update or date,
+                    "rating": hit.get("vote_average") or 0,
+                    "voteCount": hit.get("vote_count") or 0,
+                    "popularity": hit.get("popularity") or 0,
+                    "genres": genres,
+                }
     return None
 
 
 GENRE_CACHE = {}
 
 
-def tmdb_genres(kind, tmdb_id):
+DETAIL_CACHE = {}
+
+
+def tmdb_detail(kind, tmdb_id):
+    """类型名 + last_air_date（与豆瓣热榜的最近更新同源），一次请求两个都要。"""
     key = f"{kind}:{tmdb_id}"
-    if key in GENRE_CACHE:
-        return GENRE_CACHE[key]
-    names = []
+    if key in DETAIL_CACHE:
+        return DETAIL_CACHE[key]
+    genres, last_update = [], ""
     try:
         detail = tmdb_get(f"{kind}/{tmdb_id}", {"language": "zh-CN"})
-        names = [str(genre.get("name") or "").strip() for genre in detail.get("genres") or []]
+        genres = [str(genre.get("name") or "").strip() for genre in detail.get("genres") or []]
+        last_update = str(detail.get("last_air_date") or "").strip()
     except Exception:
         pass
-    GENRE_CACHE[key] = [name for name in names if name]
-    return GENRE_CACHE[key]
+    DETAIL_CACHE[key] = (genres, last_update)
+    return DETAIL_CACHE[key]
 
 
 def merge_entries(primary, extra):
