@@ -14,7 +14,7 @@
 | 各平台剧场 | 迷雾/白夜/X/恋恋… 15 个剧场（已开播/即将） | `data/theater-data.json` |
 | 热门番剧 | bgm.tv 排名 + TMDB 匹配 | `data/bangumi-hot.json` |
 | FlixPatrol | 全球、美国、台湾、香港、新加坡、韩国、日本的流媒体每日 TOP 10 | `data/flixpatrol/*.json` |
-| 爱腾看点 | 爱奇艺、腾讯两个平台剧集/电影/综艺/动漫的简短看点，每天北京时间 11:30 抓取（芒果由模块运行时现场抓取） | `data/qq-teaser.json` |
+| 爱优腾看点 | 爱奇艺、腾讯、优酷三个平台剧集/电影/综艺/动漫的简短看点，每天北京时间 11:30 抓取（芒果由模块运行时现场抓取） | `data/qq-teaser.json` |
 | 动画疯 | 通过仓库 Secret 中的台湾 SOCKS5 抓取月人气与年份榜，并匹配 TMDB ID | `data/anigamer-hot.json` |
 
 每个条目都经过 TMDB 匹配，自带 `title / rating / posterPath / mediaType / releaseDate` 等完整字段。
@@ -69,8 +69,9 @@ node --test tests/daily-stamp.test.cjs
 
 - 腾讯：`second_title`，缺失时用 `actor_info_core_details`（电视剧、电影、动漫、综艺）。
 - 爱奇艺：`desc`，缺失时用 `kvs.featureSubTitle`（电视剧、电影、动漫、综艺）。
+- 优酷：没有短看点字段，取类型标签（如「悬疑 · 罪案」）当看点行；独播标记写成「优酷独播」，只抓「中国内地」。
 
-两个平台共用 `channels` 下的同名字段并按 TMDB ID 去重，平台剧场模块的「愛騰芒-看點」入口读取该文件做本地筛选排序。数据只保留 TMDB 匹配成功且有海报的条目。芒果TV 片库列表按地区返回不同内容（GitHub Actions 的海外 IP 拿不到新剧），因此芒果改由模块在用户设备上现场抓取，不走本仓库。
+三个平台共用 `channels` 下的同名字段并按 TMDB ID 去重，平台剧场模块的「愛騰芒-看點」入口读取该文件做本地筛选排序。数据只保留 TMDB 匹配成功且有海报的条目。芒果TV 片库列表按地区返回不同内容（GitHub Actions 的海外 IP 拿不到新剧），因此芒果改由模块在用户设备上现场抓取，不走本仓库。
 
 ```sh
 node --test tests/qq-teaser-crawl.test.cjs

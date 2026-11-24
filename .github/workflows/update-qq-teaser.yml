@@ -1,4 +1,4 @@
-name: 📺 Update 爱腾芒看点
+name: 📺 Update 爱优腾看点
 
 on:
   schedule:
@@ -33,4 +33,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           git add data/qq-teaser.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 自动更新爱腾芒看点 📺" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 自动更新爱优腾看点 📺" && git push)

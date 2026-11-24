@@ -1,4 +1,4 @@
-"""抓取腾讯视频与爱奇艺片库的「本期看点」，写入 data/qq-teaser.json。
+"""抓取腾讯视频、爱奇艺与优酷片库的「本期看点」，写入 data/qq-teaser.json。
 
 每天抓一次，并把每部作品匹配到 TMDB，数据里直接带好：
 - 看点：腾讯 second_title（回退 actor_info_core_details）；爱奇艺 desc（回退 kvs.featureSubTitle）
@@ -8,6 +8,7 @@
 这样平台剧场模块只在本地筛选、排序、分页，运行时不再请求腾讯/爱奇艺或 TMDB。
 """
 
+import hashlib
 import json
 import os
 import re
@@ -210,6 +211,159 @@ def collect_iq(channel_id):
             if entry and entry["cid"] not in seen:
                 seen.add(entry["cid"])
                 entries.append(entry)
+    return entries
+
+
+# ---------------------------------------------------------------- 优酷
+
+YK_APP = "24679788"
+YK_API = "mtop.youku.columbus.home.query"
+YK_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
+YK_HEADERS = {"User-Agent": YK_UA, "Referer": "https://www.youku.com/ku/webtv", "Accept": "application/json"}
+YK_CHANNEL_CATEGORY = {"tv": "电视剧", "movie": "电影", "variety": "综艺", "anime": "动漫"}
+YK_SYS_INFO = json.dumps({
+    "device": "pcweb", "os": "pcweb", "ver": "1.0.0.0", "userAgent": YK_UA,
+    "guid": "1590141704165YXe", "appPackageKey": "com.youku.pcweb", "young": 0,
+    "brand": "", "network": "", "ouid": "", "idfa": "", "scale": "", "operator": "",
+    "resolution": "", "pid": "36370125020498", "appkey": YK_APP, "childGender": 0,
+    "disableUserRec": "0",
+}, separators=(",", ":"))
+YK_TOKEN = {"tk": "", "ck": ""}
+
+
+def yk_md5(text):
+    return hashlib.md5(text.encode("utf-8")).hexdigest()
+
+
+def yk_raw(data):
+    token = YK_TOKEN["tk"]
+    timestamp = str(int(time.time() * 1000))
+    sign = yk_md5(token + "&" + timestamp + "&" + YK_APP + "&" + data)
+    query = urlencode({
+        "jsv": "2.6.1", "appKey": YK_APP, "t": timestamp, "sign": sign,
+        "api": YK_API, "v": "1.0", "dataType": "json", "type": "originaljson", "data": data,
+    })
+    request = Request(
+        f"https://acs.youku.com/h5/{YK_API}/1.0/?{query}",
+        headers={"User-Agent": YK_UA, "Referer": "https://www.youku.com/ku/webtv", "Cookie": YK_TOKEN["ck"]},
+    )
+    with urlopen(request, timeout=30) as response:
+        # headers.get 只回第一条 Set-Cookie；把所有条目拼起来再解析。
+        set_cookie = "; ".join(response.headers.get_all("Set-Cookie") or [])
+        body = json.load(response)
+    match = re.search(r"_m_h5_tk=([^;,]+)", set_cookie)
+    if match:
+        YK_TOKEN["tk"] = match.group(1).split("_")[0]
+        enc = re.search(r"_m_h5_tk_enc=([^;,]+)", set_cookie)
+        YK_TOKEN["ck"] = f"_m_h5_tk={match.group(1)}; _m_h5_tk_enc={enc.group(1) if enc else ''}"
+    return body
+
+
+def yk_call(data):
+    if not YK_TOKEN["tk"]:
+        try:
+            yk_raw(data)
+        except Exception:
+            pass
+    body = yk_raw(data)
+    ret = (body or {}).get("ret") or []
+    if ret and "TOKEN" in str(ret[0]):
+        body = yk_raw(data)
+    return body
+
+
+def yk_collect_nodes(node, out):
+    if not isinstance(node, (dict, list)):
+        return
+    if isinstance(node, list):
+        for item in node:
+            yk_collect_nodes(item, out)
+        return
+    data = node.get("data")
+    if isinstance(data, dict) and data.get("title") and data.get("action") and (data.get("img") or data.get("hImg")):
+        tags = [item.get("text", {}).get("title") for item in (data.get("tags") or []) if isinstance(item, dict)]
+        out.append({"title": str(data["title"]), "tags": [tag for tag in tags if tag]})
+    for key, value in node.items():
+        if key in ("action", "trackShow", "report"):
+            continue
+        yk_collect_nodes(value, out)
+
+
+def yk_teaser(tags):
+    """优酷没有短看点；从标签里挑类型词（「悬疑 · 罪案」）当看点行。"""
+    for tag in reversed(tags or []):
+        if "限免" in tag or tag in ("独播", "VIP") or "更新" in tag or "集" in tag and "期" not in tag and "话" not in tag:
+            continue
+        if re.match(r"^[0-9]+[-~][0-9]+期?$", tag):
+            continue
+        return tag
+    return ""
+
+
+def parse_yk(item, channel):
+    title = clean_title(item.get("title"))
+    if not title:
+        return None
+    tags = []
+    for tag in (item.get("tags") or []):
+        tag = str(tag or "").strip()
+        if not tag:
+            continue
+        # 平台标记带来源，聚合成榜单后才知道是哪个平台独播。
+        if tag == "独播":
+            tag = "优酷独播"
+        tags.append(tag)
+    genre = next((tag for tag in reversed(tags) if " · " in tag), "")
+    episode = next((tag for tag in tags if tag.startswith("更新至") or tag.endswith("集全") or tag.endswith("期全") or tag.endswith("话")), "")
+    ranks = []
+    return {
+        "source": "yk",
+        "cid": "yk" + title,
+        "title": title,
+        "teaser": genre or yk_teaser(tags),
+        "year": "",
+        "genre": genre.split(" · ")[0] if genre else "",
+        "area": "中国内地",
+        "episodeText": episode,
+        "tags": yk_card_tags(tags),
+        "ranks": ranks,
+    }
+
+
+def yk_card_tags(tags):
+    """卡片标签：类型词 + 平台独播标记；限免/集数/VIP 不进标签。"""
+    out = []
+    if tags and tags[0] == "优酷独播":
+        out.append("优酷独播")
+    for tag in tags:
+        if " · " in tag:
+            for part in tag.split(" · "):
+                part = part.strip()
+                if part and part not in out:
+                    out.append(part)
+    return out
+
+
+def collect_yk(channel, category):
+    filter_param = "type:" + category + "|mainArea:中国内地"
+    inner = {
+        "utdid": "FE1oI9Z/92QCAWeOjJcxfUHN", "gray": "0", "pageNo": 1, "debug": 0,
+        "bizKey": "kuflix_pc_home", "appPackageKey": "com.youku.pcweb",
+        "showNodeList": 1, "reqSubNode": 1, "nodeKey": "ALL", "ip": "127.0.0.1",
+        "bizContext": json.dumps({"filterParam": filter_param, "category": category, "optionRefresh": 1}, separators=(",", ":")),
+    }
+    payload = json.dumps({"ms_codes": "2019061000", "params": json.dumps(inner, ensure_ascii=False), "system_info": YK_SYS_INFO}, ensure_ascii=False)
+    body = yk_call(payload)
+    items = []
+    yk_collect_nodes(body, items)
+    entries = []
+    for item in items:
+        entry = parse_yk(item, channel)
+        if entry:
+            entries.append(entry)
     return entries
 
 
@@ -483,6 +637,10 @@ def collect():
                 print(f"{collector.__name__} {channel} failed: {error}")
                 continue
             entries.extend(batch)
+        try:
+            entries.extend(collect_yk(channel, YK_CHANNEL_CATEGORY[channel]))
+        except Exception as error:
+            print(f"youku {channel} failed: {error}")
         results[channel] = entries
     return results
 
@@ -500,7 +658,7 @@ def main():
         raise SystemExit("no entries matched TMDB, keeping the previous file")
     payload = {
         "updatedAt": datetime.now(BEIJING).isoformat(timespec="seconds"),
-        "source": "腾讯视频 + 爱奇艺片库列表",
+        "source": "腾讯视频 + 爱奇艺 + 优酷片库列表",
         "channels": channels,
     }
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
