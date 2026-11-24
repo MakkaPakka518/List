@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:07:46+08:00",
+  "updatedAt": "2026-11-24T22:09:30+08:00",
   "source": "腾讯视频 + 爱奇艺 + 优酷片库列表 + 哔哩哔哩国创榜（仅动漫）",
   "channels": {
     "tv": [
@@ -11,7 +11,7 @@
         "year": "2026",
         "genre": "家庭",
         "area": "内地",
-        "episodeText": "更新至15集",
+        "episodeText": "更新至16集",
         "tags": [
           "家庭",
           "家长里短",
@@ -64,7 +64,7 @@
         "lastUpdateDate": "2026-11-18",
         "rating": 6.9,
         "voteCount": 5,
-        "popularity": 16.5075
+        "popularity": 13.2171
       },
       {
         "source": "qq",
@@ -94,7 +94,37 @@
         "lastUpdateDate": "2026-11-11",
         "rating": 6.944,
         "voteCount": 9,
-        "popularity": 12.9172
+        "popularity": 12.9458
+      },
+      {
+        "source": "qq",
+        "cid": "mzc00200a8uyri7",
+        "title": "庶女",
+        "teaser": "瞎眼庶女入局杀疯全宅",
+        "year": "2026",
+        "genre": "古装",
+        "area": "内地",
+        "episodeText": "更新至08集",
+        "tags": [
+          "古装",
+          "宅门风云",
+          "古装爱情",
+          "守护爱人",
+          "剧情"
+        ],
+        "displayTitle": "庶女",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 342038,
+        "mediaType": "tv",
+        "posterPath": "/jgbeLg92joIBmlHp39l6natPjwz.jpg",
+        "backdropPath": "/cSXeEgxZKbt8nNO0VSTScuWGgdJ.jpg",
+        "releaseDate": "2026-11-23",
+        "lastUpdateDate": "2026-11-23",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 1.2218
       },
       {
         "source": "qq",
@@ -121,7 +151,7 @@
         "lastUpdateDate": "2026-02-09",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 4.1836
+        "popularity": 4.5878
       },
       {
         "source": "qq",
@@ -173,46 +203,16 @@
         "tmdbId": 297253,
         "mediaType": "tv",
         "posterPath": "/a9omtYBq4ViiIClL9PjGUk6JB4b.jpg",
-        "backdropPath": "/oMqnBjgT0VlDpP3pHJdtnOvwwKA.jpg",
+        "backdropPath": "/8G0SQhC1zwKIRbgaxx4HTRakVpO.jpg",
         "releaseDate": "2026-10-09",
         "lastUpdateDate": "2026-11-10",
         "rating": 7.6,
         "voteCount": 5,
-        "popularity": 6.5403,
+        "popularity": 6.7345,
         "alsoOn": [
           "iq",
           "qq"
         ]
-      },
-      {
-        "source": "qq",
-        "cid": "mzc00200a8uyri7",
-        "title": "庶女",
-        "teaser": "瞎眼庶女入局杀疯全宅",
-        "year": "2026",
-        "genre": "古装",
-        "area": "内地",
-        "episodeText": "更新至08集",
-        "tags": [
-          "古装",
-          "宅门风云",
-          "古装爱情",
-          "守护爱人",
-          "剧情"
-        ],
-        "displayTitle": "庶女",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 342038,
-        "mediaType": "tv",
-        "posterPath": "/jgbeLg92joIBmlHp39l6natPjwz.jpg",
-        "backdropPath": "/cSXeEgxZKbt8nNO0VSTScuWGgdJ.jpg",
-        "releaseDate": "2026-11-23",
-        "lastUpdateDate": "2026-11-23",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 0.3589
       },
       {
         "source": "qq",
@@ -278,6 +278,71 @@
       },
       {
         "source": "qq",
+        "cid": "mzc002004k31fxg",
+        "title": "蒸蒸日上",
+        "teaser": "澡堂楼上开律所，烟火人间",
+        "year": "2026",
+        "genre": "都市",
+        "area": "内地",
+        "episodeText": "全22集",
+        "tags": [
+          "都市",
+          "律政题材",
+          "职场喜剧",
+          "轻喜剧",
+          "职业精神",
+          "剧情"
+        ],
+        "displayTitle": "蒸蒸日上",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 289080,
+        "mediaType": "tv",
+        "posterPath": "/jzGDCMFErqM8Ceus8BNbyK8bzic.jpg",
+        "backdropPath": "/mj31Fi0rza3NfKhVRfBJDwRJy1w.jpg",
+        "releaseDate": "2026-10-10",
+        "lastUpdateDate": "2026-10-17",
+        "rating": 7.8,
+        "voteCount": 2,
+        "popularity": 4.2801,
+        "alsoOn": [
+          "iq",
+          "qq"
+        ]
+      },
+      {
+        "source": "qq",
+        "cid": "mzc002008q7p9vk",
+        "title": "北境往事",
+        "teaser": "金瀚高至霆演绎黑道风云",
+        "year": "2026",
+        "genre": "剧情",
+        "area": "内地",
+        "episodeText": "全24集",
+        "tags": [
+          "剧情",
+          "男性传奇",
+          "兄弟情",
+          "年代爱情",
+          "年代感"
+        ],
+        "displayTitle": "北境往事",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 318902,
+        "mediaType": "tv",
+        "posterPath": "/wRcvFG9jvL8xxKKY4MJLiImgE3C.jpg",
+        "backdropPath": "/o3khsvvQuoJlt5q8THn8HBI1oWT.jpg",
+        "releaseDate": "2026-10-30",
+        "lastUpdateDate": "2026-11-14",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 2.0988
+      },
+      {
+        "source": "qq",
         "cid": "mzc00200xqdobf5",
         "title": "美人余",
         "teaser": "李一桐撕开好命女人糖衣",
@@ -309,63 +374,6 @@
         "popularity": 5.1512
       },
       {
-        "source": "qq",
-        "cid": "mzc002008q7p9vk",
-        "title": "北境往事",
-        "teaser": "金瀚高至霆演绎黑道风云",
-        "year": "2026",
-        "genre": "剧情",
-        "area": "内地",
-        "episodeText": "全24集",
-        "tags": [
-          "剧情",
-          "男性传奇",
-          "兄弟情",
-          "年代爱情",
-          "年代感"
-        ],
-        "displayTitle": "北境往事",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 318902,
-        "mediaType": "tv",
-        "posterPath": "/wRcvFG9jvL8xxKKY4MJLiImgE3C.jpg",
-        "backdropPath": "/o3khsvvQuoJlt5q8THn8HBI1oWT.jpg",
-        "releaseDate": "2026-10-30",
-        "lastUpdateDate": "2026-11-14",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 1.9001
-      },
-      {
-        "source": "qq",
-        "cid": "mzc00200gif5djk",
-        "title": "贵妃欺人太甚",
-        "teaser": "弃妃为女复仇掀翻深宫",
-        "year": "2026",
-        "genre": "古装",
-        "area": "内地",
-        "episodeText": "全28集",
-        "tags": [
-          "古装",
-          "剧情"
-        ],
-        "displayTitle": "贵妃欺人太甚",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 340544,
-        "mediaType": "tv",
-        "posterPath": "/tgXiP9UW20yqPd1NtbS3g35YQA2.jpg",
-        "backdropPath": "",
-        "releaseDate": "2026-11-02",
-        "lastUpdateDate": "2026-11-16",
-        "rating": 8.0,
-        "voteCount": 1,
-        "popularity": 1.9546
-      },
-      {
         "source": "iq",
         "cid": "iq3190714930072901",
         "title": "两京十五日",
@@ -373,7 +381,7 @@
         "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "更新至10集",
+        "episodeText": "更新至12集",
         "tags": [
           "剧情"
         ],
@@ -383,13 +391,13 @@
         ],
         "tmdbId": 203483,
         "mediaType": "tv",
-        "posterPath": "/4VnwFQyDgAVN7tL7SPGe0AwngRd.jpg",
+        "posterPath": "/oqHkgdVFO9LpGnwTx0zXZcUJ82p.jpg",
         "backdropPath": "/pFTGCQ3oVhFkuOCjnvCPeVsQBaL.jpg",
         "releaseDate": "2026-11-20",
         "lastUpdateDate": "2026-11-23",
         "rating": 8.1,
         "voteCount": 7,
-        "popularity": 19.6441
+        "popularity": 23.2434
       },
       {
         "source": "iq",
@@ -415,7 +423,7 @@
         "lastUpdateDate": "2026-11-01",
         "rating": 8.2,
         "voteCount": 5,
-        "popularity": 6.3451
+        "popularity": 6.6519
       },
       {
         "source": "iq",
@@ -471,32 +479,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq7788729569095501",
-        "title": "蒸蒸日上",
-        "teaser": "嬉笑怒骂，人间烟火",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "22集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "蒸蒸日上",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 289080,
-        "mediaType": "tv",
-        "posterPath": "/jzGDCMFErqM8Ceus8BNbyK8bzic.jpg",
-        "backdropPath": "/mj31Fi0rza3NfKhVRfBJDwRJy1w.jpg",
-        "releaseDate": "2026-10-10",
-        "lastUpdateDate": "2026-10-17",
-        "rating": 7.8,
-        "voteCount": 2,
-        "popularity": 4.2801
-      },
-      {
-        "source": "iq",
         "cid": "iq6755539957257701",
         "title": "自首真相",
         "teaser": "十八件高能烧脑惨案",
@@ -519,7 +501,7 @@
         "lastUpdateDate": "2026-11-14",
         "rating": 9.0,
         "voteCount": 2,
-        "popularity": 2.1287
+        "popularity": 2.2123
       },
       {
         "source": "iq",
@@ -577,32 +559,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq6343226711532601",
-        "title": "魅影神捕",
-        "teaser": "罗云熙智破魅影诡案",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "30集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "魅影神捕",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 290699,
-        "mediaType": "tv",
-        "posterPath": "/caOlKDmGojKfaX3mTLZsG6VEGdz.jpg",
-        "backdropPath": "/Amn1fw4akG9jOZNTP1J4Xadry4T.jpg",
-        "releaseDate": "2026-10-02",
-        "lastUpdateDate": "2026-10-15",
-        "rating": 6.5,
-        "voteCount": 3,
-        "popularity": 6.3956
-      },
-      {
-        "source": "iq",
         "cid": "iq5328486914190101",
         "title": "狂飙",
         "teaser": "张译张颂文黑白较量",
@@ -627,7 +583,33 @@
         "lastUpdateDate": "2023-02-01",
         "rating": 8.2,
         "voteCount": 114,
-        "popularity": 12.2855
+        "popularity": 13.5966
+      },
+      {
+        "source": "iq",
+        "cid": "iq6343226711532601",
+        "title": "魅影神捕",
+        "teaser": "罗云熙智破魅影诡案",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "30集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "魅影神捕",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 290699,
+        "mediaType": "tv",
+        "posterPath": "/caOlKDmGojKfaX3mTLZsG6VEGdz.jpg",
+        "backdropPath": "/Amn1fw4akG9jOZNTP1J4Xadry4T.jpg",
+        "releaseDate": "2026-10-02",
+        "lastUpdateDate": "2026-10-15",
+        "rating": 6.5,
+        "voteCount": 3,
+        "popularity": 6.3956
       },
       {
         "source": "iq",
@@ -683,34 +665,7 @@
         "lastUpdateDate": "2006-01-06",
         "rating": 8.913,
         "voteCount": 69,
-        "popularity": 13.6988
-      },
-      {
-        "source": "iq",
-        "cid": "iq2143888498822401",
-        "title": "唐朝诡事录之长安",
-        "teaser": "长安重聚，入局破诡",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "40集全",
-        "tags": [
-          "悬疑",
-          "动作冒险"
-        ],
-        "displayTitle": "唐朝诡事录之长安",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 333920,
-        "mediaType": "tv",
-        "posterPath": "/rL1SKeaZSglVPi1rBmQuIvFrB9c.jpg",
-        "backdropPath": "/lbwhWiygoKSnk9wTi9AMfZ6DbLY.jpg",
-        "releaseDate": "2025-11-08",
-        "lastUpdateDate": "2025-11-08",
-        "rating": 7.0,
-        "voteCount": 1,
-        "popularity": 2.3522
+        "popularity": 15.1527
       },
       {
         "source": "iq",
@@ -736,7 +691,7 @@
         "lastUpdateDate": "2016-04-03",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 1.384
+        "popularity": 1.6197
       },
       {
         "source": "iq",
@@ -767,6 +722,33 @@
       },
       {
         "source": "iq",
+        "cid": "iq2143888498822401",
+        "title": "唐朝诡事录之长安",
+        "teaser": "长安重聚，入局破诡",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "40集全",
+        "tags": [
+          "悬疑",
+          "动作冒险"
+        ],
+        "displayTitle": "唐朝诡事录之长安",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 333920,
+        "mediaType": "tv",
+        "posterPath": "/rL1SKeaZSglVPi1rBmQuIvFrB9c.jpg",
+        "backdropPath": "/lbwhWiygoKSnk9wTi9AMfZ6DbLY.jpg",
+        "releaseDate": "2025-11-08",
+        "lastUpdateDate": "2025-11-08",
+        "rating": 7.0,
+        "voteCount": 1,
+        "popularity": 2.3522
+      },
+      {
+        "source": "iq",
         "cid": "iq202121101",
         "title": "琅琊榜",
         "teaser": "梅长苏从12年前梅岭惨烈战场的噩梦中惊醒,大梁琅琊阁阁主蔺晨收到北燕六皇子册封为太子的消息。与此同时，大梁七珠亲王誉王也获悉，此次六皇子册封，是因为获得了琅琊阁锦囊中“麒麟才子，得之可得天下”的秘密。此时梁帝年岁已高，太子与誉王争夺皇位，欲刺杀誉王却失败。誉王与太子亲信——天泉山庄庄主卓鼎风，两派人马亲上琅琊阁问询麒麟才子的身份。誉王、太子同时得知麒麟才子所指即是梅长苏，皆欲抢先一步结识此人。卓鼎风之子卓青遥护送进京状告庆国公亲族的一对老夫妇，遭到双煞帮帮主季赢追杀，误闯江左盟地界，梅长苏携贴身护卫飞流赶至，阻止了季赢。宁国侯长子萧景睿与至亲好友——国舅言侯的独子言豫津相伴停留廊州，准备接江湖好友——江左盟宗主、琅琊榜公子榜榜首梅长苏入京。 路上偶遇准备进京的大渝使节，萧景睿得知梁王准备为霓凰郡主择婿。",
@@ -789,33 +771,7 @@
         "lastUpdateDate": "2018-02-12",
         "rating": 8.8,
         "voteCount": 79,
-        "popularity": 20.3939
-      },
-      {
-        "source": "iq",
-        "cid": "iq3533239747041401",
-        "title": "深渊",
-        "teaser": "三案连环，凶机暗涌",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "23集全",
-        "tags": [
-          "悬疑"
-        ],
-        "displayTitle": "深渊",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 321036,
-        "mediaType": "tv",
-        "posterPath": "/lffTF1AQGPmR6o4TNEkaoZ97xQd.jpg",
-        "backdropPath": "/iuAtl6LZeGnmmBOWliexGoRjwI1.jpg",
-        "releaseDate": "2026-05-09",
-        "lastUpdateDate": "2026-05-09",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 1.0353
+        "popularity": 23.0991
       },
       {
         "source": "iq",
@@ -874,6 +830,32 @@
       },
       {
         "source": "iq",
+        "cid": "iq1835856813314101",
+        "title": "夺金战",
+        "teaser": "金矿喋血 同心御敌",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "40集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "夺金战",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 338308,
+        "mediaType": "tv",
+        "posterPath": "/yzLSHOwXxP7YpGuwRzAYBWYqAvw.jpg",
+        "backdropPath": "",
+        "releaseDate": "2018-08-13",
+        "lastUpdateDate": "2018-08-13",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 0.9242
+      },
+      {
+        "source": "iq",
         "cid": "iq202232701",
         "title": "我心灿烂",
         "teaser": "三十年悲欢离合",
@@ -928,32 +910,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq1835856813314101",
-        "title": "夺金战",
-        "teaser": "金矿喋血 同心御敌",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "40集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "夺金战",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 338308,
-        "mediaType": "tv",
-        "posterPath": "/yzLSHOwXxP7YpGuwRzAYBWYqAvw.jpg",
-        "backdropPath": "",
-        "releaseDate": "2018-08-13",
-        "lastUpdateDate": "2018-08-13",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 0.9242
-      },
-      {
-        "source": "iq",
         "cid": "iq1205354457011501",
         "title": "唐朝诡事录",
         "teaser": "杨旭文杨志刚共破诡案",
@@ -983,32 +939,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq4049834552957001",
-        "title": "家业",
-        "teaser": "关关难过关关过",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "42集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "家业",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 275966,
-        "mediaType": "tv",
-        "posterPath": "/fIdqYhJhuIGLMbWlvfZdIQalf2p.jpg",
-        "backdropPath": "/68UHE4T9CzlBgI5HuVs5caLeZU7.jpg",
-        "releaseDate": "2026-05-17",
-        "lastUpdateDate": "2026-06-03",
-        "rating": 7.2,
-        "voteCount": 4,
-        "popularity": 6.6821
-      },
-      {
-        "source": "iq",
         "cid": "iq1756442394382201",
         "title": "冬至",
         "teaser": "黄景瑜孙千浪漫悬爱",
@@ -1033,6 +963,59 @@
         "rating": 8.3,
         "voteCount": 9,
         "popularity": 8.0502
+      },
+      {
+        "source": "iq",
+        "cid": "iq4049834552957001",
+        "title": "家业",
+        "teaser": "关关难过关关过",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "42集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "家业",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 275966,
+        "mediaType": "tv",
+        "posterPath": "/fIdqYhJhuIGLMbWlvfZdIQalf2p.jpg",
+        "backdropPath": "/68UHE4T9CzlBgI5HuVs5caLeZU7.jpg",
+        "releaseDate": "2026-05-17",
+        "lastUpdateDate": "2026-06-03",
+        "rating": 7.2,
+        "voteCount": 4,
+        "popularity": 5.778
+      },
+      {
+        "source": "iq",
+        "cid": "iq5058959189366401",
+        "title": "爱情有烟火",
+        "teaser": "檀健次王楚然合租生活",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "36集全",
+        "tags": [
+          "剧情",
+          "喜剧"
+        ],
+        "displayTitle": "爱情有烟火",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 230311,
+        "mediaType": "tv",
+        "posterPath": "/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
+        "backdropPath": "/xEUcPKH4Nfm6XSuyzgkox6mh775.jpg",
+        "releaseDate": "2026-06-15",
+        "lastUpdateDate": "2026-06-30",
+        "rating": 7.8,
+        "voteCount": 5,
+        "popularity": 8.9603
       },
       {
         "source": "iq",
@@ -1086,7 +1069,7 @@
         "lastUpdateDate": "2026-09-03",
         "rating": 4.5,
         "voteCount": 2,
-        "popularity": 1.5574
+        "popularity": 2.1205
       },
       {
         "source": "iq",
@@ -1117,30 +1100,29 @@
       },
       {
         "source": "iq",
-        "cid": "iq5058959189366401",
-        "title": "爱情有烟火",
-        "teaser": "檀健次王楚然合租生活",
+        "cid": "iq3533239747041401",
+        "title": "深渊",
+        "teaser": "三案连环，凶机暗涌",
         "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "36集全",
+        "episodeText": "23集全",
         "tags": [
-          "剧情",
-          "喜剧"
+          "悬疑"
         ],
-        "displayTitle": "爱情有烟火",
+        "displayTitle": "深渊",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 230311,
+        "tmdbId": 321036,
         "mediaType": "tv",
-        "posterPath": "/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
-        "backdropPath": "/xEUcPKH4Nfm6XSuyzgkox6mh775.jpg",
-        "releaseDate": "2026-06-15",
-        "lastUpdateDate": "2026-06-30",
-        "rating": 7.8,
-        "voteCount": 5,
-        "popularity": 9.0798
+        "posterPath": "/lffTF1AQGPmR6o4TNEkaoZ97xQd.jpg",
+        "backdropPath": "/iuAtl6LZeGnmmBOWliexGoRjwI1.jpg",
+        "releaseDate": "2026-05-09",
+        "lastUpdateDate": "2026-05-09",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 1.0353
       },
       {
         "source": "iq",
@@ -1170,55 +1152,29 @@
       },
       {
         "source": "iq",
-        "cid": "iq3493131454654001",
-        "title": "雀骨",
-        "teaser": "算计与真心皆是杀招",
-        "year": "2026",
+        "cid": "iq5967813094807601",
+        "title": "赴山海",
+        "teaser": "成毅穿书入江湖",
+        "year": "2025",
         "genre": "",
         "area": "",
-        "episodeText": "28集全",
+        "episodeText": "40集全",
         "tags": [
           "剧情"
         ],
-        "displayTitle": "雀骨",
+        "displayTitle": "赴山海",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 295558,
+        "tmdbId": 263034,
         "mediaType": "tv",
-        "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
-        "backdropPath": "/eZTq2kkhZ9AQtQ1H5SD7h1Q0PIc.jpg",
-        "releaseDate": "2026-07-11",
-        "lastUpdateDate": "2026-07-22",
-        "rating": 6.4,
-        "voteCount": 12,
-        "popularity": 8.0304
-      },
-      {
-        "source": "iq",
-        "cid": "iq5326882582499701",
-        "title": "凛冬下的罪恶",
-        "teaser": "揭开陈年血案真相",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "26集全",
-        "tags": [
-          "悬疑"
-        ],
-        "displayTitle": "凛冬下的罪恶",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 327916,
-        "mediaType": "tv",
-        "posterPath": "/8PbjBwbkZgFj8k2bitxMFkllal5.jpg",
-        "backdropPath": "/gN3vSMrarrirco31Af8bUsSHBYZ.jpg",
-        "releaseDate": "2026-08-04",
-        "lastUpdateDate": "2026-08-08",
-        "rating": 7.333,
-        "voteCount": 3,
-        "popularity": 1.9763
+        "posterPath": "/jOEKN1yCpbTwuVCN4RxLCVHEn8c.jpg",
+        "backdropPath": "/7dH63uoQDQu6pfYJLNKQYLXJ38m.jpg",
+        "releaseDate": "2025-09-11",
+        "lastUpdateDate": "2025-09-26",
+        "rating": 7.2,
+        "voteCount": 31,
+        "popularity": 12.0046
       },
       {
         "source": "iq",
@@ -1248,33 +1204,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq101738001",
-        "title": "西游记",
-        "teaser": "名著改编经典版本",
-        "year": "1986",
-        "genre": "",
-        "area": "",
-        "episodeText": "25集全",
-        "tags": [
-          "动作冒险",
-          "剧情"
-        ],
-        "displayTitle": "西游记",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 13923,
-        "mediaType": "tv",
-        "posterPath": "/XQHP9xEE1yEnvPpAQLSkjS6aKy.jpg",
-        "backdropPath": "/vbl5Spyx3vEkxvtAVFYji6Z0Z7v.jpg",
-        "releaseDate": "1986-02-09",
-        "lastUpdateDate": "2000-02-23",
-        "rating": 8.4,
-        "voteCount": 66,
-        "popularity": 12.0071
-      },
-      {
-        "source": "iq",
         "cid": "iq7730171462205101",
         "title": "生万物",
         "teaser": "把日子过出花",
@@ -1301,55 +1230,108 @@
       },
       {
         "source": "iq",
-        "cid": "iq5967813094807601",
-        "title": "赴山海",
-        "teaser": "成毅穿书入江湖",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "40集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "赴山海",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 263034,
-        "mediaType": "tv",
-        "posterPath": "/jOEKN1yCpbTwuVCN4RxLCVHEn8c.jpg",
-        "backdropPath": "/7dH63uoQDQu6pfYJLNKQYLXJ38m.jpg",
-        "releaseDate": "2025-09-11",
-        "lastUpdateDate": "2025-09-26",
-        "rating": 7.2,
-        "voteCount": 31,
-        "popularity": 12.0046
-      },
-      {
-        "source": "iq",
-        "cid": "iq6582272134154501",
-        "title": "黑岛监狱",
-        "teaser": "卧底退役兵狱中缉凶",
+        "cid": "iq3493131454654001",
+        "title": "雀骨",
+        "teaser": "算计与真心皆是杀招",
         "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "16集全",
+        "episodeText": "28集全",
         "tags": [
           "剧情"
         ],
-        "displayTitle": "黑岛监狱",
+        "displayTitle": "雀骨",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 335024,
+        "tmdbId": 295558,
         "mediaType": "tv",
-        "posterPath": "/tJZPTF2kZSu1zMVlXGf9dUIh96Q.jpg",
-        "backdropPath": "/5C7EmWyoEmsnYmUHqaa5TrHaz6B.jpg",
-        "releaseDate": "2026-09-23",
-        "lastUpdateDate": "2026-09-28",
-        "rating": 7.0,
-        "voteCount": 1,
-        "popularity": 3.049
+        "posterPath": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
+        "backdropPath": "/eZTq2kkhZ9AQtQ1H5SD7h1Q0PIc.jpg",
+        "releaseDate": "2026-07-11",
+        "lastUpdateDate": "2026-07-22",
+        "rating": 6.4,
+        "voteCount": 12,
+        "popularity": 8.1151
+      },
+      {
+        "source": "iq",
+        "cid": "iq101738001",
+        "title": "西游记",
+        "teaser": "名著改编经典版本",
+        "year": "1986",
+        "genre": "",
+        "area": "",
+        "episodeText": "25集全",
+        "tags": [
+          "动作冒险",
+          "剧情"
+        ],
+        "displayTitle": "西游记",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 13923,
+        "mediaType": "tv",
+        "posterPath": "/XQHP9xEE1yEnvPpAQLSkjS6aKy.jpg",
+        "backdropPath": "/vbl5Spyx3vEkxvtAVFYji6Z0Z7v.jpg",
+        "releaseDate": "1986-02-09",
+        "lastUpdateDate": "2000-02-23",
+        "rating": 8.4,
+        "voteCount": 66,
+        "popularity": 13.2304
+      },
+      {
+        "source": "iq",
+        "cid": "iq5326882582499701",
+        "title": "凛冬下的罪恶",
+        "teaser": "揭开陈年血案真相",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "26集全",
+        "tags": [
+          "悬疑"
+        ],
+        "displayTitle": "凛冬下的罪恶",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 327916,
+        "mediaType": "tv",
+        "posterPath": "/8PbjBwbkZgFj8k2bitxMFkllal5.jpg",
+        "backdropPath": "/gN3vSMrarrirco31Af8bUsSHBYZ.jpg",
+        "releaseDate": "2026-08-04",
+        "lastUpdateDate": "2026-08-08",
+        "rating": 7.333,
+        "voteCount": 3,
+        "popularity": 1.9448
+      },
+      {
+        "source": "iq",
+        "cid": "iq6101774791374801",
+        "title": "醒来",
+        "teaser": "小人物误入乱世风云",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "22集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "醒来",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 289761,
+        "mediaType": "tv",
+        "posterPath": "/lxULhYKRE1C6zhaCNO0R0Id7ReM.jpg",
+        "backdropPath": "/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
+        "releaseDate": "2026-08-26",
+        "lastUpdateDate": "2026-09-02",
+        "rating": 6.75,
+        "voteCount": 4,
+        "popularity": 2.4392
       },
       {
         "source": "iq",
@@ -1379,58 +1361,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq6101774791374801",
-        "title": "醒来",
-        "teaser": "小人物误入乱世风云",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "22集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "醒来",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 289761,
-        "mediaType": "tv",
-        "posterPath": "/lxULhYKRE1C6zhaCNO0R0Id7ReM.jpg",
-        "backdropPath": "/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
-        "releaseDate": "2026-08-26",
-        "lastUpdateDate": "2026-09-02",
-        "rating": 6.75,
-        "voteCount": 4,
-        "popularity": 2.4834
-      },
-      {
-        "source": "iq",
-        "cid": "iq2211270430028301",
-        "title": "爱你",
-        "teaser": "爱你是我做过最好的事",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "28集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "爱你",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 256128,
-        "mediaType": "tv",
-        "posterPath": "/n9wfQg9QHCksPH3BGbvR0YIn5cz.jpg",
-        "backdropPath": "/rFnuaqPvuELiAdedkxiS8oDMNTQ.jpg",
-        "releaseDate": "2025-02-25",
-        "lastUpdateDate": "2025-03-09",
-        "rating": 7.993,
-        "voteCount": 67,
-        "popularity": 7.9862
-      },
-      {
-        "source": "iq",
         "cid": "iq4832748420311701",
         "title": "南来北往",
         "teaser": "两代乘警薪火相传",
@@ -1456,6 +1386,58 @@
         "rating": 7.1,
         "voteCount": 14,
         "popularity": 6.3723
+      },
+      {
+        "source": "iq",
+        "cid": "iq2211270430028301",
+        "title": "爱你",
+        "teaser": "爱你是我做过最好的事",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "28集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "爱你",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 256128,
+        "mediaType": "tv",
+        "posterPath": "/n9wfQg9QHCksPH3BGbvR0YIn5cz.jpg",
+        "backdropPath": "/rFnuaqPvuELiAdedkxiS8oDMNTQ.jpg",
+        "releaseDate": "2025-02-25",
+        "lastUpdateDate": "2025-03-09",
+        "rating": 7.993,
+        "voteCount": 67,
+        "popularity": 8.2045
+      },
+      {
+        "source": "iq",
+        "cid": "iq6582272134154501",
+        "title": "黑岛监狱",
+        "teaser": "卧底退役兵狱中缉凶",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "16集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "黑岛监狱",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 335024,
+        "mediaType": "tv",
+        "posterPath": "/tJZPTF2kZSu1zMVlXGf9dUIh96Q.jpg",
+        "backdropPath": "/5C7EmWyoEmsnYmUHqaa5TrHaz6B.jpg",
+        "releaseDate": "2026-09-23",
+        "lastUpdateDate": "2026-09-28",
+        "rating": 7.0,
+        "voteCount": 1,
+        "popularity": 3.049
       },
       {
         "source": "iq",
@@ -1507,33 +1489,33 @@
         "lastUpdateDate": "2025-09-07",
         "rating": 8.5,
         "voteCount": 14,
-        "popularity": 7.9375
+        "popularity": 8.189
       },
       {
         "source": "iq",
-        "cid": "iq2829740298613901",
-        "title": "未尽之言",
-        "teaser": "向真相，尽未尽之言。",
-        "year": "2026",
+        "cid": "iq104797601",
+        "title": "悬崖",
+        "teaser": "张嘉译谍战剧收山作",
+        "year": "2012",
         "genre": "",
         "area": "",
-        "episodeText": "25集全",
+        "episodeText": "40集全",
         "tags": [
           "剧情"
         ],
-        "displayTitle": "未尽之言",
+        "displayTitle": "悬崖",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 331484,
+        "tmdbId": 90588,
         "mediaType": "tv",
-        "posterPath": "/maeEEbrcWTx63xEmGhuPS5QqXIx.jpg",
-        "backdropPath": "/9z1822sowLuj9XY69V08d1yl8Hr.jpg",
-        "releaseDate": "2026-09-22",
-        "lastUpdateDate": "2026-09-29",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 1.2678
+        "posterPath": "/camE9FFFJooazmPnjbQZSuf1aeq.jpg",
+        "backdropPath": "/QOhjRtk4L8PgJGpJ6hytKR52L1.jpg",
+        "releaseDate": "2012-01-03",
+        "lastUpdateDate": "2012-10-02",
+        "rating": 8.0,
+        "voteCount": 3,
+        "popularity": 4.8718
       },
       {
         "source": "iq",
@@ -1561,33 +1543,7 @@
         "lastUpdateDate": "2026-09-13",
         "rating": 7.2,
         "voteCount": 4,
-        "popularity": 3.4498
-      },
-      {
-        "source": "iq",
-        "cid": "iq104797601",
-        "title": "悬崖",
-        "teaser": "张嘉译谍战剧收山作",
-        "year": "2012",
-        "genre": "",
-        "area": "",
-        "episodeText": "40集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "悬崖",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 90588,
-        "mediaType": "tv",
-        "posterPath": "/camE9FFFJooazmPnjbQZSuf1aeq.jpg",
-        "backdropPath": "/QOhjRtk4L8PgJGpJ6hytKR52L1.jpg",
-        "releaseDate": "2012-01-03",
-        "lastUpdateDate": "2012-10-02",
-        "rating": 8.0,
-        "voteCount": 3,
-        "popularity": 4.4394
+        "popularity": 3.4165
       },
       {
         "source": "iq",
@@ -1613,33 +1569,7 @@
         "lastUpdateDate": "2026-10-31",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.8609
-      },
-      {
-        "source": "iq",
-        "cid": "iq4481399779019401",
-        "title": "把黑夜点燃",
-        "teaser": "烈火噬亲 破雾寻光",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "12集全",
-        "tags": [
-          "悬疑"
-        ],
-        "displayTitle": "把黑夜点燃",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 288328,
-        "mediaType": "tv",
-        "posterPath": "/aVfdtNadMfaxrwubm2cbL2nTDk3.jpg",
-        "backdropPath": "/q48icceyDIuAZC9wL66ZEQF03oj.jpg",
-        "releaseDate": "2026-10-15",
-        "lastUpdateDate": "2026-10-20",
-        "rating": 6.5,
-        "voteCount": 4,
-        "popularity": 3.9647
+        "popularity": 0.6993
       },
       {
         "source": "iq",
@@ -1665,7 +1595,7 @@
         "lastUpdateDate": "2013-12-23",
         "rating": 5.2,
         "voteCount": 4,
-        "popularity": 5.4719
+        "popularity": 5.6891
       },
       {
         "source": "iq",
@@ -1696,6 +1626,32 @@
       },
       {
         "source": "iq",
+        "cid": "iq4481399779019401",
+        "title": "把黑夜点燃",
+        "teaser": "烈火噬亲 破雾寻光",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "12集全",
+        "tags": [
+          "悬疑"
+        ],
+        "displayTitle": "把黑夜点燃",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 288328,
+        "mediaType": "tv",
+        "posterPath": "/aVfdtNadMfaxrwubm2cbL2nTDk3.jpg",
+        "backdropPath": "/q48icceyDIuAZC9wL66ZEQF03oj.jpg",
+        "releaseDate": "2026-10-15",
+        "lastUpdateDate": "2026-10-20",
+        "rating": 6.5,
+        "voteCount": 4,
+        "popularity": 3.9647
+      },
+      {
+        "source": "iq",
         "cid": "iq8894916273066301",
         "title": "沉默的荣耀",
         "teaser": "于和伟吴越谍战传奇",
@@ -1719,218 +1675,6 @@
         "rating": 7.6,
         "voteCount": 8,
         "popularity": 7.349
-      },
-      {
-        "source": "iq",
-        "cid": "iq8059059459762501",
-        "title": "双轨",
-        "teaser": "日月同辉 暮暮朝朝",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "29集全",
-        "tags": [
-          "剧情",
-          "动作冒险"
-        ],
-        "displayTitle": "双轨",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 279041,
-        "mediaType": "tv",
-        "posterPath": "/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
-        "backdropPath": "/wCBgNbukU0eaTCdJrtX4wMpjfgx.jpg",
-        "releaseDate": "2025-12-12",
-        "lastUpdateDate": "2025-12-22",
-        "rating": 8.4,
-        "voteCount": 52,
-        "popularity": 14.001
-      },
-      {
-        "source": "iq",
-        "cid": "iq5954978441245001",
-        "title": "南部档案",
-        "teaser": "南洋生死簿一命换一命",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "33集全",
-        "tags": [
-          "动作冒险",
-          "悬疑"
-        ],
-        "displayTitle": "南部档案",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 278605,
-        "mediaType": "tv",
-        "posterPath": "/2QcMONqmPUeBJyzTe9G9GahGbqz.jpg",
-        "backdropPath": "/ipdLdmrjqR3hpCUGGSyr03dHdqC.jpg",
-        "releaseDate": "2026-06-11",
-        "lastUpdateDate": "2026-06-23",
-        "rating": 6.6,
-        "voteCount": 11,
-        "popularity": 8.7485
-      },
-      {
-        "source": "iq",
-        "cid": "iq1971422841566301",
-        "title": "北上",
-        "teaser": "运河邻里 烟火人生",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "38集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "北上",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 233961,
-        "mediaType": "tv",
-        "posterPath": "/s60DHmR5niyYBAtLijp4n0Fn8Jg.jpg",
-        "backdropPath": "/fAUbl42qZQy9DM82mszHsTv6FB6.jpg",
-        "releaseDate": "2025-03-03",
-        "lastUpdateDate": "2025-03-25",
-        "rating": 7.0,
-        "voteCount": 7,
-        "popularity": 8.155
-      },
-      {
-        "source": "iq",
-        "cid": "iq7034693672248901",
-        "title": "我不是大师",
-        "teaser": "局中局，骗中骗！",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "24集全",
-        "tags": [
-          "剧情",
-          "悬疑"
-        ],
-        "displayTitle": "我不是大师",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 289078,
-        "mediaType": "tv",
-        "posterPath": "/sGxyz6BCOpbn9rKxqCfrW2yBOkX.jpg",
-        "backdropPath": "/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
-        "releaseDate": "2026-09-24",
-        "lastUpdateDate": "2026-10-04",
-        "rating": 6.3,
-        "voteCount": 7,
-        "popularity": 5.854
-      },
-      {
-        "source": "iq",
-        "cid": "iq3955178982927801",
-        "title": "长风渡",
-        "teaser": "白敬亭宋轶先婚后爱",
-        "year": "2023",
-        "genre": "",
-        "area": "",
-        "episodeText": "40集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "长风渡",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 207004,
-        "mediaType": "tv",
-        "posterPath": "/euObSynAyvmGkfrp297WIjfkOM5.jpg",
-        "backdropPath": "/7XO5iQaEvrqfMzDVpjTWYfI6OH5.jpg",
-        "releaseDate": "2023-06-18",
-        "lastUpdateDate": "2023-07-14",
-        "rating": 7.4,
-        "voteCount": 13,
-        "popularity": 7.5044
-      },
-      {
-        "source": "iq",
-        "cid": "iq202944501",
-        "title": "伪装者",
-        "teaser": "红色女企业家明镜是上海明氏企业的董事长，她胸怀报国之心，暗中多次为中国共产党提供了抗日资金。她的二弟明楼是一名优秀的军统特工，但他身份神秘，引起了日本特工组织首领的注意，并私下安排了人调查他。明楼与私人助理明诚在香港秘密解决了该名特工并拿回了资料，他们知道，这不仅仅是特工一个人进行的调查。明楼与汪伪政府特工总部情报处处长汪曼春是一个心狠手辣的女人，她发现了军统和中共安排在情报处的情报员，亲手处决了每一个嫌疑犯。同时，她放出了其中有一个转变者的假消息，借此让国共人员认为她利用此人搜寻抗日分子，欲使国共的情报系统陷入混乱。而明镜与明楼有一个他们都十分疼爱的弟弟，便是明家小少爷明台。明台饱读诗书，生得英俊不凡，近日，他已被香港大学录取。他搭上了前往香港的飞机，没想到此行却彻底改变了他的命运。在飞机上，他无意中救了代号毒蜂的军统特工王天风一命。明台从乘务员不熟练的倒酒手法以及酒香异常中发现了王天风拿到的红酒中或许掺杂了东西。",
-        "year": "2015",
-        "genre": "",
-        "area": "",
-        "episodeText": "41集全",
-        "tags": [
-          "悬疑",
-          "剧情"
-        ],
-        "displayTitle": "伪装者",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 65176,
-        "mediaType": "tv",
-        "posterPath": "/dPFwcqEr9OrPABEwHVZPtwHg6zD.jpg",
-        "backdropPath": "/gffJjryXbn3JCJ7Rw4nUyQGzB8l.jpg",
-        "releaseDate": "2015-08-31",
-        "lastUpdateDate": "2015-09-28",
-        "rating": 8.3,
-        "voteCount": 20,
-        "popularity": 5.9394
-      },
-      {
-        "source": "iq",
-        "cid": "iq5712724355241901",
-        "title": "在下打更人",
-        "teaser": "一锤镇百鬼，一锣渡冤",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "24集全",
-        "tags": [
-          "悬疑"
-        ],
-        "displayTitle": "在下打更人",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 325222,
-        "mediaType": "tv",
-        "posterPath": "/cJZXMnDezxR4GecGBHJPfktRGNZ.jpg",
-        "backdropPath": "/bCOqB1uVKmIU3yPQRBVsOuvuBRT.jpg",
-        "releaseDate": "2026-08-12",
-        "lastUpdateDate": "2026-08-16",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 1.1393
-      },
-      {
-        "source": "iq",
-        "cid": "iq4234332697928301",
-        "title": "书卷一梦",
-        "teaser": "穿书流强制爱",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "40集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "书卷一梦",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 253193,
-        "mediaType": "tv",
-        "posterPath": "/e2vANOfJOrbejmlHyNFUs175p0C.jpg",
-        "backdropPath": "/9yc7Vv85J8Bqp9rZhJ7W966oi8L.jpg",
-        "releaseDate": "2025-06-26",
-        "lastUpdateDate": "2025-07-11",
-        "rating": 7.848,
-        "voteCount": 33,
-        "popularity": 10.2388
       },
       {
         "source": "iq",
@@ -1961,6 +1705,140 @@
       },
       {
         "source": "iq",
+        "cid": "iq8059059459762501",
+        "title": "双轨",
+        "teaser": "日月同辉 暮暮朝朝",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "29集全",
+        "tags": [
+          "剧情",
+          "动作冒险"
+        ],
+        "displayTitle": "双轨",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 279041,
+        "mediaType": "tv",
+        "posterPath": "/5NUddXQVP4Pf4mdfmlhqKPMUSHU.jpg",
+        "backdropPath": "/wCBgNbukU0eaTCdJrtX4wMpjfgx.jpg",
+        "releaseDate": "2025-12-12",
+        "lastUpdateDate": "2025-12-22",
+        "rating": 8.4,
+        "voteCount": 52,
+        "popularity": 14.001
+      },
+      {
+        "source": "iq",
+        "cid": "iq3955178982927801",
+        "title": "长风渡",
+        "teaser": "白敬亭宋轶先婚后爱",
+        "year": "2023",
+        "genre": "",
+        "area": "",
+        "episodeText": "40集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "长风渡",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 207004,
+        "mediaType": "tv",
+        "posterPath": "/euObSynAyvmGkfrp297WIjfkOM5.jpg",
+        "backdropPath": "/7XO5iQaEvrqfMzDVpjTWYfI6OH5.jpg",
+        "releaseDate": "2023-06-18",
+        "lastUpdateDate": "2023-07-14",
+        "rating": 7.4,
+        "voteCount": 13,
+        "popularity": 7.5044
+      },
+      {
+        "source": "iq",
+        "cid": "iq5954978441245001",
+        "title": "南部档案",
+        "teaser": "南洋生死簿一命换一命",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "33集全",
+        "tags": [
+          "动作冒险",
+          "悬疑"
+        ],
+        "displayTitle": "南部档案",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 278605,
+        "mediaType": "tv",
+        "posterPath": "/2QcMONqmPUeBJyzTe9G9GahGbqz.jpg",
+        "backdropPath": "/ipdLdmrjqR3hpCUGGSyr03dHdqC.jpg",
+        "releaseDate": "2026-06-11",
+        "lastUpdateDate": "2026-06-23",
+        "rating": 6.6,
+        "voteCount": 11,
+        "popularity": 8.7485
+      },
+      {
+        "source": "iq",
+        "cid": "iq202944501",
+        "title": "伪装者",
+        "teaser": "红色女企业家明镜是上海明氏企业的董事长，她胸怀报国之心，暗中多次为中国共产党提供了抗日资金。她的二弟明楼是一名优秀的军统特工，但他身份神秘，引起了日本特工组织首领的注意，并私下安排了人调查他。明楼与私人助理明诚在香港秘密解决了该名特工并拿回了资料，他们知道，这不仅仅是特工一个人进行的调查。明楼与汪伪政府特工总部情报处处长汪曼春是一个心狠手辣的女人，她发现了军统和中共安排在情报处的情报员，亲手处决了每一个嫌疑犯。同时，她放出了其中有一个转变者的假消息，借此让国共人员认为她利用此人搜寻抗日分子，欲使国共的情报系统陷入混乱。而明镜与明楼有一个他们都十分疼爱的弟弟，便是明家小少爷明台。明台饱读诗书，生得英俊不凡，近日，他已被香港大学录取。他搭上了前往香港的飞机，没想到此行却彻底改变了他的命运。在飞机上，他无意中救了代号毒蜂的军统特工王天风一命。明台从乘务员不熟练的倒酒手法以及酒香异常中发现了王天风拿到的红酒中或许掺杂了东西。",
+        "year": "2015",
+        "genre": "",
+        "area": "",
+        "episodeText": "41集全",
+        "tags": [
+          "悬疑",
+          "剧情"
+        ],
+        "displayTitle": "伪装者",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 65176,
+        "mediaType": "tv",
+        "posterPath": "/dPFwcqEr9OrPABEwHVZPtwHg6zD.jpg",
+        "backdropPath": "/gffJjryXbn3JCJ7Rw4nUyQGzB8l.jpg",
+        "releaseDate": "2015-08-31",
+        "lastUpdateDate": "2015-09-28",
+        "rating": 8.3,
+        "voteCount": 20,
+        "popularity": 6.7329
+      },
+      {
+        "source": "iq",
+        "cid": "iq7034693672248901",
+        "title": "我不是大师",
+        "teaser": "局中局，骗中骗！",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "24集全",
+        "tags": [
+          "剧情",
+          "悬疑"
+        ],
+        "displayTitle": "我不是大师",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 289078,
+        "mediaType": "tv",
+        "posterPath": "/sGxyz6BCOpbn9rKxqCfrW2yBOkX.jpg",
+        "backdropPath": "/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
+        "releaseDate": "2026-09-24",
+        "lastUpdateDate": "2026-10-04",
+        "rating": 6.3,
+        "voteCount": 7,
+        "popularity": 5.9309
+      },
+      {
+        "source": "iq",
         "cid": "iq110383301",
         "title": "爱情公寓3",
         "teaser": "曾小贤最终赢得了那次“百万富翁真人秀”的最终胜利。可是，奖金被电视台一直扣留，还被迫与电视台签订了不平等条约。正在履行条约的小贤遇到了前来探班的丽萨，她并通知小贤主持一部量身定做的新的栏目《我代表月亮选择你》。这让小贤重获自由。小贤带着给大家买的礼物踌躇满志的回到家，可看起来大家对自己买的礼物并不感冒。得知奖金就快到账的小贤想为朋友们做点什么，于是答应朋友们可以用钱满足他们每人的一个愿望。",
@@ -1985,6 +1863,111 @@
         "rating": 6.873,
         "voteCount": 51,
         "popularity": 16.5329
+      },
+      {
+        "source": "iq",
+        "cid": "iq1971422841566301",
+        "title": "北上",
+        "teaser": "运河邻里 烟火人生",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "38集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "北上",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 233961,
+        "mediaType": "tv",
+        "posterPath": "/s60DHmR5niyYBAtLijp4n0Fn8Jg.jpg",
+        "backdropPath": "/fAUbl42qZQy9DM82mszHsTv6FB6.jpg",
+        "releaseDate": "2025-03-03",
+        "lastUpdateDate": "2025-03-25",
+        "rating": 7.0,
+        "voteCount": 7,
+        "popularity": 8.928
+      },
+      {
+        "source": "iq",
+        "cid": "iq4234332697928301",
+        "title": "书卷一梦",
+        "teaser": "穿书流强制爱",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "40集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "书卷一梦",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 253193,
+        "mediaType": "tv",
+        "posterPath": "/e2vANOfJOrbejmlHyNFUs175p0C.jpg",
+        "backdropPath": "/9yc7Vv85J8Bqp9rZhJ7W966oi8L.jpg",
+        "releaseDate": "2025-06-26",
+        "lastUpdateDate": "2025-07-11",
+        "rating": 7.848,
+        "voteCount": 33,
+        "popularity": 10.2388
+      },
+      {
+        "source": "iq",
+        "cid": "iq2255389551652401",
+        "title": "这一秒过火",
+        "teaser": "爱是燎原火恨是未烬灰",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "33集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "这一秒过火",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 289139,
+        "mediaType": "tv",
+        "posterPath": "/4e1ycw3hY6aAtUGIsLOk80gTobn.jpg",
+        "backdropPath": "/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
+        "releaseDate": "2026-07-19",
+        "lastUpdateDate": "2026-08-05",
+        "rating": 8.3,
+        "voteCount": 12,
+        "popularity": 8.9168
+      },
+      {
+        "source": "iq",
+        "cid": "iq1856713125345801",
+        "title": "朝雪录",
+        "teaser": "双强携手破诡秘凶案",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "38集全",
+        "tags": [
+          "剧情",
+          "悬疑"
+        ],
+        "displayTitle": "朝雪录",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 240445,
+        "mediaType": "tv",
+        "posterPath": "/u2eP0EswokvB2qZnU6Oy1Jz1Uva.jpg",
+        "backdropPath": "/trAzKgcmDMkNBFXSr9ucZcfzxgm.jpg",
+        "releaseDate": "2025-07-13",
+        "lastUpdateDate": "2025-07-27",
+        "rating": 9.0,
+        "voteCount": 22,
+        "popularity": 6.4134
       },
       {
         "source": "yk",
@@ -2012,33 +1995,7 @@
         "lastUpdateDate": "2026-11-17",
         "rating": 6.333,
         "voteCount": 3,
-        "popularity": 15.6423
-      },
-      {
-        "source": "yk",
-        "cid": "yk鉴定",
-        "title": "鉴定",
-        "teaser": "家庭",
-        "year": "",
-        "genre": "",
-        "area": "中国内地",
-        "episodeText": "",
-        "tags": [
-          "悬疑"
-        ],
-        "displayTitle": "鉴定",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 259785,
-        "mediaType": "tv",
-        "posterPath": "/oHdEkquMKsADe9nfe18fBw7ReCp.jpg",
-        "backdropPath": "/zBO9dnA1APQHyWYkQrkmavu1oWk.jpg",
-        "releaseDate": "2026-11-01",
-        "lastUpdateDate": "2026-11-13",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 2.5567
+        "popularity": 14.328
       },
       {
         "source": "yk",
@@ -2067,7 +2024,36 @@
         "lastUpdateDate": "2026-11-03",
         "rating": 7.581,
         "voteCount": 31,
-        "popularity": 36.6115
+        "popularity": 36.6962
+      },
+      {
+        "source": "yk",
+        "cid": "yk无可替代",
+        "title": "无可替代",
+        "teaser": "都市 · 职场",
+        "year": "",
+        "genre": "都市",
+        "area": "中国内地",
+        "episodeText": "20集全",
+        "tags": [
+          "优酷独播",
+          "都市",
+          "职场",
+          "剧情"
+        ],
+        "displayTitle": "无可替代",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 297982,
+        "mediaType": "tv",
+        "posterPath": "/gLbtMLqbN6fgYsTuHFvzJu7Hopi.jpg",
+        "backdropPath": "/o91jmFILQk1UAqPbpEjT3D3OxoO.jpg",
+        "releaseDate": "2026-09-28",
+        "lastUpdateDate": "2026-10-10",
+        "rating": 7.6,
+        "voteCount": 6,
+        "popularity": 5.8243
       },
       {
         "source": "yk",
@@ -2125,7 +2111,7 @@
         "lastUpdateDate": "2026-11-21",
         "rating": 9.0,
         "voteCount": 4,
-        "popularity": 24.1335
+        "popularity": 23.7039
       },
       {
         "source": "yk",
@@ -2151,10 +2137,36 @@
         "posterPath": "/m47ye7iQKzI06v7DHlrS8gm4klq.jpg",
         "backdropPath": "/eE1mgVSWHndxnqxLnld517AAU4g.jpg",
         "releaseDate": "2026-11-20",
-        "lastUpdateDate": "2026-11-22",
+        "lastUpdateDate": "2026-11-23",
         "rating": 8.0,
         "voteCount": 1,
-        "popularity": 3.8407
+        "popularity": 4.8034
+      },
+      {
+        "source": "yk",
+        "cid": "yk鉴定",
+        "title": "鉴定",
+        "teaser": "家庭",
+        "year": "",
+        "genre": "",
+        "area": "中国内地",
+        "episodeText": "",
+        "tags": [
+          "悬疑"
+        ],
+        "displayTitle": "鉴定",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 259785,
+        "mediaType": "tv",
+        "posterPath": "/oHdEkquMKsADe9nfe18fBw7ReCp.jpg",
+        "backdropPath": "/zBO9dnA1APQHyWYkQrkmavu1oWk.jpg",
+        "releaseDate": "2026-11-01",
+        "lastUpdateDate": "2026-11-13",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 2.7023
       },
       {
         "source": "yk",
@@ -2183,7 +2195,7 @@
         "lastUpdateDate": "2026-09-09",
         "rating": 8.2,
         "voteCount": 37,
-        "popularity": 15.0014
+        "popularity": 14.2661
       },
       {
         "source": "yk",
@@ -2239,7 +2251,7 @@
         "lastUpdateDate": "2026-07-25",
         "rating": 7.571,
         "voteCount": 7,
-        "popularity": 3.6445
+        "popularity": 3.3993
       },
       {
         "source": "yk",
@@ -2269,38 +2281,7 @@
         "lastUpdateDate": "2025-07-09",
         "rating": 7.6,
         "voteCount": 9,
-        "popularity": 4.4627
-      },
-      {
-        "source": "yk",
-        "cid": "yk入青云",
-        "title": "入青云",
-        "teaser": "古装 · 仙侠",
-        "year": "",
-        "genre": "古装",
-        "area": "中国内地",
-        "episodeText": "36集全",
-        "tags": [
-          "优酷独播",
-          "古装",
-          "仙侠",
-          "剧情",
-          "Sci-Fi & Fantasy",
-          "喜剧"
-        ],
-        "displayTitle": "入青云",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 262928,
-        "mediaType": "tv",
-        "posterPath": "/jin36YisXjZEdd2m0aEroQJfvNp.jpg",
-        "backdropPath": "/lAJCsUD3f6KhwdtbnevSAI1E9EU.jpg",
-        "releaseDate": "2025-10-08",
-        "lastUpdateDate": "2025-10-26",
-        "rating": 9.018,
-        "voteCount": 55,
-        "popularity": 11.6893
+        "popularity": 4.5858
       },
       {
         "source": "yk",
@@ -2359,64 +2340,38 @@
         "lastUpdateDate": "2025-03-10",
         "rating": 8.473,
         "voteCount": 92,
-        "popularity": 14.7648
+        "popularity": 14.9078
       },
       {
         "source": "yk",
-        "cid": "yk藏海传",
-        "title": "藏海传",
-        "teaser": "古装 · 剧情",
+        "cid": "yk入青云",
+        "title": "入青云",
+        "teaser": "古装 · 仙侠",
         "year": "",
         "genre": "古装",
         "area": "中国内地",
-        "episodeText": "40集全",
+        "episodeText": "36集全",
         "tags": [
           "优酷独播",
           "古装",
-          "剧情"
+          "仙侠",
+          "剧情",
+          "Sci-Fi & Fantasy",
+          "喜剧"
         ],
-        "displayTitle": "藏海传",
+        "displayTitle": "入青云",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 252640,
+        "tmdbId": 262928,
         "mediaType": "tv",
-        "posterPath": "/jnYzQyA5Rh1b5nOnlo0Sh8yCFYr.jpg",
-        "backdropPath": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
-        "releaseDate": "2025-05-18",
-        "lastUpdateDate": "2025-06-03",
-        "rating": 7.041,
-        "voteCount": 73,
-        "popularity": 9.3015
-      },
-      {
-        "source": "yk",
-        "cid": "yk偷偷藏不住",
-        "title": "偷偷藏不住",
-        "teaser": "爱情 · 青春",
-        "year": "",
-        "genre": "爱情",
-        "area": "中国内地",
-        "episodeText": "25集全",
-        "tags": [
-          "优酷独播",
-          "爱情",
-          "青春",
-          "剧情"
-        ],
-        "displayTitle": "偷偷藏不住",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 210733,
-        "mediaType": "tv",
-        "posterPath": "/aMyypY2MhgXeYAuwUXPFH49MkOb.jpg",
-        "backdropPath": "/wQlJJJ50gKphCci0SmoetUXmJN4.jpg",
-        "releaseDate": "2023-06-20",
-        "lastUpdateDate": "2023-07-06",
-        "rating": 8.5,
-        "voteCount": 264,
-        "popularity": 13.3284
+        "posterPath": "/jin36YisXjZEdd2m0aEroQJfvNp.jpg",
+        "backdropPath": "/lAJCsUD3f6KhwdtbnevSAI1E9EU.jpg",
+        "releaseDate": "2025-10-08",
+        "lastUpdateDate": "2025-10-26",
+        "rating": 9.018,
+        "voteCount": 55,
+        "popularity": 11.6893
       },
       {
         "source": "yk",
@@ -2445,6 +2400,63 @@
         "rating": 6.571,
         "voteCount": 14,
         "popularity": 8.1143
+      },
+      {
+        "source": "yk",
+        "cid": "yk千香",
+        "title": "千香",
+        "teaser": "古装 · 爱情",
+        "year": "",
+        "genre": "古装",
+        "area": "中国内地",
+        "episodeText": "33集全",
+        "tags": [
+          "优酷独播",
+          "古装",
+          "爱情",
+          "剧情"
+        ],
+        "displayTitle": "千香",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 251600,
+        "mediaType": "tv",
+        "posterPath": "/Cdnzjeu1pZ1ljF3ZtGV0a33Qq3.jpg",
+        "backdropPath": "/tlAZ3g7EzHqWj0Yn6SXVAdFfAcE.jpg",
+        "releaseDate": "2026-06-27",
+        "lastUpdateDate": "2026-07-14",
+        "rating": 6.667,
+        "voteCount": 12,
+        "popularity": 7.3471
+      },
+      {
+        "source": "yk",
+        "cid": "yk藏海传",
+        "title": "藏海传",
+        "teaser": "古装 · 剧情",
+        "year": "",
+        "genre": "古装",
+        "area": "中国内地",
+        "episodeText": "40集全",
+        "tags": [
+          "优酷独播",
+          "古装",
+          "剧情"
+        ],
+        "displayTitle": "藏海传",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 252640,
+        "mediaType": "tv",
+        "posterPath": "/jnYzQyA5Rh1b5nOnlo0Sh8yCFYr.jpg",
+        "backdropPath": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+        "releaseDate": "2025-05-18",
+        "lastUpdateDate": "2025-06-03",
+        "rating": 7.041,
+        "voteCount": 73,
+        "popularity": 9.3015
       },
       {
         "source": "yk",
@@ -2477,37 +2489,6 @@
         "rating": 8.0,
         "voteCount": 1,
         "popularity": 3.2157
-      },
-      {
-        "source": "yk",
-        "cid": "yk少年歌行",
-        "title": "少年歌行",
-        "teaser": "武侠 · 古装",
-        "year": "",
-        "genre": "武侠",
-        "area": "中国内地",
-        "episodeText": "40集全",
-        "tags": [
-          "优酷独播",
-          "武侠",
-          "古装",
-          "动画",
-          "Sci-Fi & Fantasy",
-          "动作冒险"
-        ],
-        "displayTitle": "少年歌行",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 85219,
-        "mediaType": "tv",
-        "posterPath": "/2cvru8EriUsCrEV6R8DnP5HILS.jpg",
-        "backdropPath": "/yoUKQw05KXX2c2WxqWjzJKguzc9.jpg",
-        "releaseDate": "2018-12-26",
-        "lastUpdateDate": "2025-06-25",
-        "rating": 8.231,
-        "voteCount": 13,
-        "popularity": 11.7309
       }
     ],
     "movie": [
@@ -2577,7 +2558,7 @@
         "lastUpdateDate": "2026-07-10",
         "rating": 8.0,
         "voteCount": 41,
-        "popularity": 7.9332,
+        "popularity": 7.3608,
         "alsoOn": [
           "iq",
           "qq"
@@ -2615,8 +2596,8 @@
         "releaseDate": "2026-07-29",
         "lastUpdateDate": "2026-07-29",
         "rating": 8.456,
-        "voteCount": 7079,
-        "popularity": 310.0185,
+        "voteCount": 7086,
+        "popularity": 296.3028,
         "alsoOn": [
           "iq",
           "qq"
@@ -2662,6 +2643,35 @@
       },
       {
         "source": "qq",
+        "cid": "mzc002009ey1vbj",
+        "title": "尘缘",
+        "teaser": "冒牌谪仙破天命结尘缘",
+        "year": "2026",
+        "genre": "奇幻",
+        "area": "内地",
+        "episodeText": "",
+        "tags": [
+          "奇幻",
+          "仙侠玄幻",
+          "奇幻爱情",
+          "动作冒险"
+        ],
+        "displayTitle": "尘缘",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 210638,
+        "mediaType": "tv",
+        "posterPath": "/gGrzY0I6JCqhh5j7opPCR3ylxBb.jpg",
+        "backdropPath": "/aPkRCi8jNTcuyZqDew93qR6RGgO.jpg",
+        "releaseDate": "2023-07-02",
+        "lastUpdateDate": "2023-07-26",
+        "rating": 7.0,
+        "voteCount": 4,
+        "popularity": 6.131
+      },
+      {
+        "source": "qq",
         "cid": "mzc00200urc8oxx",
         "title": "穿普拉达的女王2",
         "teaser": "时尚“女魔头”华丽归来",
@@ -2688,13 +2698,44 @@
         "backdropPath": "/dRoFlUbH1l51ACmx5oPCI3jfvZq.jpg",
         "releaseDate": "2026-04-29",
         "lastUpdateDate": "2026-04-29",
-        "rating": 7.012,
+        "rating": 7.0,
         "voteCount": 2581,
-        "popularity": 21.6329,
+        "popularity": 21.2493,
         "alsoOn": [
           "iq",
           "qq"
         ]
+      },
+      {
+        "source": "qq",
+        "cid": "mzc002009suxdpv",
+        "title": "我想留在你身边",
+        "teaser": "毕雯珺何蓝逗逆时虐恋",
+        "year": "2026",
+        "genre": "爱情",
+        "area": "内地",
+        "episodeText": "",
+        "tags": [
+          "爱情",
+          "虐心爱情",
+          "奇幻爱情",
+          "纯爱",
+          "一见钟情",
+          "奇幻"
+        ],
+        "displayTitle": "我想留在你身边",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 1716541,
+        "mediaType": "movie",
+        "posterPath": "/eUconXwgew1PsFuDG6DtFdOI0UK.jpg",
+        "backdropPath": "/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+        "releaseDate": "2026-09-12",
+        "lastUpdateDate": "2026-09-12",
+        "rating": 5.0,
+        "voteCount": 2,
+        "popularity": 1.0141
       },
       {
         "source": "qq",
@@ -2726,35 +2767,6 @@
         "rating": 0,
         "voteCount": 0,
         "popularity": 0.097
-      },
-      {
-        "source": "qq",
-        "cid": "mzc002009ey1vbj",
-        "title": "尘缘",
-        "teaser": "冒牌谪仙破天命结尘缘",
-        "year": "2026",
-        "genre": "奇幻",
-        "area": "内地",
-        "episodeText": "",
-        "tags": [
-          "奇幻",
-          "仙侠玄幻",
-          "奇幻爱情",
-          "动作冒险"
-        ],
-        "displayTitle": "尘缘",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 210638,
-        "mediaType": "tv",
-        "posterPath": "/gGrzY0I6JCqhh5j7opPCR3ylxBb.jpg",
-        "backdropPath": "/aPkRCi8jNTcuyZqDew93qR6RGgO.jpg",
-        "releaseDate": "2023-07-02",
-        "lastUpdateDate": "2023-07-26",
-        "rating": 7.0,
-        "voteCount": 4,
-        "popularity": 6.131
       },
       {
         "source": "qq",
@@ -2792,37 +2804,6 @@
       },
       {
         "source": "qq",
-        "cid": "mzc002009suxdpv",
-        "title": "我想留在你身边",
-        "teaser": "毕雯珺何蓝逗逆时虐恋",
-        "year": "2026",
-        "genre": "爱情",
-        "area": "内地",
-        "episodeText": "",
-        "tags": [
-          "爱情",
-          "虐心爱情",
-          "奇幻爱情",
-          "纯爱",
-          "一见钟情",
-          "奇幻"
-        ],
-        "displayTitle": "我想留在你身边",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 1716541,
-        "mediaType": "movie",
-        "posterPath": "/eUconXwgew1PsFuDG6DtFdOI0UK.jpg",
-        "backdropPath": "/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
-        "releaseDate": "2026-09-12",
-        "lastUpdateDate": "2026-09-12",
-        "rating": 5.0,
-        "voteCount": 2,
-        "popularity": 0.9385
-      },
-      {
-        "source": "qq",
         "cid": "mzc00200in5doq6",
         "title": "功夫女足",
         "teaser": "周星驰出山！爆笑燃球场",
@@ -2854,7 +2835,7 @@
         "lastUpdateDate": "2026-07-11",
         "rating": 5.78,
         "voteCount": 59,
-        "popularity": 20.5181,
+        "popularity": 18.9547,
         "alsoOn": [
           "iq",
           "qq"
@@ -2920,7 +2901,7 @@
         "releaseDate": "2026-08-19",
         "lastUpdateDate": "2026-08-19",
         "rating": 7.604,
-        "voteCount": 1120,
+        "voteCount": 1121,
         "popularity": 89.3329,
         "alsoOn": [
           "iq"
@@ -2979,7 +2960,37 @@
         "lastUpdateDate": "2026-08-08",
         "rating": 6.0,
         "voteCount": 1,
-        "popularity": 0.4054
+        "popularity": 0.3929
+      },
+      {
+        "source": "iq",
+        "cid": "iq3367993585261900",
+        "title": "给阿嬷的情书",
+        "teaser": "年度口碑票房黑马",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "9.4",
+        "tags": [
+          "剧情",
+          "喜剧"
+        ],
+        "displayTitle": "给阿嬷的情书",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 1671548,
+        "mediaType": "movie",
+        "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
+        "backdropPath": "/uq6oeqeXTYPjiave6hpvvGSgSQ0.jpg",
+        "releaseDate": "2026-04-30",
+        "lastUpdateDate": "2026-04-30",
+        "rating": 8.59,
+        "voteCount": 100,
+        "popularity": 6.006,
+        "alsoOn": [
+          "iq"
+        ]
       },
       {
         "source": "iq",
@@ -3009,60 +3020,32 @@
       },
       {
         "source": "iq",
-        "cid": "iq3367993585261900",
-        "title": "给阿嬷的情书",
-        "teaser": "年度口碑票房黑马",
-        "year": "2026",
+        "cid": "iq1429158730765200",
+        "title": "哪吒之魔童闹海",
+        "teaser": "哪吒敖丙搅动乾坤",
+        "year": "2025",
         "genre": "",
         "area": "",
-        "episodeText": "9.4",
+        "episodeText": "9.1",
         "tags": [
-          "剧情",
-          "喜剧"
+          "动画",
+          "动作",
+          "奇幻",
+          "冒险"
         ],
-        "displayTitle": "给阿嬷的情书",
+        "displayTitle": "哪吒之魔童闹海",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 1671548,
+        "tmdbId": 980477,
         "mediaType": "movie",
-        "posterPath": "/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
-        "backdropPath": "/uq6oeqeXTYPjiave6hpvvGSgSQ0.jpg",
-        "releaseDate": "2026-04-30",
-        "lastUpdateDate": "2026-04-30",
-        "rating": 8.59,
-        "voteCount": 100,
-        "popularity": 6.7843,
-        "alsoOn": [
-          "iq"
-        ]
-      },
-      {
-        "source": "iq",
-        "cid": "iq237512000",
-        "title": "记忆碎片",
-        "teaser": "诺兰悬疑成名神作",
-        "year": "2000",
-        "genre": "",
-        "area": "",
-        "episodeText": "8.8",
-        "tags": [
-          "悬疑",
-          "惊悚"
-        ],
-        "displayTitle": "记忆碎片",
-        "originCountry": [
-          "US"
-        ],
-        "tmdbId": 77,
-        "mediaType": "movie",
-        "posterPath": "/rO9d5ES2v5h2xDDZzVWUfQwdZ42.jpg",
-        "backdropPath": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
-        "releaseDate": "2000-10-11",
-        "lastUpdateDate": "2000-10-11",
-        "rating": 8.2,
-        "voteCount": 17086,
-        "popularity": 16.7834
+        "posterPath": "/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
+        "backdropPath": "/gd9kxeEEONj5SECs4GA8Ddn3czI.jpg",
+        "releaseDate": "2025-01-29",
+        "lastUpdateDate": "2025-01-29",
+        "rating": 8.189,
+        "voteCount": 878,
+        "popularity": 20.8057
       },
       {
         "source": "iq",
@@ -3090,38 +3073,37 @@
         "backdropPath": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
         "releaseDate": "2025-08-16",
         "lastUpdateDate": "2025-08-16",
-        "rating": 8.353,
-        "voteCount": 1633,
+        "rating": 8.354,
+        "voteCount": 1634,
         "popularity": 53.9755
       },
       {
         "source": "iq",
-        "cid": "iq1429158730765200",
-        "title": "哪吒之魔童闹海",
-        "teaser": "哪吒敖丙搅动乾坤",
-        "year": "2025",
+        "cid": "iq5093452324280200",
+        "title": "老江湖",
+        "teaser": "梁家辉于谦双雄对决",
+        "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "9.1",
+        "episodeText": "6.6",
         "tags": [
-          "动画",
           "动作",
-          "奇幻",
-          "冒险"
+          "喜剧",
+          "犯罪"
         ],
-        "displayTitle": "哪吒之魔童闹海",
+        "displayTitle": "老江湖",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 980477,
+        "tmdbId": 1086176,
         "mediaType": "movie",
-        "posterPath": "/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
-        "backdropPath": "/gd9kxeEEONj5SECs4GA8Ddn3czI.jpg",
-        "releaseDate": "2025-01-29",
-        "lastUpdateDate": "2025-01-29",
-        "rating": 8.188,
-        "voteCount": 876,
-        "popularity": 21.4071
+        "posterPath": "/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+        "backdropPath": "/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
+        "releaseDate": "2026-09-25",
+        "lastUpdateDate": "2026-09-25",
+        "rating": 3.0,
+        "voteCount": 2,
+        "popularity": 1.5559
       },
       {
         "source": "iq",
@@ -3153,34 +3135,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq5093452324280200",
-        "title": "老江湖",
-        "teaser": "梁家辉于谦双雄对决",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "6.6",
-        "tags": [
-          "动作",
-          "喜剧",
-          "犯罪"
-        ],
-        "displayTitle": "老江湖",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 1086176,
-        "mediaType": "movie",
-        "posterPath": "/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-        "backdropPath": "/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
-        "releaseDate": "2026-09-25",
-        "lastUpdateDate": "2026-09-25",
-        "rating": 3.0,
-        "voteCount": 2,
-        "popularity": 1.6869
-      },
-      {
-        "source": "iq",
         "cid": "iq7711721649584600",
         "title": "开国将帅授衔1955",
         "teaser": "首部开国将帅作品",
@@ -3209,57 +3163,30 @@
       },
       {
         "source": "iq",
-        "cid": "iq4919382334205100",
-        "title": "震耳欲聋",
-        "teaser": "檀健次破聋人诈骗局",
-        "year": "2025",
+        "cid": "iq237512000",
+        "title": "记忆碎片",
+        "teaser": "诺兰悬疑成名神作",
+        "year": "2000",
         "genre": "",
         "area": "",
-        "episodeText": "8.7",
+        "episodeText": "8.8",
         "tags": [
-          "剧情",
-          "犯罪"
+          "悬疑",
+          "惊悚"
         ],
-        "displayTitle": "震耳欲聋",
+        "displayTitle": "记忆碎片",
         "originCountry": [
-          "CN"
+          "US"
         ],
-        "tmdbId": 1466319,
+        "tmdbId": 77,
         "mediaType": "movie",
-        "posterPath": "/nTnlCq1JKCujY8bZGNqanq6UQX4.jpg",
-        "backdropPath": "/epghjQKoDlwQ2vGYDQzMAFoJHRt.jpg",
-        "releaseDate": "2025-10-02",
-        "lastUpdateDate": "2025-10-02",
-        "rating": 6.964,
-        "voteCount": 28,
-        "popularity": 1.6074
-      },
-      {
-        "source": "iq",
-        "cid": "iq6592700293428900",
-        "title": "出入平安",
-        "teaser": "唐山地震真实救援",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "8.2",
-        "tags": [
-          "剧情",
-          "家庭"
-        ],
-        "displayTitle": "出入平安",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 1241918,
-        "mediaType": "movie",
-        "posterPath": "/dEBGIgF3mjHHEozd2VMcrbTP6g1.jpg",
-        "backdropPath": "/d9BG2RvTNKvsCl7wEfazTEtrXJz.jpg",
-        "releaseDate": "2024-09-30",
-        "lastUpdateDate": "2024-09-30",
-        "rating": 6.6,
-        "voteCount": 5,
-        "popularity": 0.9969
+        "posterPath": "/rO9d5ES2v5h2xDDZzVWUfQwdZ42.jpg",
+        "backdropPath": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+        "releaseDate": "2000-10-11",
+        "lastUpdateDate": "2000-10-11",
+        "rating": 8.175,
+        "voteCount": 17090,
+        "popularity": 17.8255
       },
       {
         "source": "iq",
@@ -3286,34 +3213,34 @@
         "lastUpdateDate": "2026-02-17",
         "rating": 6.9,
         "voteCount": 54,
-        "popularity": 3.8319
+        "popularity": 3.5537
       },
       {
         "source": "iq",
-        "cid": "iq1437180390498300",
-        "title": "燃烧吧！爸爸",
-        "teaser": "文淇倪虹洁催泪和解",
-        "year": "2026",
+        "cid": "iq4919382334205100",
+        "title": "震耳欲聋",
+        "teaser": "檀健次破聋人诈骗局",
+        "year": "2025",
         "genre": "",
         "area": "",
-        "episodeText": "7.5",
+        "episodeText": "8.7",
         "tags": [
-          "喜剧",
-          "剧情"
+          "剧情",
+          "犯罪"
         ],
-        "displayTitle": "燃烧吧！爸爸",
+        "displayTitle": "震耳欲聋",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 1444590,
+        "tmdbId": 1466319,
         "mediaType": "movie",
-        "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-        "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-        "releaseDate": "2026-09-05",
-        "lastUpdateDate": "2026-09-05",
-        "rating": 5.0,
-        "voteCount": 1,
-        "popularity": 1.0802
+        "posterPath": "/nTnlCq1JKCujY8bZGNqanq6UQX4.jpg",
+        "backdropPath": "/epghjQKoDlwQ2vGYDQzMAFoJHRt.jpg",
+        "releaseDate": "2025-10-02",
+        "lastUpdateDate": "2025-10-02",
+        "rating": 7.0,
+        "voteCount": 29,
+        "popularity": 1.5342
       },
       {
         "source": "iq",
@@ -3345,6 +3272,33 @@
       },
       {
         "source": "iq",
+        "cid": "iq6592700293428900",
+        "title": "出入平安",
+        "teaser": "唐山地震真实救援",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "8.2",
+        "tags": [
+          "剧情",
+          "家庭"
+        ],
+        "displayTitle": "出入平安",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 1241918,
+        "mediaType": "movie",
+        "posterPath": "/dEBGIgF3mjHHEozd2VMcrbTP6g1.jpg",
+        "backdropPath": "/d9BG2RvTNKvsCl7wEfazTEtrXJz.jpg",
+        "releaseDate": "2024-09-30",
+        "lastUpdateDate": "2024-09-30",
+        "rating": 6.6,
+        "voteCount": 5,
+        "popularity": 0.9839
+      },
+      {
+        "source": "iq",
         "cid": "iq8787426051873400",
         "title": "抓特务",
         "teaser": "雷佳音胡歌谍战追踪",
@@ -3368,7 +3322,34 @@
         "lastUpdateDate": "2026-06-19",
         "rating": 6.9,
         "voteCount": 20,
-        "popularity": 1.8793
+        "popularity": 1.6194
+      },
+      {
+        "source": "iq",
+        "cid": "iq1437180390498300",
+        "title": "燃烧吧！爸爸",
+        "teaser": "文淇倪虹洁催泪和解",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "7.5",
+        "tags": [
+          "喜剧",
+          "剧情"
+        ],
+        "displayTitle": "燃烧吧！爸爸",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 1444590,
+        "mediaType": "movie",
+        "posterPath": "/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+        "backdropPath": "/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+        "releaseDate": "2026-09-05",
+        "lastUpdateDate": "2026-09-05",
+        "rating": 5.0,
+        "voteCount": 1,
+        "popularity": 1.0736
       },
       {
         "source": "iq",
@@ -3395,7 +3376,7 @@
         "lastUpdateDate": "2026-09-27",
         "rating": 7.538,
         "voteCount": 13,
-        "popularity": 4.9085
+        "popularity": 4.5499
       },
       {
         "source": "iq",
@@ -3423,7 +3404,7 @@
         "lastUpdateDate": "2025-11-05",
         "rating": 7.839,
         "voteCount": 3933,
-        "popularity": 22.2039
+        "popularity": 22.1789
       },
       {
         "source": "iq",
@@ -3456,56 +3437,31 @@
       },
       {
         "source": "iq",
-        "cid": "iq3907049035032000",
-        "title": "逆行战场",
-        "teaser": "烽火援朝逆行出征",
+        "cid": "iq4316153617656200",
+        "title": "蜂鸟行动",
+        "teaser": "任贤齐微缩战场搏杀",
         "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "7.2",
+        "episodeText": "6.4",
         "tags": [
-          "动作"
+          "动作",
+          "科幻",
+          "战争"
         ],
-        "displayTitle": "逆行战场",
+        "displayTitle": "蜂鸟行动",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 1726445,
+        "tmdbId": 1765955,
         "mediaType": "movie",
-        "posterPath": "/qIffKt5M3go5pPAYg6na9BV3wAH.jpg",
-        "backdropPath": "/5sztST2ioTRcUwlA7uoUEWj3q4V.jpg",
-        "releaseDate": "2026-07-07",
-        "lastUpdateDate": "2026-07-07",
+        "posterPath": "/oZXH2DonlPsDVPBTIy5gQxBZLcU.jpg",
+        "backdropPath": "/dqnS9n5yfMNPzJYyKyand2skUNY.jpg",
+        "releaseDate": "2026-09-12",
+        "lastUpdateDate": "2026-09-12",
         "rating": 5.0,
-        "voteCount": 1,
-        "popularity": 0.2299
-      },
-      {
-        "source": "iq",
-        "cid": "iq4377920387586100",
-        "title": "一个男人和一个女人",
-        "teaser": "黄渤倪妮疗愈中年困顿",
-        "year": "2024",
-        "genre": "",
-        "area": "",
-        "episodeText": "7.9",
-        "tags": [
-          "剧情",
-          "爱情"
-        ],
-        "displayTitle": "一个男人和一个女人",
-        "originCountry": [
-          "FR"
-        ],
-        "tmdbId": 42726,
-        "mediaType": "movie",
-        "posterPath": "/1GJWBUOkXF3JeXESjgiJ2uipSlx.jpg",
-        "backdropPath": "/chVgCErGuL1oUNFg6Gs7iQZGGZF.jpg",
-        "releaseDate": "1966-05-27",
-        "lastUpdateDate": "1966-05-27",
-        "rating": 7.4,
-        "voteCount": 325,
-        "popularity": 2.477
+        "voteCount": 4,
+        "popularity": 0.637
       },
       {
         "source": "iq",
@@ -3538,86 +3494,58 @@
       },
       {
         "source": "iq",
-        "cid": "iq4316153617656200",
-        "title": "蜂鸟行动",
-        "teaser": "任贤齐微缩战场搏杀",
-        "year": "2026",
+        "cid": "iq4377920387586100",
+        "title": "一个男人和一个女人",
+        "teaser": "黄渤倪妮疗愈中年困顿",
+        "year": "2024",
         "genre": "",
         "area": "",
-        "episodeText": "6.4",
+        "episodeText": "7.9",
         "tags": [
-          "动作",
-          "科幻",
-          "战争"
+          "剧情",
+          "爱情"
         ],
-        "displayTitle": "蜂鸟行动",
+        "displayTitle": "一个男人和一个女人",
         "originCountry": [
-          "CN"
+          "FR"
         ],
-        "tmdbId": 1765955,
+        "tmdbId": 42726,
         "mediaType": "movie",
-        "posterPath": "/oZXH2DonlPsDVPBTIy5gQxBZLcU.jpg",
-        "backdropPath": "/dqnS9n5yfMNPzJYyKyand2skUNY.jpg",
-        "releaseDate": "2026-09-12",
-        "lastUpdateDate": "2026-09-12",
-        "rating": 5.0,
-        "voteCount": 4,
-        "popularity": 0.637
+        "posterPath": "/1GJWBUOkXF3JeXESjgiJ2uipSlx.jpg",
+        "backdropPath": "/chVgCErGuL1oUNFg6Gs7iQZGGZF.jpg",
+        "releaseDate": "1966-05-27",
+        "lastUpdateDate": "1966-05-27",
+        "rating": 7.4,
+        "voteCount": 325,
+        "popularity": 2.387
       },
       {
         "source": "iq",
-        "cid": "iq7153414220954700",
-        "title": "家弑服务",
-        "teaser": "装乖女佣一刀干翻豪门",
-        "year": "2025",
+        "cid": "iq732638100",
+        "title": "复仇者联盟4：终局之战",
+        "teaser": "漫威十年·英雄集结",
+        "year": "2019",
         "genre": "",
         "area": "",
-        "episodeText": "8.2",
+        "episodeText": "9.0",
         "tags": [
-          "悬疑",
-          "惊悚"
+          "冒险",
+          "科幻",
+          "动作"
         ],
-        "displayTitle": "家弑服务",
+        "displayTitle": "复仇者联盟4：终局之战",
         "originCountry": [
           "US"
         ],
-        "tmdbId": 1368166,
+        "tmdbId": 299534,
         "mediaType": "movie",
-        "posterPath": "/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
-        "backdropPath": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
-        "releaseDate": "2025-12-18",
-        "lastUpdateDate": "2025-12-18",
-        "rating": 7.228,
-        "voteCount": 3393,
-        "popularity": 29.5631
-      },
-      {
-        "source": "iq",
-        "cid": "iq8749724257339400",
-        "title": "惊蛰无声",
-        "teaser": "张艺谋构建谍战迷局",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "8.0",
-        "tags": [
-          "犯罪",
-          "惊悚",
-          "动作"
-        ],
-        "displayTitle": "惊蛰无声",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 1447971,
-        "mediaType": "movie",
-        "posterPath": "/pKvogvxeYK0OhseQyLCmjcRRcWG.jpg",
-        "backdropPath": "/nN3RRsmNcxXIH10gcKuBjQXeyo9.jpg",
-        "releaseDate": "2026-02-17",
-        "lastUpdateDate": "2026-02-17",
-        "rating": 6.1,
-        "voteCount": 25,
-        "popularity": 4.4126
+        "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
+        "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+        "releaseDate": "2019-04-24",
+        "lastUpdateDate": "2019-04-24",
+        "rating": 8.246,
+        "voteCount": 29497,
+        "popularity": 68.028
       },
       {
         "source": "iq",
@@ -3646,65 +3574,36 @@
         "lastUpdateDate": "2016-02-11",
         "rating": 7.8,
         "voteCount": 18774,
-        "popularity": 22.2948,
+        "popularity": 23.9727,
         "alsoOn": [
           "iq"
         ]
       },
       {
         "source": "iq",
-        "cid": "iq4766970823231300",
-        "title": "南京照相馆",
-        "teaser": "全新视角讲述历史记忆",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "9.2",
-        "tags": [
-          "战争",
-          "剧情",
-          "历史"
-        ],
-        "displayTitle": "南京照相馆",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 1500536,
-        "mediaType": "movie",
-        "posterPath": "/lwrANgpPEBmYZ59oExpCiuv34Ou.jpg",
-        "backdropPath": "/iyIYSfyMTRlaLQWzKWxNRPVkt8Z.jpg",
-        "releaseDate": "2025-07-19",
-        "lastUpdateDate": "2025-07-19",
-        "rating": 7.793,
-        "voteCount": 104,
-        "popularity": 3.8187
-      },
-      {
-        "source": "iq",
-        "cid": "iq3071192221488000",
-        "title": "镖人：风起大漠",
-        "teaser": "大漠硬派武侠巅峰",
+        "cid": "iq3907049035032000",
+        "title": "逆行战场",
+        "teaser": "烽火援朝逆行出征",
         "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "8.3",
+        "episodeText": "7.2",
         "tags": [
-          "动作",
-          "冒险"
+          "动作"
         ],
-        "displayTitle": "镖人：风起大漠",
+        "displayTitle": "逆行战场",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 1305781,
+        "tmdbId": 1726445,
         "mediaType": "movie",
-        "posterPath": "/ki0ilBYgbOZKUuE1NN53FYWK9zQ.jpg",
-        "backdropPath": "/29pJrsosphUdOMRDm4gCdhSkluI.jpg",
-        "releaseDate": "2026-02-17",
-        "lastUpdateDate": "2026-02-17",
-        "rating": 8.219,
-        "voteCount": 269,
-        "popularity": 14.3707
+        "posterPath": "/qIffKt5M3go5pPAYg6na9BV3wAH.jpg",
+        "backdropPath": "/5sztST2ioTRcUwlA7uoUEWj3q4V.jpg",
+        "releaseDate": "2026-07-07",
+        "lastUpdateDate": "2026-07-07",
+        "rating": 5.0,
+        "voteCount": 1,
+        "popularity": 0.289
       },
       {
         "source": "iq",
@@ -3736,30 +3635,114 @@
       },
       {
         "source": "iq",
-        "cid": "iq6927203450250900",
-        "title": "长安三万里",
-        "teaser": "再现大唐华美诗篇",
-        "year": "2023",
+        "cid": "iq8749724257339400",
+        "title": "惊蛰无声",
+        "teaser": "张艺谋构建谍战迷局",
+        "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "9.0",
+        "episodeText": "8.0",
         "tags": [
-          "动画",
-          "历史"
+          "犯罪",
+          "惊悚",
+          "动作"
         ],
-        "displayTitle": "长安三万里",
+        "displayTitle": "惊蛰无声",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 1089654,
+        "tmdbId": 1447971,
         "mediaType": "movie",
-        "posterPath": "/7wxk8Ka5AGUIjCpEPg4vBOwSSul.jpg",
-        "backdropPath": "/zXyYAcZmTh1l6jaJzl8cxP5NN9P.jpg",
-        "releaseDate": "2023-07-02",
-        "lastUpdateDate": "2023-07-02",
-        "rating": 7.6,
-        "voteCount": 71,
-        "popularity": 2.1533
+        "posterPath": "/pKvogvxeYK0OhseQyLCmjcRRcWG.jpg",
+        "backdropPath": "/nN3RRsmNcxXIH10gcKuBjQXeyo9.jpg",
+        "releaseDate": "2026-02-17",
+        "lastUpdateDate": "2026-02-17",
+        "rating": 6.1,
+        "voteCount": 25,
+        "popularity": 4.4126
+      },
+      {
+        "source": "iq",
+        "cid": "iq3071192221488000",
+        "title": "镖人：风起大漠",
+        "teaser": "大漠硬派武侠巅峰",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "8.3",
+        "tags": [
+          "动作",
+          "冒险"
+        ],
+        "displayTitle": "镖人：风起大漠",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 1305781,
+        "mediaType": "movie",
+        "posterPath": "/ki0ilBYgbOZKUuE1NN53FYWK9zQ.jpg",
+        "backdropPath": "/29pJrsosphUdOMRDm4gCdhSkluI.jpg",
+        "releaseDate": "2026-02-17",
+        "lastUpdateDate": "2026-02-17",
+        "rating": 8.219,
+        "voteCount": 269,
+        "popularity": 13.741
+      },
+      {
+        "source": "iq",
+        "cid": "iq6066479496368900",
+        "title": "猎虎",
+        "teaser": "西部悍匪暴力爽片",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "7.8",
+        "tags": [
+          "犯罪",
+          "动作",
+          "西部"
+        ],
+        "displayTitle": "猎虎",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 1448324,
+        "mediaType": "movie",
+        "posterPath": "/e2Q57wXlVe4kp5cWskz5Q51IM6u.jpg",
+        "backdropPath": "/sxQiSAuBAxGO0mgqPjimhLMzkda.jpg",
+        "releaseDate": "2025-03-14",
+        "lastUpdateDate": "2025-03-14",
+        "rating": 7.0,
+        "voteCount": 4,
+        "popularity": 0.6864
+      },
+      {
+        "source": "iq",
+        "cid": "iq4766970823231300",
+        "title": "南京照相馆",
+        "teaser": "全新视角讲述历史记忆",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "9.2",
+        "tags": [
+          "战争",
+          "剧情",
+          "历史"
+        ],
+        "displayTitle": "南京照相馆",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 1500536,
+        "mediaType": "movie",
+        "posterPath": "/lwrANgpPEBmYZ59oExpCiuv34Ou.jpg",
+        "backdropPath": "/iyIYSfyMTRlaLQWzKWxNRPVkt8Z.jpg",
+        "releaseDate": "2025-07-19",
+        "lastUpdateDate": "2025-07-19",
+        "rating": 7.793,
+        "voteCount": 104,
+        "popularity": 3.5694
       },
       {
         "source": "iq",
@@ -3784,36 +3767,9 @@
         "backdropPath": "/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
         "releaseDate": "2001-11-16",
         "lastUpdateDate": "2001-11-16",
-        "rating": 7.9,
-        "voteCount": 30680,
-        "popularity": 44.2228
-      },
-      {
-        "source": "iq",
-        "cid": "iq7639526724287400",
-        "title": "不留活口",
-        "teaser": "逃兵归来血洗匪窝",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "6.1",
-        "tags": [
-          "喜剧",
-          "犯罪"
-        ],
-        "displayTitle": "不留活口",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 1709565,
-        "mediaType": "movie",
-        "posterPath": "/sePE65oFsMYz6z9MkYV3djRe7yo.jpg",
-        "backdropPath": "/kfBc4yh6DoaoxUCnJNNa4GWe0mI.jpg",
-        "releaseDate": "2026-06-06",
-        "lastUpdateDate": "2026-06-06",
-        "rating": 6.0,
-        "voteCount": 1,
-        "popularity": 0.4345
+        "rating": 7.905,
+        "voteCount": 30683,
+        "popularity": 42.2914
       },
       {
         "source": "iq",
@@ -3845,7 +3801,62 @@
         "lastUpdateDate": "2023-09-21",
         "rating": 6.985,
         "voteCount": 620,
-        "popularity": 10.9029
+        "popularity": 10.773
+      },
+      {
+        "source": "iq",
+        "cid": "iq6927203450250900",
+        "title": "长安三万里",
+        "teaser": "再现大唐华美诗篇",
+        "year": "2023",
+        "genre": "",
+        "area": "",
+        "episodeText": "9.0",
+        "tags": [
+          "动画",
+          "历史"
+        ],
+        "displayTitle": "长安三万里",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 1089654,
+        "mediaType": "movie",
+        "posterPath": "/7wxk8Ka5AGUIjCpEPg4vBOwSSul.jpg",
+        "backdropPath": "/zXyYAcZmTh1l6jaJzl8cxP5NN9P.jpg",
+        "releaseDate": "2023-07-02",
+        "lastUpdateDate": "2023-07-02",
+        "rating": 7.6,
+        "voteCount": 71,
+        "popularity": 2.1533
+      },
+      {
+        "source": "iq",
+        "cid": "iq8535545975427500",
+        "title": "志愿军：存亡之战",
+        "teaser": "战争巨制铁血不灭",
+        "year": "2024",
+        "genre": "",
+        "area": "",
+        "episodeText": "8.5",
+        "tags": [
+          "剧情",
+          "战争",
+          "历史"
+        ],
+        "displayTitle": "志愿军：存亡之战",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 1298727,
+        "mediaType": "movie",
+        "posterPath": "/r6HElBAywIPAVo8OFkOzCQYns6B.jpg",
+        "backdropPath": "/pU8pR29OYRTQqy5rEj387PdDGft.jpg",
+        "releaseDate": "2024-09-30",
+        "lastUpdateDate": "2024-09-30",
+        "rating": 6.842,
+        "voteCount": 19,
+        "popularity": 2.0818
       },
       {
         "source": "iq",
@@ -3876,34 +3887,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq1065777602848200",
-        "title": "魔方小姐",
-        "teaser": "杨紫琼刘昊然爆笑追梦",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "8.5",
-        "tags": [
-          "喜剧",
-          "剧情"
-        ],
-        "displayTitle": "魔方小姐",
-        "originCountry": [
-          "CN",
-          "HK"
-        ],
-        "tmdbId": 1257942,
-        "mediaType": "movie",
-        "posterPath": "/hDDrI8wKnEA348uBMhsO3fw9DFw.jpg",
-        "backdropPath": "/bLxfaYqA9YlVuXbU9eK1E2u3MLI.jpg",
-        "releaseDate": "2026-06-19",
-        "lastUpdateDate": "2026-06-19",
-        "rating": 6.2,
-        "voteCount": 5,
-        "popularity": 3.2321
-      },
-      {
-        "source": "iq",
         "cid": "iq6599117617158400",
         "title": "灰猎犬号",
         "teaser": "二战大西洋反潜战",
@@ -3929,35 +3912,61 @@
         "lastUpdateDate": "2020-07-09",
         "rating": 7.412,
         "voteCount": 3564,
-        "popularity": 7.5343
+        "popularity": 7.7187
       },
       {
         "source": "iq",
-        "cid": "iq7553694978824100",
-        "title": "器子",
-        "teaser": "以暴制暴杀穿黑市",
+        "cid": "iq7639526724287400",
+        "title": "不留活口",
+        "teaser": "逃兵归来血洗匪窝",
         "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "7.4",
+        "episodeText": "6.1",
         "tags": [
-          "动作",
-          "剧情",
+          "喜剧",
           "犯罪"
         ],
-        "displayTitle": "器子",
+        "displayTitle": "不留活口",
         "originCountry": [
-          "TW"
+          "CN"
         ],
-        "tmdbId": 1005985,
+        "tmdbId": 1709565,
         "mediaType": "movie",
-        "posterPath": "/prmdcWDzvhKiHKp6naKwADj9KU7.jpg",
-        "backdropPath": "/o0n8l6Itc3vjf9svwHGzC3uuQhZ.jpg",
-        "releaseDate": "2025-04-11",
-        "lastUpdateDate": "2025-04-11",
+        "posterPath": "/sePE65oFsMYz6z9MkYV3djRe7yo.jpg",
+        "backdropPath": "/kfBc4yh6DoaoxUCnJNNa4GWe0mI.jpg",
+        "releaseDate": "2026-06-06",
+        "lastUpdateDate": "2026-06-06",
         "rating": 6.0,
-        "voteCount": 38,
-        "popularity": 1.6415
+        "voteCount": 1,
+        "popularity": 0.4345
+      },
+      {
+        "source": "iq",
+        "cid": "iq7153414220954700",
+        "title": "家弑服务",
+        "teaser": "装乖女佣一刀干翻豪门",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "8.2",
+        "tags": [
+          "悬疑",
+          "惊悚"
+        ],
+        "displayTitle": "家弑服务",
+        "originCountry": [
+          "US"
+        ],
+        "tmdbId": 1368166,
+        "mediaType": "movie",
+        "posterPath": "/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
+        "backdropPath": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+        "releaseDate": "2025-12-18",
+        "lastUpdateDate": "2025-12-18",
+        "rating": 7.229,
+        "voteCount": 3395,
+        "popularity": 29.5631
       },
       {
         "source": "iq",
@@ -4011,87 +4020,201 @@
       },
       {
         "source": "iq",
-        "cid": "iq6066479496368900",
-        "title": "猎虎",
-        "teaser": "西部悍匪暴力爽片",
-        "year": "2025",
+        "cid": "iq1672214981425800",
+        "title": "汪汪队立大功大电影",
+        "teaser": "勇敢狗狗重新出发",
+        "year": "2022",
         "genre": "",
         "area": "",
-        "episodeText": "7.8",
+        "episodeText": "7.7",
         "tags": [
-          "犯罪",
           "动作",
-          "西部"
-        ],
-        "displayTitle": "猎虎",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 1448324,
-        "mediaType": "movie",
-        "posterPath": "/e2Q57wXlVe4kp5cWskz5Q51IM6u.jpg",
-        "backdropPath": "/sxQiSAuBAxGO0mgqPjimhLMzkda.jpg",
-        "releaseDate": "2025-03-14",
-        "lastUpdateDate": "2025-03-14",
-        "rating": 7.0,
-        "voteCount": 4,
-        "popularity": 0.6864
-      },
-      {
-        "source": "iq",
-        "cid": "iq732638100",
-        "title": "复仇者联盟4：终局之战",
-        "teaser": "漫威十年·英雄集结",
-        "year": "2019",
-        "genre": "",
-        "area": "",
-        "episodeText": "9.0",
-        "tags": [
           "冒险",
-          "科幻",
-          "动作"
+          "动画",
+          "喜剧",
+          "家庭"
         ],
-        "displayTitle": "复仇者联盟4：终局之战",
+        "displayTitle": "汪汪队立大功大电影",
         "originCountry": [
           "US"
         ],
-        "tmdbId": 299534,
+        "tmdbId": 675445,
         "mediaType": "movie",
-        "posterPath": "/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-        "backdropPath": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-        "releaseDate": "2019-04-24",
-        "lastUpdateDate": "2019-04-24",
-        "rating": 8.246,
-        "voteCount": 29494,
-        "popularity": 68.028
+        "posterPath": "/zUpPEMJ9tMWJvhOwk0o1oVfFNFD.jpg",
+        "backdropPath": "/a17F3zXnmuwqxfiDa46mtlosjrv.jpg",
+        "releaseDate": "2021-08-09",
+        "lastUpdateDate": "2021-08-09",
+        "rating": 7.31,
+        "voteCount": 1307,
+        "popularity": 7.8721
       },
       {
         "source": "iq",
-        "cid": "iq8535545975427500",
-        "title": "志愿军：存亡之战",
-        "teaser": "战争巨制铁血不灭",
-        "year": "2024",
+        "cid": "iq1065777602848200",
+        "title": "魔方小姐",
+        "teaser": "杨紫琼刘昊然爆笑追梦",
+        "year": "2026",
         "genre": "",
         "area": "",
         "episodeText": "8.5",
         "tags": [
-          "剧情",
-          "战争",
-          "历史"
+          "喜剧",
+          "剧情"
         ],
-        "displayTitle": "志愿军：存亡之战",
+        "displayTitle": "魔方小姐",
+        "originCountry": [
+          "CN",
+          "HK"
+        ],
+        "tmdbId": 1257942,
+        "mediaType": "movie",
+        "posterPath": "/hDDrI8wKnEA348uBMhsO3fw9DFw.jpg",
+        "backdropPath": "/bLxfaYqA9YlVuXbU9eK1E2u3MLI.jpg",
+        "releaseDate": "2026-06-19",
+        "lastUpdateDate": "2026-06-19",
+        "rating": 6.2,
+        "voteCount": 5,
+        "popularity": 2.5382
+      },
+      {
+        "source": "iq",
+        "cid": "iq1831043820708200",
+        "title": "死神来了：血脉诅咒",
+        "teaser": "年度必看惊悚爆款",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "8.1",
+        "tags": [
+          "恐怖",
+          "悬疑"
+        ],
+        "displayTitle": "死神来了：血脉诅咒",
+        "originCountry": [
+          "US"
+        ],
+        "tmdbId": 574475,
+        "mediaType": "movie",
+        "posterPath": "/wE72HUX9jbKqDZLT8O0Omyj4vE.jpg",
+        "backdropPath": "/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+        "releaseDate": "2025-05-14",
+        "lastUpdateDate": "2025-05-14",
+        "rating": 7.023,
+        "voteCount": 3287,
+        "popularity": 17.0821
+      },
+      {
+        "source": "iq",
+        "cid": "iq7880978643944000",
+        "title": "蛇女",
+        "teaser": "触犯禁忌蛇女复仇",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "7.3",
+        "tags": [
+          "奇幻",
+          "动作",
+          "恐怖"
+        ],
+        "displayTitle": "蛇女",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 1298727,
+        "tmdbId": 1478029,
         "mediaType": "movie",
-        "posterPath": "/r6HElBAywIPAVo8OFkOzCQYns6B.jpg",
-        "backdropPath": "/pU8pR29OYRTQqy5rEj387PdDGft.jpg",
-        "releaseDate": "2024-09-30",
-        "lastUpdateDate": "2024-09-30",
-        "rating": 6.842,
-        "voteCount": 19,
-        "popularity": 2.1304
+        "posterPath": "/nAiJpgPEa97Ipeil0begvxsTvjf.jpg",
+        "backdropPath": "/pHcVdudHe9Hv0uZDHHPDtgXbaPx.jpg",
+        "releaseDate": "2025-05-09",
+        "lastUpdateDate": "2025-05-09",
+        "rating": 7.0,
+        "voteCount": 2,
+        "popularity": 1.2568
+      },
+      {
+        "source": "iq",
+        "cid": "iq117045200",
+        "title": "饥饿游戏",
+        "teaser": "暴力俏萝莉大开杀戒",
+        "year": "2012",
+        "genre": "",
+        "area": "",
+        "episodeText": "7.8",
+        "tags": [
+          "科幻",
+          "冒险",
+          "动作",
+          "惊悚"
+        ],
+        "displayTitle": "饥饿游戏",
+        "originCountry": [
+          "US"
+        ],
+        "tmdbId": 70160,
+        "mediaType": "movie",
+        "posterPath": "/fxBIWTPqv8aZwzgRqPr9ApgWDmz.jpg",
+        "backdropPath": "/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+        "releaseDate": "2012-03-12",
+        "lastUpdateDate": "2012-03-12",
+        "rating": 7.227,
+        "voteCount": 24098,
+        "popularity": 74.5554
+      },
+      {
+        "source": "iq",
+        "cid": "iq2876265921208500",
+        "title": "战神戚继光之不让江山",
+        "teaser": "戚继光血战倭寇守横屿",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "8.1",
+        "tags": [
+          "历史",
+          "战争",
+          "剧情"
+        ],
+        "displayTitle": "战神戚继光之不让江山",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 1796449,
+        "mediaType": "movie",
+        "posterPath": "/2uZ52YvqH93DHFINIdtv4naPPZV.jpg",
+        "backdropPath": "/5t3zadhOtiFCiDKl8IeJisyKXj4.jpg",
+        "releaseDate": "2026-10-13",
+        "lastUpdateDate": "2026-10-13",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 0.1732
+      },
+      {
+        "source": "iq",
+        "cid": "iq7553694978824100",
+        "title": "器子",
+        "teaser": "以暴制暴杀穿黑市",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "7.4",
+        "tags": [
+          "动作",
+          "剧情",
+          "犯罪"
+        ],
+        "displayTitle": "器子",
+        "originCountry": [
+          "TW"
+        ],
+        "tmdbId": 1005985,
+        "mediaType": "movie",
+        "posterPath": "/prmdcWDzvhKiHKp6naKwADj9KU7.jpg",
+        "backdropPath": "/o0n8l6Itc3vjf9svwHGzC3uuQhZ.jpg",
+        "releaseDate": "2025-04-11",
+        "lastUpdateDate": "2025-04-11",
+        "rating": 6.0,
+        "voteCount": 38,
+        "popularity": 1.6363
       },
       {
         "source": "iq",
@@ -4122,148 +4245,6 @@
         "popularity": 0.3556
       },
       {
-        "source": "iq",
-        "cid": "iq2876265921208500",
-        "title": "战神戚继光之不让江山",
-        "teaser": "戚继光血战倭寇守横屿",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "8.1",
-        "tags": [
-          "历史",
-          "战争",
-          "剧情"
-        ],
-        "displayTitle": "战神戚继光之不让江山",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 1796449,
-        "mediaType": "movie",
-        "posterPath": "/2uZ52YvqH93DHFINIdtv4naPPZV.jpg",
-        "backdropPath": "/5t3zadhOtiFCiDKl8IeJisyKXj4.jpg",
-        "releaseDate": "2026-10-13",
-        "lastUpdateDate": "2026-10-13",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 0.1976
-      },
-      {
-        "source": "iq",
-        "cid": "iq3733781210721800",
-        "title": "无价之宝",
-        "teaser": "张译潘斌龙追债",
-        "year": "2023",
-        "genre": "",
-        "area": "",
-        "episodeText": "8.1",
-        "tags": [
-          "剧情",
-          "喜剧",
-          "家庭"
-        ],
-        "displayTitle": "无价之宝",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 1110347,
-        "mediaType": "movie",
-        "posterPath": "/oepJGgxb563e3BLxoPgEBduvdvv.jpg",
-        "backdropPath": "/piIuTCkTW0t1hbujvqTZk9z8Bif.jpg",
-        "releaseDate": "2023-11-10",
-        "lastUpdateDate": "2023-11-10",
-        "rating": 6.9,
-        "voteCount": 10,
-        "popularity": 0.9283
-      },
-      {
-        "source": "iq",
-        "cid": "iq7880978643944000",
-        "title": "蛇女",
-        "teaser": "触犯禁忌蛇女复仇",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "7.3",
-        "tags": [
-          "奇幻",
-          "动作",
-          "恐怖"
-        ],
-        "displayTitle": "蛇女",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 1478029,
-        "mediaType": "movie",
-        "posterPath": "/nAiJpgPEa97Ipeil0begvxsTvjf.jpg",
-        "backdropPath": "/pHcVdudHe9Hv0uZDHHPDtgXbaPx.jpg",
-        "releaseDate": "2025-05-09",
-        "lastUpdateDate": "2025-05-09",
-        "rating": 7.0,
-        "voteCount": 2,
-        "popularity": 1.4156
-      },
-      {
-        "source": "iq",
-        "cid": "iq1766870553276400",
-        "title": "火遮眼",
-        "teaser": "谢苗打爆全球高手",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "8.3",
-        "tags": [
-          "动作",
-          "犯罪",
-          "惊悚"
-        ],
-        "displayTitle": "火遮眼",
-        "originCountry": [
-          "CN",
-          "HK"
-        ],
-        "tmdbId": 1280738,
-        "mediaType": "movie",
-        "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
-        "backdropPath": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
-        "releaseDate": "2026-06-10",
-        "lastUpdateDate": "2026-06-10",
-        "rating": 8.197,
-        "voteCount": 910,
-        "popularity": 27.7082
-      },
-      {
-        "source": "iq",
-        "cid": "iq117045200",
-        "title": "饥饿游戏",
-        "teaser": "暴力俏萝莉大开杀戒",
-        "year": "2012",
-        "genre": "",
-        "area": "",
-        "episodeText": "7.8",
-        "tags": [
-          "科幻",
-          "冒险",
-          "动作",
-          "惊悚"
-        ],
-        "displayTitle": "饥饿游戏",
-        "originCountry": [
-          "US"
-        ],
-        "tmdbId": 70160,
-        "mediaType": "movie",
-        "posterPath": "/fxBIWTPqv8aZwzgRqPr9ApgWDmz.jpg",
-        "backdropPath": "/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
-        "releaseDate": "2012-03-12",
-        "lastUpdateDate": "2012-03-12",
-        "rating": 7.227,
-        "voteCount": 24095,
-        "popularity": 67.8689
-      },
-      {
         "source": "yk",
         "cid": "yk背水一战",
         "title": "背水一战",
@@ -4291,7 +4272,7 @@
         "lastUpdateDate": "2013-01-12",
         "rating": 6.095,
         "voteCount": 3121,
-        "popularity": 5.5568
+        "popularity": 5.6323
       }
     ],
     "variety": [
@@ -4328,7 +4309,7 @@
         "lastUpdateDate": "2026-11-15",
         "rating": 6.714,
         "voteCount": 7,
-        "popularity": 42.7857,
+        "popularity": 45.3309,
         "alsoOn": [
           "qq"
         ]
@@ -4361,7 +4342,7 @@
         "lastUpdateDate": "2026-02-19",
         "rating": 6.0,
         "voteCount": 1,
-        "popularity": 3.2167
+        "popularity": 3.3635
       },
       {
         "source": "qq",
@@ -4399,36 +4380,6 @@
       },
       {
         "source": "qq",
-        "cid": "mzc002003kpyd2m",
-        "title": "心动的信号 第9季",
-        "teaser": "坦荡心动，爱意直行",
-        "year": "2026",
-        "genre": "",
-        "area": "内地",
-        "episodeText": "",
-        "tags": [
-          "社交观察",
-          "恋爱技巧",
-          "恋爱心理",
-          "甜蜜互动",
-          "真人秀"
-        ],
-        "displayTitle": "心动的信号",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 103147,
-        "mediaType": "tv",
-        "posterPath": "/7PuIc34ONGP9YOfUy3fMbgDiLu6.jpg",
-        "backdropPath": "/eoky4vypEBIWCoY3lMLvEOShVLy.jpg",
-        "releaseDate": "2018-08-26",
-        "lastUpdateDate": "2026-10-06",
-        "rating": 6.071,
-        "voteCount": 7,
-        "popularity": 30.3258
-      },
-      {
-        "source": "qq",
         "cid": "mzc002004l7dytn",
         "title": "喜人奇妙夜 第2季",
         "teaser": "只要大声笑，烦恼都丢掉",
@@ -4461,6 +4412,36 @@
       },
       {
         "source": "qq",
+        "cid": "mzc002003kpyd2m",
+        "title": "心动的信号 第9季",
+        "teaser": "坦荡心动，爱意直行",
+        "year": "2026",
+        "genre": "",
+        "area": "内地",
+        "episodeText": "",
+        "tags": [
+          "社交观察",
+          "恋爱技巧",
+          "恋爱心理",
+          "甜蜜互动",
+          "真人秀"
+        ],
+        "displayTitle": "心动的信号",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 103147,
+        "mediaType": "tv",
+        "posterPath": "/7PuIc34ONGP9YOfUy3fMbgDiLu6.jpg",
+        "backdropPath": "/eoky4vypEBIWCoY3lMLvEOShVLy.jpg",
+        "releaseDate": "2018-08-26",
+        "lastUpdateDate": "2026-10-06",
+        "rating": 6.071,
+        "voteCount": 7,
+        "popularity": 30.3663
+      },
+      {
+        "source": "qq",
         "cid": "mzc00200lh2powr",
         "title": "令人心动的offer 第8季",
         "teaser": "新视角重新聚焦医学生",
@@ -4471,7 +4452,6 @@
         "tags": [
           "职场节目",
           "职场观察",
-          "职场技巧",
           "真人秀"
         ],
         "displayTitle": "令人心动的offer",
@@ -4547,52 +4527,49 @@
         "lastUpdateDate": "2026-08-19",
         "rating": 7.9,
         "voteCount": 8,
-        "popularity": 32.8974
+        "popularity": 36.576
       },
       {
         "source": "qq",
-        "cid": "mzc00200c2gydkd",
-        "title": "哈哈哈哈哈 第6季",
-        "teaser": "五哈新旅程再登神金之巅",
+        "cid": "mzc00200xkb43kw",
+        "title": "毛雪汪",
+        "teaser": "国民艺人轮番打卡热聊",
         "year": "2026",
-        "genre": "",
+        "genre": "生活",
         "area": "内地",
-        "episodeText": "2026-07-06期",
+        "episodeText": "",
         "tags": [
-          "游戏节目",
-          "生活体验",
-          "旅行节目",
-          "明星体验",
-          "趣味游戏",
+          "生活",
+          "脱口秀",
+          "生活观察",
+          "明星谈话",
+          "明星生活",
+          "友情",
           "真人秀"
         ],
-        "displayTitle": "哈哈哈哈哈",
+        "displayTitle": "毛雪汪",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 112732,
+        "tmdbId": 137726,
         "mediaType": "tv",
-        "posterPath": "/7DcQsNG1Jw1NOASzQe1j4JOHkap.jpg",
-        "backdropPath": "/sih377ne4tNY0MLSvNuHBfxeVKg.jpg",
-        "releaseDate": "2020-11-06",
-        "lastUpdateDate": "2026-06-21",
-        "rating": 7.4,
-        "voteCount": 9,
-        "popularity": 37.4381,
-        "alsoOn": [
-          "iq",
-          "qq"
-        ]
+        "posterPath": "/biarmEDDU3W5WSxCo8rYsykPOpP.jpg",
+        "backdropPath": "/3UtKvTXlqLNHoADgkKxdj5QppPN.jpg",
+        "releaseDate": "2021-11-01",
+        "lastUpdateDate": "2026-10-05",
+        "rating": 8.8,
+        "voteCount": 5,
+        "popularity": 81.7254
       },
       {
         "source": "iq",
         "cid": "iq8465757544548401",
         "title": "音乐缘计划第3季",
-        "teaser": "刘宇宁以歌诉说陪伴",
+        "teaser": "《老牛》震撼人心",
         "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "2026-11-21期",
+        "episodeText": "2026-11-24期",
         "tags": [
           "真人秀"
         ],
@@ -4608,7 +4585,36 @@
         "lastUpdateDate": "2026-01-02",
         "rating": 6.5,
         "voteCount": 2,
-        "popularity": 8.4892,
+        "popularity": 9.643,
+        "alsoOn": [
+          "iq"
+        ]
+      },
+      {
+        "source": "iq",
+        "cid": "iq5811390754506701",
+        "title": "哈哈哈哈哈第6季",
+        "teaser": "王勉演技爆发全场爆笑",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "2026-07-06期",
+        "tags": [
+          "真人秀"
+        ],
+        "displayTitle": "哈哈哈哈哈",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 112732,
+        "mediaType": "tv",
+        "posterPath": "/7DcQsNG1Jw1NOASzQe1j4JOHkap.jpg",
+        "backdropPath": "/sih377ne4tNY0MLSvNuHBfxeVKg.jpg",
+        "releaseDate": "2020-11-06",
+        "lastUpdateDate": "2026-06-21",
+        "rating": 7.4,
+        "voteCount": 9,
+        "popularity": 41.7787,
         "alsoOn": [
           "iq"
         ]
@@ -4639,7 +4645,7 @@
         "lastUpdateDate": "2026-09-05",
         "rating": 8.2,
         "voteCount": 6,
-        "popularity": 17.8428,
+        "popularity": 18.594,
         "alsoOn": [
           "iq"
         ]
@@ -4778,7 +4784,7 @@
         "lastUpdateDate": "2026-11-08",
         "rating": 7.0,
         "voteCount": 1,
-        "popularity": 2.6424,
+        "popularity": 2.959,
         "alsoOn": [
           "iq"
         ]
@@ -4831,7 +4837,7 @@
         "lastUpdateDate": "2025-12-25",
         "rating": 9.0,
         "voteCount": 1,
-        "popularity": 4.0011,
+        "popularity": 3.8569,
         "alsoOn": [
           "iq"
         ]
@@ -4890,6 +4896,32 @@
       },
       {
         "source": "iq",
+        "cid": "iq4997192419101001",
+        "title": "夏日的星星",
+        "teaser": "代露娃主持亲子运动会",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "2026-11-24期",
+        "tags": [
+          "真人秀"
+        ],
+        "displayTitle": "夏日的星星",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 341771,
+        "mediaType": "tv",
+        "posterPath": "/vA8VNoZiOMUvAgoUndhmlx4qP73.jpg",
+        "backdropPath": "",
+        "releaseDate": "2026-11-10",
+        "lastUpdateDate": "2026-11-10",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 0.2366
+      },
+      {
+        "source": "iq",
         "cid": "iq1759651057775001",
         "title": "宇宙闪烁请注意",
         "teaser": "黄晓明比心华丽入水",
@@ -4916,32 +4948,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq8942244058092601",
-        "title": "听，谁在唱歌第2季",
-        "teaser": "吴克群陆虎重庆寻乐",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "2026-11-22期",
-        "tags": [
-          "真人秀"
-        ],
-        "displayTitle": "听，谁在唱歌",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 299000,
-        "mediaType": "tv",
-        "posterPath": "/nHHk2E4qBhbL1rwQ7CuTjI4urRK.jpg",
-        "backdropPath": "/7hfb8aTDgbkfkcPYrxTVWbLUNUX.jpg",
-        "releaseDate": "2025-08-24",
-        "lastUpdateDate": "2026-11-01",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 2.7186
-      },
-      {
-        "source": "iq",
         "cid": "iq4200641732325901",
         "title": "姐姐当家第2季",
         "teaser": "徐梦桃见证父母婚礼",
@@ -4964,33 +4970,7 @@
         "lastUpdateDate": "2026-09-12",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 6.0931
-      },
-      {
-        "source": "iq",
-        "cid": "iq3042314248253901",
-        "title": "你好时光第2季",
-        "teaser": "赵雅芝撒贝宁献唱金曲",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "2026-11-21期",
-        "tags": [
-          "真人秀"
-        ],
-        "displayTitle": "你好时光",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 294748,
-        "mediaType": "tv",
-        "posterPath": "/sVR70KcNpacEkdprHVdZZRIkBWH.jpg",
-        "backdropPath": "/xUVB4jsevUtBCgQcYZQe2qr9yxk.jpg",
-        "releaseDate": "2025-06-28",
-        "lastUpdateDate": "2026-10-31",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 4.2721
+        "popularity": 6.8971
       },
       {
         "source": "iq",
@@ -5023,29 +5003,55 @@
       },
       {
         "source": "iq",
-        "cid": "iq4997192419101001",
-        "title": "夏日的星星",
-        "teaser": "代露娃主持亲子运动会",
+        "cid": "iq3042314248253901",
+        "title": "你好时光第2季",
+        "teaser": "赵雅芝撒贝宁献唱金曲",
         "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "2026-11-24期",
+        "episodeText": "2026-11-21期",
         "tags": [
           "真人秀"
         ],
-        "displayTitle": "夏日的星星",
+        "displayTitle": "你好时光",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 341771,
+        "tmdbId": 294748,
         "mediaType": "tv",
-        "posterPath": "/vA8VNoZiOMUvAgoUndhmlx4qP73.jpg",
-        "backdropPath": "",
-        "releaseDate": "2026-11-10",
-        "lastUpdateDate": "2026-11-10",
+        "posterPath": "/sVR70KcNpacEkdprHVdZZRIkBWH.jpg",
+        "backdropPath": "/xUVB4jsevUtBCgQcYZQe2qr9yxk.jpg",
+        "releaseDate": "2025-06-28",
+        "lastUpdateDate": "2026-10-31",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.3495
+        "popularity": 4.5027
+      },
+      {
+        "source": "iq",
+        "cid": "iq8942244058092601",
+        "title": "听，谁在唱歌第2季",
+        "teaser": "吴克群陆虎重庆寻乐",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "2026-11-22期",
+        "tags": [
+          "真人秀"
+        ],
+        "displayTitle": "听，谁在唱歌",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 299000,
+        "mediaType": "tv",
+        "posterPath": "/nHHk2E4qBhbL1rwQ7CuTjI4urRK.jpg",
+        "backdropPath": "/7hfb8aTDgbkfkcPYrxTVWbLUNUX.jpg",
+        "releaseDate": "2025-08-24",
+        "lastUpdateDate": "2026-11-01",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 2.7186
       },
       {
         "source": "iq",
@@ -5071,10 +5077,7 @@
         "lastUpdateDate": "2021-05-01",
         "rating": 5.2,
         "voteCount": 4,
-        "popularity": 10.1814,
-        "alsoOn": [
-          "iq"
-        ]
+        "popularity": 10.4404
       },
       {
         "source": "iq",
@@ -5100,33 +5103,7 @@
         "lastUpdateDate": "2026-11-19",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.5351
-      },
-      {
-        "source": "iq",
-        "cid": "iq1656171663429701",
-        "title": "趁热打铁",
-        "teaser": "向佐细说分拣废铁深意",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "2026-11-19期",
-        "tags": [
-          "真人秀"
-        ],
-        "displayTitle": "趁热打铁",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 341535,
-        "mediaType": "tv",
-        "posterPath": "/tRkf3CCDINww90kTUC8k234OuB5.jpg",
-        "backdropPath": "/5rVJvrYDFKNekafcbujAknOocsG.jpg",
-        "releaseDate": "2026-11-11",
-        "lastUpdateDate": "2026-11-11",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 0.6929
+        "popularity": 0.6011
       },
       {
         "source": "iq",
@@ -5159,55 +5136,29 @@
       },
       {
         "source": "iq",
-        "cid": "iq8345432667393701",
-        "title": "向内一公里",
-        "teaser": "杨澜段睿景泰蓝掐丝",
+        "cid": "iq1656171663429701",
+        "title": "趁热打铁",
+        "teaser": "向佐细说分拣废铁深意",
         "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "2026-11-04期",
+        "episodeText": "2026-11-19期",
         "tags": [
           "真人秀"
         ],
-        "displayTitle": "向内一公里",
+        "displayTitle": "趁热打铁",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 336866,
+        "tmdbId": 341535,
         "mediaType": "tv",
-        "posterPath": "/ooPu5fY0E4c5XC5TCtmMgOWnrHt.jpg",
-        "backdropPath": "/9zijb214Nk8Jx3SdsSUpdPFapBq.jpg",
-        "releaseDate": "2026-09-30",
-        "lastUpdateDate": "2026-10-28",
+        "posterPath": "/tRkf3CCDINww90kTUC8k234OuB5.jpg",
+        "backdropPath": "/5rVJvrYDFKNekafcbujAknOocsG.jpg",
+        "releaseDate": "2026-11-11",
+        "lastUpdateDate": "2026-11-11",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.7005
-      },
-      {
-        "source": "iq",
-        "cid": "iq7034693672249701",
-        "title": "中国唱将",
-        "teaser": "薛之谦调侃指挥老师",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "2026-01-25期",
-        "tags": [
-          "真人秀"
-        ],
-        "displayTitle": "中国唱将",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 300268,
-        "mediaType": "tv",
-        "posterPath": "/jULGpvUMmf6x7uluNQjNQwYIM8b.jpg",
-        "backdropPath": "/wy09JpYFRNwz1C6IuoqcuX9o6xn.jpg",
-        "releaseDate": "2025-10-24",
-        "lastUpdateDate": "2026-01-23",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 2.4879
+        "popularity": 0.6929
       },
       {
         "source": "iq",
@@ -5237,27 +5188,55 @@
       },
       {
         "source": "iq",
-        "cid": "iq180795901",
-        "title": "金牌调解",
-        "teaser": "父母托举反遭儿子怨恨",
+        "cid": "iq7034693672249701",
+        "title": "中国唱将",
+        "teaser": "薛之谦调侃指挥老师",
         "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "2026-11-23期",
-        "tags": [],
-        "displayTitle": "金牌调解",
+        "episodeText": "2026-01-25期",
+        "tags": [
+          "真人秀"
+        ],
+        "displayTitle": "中国唱将",
         "originCountry": [
           "CN"
         ],
-        "tmdbId": 275529,
+        "tmdbId": 300268,
         "mediaType": "tv",
-        "posterPath": "/AhoI6746q8PsEHdCBIOw2vFQxj3.jpg",
-        "backdropPath": "",
-        "releaseDate": "2011-03-21",
-        "lastUpdateDate": "2025-12-01",
+        "posterPath": "/jULGpvUMmf6x7uluNQjNQwYIM8b.jpg",
+        "backdropPath": "/wy09JpYFRNwz1C6IuoqcuX9o6xn.jpg",
+        "releaseDate": "2025-10-24",
+        "lastUpdateDate": "2026-01-23",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 1.3966
+        "popularity": 2.4879
+      },
+      {
+        "source": "iq",
+        "cid": "iq8345432667393701",
+        "title": "向内一公里",
+        "teaser": "杨澜段睿景泰蓝掐丝",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "2026-11-04期",
+        "tags": [
+          "真人秀"
+        ],
+        "displayTitle": "向内一公里",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 336866,
+        "mediaType": "tv",
+        "posterPath": "/ooPu5fY0E4c5XC5TCtmMgOWnrHt.jpg",
+        "backdropPath": "/9zijb214Nk8Jx3SdsSUpdPFapBq.jpg",
+        "releaseDate": "2026-09-30",
+        "lastUpdateDate": "2026-10-28",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 0.7705
       },
       {
         "source": "iq",
@@ -5309,7 +5288,31 @@
         "lastUpdateDate": "2026-06-05",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 1.6981
+        "popularity": 1.4951
+      },
+      {
+        "source": "iq",
+        "cid": "iq180795901",
+        "title": "金牌调解",
+        "teaser": "父母托举反遭儿子怨恨",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "2026-11-23期",
+        "tags": [],
+        "displayTitle": "金牌调解",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 275529,
+        "mediaType": "tv",
+        "posterPath": "/AhoI6746q8PsEHdCBIOw2vFQxj3.jpg",
+        "backdropPath": "",
+        "releaseDate": "2011-03-21",
+        "lastUpdateDate": "2025-12-01",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 0.5941
       },
       {
         "source": "iq",
@@ -5335,7 +5338,7 @@
         "lastUpdateDate": "2024-07-11",
         "rating": 5.2,
         "voteCount": 6,
-        "popularity": 23.6285
+        "popularity": 24.8286
       },
       {
         "source": "iq",
@@ -5362,7 +5365,33 @@
         "lastUpdateDate": "2021-03-06",
         "rating": 8.2,
         "voteCount": 14,
-        "popularity": 21.0792
+        "popularity": 23.1328
+      },
+      {
+        "source": "iq",
+        "cid": "iq1381028777658501",
+        "title": "乐队的夏天第3季",
+        "teaser": "乐夏初舞台TOP10",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "2025-08-28期",
+        "tags": [
+          "真人秀"
+        ],
+        "displayTitle": "乐队的夏天",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 90756,
+        "mediaType": "tv",
+        "posterPath": "/4b6nrG6QYTG3bYyrXpk1wOFoNVy.jpg",
+        "backdropPath": "/wzJD2DrSWiaM27NH7Guk578DFwl.jpg",
+        "releaseDate": "2019-05-25",
+        "lastUpdateDate": "2023-10-31",
+        "rating": 8.4,
+        "voteCount": 5,
+        "popularity": 6.5984
       },
       {
         "source": "yk",
@@ -5390,7 +5419,7 @@
         "lastUpdateDate": "2026-11-18",
         "rating": 8.0,
         "voteCount": 1,
-        "popularity": 3.732,
+        "popularity": 4.3887,
         "alsoOn": [
           "yk"
         ]
@@ -5477,7 +5506,7 @@
         "lastUpdateDate": "2026-10-22",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.6065
+        "popularity": 1.0516
       },
       {
         "source": "yk",
@@ -5649,7 +5678,7 @@
         "lastUpdateDate": "2026-11-06",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.7671
+        "popularity": 0.9434
       },
       {
         "source": "yk",
@@ -5678,7 +5707,7 @@
         "lastUpdateDate": "2026-09-30",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 4.5102
+        "popularity": 4.825
       },
       {
         "source": "yk",
@@ -5761,7 +5790,7 @@
         "lastUpdateDate": "2026-07-17",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 1.8088
+        "popularity": 2.3332
       },
       {
         "source": "yk",
@@ -5876,42 +5905,7 @@
         "lastUpdateDate": "2026-11-22",
         "rating": 9.167,
         "voteCount": 6,
-        "popularity": 148.1282
-      },
-      {
-        "source": "qq",
-        "cid": "mzc00200aaogpgh",
-        "title": "仙逆",
-        "teaser": "我辈修士，何惜一战",
-        "year": "2023",
-        "genre": "玄幻",
-        "area": "内地",
-        "episodeText": "更新至168集",
-        "tags": [
-          "玄幻",
-          "动作炫酷",
-          "东方玄幻",
-          "东方仙侠",
-          "玄幻修真",
-          "3D动画",
-          "国漫",
-          "逆袭",
-          "动画",
-          "剧情"
-        ],
-        "displayTitle": "仙逆",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 223911,
-        "mediaType": "tv",
-        "posterPath": "/zlJ4dqSnoraUSB821BZEGUcveP9.jpg",
-        "backdropPath": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
-        "releaseDate": "2023-09-25",
-        "lastUpdateDate": "2026-11-08",
-        "rating": 8.3,
-        "voteCount": 45,
-        "popularity": 45.8973
+        "popularity": 80.1917
       },
       {
         "source": "qq",
@@ -5946,7 +5940,7 @@
         "lastUpdateDate": "2026-11-14",
         "rating": 8.2,
         "voteCount": 66,
-        "popularity": 57.297
+        "popularity": 60.1328
       },
       {
         "source": "qq",
@@ -5978,9 +5972,79 @@
         "backdropPath": "/lDVOl7wTFUIqwlSrWsGjBCHt3fQ.jpg",
         "releaseDate": "2020-11-29",
         "lastUpdateDate": "2026-11-09",
-        "rating": 8.602,
-        "voteCount": 49,
+        "rating": 8.63,
+        "voteCount": 50,
         "popularity": 40.7787
+      },
+      {
+        "source": "qq",
+        "cid": "mzc00200aaogpgh",
+        "title": "仙逆",
+        "teaser": "我辈修士，何惜一战",
+        "year": "2023",
+        "genre": "玄幻",
+        "area": "内地",
+        "episodeText": "更新至168集",
+        "tags": [
+          "玄幻",
+          "动作炫酷",
+          "东方玄幻",
+          "东方仙侠",
+          "玄幻修真",
+          "3D动画",
+          "国漫",
+          "逆袭",
+          "动画",
+          "剧情"
+        ],
+        "displayTitle": "仙逆",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 223911,
+        "mediaType": "tv",
+        "posterPath": "/zlJ4dqSnoraUSB821BZEGUcveP9.jpg",
+        "backdropPath": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
+        "releaseDate": "2023-09-25",
+        "lastUpdateDate": "2026-11-08",
+        "rating": 8.326,
+        "voteCount": 46,
+        "popularity": 45.8973
+      },
+      {
+        "source": "qq",
+        "cid": "mzc00200n53vkqc",
+        "title": "遮天",
+        "teaser": "登天路，踏歌行",
+        "year": "2023",
+        "genre": "仙侠",
+        "area": "内地",
+        "episodeText": "更新至191集",
+        "tags": [
+          "仙侠",
+          "东方仙侠",
+          "东方玄幻",
+          "玄幻修真",
+          "3D动画",
+          "国漫",
+          "江湖恩怨",
+          "家族恩怨",
+          "动画",
+          "动作冒险"
+        ],
+        "displayTitle": "遮天",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 224839,
+        "mediaType": "tv",
+        "posterPath": "/z9JNGlJ8eGy6S6SOlBhpmxjjXGT.jpg",
+        "backdropPath": "/pmeXHFfnoBd9YxT7c1u3Y9Z9lrO.jpg",
+        "releaseDate": "2023-05-03",
+        "lastUpdateDate": "2026-11-03",
+        "rating": 8.75,
+        "voteCount": 16,
+        "popularity": 25.2652
       },
       {
         "source": "qq",
@@ -6019,41 +6083,6 @@
       },
       {
         "source": "qq",
-        "cid": "m441e3rjq9kwpsc",
-        "title": "斗罗大陆",
-        "teaser": "前尘如梦过，不悔入唐门",
-        "year": "2018",
-        "genre": "玄幻",
-        "area": "内地",
-        "episodeText": "全265集",
-        "tags": [
-          "玄幻",
-          "特效炸裂",
-          "东方玄幻",
-          "玄幻修真",
-          "英雄成长",
-          "热血战斗",
-          "3D动画",
-          "国漫",
-          "动画",
-          "剧情"
-        ],
-        "displayTitle": "斗罗大陆",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 76572,
-        "mediaType": "tv",
-        "posterPath": "/apAcmACYNWwSFKafCSNTafYU7UY.jpg",
-        "backdropPath": "/9URu8gMwjwjtSAUbaAevlIjYqSs.jpg",
-        "releaseDate": "2018-01-13",
-        "lastUpdateDate": "2023-06-10",
-        "rating": 7.992,
-        "voteCount": 61,
-        "popularity": 35.0614
-      },
-      {
-        "source": "qq",
         "cid": "mzc002001zvj4ts",
         "title": "大王饶命 第3季",
         "teaser": "灵气复苏爆笑修炼",
@@ -6085,7 +6114,77 @@
         "lastUpdateDate": "2026-10-31",
         "rating": 7.672,
         "voteCount": 29,
-        "popularity": 12.714
+        "popularity": 13.6137
+      },
+      {
+        "source": "qq",
+        "cid": "m441e3rjq9kwpsc",
+        "title": "斗罗大陆",
+        "teaser": "前尘如梦过，不悔入唐门",
+        "year": "2018",
+        "genre": "玄幻",
+        "area": "内地",
+        "episodeText": "全265集",
+        "tags": [
+          "玄幻",
+          "特效炸裂",
+          "东方玄幻",
+          "玄幻修真",
+          "英雄成长",
+          "热血战斗",
+          "3D动画",
+          "国漫",
+          "动画",
+          "剧情"
+        ],
+        "displayTitle": "斗罗大陆",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 76572,
+        "mediaType": "tv",
+        "posterPath": "/apAcmACYNWwSFKafCSNTafYU7UY.jpg",
+        "backdropPath": "/9URu8gMwjwjtSAUbaAevlIjYqSs.jpg",
+        "releaseDate": "2018-01-13",
+        "lastUpdateDate": "2023-06-10",
+        "rating": 8.025,
+        "voteCount": 60,
+        "popularity": 36.8268
+      },
+      {
+        "source": "qq",
+        "cid": "mzc00200y0aavbe",
+        "title": "一念永恒 完结季",
+        "teaser": "偷鸡少年长生一梦终圆满",
+        "year": "2026",
+        "genre": "仙侠",
+        "area": "内地",
+        "episodeText": "更新至21集",
+        "tags": [
+          "仙侠",
+          "东方玄幻",
+          "玄幻修真",
+          "英雄成长",
+          "2D动画",
+          "国漫",
+          "逆袭",
+          "动画",
+          "Sci-Fi & Fantasy",
+          "剧情"
+        ],
+        "displayTitle": "一念永恒",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 107371,
+        "mediaType": "tv",
+        "posterPath": "/jgeAAUyACa4KIdOPafFlWas3em5.jpg",
+        "backdropPath": "/8kjea5G7lMYRit7U9rSOLLZZOUh.jpg",
+        "releaseDate": "2020-08-12",
+        "lastUpdateDate": "2026-11-04",
+        "rating": 8.95,
+        "voteCount": 20,
+        "popularity": 24.6997
       },
       {
         "source": "qq",
@@ -6120,41 +6219,6 @@
         "rating": 8.0,
         "voteCount": 32,
         "popularity": 44.4443
-      },
-      {
-        "source": "qq",
-        "cid": "mzc00200n53vkqc",
-        "title": "遮天",
-        "teaser": "登天路，踏歌行",
-        "year": "2023",
-        "genre": "仙侠",
-        "area": "内地",
-        "episodeText": "更新至190集",
-        "tags": [
-          "仙侠",
-          "东方仙侠",
-          "东方玄幻",
-          "玄幻修真",
-          "3D动画",
-          "国漫",
-          "江湖恩怨",
-          "家族恩怨",
-          "动画",
-          "动作冒险"
-        ],
-        "displayTitle": "遮天",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 224839,
-        "mediaType": "tv",
-        "posterPath": "/z9JNGlJ8eGy6S6SOlBhpmxjjXGT.jpg",
-        "backdropPath": "/pmeXHFfnoBd9YxT7c1u3Y9Z9lrO.jpg",
-        "releaseDate": "2023-05-03",
-        "lastUpdateDate": "2026-11-03",
-        "rating": 8.75,
-        "voteCount": 16,
-        "popularity": 25.2652
       },
       {
         "source": "qq",
@@ -6241,7 +6305,7 @@
         "lastUpdateDate": "2026-11-14",
         "rating": 9.0,
         "voteCount": 2,
-        "popularity": 3.4294
+        "popularity": 4.0113
       },
       {
         "source": "iq",
@@ -6296,7 +6360,7 @@
         "lastUpdateDate": "2026-10-23",
         "rating": 7.7,
         "voteCount": 3,
-        "popularity": 9.8245
+        "popularity": 11.6055
       },
       {
         "source": "iq",
@@ -6330,7 +6394,7 @@
         "lastUpdateDate": "2026-11-20",
         "rating": 9.2,
         "voteCount": 25,
-        "popularity": 10.3747,
+        "popularity": 9.9805,
         "alsoOn": [
           "bili",
           "iq"
@@ -6362,7 +6426,7 @@
         "lastUpdateDate": "2026-11-15",
         "rating": 7.7,
         "voteCount": 3,
-        "popularity": 2.7088
+        "popularity": 2.2873
       },
       {
         "source": "iq",
@@ -6446,7 +6510,7 @@
         "lastUpdateDate": "2026-11-04",
         "rating": 8.4,
         "voteCount": 5,
-        "popularity": 5.8694
+        "popularity": 5.7565
       },
       {
         "source": "iq",
@@ -6472,7 +6536,7 @@
         "lastUpdateDate": "2026-11-22",
         "rating": 6.0,
         "voteCount": 1,
-        "popularity": 1.4045
+        "popularity": 1.3946
       },
       {
         "source": "iq",
@@ -6500,7 +6564,7 @@
         "lastUpdateDate": "2026-10-25",
         "rating": 8.0,
         "voteCount": 5,
-        "popularity": 7.179
+        "popularity": 7.1731
       },
       {
         "source": "yk",
@@ -6565,38 +6629,6 @@
       },
       {
         "source": "yk",
-        "cid": "yk师兄啊师兄",
-        "title": "师兄啊师兄",
-        "teaser": "新国风 · 神话传说",
-        "year": "",
-        "genre": "新国风",
-        "area": "中国内地",
-        "episodeText": "更新至168话",
-        "tags": [
-          "优酷独播",
-          "新国风",
-          "神话传说",
-          "动画",
-          "喜剧",
-          "Sci-Fi & Fantasy",
-          "动作冒险"
-        ],
-        "displayTitle": "师兄啊师兄",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 218642,
-        "mediaType": "tv",
-        "posterPath": "/w3gvZpLZunyeyVCoSLyBMRVgmhk.jpg",
-        "backdropPath": "/3Icy4H4NAJ5obx4c3AxJin1nvLY.jpg",
-        "releaseDate": "2023-01-19",
-        "lastUpdateDate": "2026-10-21",
-        "rating": 8.667,
-        "voteCount": 9,
-        "popularity": 22.6688
-      },
-      {
-        "source": "yk",
         "cid": "yk云深不知梦",
         "title": "云深不知梦",
         "teaser": "玄幻 · 古风",
@@ -6627,6 +6659,38 @@
       },
       {
         "source": "yk",
+        "cid": "yk师兄啊师兄",
+        "title": "师兄啊师兄",
+        "teaser": "新国风 · 神话传说",
+        "year": "",
+        "genre": "新国风",
+        "area": "中国内地",
+        "episodeText": "更新至168话",
+        "tags": [
+          "优酷独播",
+          "新国风",
+          "神话传说",
+          "动画",
+          "喜剧",
+          "Sci-Fi & Fantasy",
+          "动作冒险"
+        ],
+        "displayTitle": "师兄啊师兄",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 218642,
+        "mediaType": "tv",
+        "posterPath": "/w3gvZpLZunyeyVCoSLyBMRVgmhk.jpg",
+        "backdropPath": "/3Icy4H4NAJ5obx4c3AxJin1nvLY.jpg",
+        "releaseDate": "2023-01-19",
+        "lastUpdateDate": "2026-10-21",
+        "rating": 8.667,
+        "voteCount": 9,
+        "popularity": 21.9269
+      },
+      {
+        "source": "yk",
         "cid": "yk仙武传",
         "title": "仙武传",
         "teaser": "新国风 · 仙侠神魔",
@@ -6654,7 +6718,7 @@
         "lastUpdateDate": "2026-05-23",
         "rating": 8.6,
         "voteCount": 10,
-        "popularity": 16.882
+        "popularity": 17.1059
       },
       {
         "source": "yk",
@@ -6685,7 +6749,7 @@
         "lastUpdateDate": "2026-11-16",
         "rating": 8.5,
         "voteCount": 4,
-        "popularity": 8.8201
+        "popularity": 10.0903
       },
       {
         "source": "yk",
@@ -6747,37 +6811,7 @@
         "lastUpdateDate": "2026-05-25",
         "rating": 8.6,
         "voteCount": 8,
-        "popularity": 9.5046
-      },
-      {
-        "source": "yk",
-        "cid": "yk少年白马醉春风",
-        "title": "少年白马醉春风",
-        "teaser": "新国风 · 新世武侠",
-        "year": "",
-        "genre": "新国风",
-        "area": "中国内地",
-        "episodeText": "",
-        "tags": [
-          "新国风",
-          "新世武侠",
-          "动画",
-          "Sci-Fi & Fantasy",
-          "动作冒险"
-        ],
-        "displayTitle": "少年白马醉春风",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 206878,
-        "mediaType": "tv",
-        "posterPath": "/AwemXpAZ5iO2ePI3VclkfdiWnNv.jpg",
-        "backdropPath": "/ioNRBzooknUCZKVdUd3UqmJrMWP.jpg",
-        "releaseDate": "2022-07-27",
-        "lastUpdateDate": "2025-01-01",
-        "rating": 8.0,
-        "voteCount": 6,
-        "popularity": 6.3505
+        "popularity": 8.9205
       },
       {
         "source": "yk",
@@ -6808,6 +6842,36 @@
         "rating": 7.0,
         "voteCount": 2,
         "popularity": 1.7629
+      },
+      {
+        "source": "yk",
+        "cid": "yk少年白马醉春风",
+        "title": "少年白马醉春风",
+        "teaser": "新国风 · 新世武侠",
+        "year": "",
+        "genre": "新国风",
+        "area": "中国内地",
+        "episodeText": "",
+        "tags": [
+          "新国风",
+          "新世武侠",
+          "动画",
+          "Sci-Fi & Fantasy",
+          "动作冒险"
+        ],
+        "displayTitle": "少年白马醉春风",
+        "originCountry": [
+          "CN"
+        ],
+        "tmdbId": 206878,
+        "mediaType": "tv",
+        "posterPath": "/AwemXpAZ5iO2ePI3VclkfdiWnNv.jpg",
+        "backdropPath": "/ioNRBzooknUCZKVdUd3UqmJrMWP.jpg",
+        "releaseDate": "2022-07-27",
+        "lastUpdateDate": "2025-01-01",
+        "rating": 8.0,
+        "voteCount": 6,
+        "popularity": 6.5564
       },
       {
         "source": "yk",
@@ -7013,7 +7077,7 @@
         "lastUpdateDate": "2026-05-16",
         "rating": 8.0,
         "voteCount": 3,
-        "popularity": 14.1358
+        "popularity": 14.9449
       },
       {
         "source": "bili",
@@ -7046,7 +7110,7 @@
         "lastUpdateDate": "2025-12-18",
         "rating": 7.9,
         "voteCount": 35,
-        "popularity": 6.8049
+        "popularity": 7.1565
       },
       {
         "source": "bili",
@@ -7250,7 +7314,7 @@
         "lastUpdateDate": "2018-10-04",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.3768
+        "popularity": 0.4261
       },
       {
         "source": "bili",
@@ -7283,7 +7347,7 @@
         "lastUpdateDate": "2025-08-13",
         "rating": 10.0,
         "voteCount": 1,
-        "popularity": 1.2087
+        "popularity": 1.2137
       },
       {
         "source": "bili",
@@ -7314,7 +7378,7 @@
         "lastUpdateDate": "2023-04-19",
         "rating": 5.9,
         "voteCount": 14,
-        "popularity": 9.9488,
+        "popularity": 9.903,
         "alsoOn": [
           "bili"
         ]
@@ -7417,7 +7481,7 @@
         "lastUpdateDate": "2026-10-23",
         "rating": 6.656,
         "voteCount": 16,
-        "popularity": 24.9778
+        "popularity": 25.2525
       },
       {
         "source": "bili",
@@ -7452,7 +7516,7 @@
         "lastUpdateDate": "2025-01-09",
         "rating": 9.0,
         "voteCount": 5,
-        "popularity": 3.0212
+        "popularity": 3.2107
       },
       {
         "source": "bili",
@@ -7487,7 +7551,7 @@
         "lastUpdateDate": "2025-05-09",
         "rating": 7.813,
         "voteCount": 16,
-        "popularity": 8.1382
+        "popularity": 8.4608
       },
       {
         "source": "bili",
@@ -7585,7 +7649,7 @@
         "lastUpdateDate": "2024-01-17",
         "rating": 8.126,
         "voteCount": 87,
-        "popularity": 8.1012
+        "popularity": 8.5023
       },
       {
         "source": "bili",
@@ -7659,7 +7723,7 @@
         "lastUpdateDate": "2023-03-24",
         "rating": 5.667,
         "voteCount": 3,
-        "popularity": 13.4551
+        "popularity": 14.7767
       },
       {
         "source": "bili",
