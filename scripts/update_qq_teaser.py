@@ -381,6 +381,8 @@ BILI_LOW_AGE_TITLE = re.compile(
     r"红小豆|开心锤锤|叶罗丽|熊出没|喜羊羊|京剧猫|熊猫和小鼹鼠|"
     r"不白吃|哆啦A梦|蜡笔小新|海绵宝宝|小猪佩奇|汪汪队|超级飞侠|巴啦啦小魔仙|大神探诸葛九九|诸葛九九|U探泰拉)"
 )
+# TMDB 个别条目原产地字段会误标（如把柯南标成 HK、龙珠超标成 CN），用已知作品名兜底。
+ANIME_NON_CN_TITLE = re.compile(r"灌篮高手|鬼灭之刃|名侦探柯南|龙珠|奥特曼|神奇数字马戏团|海贼王|火影忍者|咒术回战|进击的巨人|间谍过家家|排球少年|黑子的篮球|数码宝贝|宝可梦|宠物小精灵")
 BILI_LOW_AGE_DESC = re.compile(r"(?:宝宝|幼儿|学龄前|亲子|早教|儿歌|睡前故事|低幼)")
 
 
@@ -413,6 +415,9 @@ def anime_low_age_entry(entry):
 
 def anime_foreign_origin(entry):
     """TMDB 原产地明确不在中国大陆/港澳台时排除；空值放行，交给标题匹配兜底。"""
+    title = str(entry.get("displayTitle") or entry.get("title") or "")
+    if ANIME_NON_CN_TITLE.search(title):
+        return True
     regions = {str(code).strip() for code in entry.get("originCountry") or [] if str(code).strip()}
     return bool(regions) and not bool(regions & CN_REGIONS)
 
