@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:27:04+08:00",
+  "updatedAt": "2026-11-24T11:32:02+08:00",
   "source": "腾讯视频 + 爱奇艺 + 优酷片库列表 + 哔哩哔哩国创榜（仅动漫）",
   "channels": {
     "tv": [
@@ -274,7 +274,7 @@
         "lastUpdateDate": "2026-11-14",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 2.0988
+        "popularity": 1.9001
       },
       {
         "source": "qq",
@@ -304,32 +304,27 @@
       },
       {
         "source": "qq",
-        "cid": "mzc00200xqdobf5",
-        "title": "美人余",
-        "teaser": "李一桐撕开好命女人糖衣",
+        "cid": "mzc00200gif5djk",
+        "title": "贵妃欺人太甚",
+        "teaser": "弃妃为女复仇掀翻深宫",
         "year": "2026",
-        "genre": "都市",
+        "genre": "古装",
         "area": "内地",
         "episodeText": "全28集",
         "tags": [
-          "都市",
-          "女性题材",
-          "婚姻生活",
-          "都市生活",
-          "女性成长",
-          "情感纠葛",
+          "古装",
           "剧情"
         ],
-        "displayTitle": "美人余",
-        "tmdbId": 294446,
+        "displayTitle": "贵妃欺人太甚",
+        "tmdbId": 340544,
         "mediaType": "tv",
-        "posterPath": "/gw7w4ssut616YOIRRMdy0d7JfkL.jpg",
-        "backdropPath": "/6Iha7gx0lTdrv6x7dECtjB8YnLA.jpg",
-        "releaseDate": "2026-10-09",
-        "lastUpdateDate": "2026-10-20",
-        "rating": 5.571,
-        "voteCount": 7,
-        "popularity": 5.1512
+        "posterPath": "/tgXiP9UW20yqPd1NtbS3g35YQA2.jpg",
+        "backdropPath": "",
+        "releaseDate": "2026-11-02",
+        "lastUpdateDate": "2026-11-16",
+        "rating": 8.0,
+        "voteCount": 1,
+        "popularity": 1.9546
       },
       {
         "source": "iq",
@@ -421,7 +416,7 @@
         "lastUpdateDate": "2026-11-21",
         "rating": 8.0,
         "voteCount": 1,
-        "popularity": 2.9676
+        "popularity": 2.9446
       },
       {
         "source": "iq",
@@ -637,7 +632,7 @@
         "lastUpdateDate": "2025-11-08",
         "rating": 7.0,
         "voteCount": 1,
-        "popularity": 2.3522
+        "popularity": 2.3441
       },
       {
         "source": "iq",
@@ -684,7 +679,7 @@
         "lastUpdateDate": "2023-08-09",
         "rating": 7.3,
         "voteCount": 43,
-        "popularity": 10.1196
+        "popularity": 9.8968
       },
       {
         "source": "iq",
@@ -850,7 +845,7 @@
         "lastUpdateDate": "2018-08-13",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 1.1002
+        "popularity": 0.9242
       },
       {
         "source": "iq",
@@ -1298,7 +1293,7 @@
         "lastUpdateDate": "2024-02-25",
         "rating": 7.1,
         "voteCount": 14,
-        "popularity": 5.9169
+        "popularity": 6.3723
       },
       {
         "source": "iq",
@@ -1696,7 +1691,7 @@
         "lastUpdateDate": "2026-08-16",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.9948
+        "popularity": 1.1393
       },
       {
         "source": "iq",
@@ -1743,7 +1738,7 @@
         "lastUpdateDate": "2014-05-18",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 2.0592
+        "popularity": 1.6215
       },
       {
         "source": "iq",
@@ -2077,7 +2072,7 @@
         "lastUpdateDate": "2026-04-17",
         "rating": 7.333,
         "voteCount": 24,
-        "popularity": 11.9944
+        "popularity": 12.7069
       },
       {
         "source": "yk",
@@ -2154,7 +2149,7 @@
         "lastUpdateDate": "2023-07-06",
         "rating": 8.5,
         "voteCount": 264,
-        "popularity": 13.0063
+        "popularity": 13.3284
       },
       {
         "source": "yk",
@@ -2388,8 +2383,8 @@
         "episodeText": "7.7",
         "tags": [
           "喜剧",
-          "职场喜剧",
           "时尚题材",
+          "职场喜剧",
           "都市职场",
           "美国电影",
           "女性成长",
@@ -2452,10 +2447,10 @@
           "动作喜剧",
           "灾难事故",
           "极限运动",
+          "小人物逆袭",
           "爆笑囧事",
           "自救",
           "救援",
-          "小人物逆袭",
           "动作"
         ],
         "displayTitle": "极限逃生",
@@ -2991,7 +2986,7 @@
         "lastUpdateDate": "2021-05-01",
         "rating": 5.8,
         "voteCount": 23,
-        "popularity": 0.845
+        "popularity": 1.0055
       },
       {
         "source": "iq",
@@ -3364,7 +3359,7 @@
         "lastUpdateDate": "2023-07-02",
         "rating": 7.6,
         "voteCount": 71,
-        "popularity": 2.089
+        "popularity": 2.1533
       },
       {
         "source": "iq",
@@ -3559,7 +3554,7 @@
         "lastUpdateDate": "2026-11-12",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.1891
+        "popularity": 0.1524
       },
       {
         "source": "iq",
@@ -3711,6 +3706,31 @@
       },
       {
         "source": "iq",
+        "cid": "iq7880978643944000",
+        "title": "蛇女",
+        "teaser": "触犯禁忌蛇女复仇",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "7.3",
+        "tags": [
+          "奇幻",
+          "动作",
+          "恐怖"
+        ],
+        "displayTitle": "蛇女",
+        "tmdbId": 1478029,
+        "mediaType": "movie",
+        "posterPath": "/nAiJpgPEa97Ipeil0begvxsTvjf.jpg",
+        "backdropPath": "/pHcVdudHe9Hv0uZDHHPDtgXbaPx.jpg",
+        "releaseDate": "2025-05-09",
+        "lastUpdateDate": "2025-05-09",
+        "rating": 7.0,
+        "voteCount": 2,
+        "popularity": 1.4156
+      },
+      {
+        "source": "iq",
         "cid": "iq1766870553276400",
         "title": "火遮眼",
         "teaser": "谢苗打爆全球高手",
@@ -3733,31 +3753,6 @@
         "rating": 8.197,
         "voteCount": 910,
         "popularity": 27.7082
-      },
-      {
-        "source": "iq",
-        "cid": "iq7880978643944000",
-        "title": "蛇女",
-        "teaser": "触犯禁忌蛇女复仇",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "7.3",
-        "tags": [
-          "奇幻",
-          "动作",
-          "恐怖"
-        ],
-        "displayTitle": "蛇女",
-        "tmdbId": 1478029,
-        "mediaType": "movie",
-        "posterPath": "/nAiJpgPEa97Ipeil0begvxsTvjf.jpg",
-        "backdropPath": "/pHcVdudHe9Hv0uZDHHPDtgXbaPx.jpg",
-        "releaseDate": "2025-05-09",
-        "lastUpdateDate": "2025-05-09",
-        "rating": 7.0,
-        "voteCount": 2,
-        "popularity": 1.2568
       },
       {
         "source": "iq",
@@ -4013,7 +4008,7 @@
         "lastUpdateDate": "2026-10-22",
         "rating": 7.9,
         "voteCount": 7,
-        "popularity": 21.3651
+        "popularity": 21.6316
       },
       {
         "source": "qq",
@@ -4371,7 +4366,7 @@
         "lastUpdateDate": "2026-08-20",
         "rating": 6.0,
         "voteCount": 2,
-        "popularity": 13.9552,
+        "popularity": 14.0678,
         "alsoOn": [
           "iq"
         ]
@@ -4587,7 +4582,7 @@
         "lastUpdateDate": "2026-11-11",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.3934
+        "popularity": 0.6929
       },
       {
         "source": "iq",
@@ -5331,37 +5326,6 @@
       },
       {
         "source": "qq",
-        "cid": "mcv8hkc8zk8lnov",
-        "title": "完美世界",
-        "teaser": "谁在称无敌，哪个敢言不败",
-        "year": "2021",
-        "genre": "玄幻",
-        "area": "内地",
-        "episodeText": "更新至288集",
-        "tags": [
-          "玄幻",
-          "东方玄幻",
-          "玄幻修真",
-          "英雄成长",
-          "3D动画",
-          "国漫",
-          "技能对拼",
-          "动画",
-          "动作冒险"
-        ],
-        "displayTitle": "完美世界",
-        "tmdbId": 124003,
-        "mediaType": "tv",
-        "posterPath": "/mNJPCv2dLADVVSgLlzsMJoXdTmb.jpg",
-        "backdropPath": "/4p7aGtF4eZLtCFVLdTKAqLb9UMf.jpg",
-        "releaseDate": "2021-04-23",
-        "lastUpdateDate": "2026-09-24",
-        "rating": 8.0,
-        "voteCount": 32,
-        "popularity": 44.4443
-      },
-      {
-        "source": "qq",
         "cid": "mzc00200xf3rir6",
         "title": "斗罗大陆Ⅱ绝世唐门",
         "teaser": "你我皆唐门，生在绝世中",
@@ -5426,6 +5390,37 @@
       },
       {
         "source": "qq",
+        "cid": "mcv8hkc8zk8lnov",
+        "title": "完美世界",
+        "teaser": "谁在称无敌，哪个敢言不败",
+        "year": "2021",
+        "genre": "玄幻",
+        "area": "内地",
+        "episodeText": "更新至288集",
+        "tags": [
+          "玄幻",
+          "东方玄幻",
+          "玄幻修真",
+          "英雄成长",
+          "3D动画",
+          "国漫",
+          "技能对拼",
+          "动画",
+          "动作冒险"
+        ],
+        "displayTitle": "完美世界",
+        "tmdbId": 124003,
+        "mediaType": "tv",
+        "posterPath": "/mNJPCv2dLADVVSgLlzsMJoXdTmb.jpg",
+        "backdropPath": "/4p7aGtF4eZLtCFVLdTKAqLb9UMf.jpg",
+        "releaseDate": "2021-04-23",
+        "lastUpdateDate": "2026-09-24",
+        "rating": 8.0,
+        "voteCount": 32,
+        "popularity": 44.4443
+      },
+      {
+        "source": "qq",
         "cid": "mzc002001zvj4ts",
         "title": "大王饶命 第3季",
         "teaser": "灵气复苏爆笑修炼",
@@ -5486,7 +5481,7 @@
         "lastUpdateDate": "2026-11-03",
         "rating": 8.75,
         "voteCount": 16,
-        "popularity": 24.2268
+        "popularity": 25.2652
       },
       {
         "source": "qq",
@@ -5568,33 +5563,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq232511601",
-        "title": "开心锤锤",
-        "teaser": "锤锤靠打工人脉，竟轻松拿下大客户",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "2026-11-22期",
-        "tags": [
-          "儿童",
-          "动画"
-        ],
-        "displayTitle": "开心锤锤",
-        "tmdbId": 300553,
-        "mediaType": "tv",
-        "posterPath": "/ltOJHTZOMYxXYPO7IdF5CpfQhzE.jpg",
-        "backdropPath": "/2fcHGGpVZuHx9ukKjJIznOxDXkh.jpg",
-        "releaseDate": "2025-04-25",
-        "lastUpdateDate": "2025-10-10",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 0.2701,
-        "alsoOn": [
-          "iq"
-        ]
-      },
-      {
-        "source": "iq",
         "cid": "iq106741901",
         "title": "名侦探柯南 普通话",
         "teaser": "真相只有一个",
@@ -5671,59 +5639,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq1850295798564001",
-        "title": "海绵宝宝 第13季",
-        "teaser": "天真乐观可爱海绵",
-        "year": "2024",
-        "genre": "",
-        "area": "",
-        "episodeText": "25集全",
-        "tags": [
-          "动画",
-          "儿童"
-        ],
-        "displayTitle": "海绵宝宝",
-        "tmdbId": 303333,
-        "mediaType": "tv",
-        "posterPath": "/sofVkOiOnkBinOsZAMQGsHUyfRO.jpg",
-        "backdropPath": "/7kT1mP1mOGOPA4Qka1Kq3Xv69MJ.jpg",
-        "releaseDate": "1999-05-01",
-        "lastUpdateDate": "1999-09-04",
-        "rating": 8.5,
-        "voteCount": 2,
-        "popularity": 1.0472,
-        "alsoOn": [
-          "iq"
-        ]
-      },
-      {
-        "source": "iq",
-        "cid": "iq1299207861193801",
-        "title": "蜡笔小新 第8季 普通话",
-        "teaser": "人小鬼大开心一下",
-        "year": "2024",
-        "genre": "",
-        "area": "",
-        "episodeText": "84集全",
-        "tags": [
-          "动画",
-          "冒险",
-          "喜剧",
-          "家庭"
-        ],
-        "displayTitle": "蜡笔小新",
-        "tmdbId": 1221404,
-        "mediaType": "movie",
-        "posterPath": "/iM2ayCnN6M2ZHvsqodmtVwSu1Nv.jpg",
-        "backdropPath": "/o7mV4RKh1ZwuUdsCHTgzmssENHQ.jpg",
-        "releaseDate": "2024-08-09",
-        "lastUpdateDate": "2024-08-09",
-        "rating": 5.7,
-        "voteCount": 39,
-        "popularity": 3.9167
-      },
-      {
-        "source": "iq",
         "cid": "iq103436201",
         "title": "罗小黑战记",
         "teaser": "少女养猫引发离奇事件",
@@ -5756,30 +5671,6 @@
           "bili",
           "iq"
         ]
-      },
-      {
-        "source": "iq",
-        "cid": "iq3874962398159301",
-        "title": "哆啦A梦 第5季",
-        "teaser": "我家有个小叮当",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "80集全",
-        "tags": [
-          "动画",
-          "儿童"
-        ],
-        "displayTitle": "哆啦A梦",
-        "tmdbId": 282057,
-        "mediaType": "tv",
-        "posterPath": "/aVf73AHq2DveoD9jw1KSrMijtTT.jpg",
-        "backdropPath": "/xwEWu9AgPbK6tGrJyWNWH1PXOwk.jpg",
-        "releaseDate": "2005-04-25",
-        "lastUpdateDate": "2025-05-11",
-        "rating": 8.5,
-        "voteCount": 2,
-        "popularity": 17.6839
       },
       {
         "source": "iq",
@@ -5854,7 +5745,7 @@
         "lastUpdateDate": "2025-05-23",
         "rating": 8.0,
         "voteCount": 5,
-        "popularity": 0.6841
+        "popularity": 0.8934
       },
       {
         "source": "iq",
@@ -5975,29 +5866,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq4680336909251801",
-        "title": "开心锤锤Story：校园武神",
-        "teaser": "复读三年开启武神之路",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "59集全",
-        "tags": [
-          "纪录"
-        ],
-        "displayTitle": "开心锤锤Story：校园武神",
-        "tmdbId": 328073,
-        "mediaType": "tv",
-        "posterPath": "/fAxUEg7LrWhPy0YBwnJoBYx0Ct1.jpg",
-        "backdropPath": "/4cBfZjH7xoImj2prjvl5MBmrRlP.jpg",
-        "releaseDate": "2026-01-01",
-        "lastUpdateDate": "2026-01-08",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 0.2329
-      },
-      {
-        "source": "iq",
         "cid": "iq227148001",
         "title": "罗布奥特曼 普通话",
         "teaser": "双子奥特曼英雄化身",
@@ -6069,30 +5937,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq249434601",
-        "title": "我是不白吃",
-        "teaser": "不白吃带你看油条",
-        "year": "2019",
-        "genre": "",
-        "area": "",
-        "episodeText": "更新至1228集",
-        "tags": [
-          "动画",
-          "儿童"
-        ],
-        "displayTitle": "我是不白吃",
-        "tmdbId": 223694,
-        "mediaType": "tv",
-        "posterPath": "/lIvptAgW7WzYILAggsRdNMs4YxQ.jpg",
-        "backdropPath": "/aQ8okXoTvnczsN7iUTTwcXkRMzq.jpg",
-        "releaseDate": "2019-07-31",
-        "lastUpdateDate": "2019-07-31",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 22.4689
-      },
-      {
-        "source": "iq",
         "cid": "iq3784317657367801",
         "title": "都市古仙医",
         "teaser": "贫困大学生变身医仙",
@@ -6161,30 +6005,6 @@
         "rating": 0,
         "voteCount": 0,
         "popularity": 0.0799
-      },
-      {
-        "source": "iq",
-        "cid": "iq4036999899393001",
-        "title": "熊猫和小鼹鼠",
-        "teaser": "中捷合作大型动画片",
-        "year": "2016",
-        "genre": "",
-        "area": "",
-        "episodeText": "52集全",
-        "tags": [
-          "动画",
-          "儿童"
-        ],
-        "displayTitle": "熊猫和小鼹鼠",
-        "tmdbId": 78046,
-        "mediaType": "tv",
-        "posterPath": "/lRXsrFXD2H49e3X4TUlZFFhQxLt.jpg",
-        "backdropPath": "/8RRFMRzCFjDM624KHBED6wwFaYe.jpg",
-        "releaseDate": "2016-03-28",
-        "lastUpdateDate": "2017-02-26",
-        "rating": 3.0,
-        "voteCount": 2,
-        "popularity": 2.7836
       },
       {
         "source": "yk",
@@ -6378,7 +6198,7 @@
         "lastUpdateDate": "2026-10-22",
         "rating": 6.833,
         "voteCount": 6,
-        "popularity": 6.1307
+        "popularity": 5.9882
       },
       {
         "source": "yk",
@@ -6614,7 +6434,7 @@
         "lastUpdateDate": "2025-09-14",
         "rating": 8.574,
         "voteCount": 149,
-        "popularity": 11.8423,
+        "popularity": 12.3519,
         "alsoOn": [
           "bili"
         ]
@@ -6740,7 +6560,7 @@
         "lastUpdateDate": "2025-12-26",
         "rating": 7.4,
         "voteCount": 8,
-        "popularity": 7.1058
+        "popularity": 6.7545
       },
       {
         "source": "bili",
@@ -7325,7 +7145,7 @@
         "lastUpdateDate": "2026-02-12",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 4.4968
+        "popularity": 4.9808
       },
       {
         "source": "bili",
