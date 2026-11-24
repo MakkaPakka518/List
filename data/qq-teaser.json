@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:05:47+08:00",
+  "updatedAt": "2026-11-24T12:07:46+08:00",
   "source": "腾讯视频 + 爱奇艺 + 优酷片库列表 + 哔哩哔哩国创榜（仅动漫）",
   "channels": {
     "tv": [
@@ -94,7 +94,7 @@
         "lastUpdateDate": "2026-11-11",
         "rating": 6.944,
         "voteCount": 9,
-        "popularity": 12.9458
+        "popularity": 12.9172
       },
       {
         "source": "qq",
@@ -243,9 +243,9 @@
         "backdropPath": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
         "releaseDate": "2026-09-11",
         "lastUpdateDate": "2026-10-05",
-        "rating": 7.4,
-        "voteCount": 15,
-        "popularity": 13.5765
+        "rating": 7.594,
+        "voteCount": 16,
+        "popularity": 13.5107
       },
       {
         "source": "qq",
@@ -336,7 +336,7 @@
         "lastUpdateDate": "2026-11-14",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 2.0988
+        "popularity": 1.9001
       },
       {
         "source": "qq",
@@ -439,9 +439,9 @@
         "backdropPath": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
         "releaseDate": "2026-11-05",
         "lastUpdateDate": "2026-11-15",
-        "rating": 8.3,
+        "rating": 8.273,
         "voteCount": 11,
-        "popularity": 21.1958
+        "popularity": 18.2741
       },
       {
         "source": "iq",
@@ -736,7 +736,7 @@
         "lastUpdateDate": "2016-04-03",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 1.6197
+        "popularity": 1.384
       },
       {
         "source": "iq",
@@ -950,7 +950,7 @@
         "lastUpdateDate": "2018-08-13",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 1.1002
+        "popularity": 0.9242
       },
       {
         "source": "iq",
@@ -1192,7 +1192,7 @@
         "lastUpdateDate": "2026-07-22",
         "rating": 6.4,
         "voteCount": 12,
-        "popularity": 8.1151
+        "popularity": 8.0304
       },
       {
         "source": "iq",
@@ -1271,7 +1271,7 @@
         "lastUpdateDate": "2000-02-23",
         "rating": 8.4,
         "voteCount": 66,
-        "popularity": 13.2304
+        "popularity": 12.0071
       },
       {
         "source": "iq",
@@ -1455,7 +1455,7 @@
         "lastUpdateDate": "2024-02-25",
         "rating": 7.1,
         "voteCount": 14,
-        "popularity": 5.9169
+        "popularity": 6.3723
       },
       {
         "source": "iq",
@@ -1481,7 +1481,7 @@
         "lastUpdateDate": "2026-09-30",
         "rating": 6.7,
         "voteCount": 10,
-        "popularity": 8.3256
+        "popularity": 8.041
       },
       {
         "source": "iq",
@@ -1878,7 +1878,7 @@
         "lastUpdateDate": "2015-09-28",
         "rating": 8.3,
         "voteCount": 20,
-        "popularity": 6.7329
+        "popularity": 5.9394
       },
       {
         "source": "iq",
@@ -1904,7 +1904,7 @@
         "lastUpdateDate": "2026-08-16",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.9948
+        "popularity": 1.1393
       },
       {
         "source": "iq",
@@ -1957,7 +1957,7 @@
         "lastUpdateDate": "2014-05-18",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 2.0592
+        "popularity": 1.6215
       },
       {
         "source": "iq",
@@ -2416,7 +2416,7 @@
         "lastUpdateDate": "2023-07-06",
         "rating": 8.5,
         "voteCount": 264,
-        "popularity": 13.0063
+        "popularity": 13.3284
       },
       {
         "source": "yk",
@@ -2537,7 +2537,7 @@
         "lastUpdateDate": "2026-06-26",
         "rating": 6.6,
         "voteCount": 7,
-        "popularity": 3.9181,
+        "popularity": 3.4366,
         "alsoOn": [
           "iq",
           "qq"
@@ -2614,9 +2614,9 @@
         "backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
         "releaseDate": "2026-07-29",
         "lastUpdateDate": "2026-07-29",
-        "rating": 8.5,
-        "voteCount": 7083,
-        "popularity": 296.3028,
+        "rating": 8.456,
+        "voteCount": 7079,
+        "popularity": 310.0185,
         "alsoOn": [
           "iq",
           "qq"
@@ -2710,8 +2710,8 @@
           "热血战斗",
           "奇幻冒险",
           "AI制作",
-          "跨物种对决",
-          "修炼"
+          "修炼",
+          "跨物种对决"
         ],
         "displayTitle": "补天",
         "originCountry": [
@@ -2740,9 +2740,6 @@
           "奇幻",
           "仙侠玄幻",
           "奇幻爱情",
-          "守护爱人",
-          "身份顶替",
-          "逆袭",
           "动作冒险"
         ],
         "displayTitle": "尘缘",
@@ -2954,7 +2951,7 @@
         "lastUpdateDate": "2026-11-17",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.5828
+        "popularity": 0.519
       },
       {
         "source": "iq",
@@ -3316,7 +3313,7 @@
         "lastUpdateDate": "2026-09-05",
         "rating": 5.0,
         "voteCount": 1,
-        "popularity": 1.0736
+        "popularity": 1.0802
       },
       {
         "source": "iq",
@@ -3565,7 +3562,7 @@
         "lastUpdateDate": "2026-09-12",
         "rating": 5.0,
         "voteCount": 4,
-        "popularity": 0.6896
+        "popularity": 0.637
       },
       {
         "source": "iq",
@@ -4206,7 +4203,7 @@
         "lastUpdateDate": "2025-05-09",
         "rating": 7.0,
         "voteCount": 2,
-        "popularity": 1.2568
+        "popularity": 1.4156
       },
       {
         "source": "iq",
@@ -4364,7 +4361,7 @@
         "lastUpdateDate": "2026-02-19",
         "rating": 6.0,
         "voteCount": 1,
-        "popularity": 3.3635
+        "popularity": 3.2167
       },
       {
         "source": "qq",
@@ -4834,7 +4831,7 @@
         "lastUpdateDate": "2025-12-25",
         "rating": 9.0,
         "voteCount": 1,
-        "popularity": 3.8569,
+        "popularity": 4.0011,
         "alsoOn": [
           "iq"
         ]
@@ -5019,7 +5016,7 @@
         "lastUpdateDate": "2026-09-04",
         "rating": 5.5,
         "voteCount": 2,
-        "popularity": 15.3155,
+        "popularity": 16.2234,
         "alsoOn": [
           "iq"
         ]
@@ -5129,7 +5126,7 @@
         "lastUpdateDate": "2026-11-11",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.3934
+        "popularity": 0.6929
       },
       {
         "source": "iq",
@@ -5210,7 +5207,7 @@
         "lastUpdateDate": "2026-01-23",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 2.4096
+        "popularity": 2.4879
       },
       {
         "source": "iq",
@@ -5423,7 +5420,7 @@
         "lastUpdateDate": "2026-11-20",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.3638
+        "popularity": 0.4176
       },
       {
         "source": "yk",
@@ -6018,7 +6015,7 @@
         "lastUpdateDate": "2026-11-06",
         "rating": 7.912,
         "voteCount": 17,
-        "popularity": 29.7978
+        "popularity": 32.5635
       },
       {
         "source": "qq",
@@ -6245,36 +6242,6 @@
         "rating": 9.0,
         "voteCount": 2,
         "popularity": 3.4294
-      },
-      {
-        "source": "iq",
-        "cid": "iq106741901",
-        "title": "名侦探柯南 普通话",
-        "teaser": "真相只有一个",
-        "year": "1996",
-        "genre": "",
-        "area": "",
-        "episodeText": "更新至1281集",
-        "tags": [
-          "动画",
-          "动作冒险"
-        ],
-        "displayTitle": "名侦探柯南",
-        "originCountry": [
-          "HK"
-        ],
-        "tmdbId": 307854,
-        "mediaType": "tv",
-        "posterPath": "/ytXNhqKBlqGRmj0Iq95K1LJyWVm.jpg",
-        "backdropPath": "/oMVrCA518KZgkLltTFU1j6U5IML.jpg",
-        "releaseDate": "1998-07-14",
-        "lastUpdateDate": "1998-08-04",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 1.5666,
-        "alsoOn": [
-          "iq"
-        ]
       },
       {
         "source": "iq",
@@ -6509,30 +6476,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq202783001",
-        "title": "龙珠超",
-        "teaser": "新的敌人即将来袭",
-        "year": "2015",
-        "genre": "",
-        "area": "",
-        "episodeText": "131集全",
-        "tags": [],
-        "displayTitle": "龙珠超",
-        "originCountry": [
-          "CN"
-        ],
-        "tmdbId": 1390587,
-        "mediaType": "movie",
-        "posterPath": "/8hlZtwxtK9Luf4eIglPShGOryV6.jpg",
-        "backdropPath": "",
-        "releaseDate": "2015-05-02",
-        "lastUpdateDate": "2015-05-02",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 0.0129
-      },
-      {
-        "source": "iq",
         "cid": "iq3784317657367801",
         "title": "都市古仙医",
         "teaser": "贫困大学生变身医仙",
@@ -6711,7 +6654,7 @@
         "lastUpdateDate": "2026-05-23",
         "rating": 8.6,
         "voteCount": 10,
-        "popularity": 17.1059
+        "popularity": 16.882
       },
       {
         "source": "yk",
