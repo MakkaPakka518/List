@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24 18:10:28",
+  "last_updated": "2026-11-25 06:39:07",
   "tv": [
     {
       "id": "285147",
@@ -1114,21 +1114,6 @@
       "genreTitle": "真人秀"
     },
     {
-      "id": "126490",
-      "type": "tmdb",
-      "title": "我家那闺女",
-      "description": "由湖南卫视陈歆宇工作室打造，开启全新电视类代际观察综艺。节目以不同职业但努力生活的闺女身份代入，讲述闺女们的生活爱好、奋斗历程细节，还有当下正在面临或者即将面临的职业瓶颈、生活压力、家庭关系、父母养老、与朋友同事合作等问题，展开深入探讨，引导大家多多关注女性生活，鼓励女性努力追求属于自己的梦想。",
-      "rating": 6.2,
-      "voteCount": 4,
-      "popularity": 18.4015,
-      "releaseDate": "2019-01-05",
-      "lastUpdateDate": "2026-10-25",
-      "posterPath": "/8gV9bRO0jVhjOPGD2s2HzyWtl9V.jpg",
-      "backdropPath": "/yA4mTJfmB0hwslIJPMZXeYbtj0k.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀"
-    },
-    {
       "id": "330052",
       "type": "tmdb",
       "title": "家乡美食大赛",
@@ -1140,6 +1125,21 @@
       "lastUpdateDate": "2026-10-25",
       "posterPath": "/1ZOAVVMtbtnDmBxwlzfv8iU53ZP.jpg",
       "backdropPath": "/xGroALdmj0l1lYsgh5cltCOb0n4.jpg",
+      "mediaType": "tv",
+      "genreTitle": "真人秀"
+    },
+    {
+      "id": "126490",
+      "type": "tmdb",
+      "title": "我家那闺女",
+      "description": "由湖南卫视陈歆宇工作室打造，开启全新电视类代际观察综艺。节目以不同职业但努力生活的闺女身份代入，讲述闺女们的生活爱好、奋斗历程细节，还有当下正在面临或者即将面临的职业瓶颈、生活压力、家庭关系、父母养老、与朋友同事合作等问题，展开深入探讨，引导大家多多关注女性生活，鼓励女性努力追求属于自己的梦想。",
+      "rating": 6.2,
+      "voteCount": 4,
+      "popularity": 18.4015,
+      "releaseDate": "2019-01-05",
+      "lastUpdateDate": "2026-10-25",
+      "posterPath": "/8gV9bRO0jVhjOPGD2s2HzyWtl9V.jpg",
+      "backdropPath": "/yA4mTJfmB0hwslIJPMZXeYbtj0k.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
     },
