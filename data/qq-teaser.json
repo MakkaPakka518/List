@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:25:06+08:00",
+  "updatedAt": "2026-11-24T11:27:04+08:00",
   "source": "腾讯视频 + 爱奇艺 + 优酷片库列表 + 哔哩哔哩国创榜（仅动漫）",
   "channels": {
     "tv": [
@@ -421,7 +421,7 @@
         "lastUpdateDate": "2026-11-21",
         "rating": 8.0,
         "voteCount": 1,
-        "popularity": 2.9446
+        "popularity": 2.9676
       },
       {
         "source": "iq",
@@ -684,7 +684,7 @@
         "lastUpdateDate": "2023-08-09",
         "rating": 7.3,
         "voteCount": 43,
-        "popularity": 9.8968
+        "popularity": 10.1196
       },
       {
         "source": "iq",
@@ -850,7 +850,7 @@
         "lastUpdateDate": "2018-08-13",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.9242
+        "popularity": 1.1002
       },
       {
         "source": "iq",
@@ -1115,29 +1115,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq7730171462205101",
-        "title": "生万物",
-        "teaser": "把日子过出花",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "36集全",
-        "tags": [
-          "剧情"
-        ],
-        "displayTitle": "生万物",
-        "tmdbId": 272485,
-        "mediaType": "tv",
-        "posterPath": "/ymPem0W7g2ZtoQMqhsOsBFJxlKh.jpg",
-        "backdropPath": "/uNhSwGzGICLfyQMWgWTpSvX1Eje.jpg",
-        "releaseDate": "2025-08-13",
-        "lastUpdateDate": "2025-08-23",
-        "rating": 9.4,
-        "voteCount": 9,
-        "popularity": 6.1454
-      },
-      {
-        "source": "iq",
         "cid": "iq101738001",
         "title": "西游记",
         "teaser": "名著改编经典版本",
@@ -1159,6 +1136,29 @@
         "rating": 8.4,
         "voteCount": 66,
         "popularity": 12.0071
+      },
+      {
+        "source": "iq",
+        "cid": "iq7730171462205101",
+        "title": "生万物",
+        "teaser": "把日子过出花",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "36集全",
+        "tags": [
+          "剧情"
+        ],
+        "displayTitle": "生万物",
+        "tmdbId": 272485,
+        "mediaType": "tv",
+        "posterPath": "/ymPem0W7g2ZtoQMqhsOsBFJxlKh.jpg",
+        "backdropPath": "/uNhSwGzGICLfyQMWgWTpSvX1Eje.jpg",
+        "releaseDate": "2025-08-13",
+        "lastUpdateDate": "2025-08-23",
+        "rating": 9.4,
+        "voteCount": 9,
+        "popularity": 6.1454
       },
       {
         "source": "iq",
@@ -1227,7 +1227,7 @@
         "lastUpdateDate": "2026-08-23",
         "rating": 7.2,
         "voteCount": 4,
-        "popularity": 4.4108
+        "popularity": 4.3022
       },
       {
         "source": "iq",
@@ -1649,7 +1649,7 @@
         "lastUpdateDate": "2023-07-14",
         "rating": 7.4,
         "voteCount": 13,
-        "popularity": 7.681
+        "popularity": 7.5044
       },
       {
         "source": "iq",
@@ -1673,7 +1673,7 @@
         "lastUpdateDate": "2015-09-28",
         "rating": 8.3,
         "voteCount": 20,
-        "popularity": 6.7329
+        "popularity": 5.9394
       },
       {
         "source": "iq",
@@ -1696,7 +1696,7 @@
         "lastUpdateDate": "2026-08-16",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 1.1393
+        "popularity": 0.9948
       },
       {
         "source": "iq",
@@ -1719,7 +1719,7 @@
         "lastUpdateDate": "2025-07-11",
         "rating": 7.848,
         "voteCount": 33,
-        "popularity": 10.146
+        "popularity": 10.2388
       },
       {
         "source": "iq",
@@ -2077,7 +2077,7 @@
         "lastUpdateDate": "2026-04-17",
         "rating": 7.333,
         "voteCount": 24,
-        "popularity": 12.7069
+        "popularity": 11.9944
       },
       {
         "source": "yk",
@@ -2154,7 +2154,7 @@
         "lastUpdateDate": "2023-07-06",
         "rating": 8.5,
         "voteCount": 264,
-        "popularity": 13.3284
+        "popularity": 13.0063
       },
       {
         "source": "yk",
@@ -2424,8 +2424,8 @@
           "热血战斗",
           "奇幻冒险",
           "AI制作",
-          "修炼",
-          "跨物种对决"
+          "跨物种对决",
+          "修炼"
         ],
         "displayTitle": "补天",
         "tmdbId": 1841135,
@@ -2452,10 +2452,10 @@
           "动作喜剧",
           "灾难事故",
           "极限运动",
-          "小人物逆袭",
           "爆笑囧事",
           "自救",
           "救援",
+          "小人物逆袭",
           "动作"
         ],
         "displayTitle": "极限逃生",
@@ -2589,7 +2589,7 @@
         "lastUpdateDate": "2026-09-25",
         "rating": 6.2,
         "voteCount": 5,
-        "popularity": 2.2207,
+        "popularity": 2.0846,
         "alsoOn": [
           "iq",
           "qq"
@@ -3091,30 +3091,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq4377920387586100",
-        "title": "一个男人和一个女人",
-        "teaser": "黄渤倪妮疗愈中年困顿",
-        "year": "2024",
-        "genre": "",
-        "area": "",
-        "episodeText": "7.9",
-        "tags": [
-          "剧情",
-          "爱情"
-        ],
-        "displayTitle": "一个男人和一个女人",
-        "tmdbId": 42726,
-        "mediaType": "movie",
-        "posterPath": "/1GJWBUOkXF3JeXESjgiJ2uipSlx.jpg",
-        "backdropPath": "/chVgCErGuL1oUNFg6Gs7iQZGGZF.jpg",
-        "releaseDate": "1966-05-27",
-        "lastUpdateDate": "1966-05-27",
-        "rating": 7.4,
-        "voteCount": 325,
-        "popularity": 2.477
-      },
-      {
-        "source": "iq",
         "cid": "iq2676526624075700",
         "title": "浪浪山小妖怪",
         "teaser": "草根小妖取经创业",
@@ -3138,6 +3114,30 @@
         "rating": 7.882,
         "voteCount": 93,
         "popularity": 10.9239
+      },
+      {
+        "source": "iq",
+        "cid": "iq4377920387586100",
+        "title": "一个男人和一个女人",
+        "teaser": "黄渤倪妮疗愈中年困顿",
+        "year": "2024",
+        "genre": "",
+        "area": "",
+        "episodeText": "7.9",
+        "tags": [
+          "剧情",
+          "爱情"
+        ],
+        "displayTitle": "一个男人和一个女人",
+        "tmdbId": 42726,
+        "mediaType": "movie",
+        "posterPath": "/1GJWBUOkXF3JeXESjgiJ2uipSlx.jpg",
+        "backdropPath": "/chVgCErGuL1oUNFg6Gs7iQZGGZF.jpg",
+        "releaseDate": "1966-05-27",
+        "lastUpdateDate": "1966-05-27",
+        "rating": 7.4,
+        "voteCount": 325,
+        "popularity": 2.477
       },
       {
         "source": "iq",
@@ -3167,6 +3167,30 @@
       },
       {
         "source": "iq",
+        "cid": "iq7153414220954700",
+        "title": "家弑服务",
+        "teaser": "装乖女佣一刀干翻豪门",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "8.2",
+        "tags": [
+          "悬疑",
+          "惊悚"
+        ],
+        "displayTitle": "家弑服务",
+        "tmdbId": 1368166,
+        "mediaType": "movie",
+        "posterPath": "/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
+        "backdropPath": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+        "releaseDate": "2025-12-18",
+        "lastUpdateDate": "2025-12-18",
+        "rating": 7.228,
+        "voteCount": 3393,
+        "popularity": 29.5631
+      },
+      {
+        "source": "iq",
         "cid": "iq4316153617656200",
         "title": "蜂鸟行动",
         "teaser": "任贤齐微缩战场搏杀",
@@ -3189,30 +3213,6 @@
         "rating": 5.0,
         "voteCount": 4,
         "popularity": 0.6896
-      },
-      {
-        "source": "iq",
-        "cid": "iq7153414220954700",
-        "title": "家弑服务",
-        "teaser": "装乖女佣一刀干翻豪门",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "8.2",
-        "tags": [
-          "悬疑",
-          "惊悚"
-        ],
-        "displayTitle": "家弑服务",
-        "tmdbId": 1368166,
-        "mediaType": "movie",
-        "posterPath": "/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
-        "backdropPath": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
-        "releaseDate": "2025-12-18",
-        "lastUpdateDate": "2025-12-18",
-        "rating": 7.228,
-        "voteCount": 3393,
-        "popularity": 29.5631
       },
       {
         "source": "iq",
@@ -3364,7 +3364,7 @@
         "lastUpdateDate": "2023-07-02",
         "rating": 7.6,
         "voteCount": 71,
-        "popularity": 2.1533
+        "popularity": 2.089
       },
       {
         "source": "iq",
@@ -3607,7 +3607,7 @@
         "lastUpdateDate": "2025-03-14",
         "rating": 7.0,
         "voteCount": 4,
-        "popularity": 0.6731
+        "popularity": 0.6864
       },
       {
         "source": "iq",
@@ -3987,7 +3987,7 @@
         "lastUpdateDate": "2025-12-12",
         "rating": 5.7,
         "voteCount": 7,
-        "popularity": 44.4099
+        "popularity": 39.5848
       },
       {
         "source": "qq",
@@ -4013,7 +4013,7 @@
         "lastUpdateDate": "2026-10-22",
         "rating": 7.9,
         "voteCount": 7,
-        "popularity": 21.6316
+        "popularity": 21.3651
       },
       {
         "source": "qq",
@@ -4072,32 +4072,35 @@
       },
       {
         "source": "qq",
-        "cid": "mzc00200xkb43kw",
-        "title": "毛雪汪",
-        "teaser": "国民艺人轮番打卡热聊",
+        "cid": "mzc00200c2gydkd",
+        "title": "哈哈哈哈哈 第6季",
+        "teaser": "五哈新旅程再登神金之巅",
         "year": "2026",
-        "genre": "生活",
+        "genre": "",
         "area": "内地",
-        "episodeText": "",
+        "episodeText": "2026-07-06期",
         "tags": [
-          "生活",
-          "脱口秀",
-          "生活观察",
-          "明星谈话",
-          "明星生活",
-          "友情",
+          "游戏节目",
+          "生活体验",
+          "旅行节目",
+          "明星体验",
+          "趣味游戏",
           "真人秀"
         ],
-        "displayTitle": "毛雪汪",
-        "tmdbId": 137726,
+        "displayTitle": "哈哈哈哈哈",
+        "tmdbId": 112732,
         "mediaType": "tv",
-        "posterPath": "/biarmEDDU3W5WSxCo8rYsykPOpP.jpg",
-        "backdropPath": "/3UtKvTXlqLNHoADgkKxdj5QppPN.jpg",
-        "releaseDate": "2021-11-01",
-        "lastUpdateDate": "2026-10-05",
-        "rating": 8.8,
-        "voteCount": 5,
-        "popularity": 75.6281
+        "posterPath": "/7DcQsNG1Jw1NOASzQe1j4JOHkap.jpg",
+        "backdropPath": "/sih377ne4tNY0MLSvNuHBfxeVKg.jpg",
+        "releaseDate": "2020-11-06",
+        "lastUpdateDate": "2026-06-21",
+        "rating": 7.4,
+        "voteCount": 9,
+        "popularity": 37.4381,
+        "alsoOn": [
+          "iq",
+          "qq"
+        ]
       },
       {
         "source": "iq",
@@ -4121,32 +4124,6 @@
         "rating": 6.5,
         "voteCount": 2,
         "popularity": 8.4892,
-        "alsoOn": [
-          "iq"
-        ]
-      },
-      {
-        "source": "iq",
-        "cid": "iq5811390754506701",
-        "title": "哈哈哈哈哈第6季",
-        "teaser": "王勉演技爆发全场爆笑",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "2026-07-06期",
-        "tags": [
-          "真人秀"
-        ],
-        "displayTitle": "哈哈哈哈哈",
-        "tmdbId": 112732,
-        "mediaType": "tv",
-        "posterPath": "/7DcQsNG1Jw1NOASzQe1j4JOHkap.jpg",
-        "backdropPath": "/sih377ne4tNY0MLSvNuHBfxeVKg.jpg",
-        "releaseDate": "2020-11-06",
-        "lastUpdateDate": "2026-06-21",
-        "rating": 7.4,
-        "voteCount": 9,
-        "popularity": 37.4381,
         "alsoOn": [
           "iq"
         ]
@@ -4394,7 +4371,7 @@
         "lastUpdateDate": "2026-08-20",
         "rating": 6.0,
         "voteCount": 2,
-        "popularity": 14.0678,
+        "popularity": 13.9552,
         "alsoOn": [
           "iq"
         ]
@@ -4610,7 +4587,7 @@
         "lastUpdateDate": "2026-11-11",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.6929
+        "popularity": 0.3934
       },
       {
         "source": "iq",
@@ -4749,7 +4726,7 @@
         "lastUpdateDate": "2026-06-26",
         "rating": 10.0,
         "voteCount": 1,
-        "popularity": 3.0722
+        "popularity": 3.2701
       },
       {
         "source": "iq",
@@ -5665,7 +5642,7 @@
         "lastUpdateDate": "2026-10-22",
         "rating": 8.571,
         "voteCount": 7,
-        "popularity": 7.6472
+        "popularity": 7.4099
       },
       {
         "source": "iq",
@@ -6112,7 +6089,7 @@
         "lastUpdateDate": "2019-07-31",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 22.4073
+        "popularity": 22.4689
       },
       {
         "source": "iq",
@@ -6401,7 +6378,7 @@
         "lastUpdateDate": "2026-10-22",
         "rating": 6.833,
         "voteCount": 6,
-        "popularity": 5.9882
+        "popularity": 6.1307
       },
       {
         "source": "yk",
@@ -6637,7 +6614,7 @@
         "lastUpdateDate": "2025-09-14",
         "rating": 8.574,
         "voteCount": 149,
-        "popularity": 12.3519,
+        "popularity": 11.8423,
         "alsoOn": [
           "bili"
         ]
@@ -7265,33 +7242,6 @@
       },
       {
         "source": "bili",
-        "cid": "bili39457",
-        "title": "不白吃话山海经",
-        "teaser": "不白吃带你看山海经",
-        "year": "2021",
-        "genre": "动画",
-        "area": "中国内地",
-        "episodeText": "全41话",
-        "tags": [
-          "国漫",
-          "动画",
-          "哔哩哔哩国创",
-          "哔哩哔哩独播",
-          "哔哩哔哩出品"
-        ],
-        "displayTitle": "不白吃话山海经",
-        "tmdbId": 137910,
-        "mediaType": "tv",
-        "posterPath": "/isvZaCuSssBwVpDxG3ehhv2btXR.jpg",
-        "backdropPath": "/mkAjHv4Uu4QVll1h5eYoGfXIVYp.jpg",
-        "releaseDate": "2021-10-18",
-        "lastUpdateDate": "2022-07-18",
-        "rating": 6.0,
-        "voteCount": 1,
-        "popularity": 0.6729
-      },
-      {
-        "source": "bili",
         "cid": "bili95562",
         "title": "U探泰拉",
         "teaser": "与U走进泰拉",
@@ -7346,7 +7296,7 @@
         "lastUpdateDate": "2018-07-07",
         "rating": 6.083,
         "voteCount": 24,
-        "popularity": 12.5295
+        "popularity": 14.3232
       },
       {
         "source": "bili",
@@ -7375,7 +7325,7 @@
         "lastUpdateDate": "2026-02-12",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 4.9808
+        "popularity": 4.4968
       },
       {
         "source": "bili",
