@@ -1,11 +1,11 @@
 """抓取腾讯视频、爱奇艺与优酷片库的「本期看点」，写入 data/qq-teaser.json。
 
 每天抓一次，并把每部作品匹配到 TMDB，数据里直接带好：
-- 看点：腾讯 second_title（回退 actor_info_core_details）；爱奇艺 desc（回退 kvs.featureSubTitle）
-- 标签：tags（腾讯自带类型与标签，爱奇艺用 TMDB 类型补齐）、releaseDate、rating、popularity、voteCount
+- 看点：腾讯 second_title（回退 actor_info_core_details）；爱奇艺 desc（回退 kvs.featureSubTitle）；优酷类型标签补位
+- 标签：tags（腾讯运营标签、优酷类型/优酷独播、TMDB 类型补齐）、releaseDate、lastUpdateDate、rating、popularity、voteCount
 - 身份：tmdbId、mediaType、posterPath、backdropPath
 
-这样平台剧场模块只在本地筛选、排序、分页，运行时不再请求腾讯/爱奇艺或 TMDB。
+爱优腾在抓取时完成 TMDB 匹配；模块只本地筛选排序。芒果由用户设备现场抓取和匹配。
 """
 
 import hashlib
@@ -293,7 +293,7 @@ def yk_collect_nodes(node, out):
 
 
 def yk_teaser(tags):
-    """优酷没有短看点；从标签里挑类型词（「悬疑 · 罪案」）当看点行。"""
+    """当前片库采集使用类型标签（「悬疑 · 罪案」）作为看点补位。"""
     for tag in reversed(tags or []):
         if "限免" in tag or tag in ("独播", "VIP") or "更新" in tag or "集" in tag and "期" not in tag and "话" not in tag:
             continue
@@ -318,7 +318,6 @@ def parse_yk(item, channel):
         tags.append(tag)
     genre = next((tag for tag in reversed(tags) if " · " in tag), "")
     episode = next((tag for tag in tags if tag.startswith("更新至") or tag.endswith("集全") or tag.endswith("期全") or tag.endswith("话")), "")
-    ranks = []
     return {
         "source": "yk",
         "cid": "yk" + title,
@@ -329,14 +328,13 @@ def parse_yk(item, channel):
         "area": "中国内地",
         "episodeText": episode,
         "tags": yk_card_tags(tags),
-        "ranks": ranks,
     }
 
 
 def yk_card_tags(tags):
     """卡片标签：类型词 + 平台独播标记；限免/集数/VIP 不进标签。"""
     out = []
-    if tags and tags[0] == "优酷独播":
+    if "优酷独播" in tags:
         out.append("优酷独播")
     for tag in tags:
         if " · " in tag:
@@ -538,36 +536,39 @@ def tmdb_detail(kind, tmdb_id):
 
 
 def merge_entries(primary, extra):
-    """同一部作品的两个平台条目合成一条：腾讯优先，缺失字段互相补齐。"""
+    """保留主条目看点，补齐缺字段并保留全部平台标签。"""
     merged = dict(primary)
     for key, value in extra.items():
         if merged.get(key) in ("", None, []):
             merged[key] = value
     merged["tags"] = list(dict.fromkeys((primary.get("tags") or []) + (extra.get("tags") or [])))
-    merged["alsoOn"] = [s for s in {primary.get("source"), extra.get("source")} if s] \
-        if primary.get("source") != extra.get("source") else [primary.get("source")]
+    merged["alsoOn"] = sorted(set(filter(None, (primary.get("alsoOn") or []) +
+        (extra.get("alsoOn") or []) + [primary.get("source"), extra.get("source")])))
+    merged["lastUpdateDate"] = max(primary.get("lastUpdateDate") or "", extra.get("lastUpdateDate") or "")
     return merged
 
 
+def teaser_priority(entry):
+    """有文案优先；同样有文案时腾讯、爱奇艺的一句话看点优于优酷类型词。"""
+    return (bool(str(entry.get("teaser") or "").strip()), {"qq": 3, "iq": 2, "yk": 1}.get(entry.get("source"), 0))
+
+
 def dedupe(entries):
-    """TMDB 匹配后按 tmdbId 去重；腾讯条目优先，其余字段取并集。"""
+    """按 (mediaType, tmdbId) 去重，优先真实看点；作品位置保持不变。"""
     seen = {}
-    order = []
     for entry in entries:
         key = (entry.get("mediaType"), entry.get("tmdbId"))
         if not entry.get("tmdbId"):
             key = ("raw", entry["cid"])
         if key in seen:
-            index, current = seen[key]
-            # 腾讯条目信息更全（自带类型标签），保留它作为主条目。
-            if current["source"] != "qq" and entry["source"] == "qq":
-                seen[key] = (index, merge_entries(entry, current))
+            current = seen[key]
+            if teaser_priority(entry) > teaser_priority(current):
+                seen[key] = merge_entries(entry, current)
             else:
-                seen[key] = (index, merge_entries(current, entry))
+                seen[key] = merge_entries(current, entry)
         else:
-            seen[key] = (len(order), entry)
-            order.append(key)
-    return [seen[key][1] for key in order]
+            seen[key] = entry
+    return list(seen.values())
 
 
 def enrich(channels):
@@ -592,7 +593,7 @@ def enrich(channels):
     for channel, entries in channels.items():
         merged = []
         for entry in entries:
-            match = hit.get(entry["cid"])
+            match = dict(hit.get(entry["cid"]) or {})
             if not match:
                 continue
             tags = list(entry.get("tags") or [])
@@ -622,7 +623,7 @@ ALIAS = {
 
 
 def display_title(entry):
-    """卡片显示用的标题：只去掉普通话版等后缀，保留季数信息由各平台展示。"""
+    """搜索和卡片标题都去掉语言版本、季数等后缀。"""
     return clean_search_title(entry["title"])
 
 

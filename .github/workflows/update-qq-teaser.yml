@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: 🚀 运行抓取脚本
+      - name: 🚀 运行爱优腾抓取脚本
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |

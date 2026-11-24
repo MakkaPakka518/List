@@ -63,18 +63,22 @@ https://raw.githubusercontent.com/MakkaPakka518/List/main/widgets/daily-stamp.js
 node --test tests/daily-stamp.test.cjs
 ```
 
-## 腾讯视频看点
+## 爱优腾看点
 
 `scripts/update_qq_teaser.py` 每天由 `.github/workflows/update-qq-teaser.yml` 在北京时间 11:30 抓取看点，写入 `data/qq-teaser.json`：
 
 - 腾讯：`second_title`，缺失时用 `actor_info_core_details`（电视剧、电影、动漫、综艺）。
 - 爱奇艺：`desc`，缺失时用 `kvs.featureSubTitle`（电视剧、电影、动漫、综艺）。
-- 优酷：没有短看点字段，取类型标签（如「悬疑 · 罪案」）当看点行；独播标记写成「优酷独播」，只抓「中国内地」。
+- 优酷：当前片库采集取类型标签（如「悬疑 · 罪案」）作为看点补位；独播标记写成「优酷独播」，请求「中国内地」片库。签名和 Cookie 握手直接在脚本内完成，不需要 Worker。
 
-三个平台共用 `channels` 下的同名字段并按 TMDB ID 去重，平台剧场模块的「愛騰芒-看點」入口读取该文件做本地筛选排序。数据只保留 TMDB 匹配成功且有海报的条目。芒果TV 片库列表按地区返回不同内容（GitHub Actions 的海外 IP 拿不到新剧），因此芒果改由模块在用户设备上现场抓取，不走本仓库。
+三个平台共用 `channels` 下的同名字段，每个频道按 `(mediaType, tmdbId)` 去重。有文案时优先腾讯、其次爱奇艺的一句话看点，优酷类型词补位；空文案不会压掉其他平台的有效看点。合并保留所有平台的 `tags`、`alsoOn` 和「优酷独播」，同一作品只输出一条。
+
+数据只保留 TMDB 匹配成功且有海报或横图的条目。`displayTitle` 去掉语言版本、季数等后缀；`lastUpdateDate` 用 TMDB 的 `last_air_date`，缺失回退首播日期。平台剧场 2.0.1+ 的「愛優騰芒-看點」（`loadQqTeaserMerged`）读取该文件，与设备现场获取的芒果条目去重后，统一筛选、排序和分页。
+
+芒果TV 片库列表按地区返回不同内容，因此由用户设备现场抓取和匹配，不走本仓库。抓取全部失败或全部无法匹配时保留旧文件；部分平台失败时本次仅包含成功获取的数据。
 
 ```sh
-node --test tests/qq-teaser-crawl.test.cjs
+node --test tests/qq-teaser-crawl.test.cjs tests/qq-teaser-yk.test.cjs
 ```
 
 ## 本地验证

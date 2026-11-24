@@ -46,12 +46,12 @@ test('the committed data has every channel and a teaser on every entry (pre-craw
   }
 });
 
-test('TV and movie lists merge QQ and iQiyi entries with distinct ids', () => {
+test('TV and movie lists include QQ and iQiyi entries with distinct identities', () => {
   const data = JSON.parse(fs.readFileSync(paths.join(root, 'data/qq-teaser.json'), 'utf8'));
   for (const channel of ['tv', 'movie']) {
     const entries = data.channels[channel];
-    const iq = entries.filter((entry) => entry.cid.startsWith('iq'));
-    const qq = entries.filter((entry) => !entry.cid.startsWith('iq'));
+    const iq = entries.filter((entry) => entry.source === 'iq');
+    const qq = entries.filter((entry) => entry.source === 'qq');
     assert.ok(iq.length > 0, `${channel} has iQiyi entries`);
     assert.ok(qq.length > 0, `${channel} keeps QQ entries`);
     assert.equal(new Set(entries.map((entry) => entry.cid)).size, entries.length, 'no duplicate ids');
@@ -155,6 +155,48 @@ print(json.dumps([m.dedupe([qq, iq]), m.dedupe([iq, qq]), m.dedupe([dict(qq, tmd
   assert.equal(distinct.length, 2, 'different TMDB ids stay separate');
 });
 
+test('three-platform dedupe prefers real QQ/IQ teasers in every input order and retains all badges', () => {
+  const out = execFileSync('python3', ['-c', `
+import importlib.util, itertools, json
+spec = importlib.util.spec_from_file_location("m", "scripts/update_qq_teaser.py")
+m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+base = {"title": "同一作品", "tmdbId": 123, "mediaType": "tv", "posterPath": "/p.jpg"}
+qq = dict(base, source="qq", cid="q", teaser="腾讯一句话", tags=["历史"])
+iq = dict(base, source="iq", cid="i", teaser="爱奇艺一句话", tags=["悬疑"])
+yk = dict(base, source="yk", cid="y", teaser="古装 · 爱情", tags=["古装", "优酷独播"])
+groups = [
+ [qq, iq, yk], [dict(qq, teaser=""), iq, yk],
+ [dict(qq, teaser=""), dict(iq, teaser="  "), yk],
+]
+print(json.dumps([[m.dedupe(list(order)) for order in itertools.permutations(group)] for group in groups]))
+`], { cwd: root, encoding: 'utf8' });
+  for (const [index, orders] of JSON.parse(out).entries()) {
+    for (const entries of orders) {
+      assert.equal(entries.length, 1);
+      assert.equal(entries[0].source, ['qq', 'iq', 'yk'][index]);
+      assert.equal(entries[0].teaser, ['腾讯一句话', '爱奇艺一句话', '古装 · 爱情'][index]);
+      assert.deepEqual(entries[0].alsoOn, ['iq', 'qq', 'yk']);
+      assert.deepEqual([...entries[0].tags].sort(), ['历史', '悬疑', '古装', '优酷独播'].sort());
+    }
+  }
+});
+
+test('enrichment does not consume cached genre tags reused by another channel', () => {
+  const out = execFileSync('python3', ['-c', `
+import importlib.util, json
+spec = importlib.util.spec_from_file_location("m", "scripts/update_qq_teaser.py")
+m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+m.resolve = lambda entry, kind: {"tmdbId": 123, "mediaType": "tv", "posterPath": "/p.jpg", "genres": ["动画"]}
+entry = {"cid": "same", "title": "动画剧 第2季 普通话", "source": "qq", "teaser": "一句话", "tags": []}
+print(json.dumps(m.enrich({"tv": [dict(entry)], "anime": [dict(entry)]})))
+`], { cwd: root, encoding: 'utf8' });
+  for (const entries of Object.values(JSON.parse(out))) {
+    assert.deepEqual(entries[0].tags, ['动画']);
+    assert.equal(entries[0].displayTitle, '动画剧');
+    assert.equal(entries[0].genres, undefined);
+  }
+});
+
 test('every committed entry carries artwork', () => {
   const data = JSON.parse(fs.readFileSync(paths.join(root, 'data/qq-teaser.json'), 'utf8'));
   for (const [channel, entries] of Object.entries(data.channels)) {
@@ -173,7 +215,7 @@ test('no duplicate TMDB ids remain in the committed data', () => {
 
 test('an upstream failure keeps the previous data file', () => {
   const before = fs.readFileSync(paths.join(root, 'data/qq-teaser.json'), 'utf8');
-  const dir = fs.mkdtempSync('/tmp/qqf-');
+  const dir = fs.mkdtempSync('/tmp/opencode/qqf-');
   const env = stub(dir, `
 from urllib.request import Request
 def _fail(*a, **k):
