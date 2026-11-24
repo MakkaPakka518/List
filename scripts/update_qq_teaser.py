@@ -403,6 +403,14 @@ def bili_low_age_entry(title, styles=(), desc=""):
     return bool(BILI_LOW_AGE_DESC.search(str(desc or "")))
 
 
+def anime_low_age_entry(entry):
+    """动漫频道统一丢掉高置信低龄条目：标题特征或 TMDB 儿童类型命中即排除。"""
+    if BILI_LOW_AGE_TITLE.search(str(entry.get("title") or "")):
+        return True
+    tags = [str(tag or "").strip() for tag in entry.get("tags") or []]
+    return any(marker in tag for tag in tags for marker in ("儿童", "Kids", "少儿"))
+
+
 def bili_tmdb_allows(hit, detail_genres=()):
     """国创只认 TMDB 动画类型：genre_ids 或详情类型至少一个明确为动画，
     同时排除儿童、真人秀、新闻、脱口秀等明显不是剧情动画的类型。"""
@@ -702,6 +710,9 @@ def enrich(channels):
                     tags.append(name)
             merged.append({**entry, "displayTitle": display_title(entry), **match, "tags": tags[:10]})
         channels[channel] = dedupe(merged)
+    # 动漫频道统一排除低龄向作品；其他频道不套用这条规则。
+    if "anime" in channels:
+        channels["anime"] = [entry for entry in channels["anime"] if not anime_low_age_entry(entry)]
     # 无海报的条目在卡片上没有意义，统一丢弃。
     for channel, entries in channels.items():
         channels[channel] = [entry for entry in entries if entry.get("posterPath") or entry.get("backdropPath")]
