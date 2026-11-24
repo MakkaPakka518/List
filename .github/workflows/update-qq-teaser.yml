@@ -1,4 +1,4 @@
-name: 📺 Update 爱优腾看点
+name: 📺 Update 爱优腾哔看点
 
 on:
   schedule:
@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: 🚀 运行爱优腾抓取脚本
+      - name: 🚀 运行爱优腾哔抓取脚本（哔哩哔哩仅国创）
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
@@ -33,4 +33,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           git add data/qq-teaser.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 自动更新爱优腾看点 📺" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 自动更新爱优腾哔看点 📺" && git push)

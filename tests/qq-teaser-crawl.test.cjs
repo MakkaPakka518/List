@@ -31,14 +31,14 @@ test('the committed data keeps the current snapshot until the next crawl', () =>
   assert.ok(data.channels && Object.keys(data.channels).length > 0);
 });
 
-test('the committed data has every channel and a teaser on every entry (pre-crawl snapshot passes)', () => {
+test('the committed data has every channel and a teaser field on every entry', () => {
   const data = JSON.parse(fs.readFileSync(paths.join(root, 'data/qq-teaser.json'), 'utf8'));
   assert.ok(data.updatedAt && /\+08:00$/.test(data.updatedAt), 'saved in Beijing time');
   for (const channel of ['tv', 'movie', 'variety', 'anime']) {
     assert.ok(Array.isArray(data.channels[channel]));
     const entries = data.channels[channel];
     assert.ok(entries.length > 0);
-    assert.equal(entries.filter((entry) => entry.teaser).length, entries.length);
+    assert.ok(entries.every(entry => typeof entry.teaser === 'string'), 'missing copy is an empty string, not invented text');
     for (const entry of entries) {
       assert.ok(entry.cid && entry.title);
       assert.equal(entry.title.includes('更新'), false, 'update marker is stripped from titles');

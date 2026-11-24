@@ -1,11 +1,11 @@
-"""抓取腾讯视频、爱奇艺与优酷片库的「本期看点」，写入 data/qq-teaser.json。
+"""抓取腾讯视频、爱奇艺、优酷与哔哩哔哩国创榜看点，写入 data/qq-teaser.json。
 
 每天抓一次，并把每部作品匹配到 TMDB，数据里直接带好：
-- 看点：腾讯 second_title（回退 actor_info_core_details）；爱奇艺 desc（回退 kvs.featureSubTitle）；优酷类型标签补位
-- 标签：tags（腾讯运营标签、优酷类型/优酷独播、TMDB 类型补齐）、releaseDate、lastUpdateDate、rating、popularity、voteCount
+- 看点：腾讯 second_title；爱奇艺 desc；优酷类型标签补位；哔哩哔哩 share_sub_title（只进动漫）
+- 标签：tags（平台运营标签、哔哩哔哩国创/类型/独播、TMDB 类型补齐）、releaseDate、lastUpdateDate、rating、popularity、voteCount
 - 身份：tmdbId、mediaType、posterPath、backdropPath
 
-爱优腾在抓取时完成 TMDB 匹配；模块只本地筛选排序。芒果由用户设备现场抓取和匹配。
+爱优腾哔在抓取时完成 TMDB 匹配；模块只本地筛选排序。芒果由用户设备现场抓取和匹配。
 """
 
 import hashlib
@@ -365,6 +365,65 @@ def collect_yk(channel, category):
     return entries
 
 
+# ---------------------------------------------------------------- 哔哩哔哩（仅国创，只合入 anime）
+
+BILI_API = "https://api.bilibili.com"
+BILI_HEADERS = {"User-Agent": "Mozilla/5.0", "Referer": "https://www.bilibili.com/"}
+
+
+def bili_get(path, params):
+    request = Request(BILI_API + path + "?" + urlencode(params), headers=BILI_HEADERS)
+    with urlopen(request, timeout=30) as response:
+        body = json.load(response)
+    if body.get("code") != 0:
+        raise RuntimeError(f"Bilibili {path}: {body.get('code')} {body.get('message')}")
+    return body.get("result") or body.get("data") or {}
+
+
+def parse_bili(item, season=None):
+    season = season or {}
+    sid = str(item.get("season_id") or "")
+    title = clean_title(item.get("title") or season.get("title"))
+    if not sid.isdigit() or int(sid) <= 0 or not title:
+        return None
+    if str(season.get("type") or 4) != "4":
+        return None
+    styles = [str(style).strip() for style in season.get("styles") or [] if str(style).strip()]
+    tags = ["国漫", "动画", "哔哩哔哩国创"] + styles
+    if item.get("copyright") == "dujia" or item.get("badge") in ("独家", "独播"):
+        tags.append("哔哩哔哩独播")
+    if item.get("badge") == "出品":
+        tags.append("哔哩哔哩出品")
+    return {
+        "source": "bili",
+        "cid": "bili" + sid,
+        "title": title,
+        # subtitle 是「已观看 N 次」，不把播放量或长 evaluate 当作看点。
+        "teaser": str(season.get("share_sub_title") or item.get("share_sub_title") or "").strip(),
+        "year": clean_year((season.get("publish") or {}).get("pub_time")),
+        "genre": "动画",
+        "area": "中国内地",
+        "episodeText": str((item.get("new_ep") or {}).get("index_show") or ""),
+        "tags": list(dict.fromkeys(tags)),
+    }
+
+
+def collect_bili():
+    rows = bili_get("/pgc/web/rank/list", {"day": 3, "season_type": 4}).get("list") or []
+    unique = {entry["cid"]: item for item in rows if (entry := parse_bili(item))}
+
+    def with_detail(item):
+        try:
+            season = bili_get("/pgc/view/web/season", {"season_id": item["season_id"]})
+        except Exception as error:
+            print(f"bilibili season {item['season_id']} failed: {error}")
+            season = {}
+        return parse_bili(item, season)
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        return [entry for entry in pool.map(with_detail, unique.values()) if entry]
+
+
 # ---------------------------------------------------------------- TMDB
 
 def tmdb_get(path, params):
@@ -492,6 +551,8 @@ def resolve(entry, media_type):
                 continue
             # 首位候选没图时继续试下一位，全部没图才算匹配失败。
             for hit in ranked_matches(data.get("results"), names, entry["year"]):
+                if entry.get("source") == "bili" and 16 not in (hit.get("genre_ids") or []):
+                    continue
                 poster = hit.get("poster_path") or ""
                 backdrop = hit.get("backdrop_path") or ""
                 if not poster and not backdrop:
@@ -549,8 +610,8 @@ def merge_entries(primary, extra):
 
 
 def teaser_priority(entry):
-    """有文案优先；同样有文案时腾讯、爱奇艺的一句话看点优于优酷类型词。"""
-    return (bool(str(entry.get("teaser") or "").strip()), {"qq": 3, "iq": 2, "yk": 1}.get(entry.get("source"), 0))
+    """有文案优先；腾讯、爱奇艺、哔哩哔哩短看点优于优酷类型词。"""
+    return (bool(str(entry.get("teaser") or "").strip()), {"qq": 4, "iq": 3, "bili": 2, "yk": 1}.get(entry.get("source"), 0))
 
 
 def dedupe(entries):
@@ -642,6 +703,11 @@ def collect():
             entries.extend(collect_yk(channel, YK_CHANNEL_CATEGORY[channel]))
         except Exception as error:
             print(f"youku {channel} failed: {error}")
+        if channel == "anime":
+            try:
+                entries.extend(collect_bili())
+            except Exception as error:
+                print(f"bilibili anime failed: {error}")
         results[channel] = entries
     return results
 
@@ -659,7 +725,7 @@ def main():
         raise SystemExit("no entries matched TMDB, keeping the previous file")
     payload = {
         "updatedAt": datetime.now(BEIJING).isoformat(timespec="seconds"),
-        "source": "腾讯视频 + 爱奇艺 + 优酷片库列表",
+        "source": "腾讯视频 + 爱奇艺 + 优酷片库列表 + 哔哩哔哩国创榜（仅动漫）",
         "channels": channels,
     }
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)

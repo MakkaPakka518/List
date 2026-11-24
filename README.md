@@ -14,7 +14,7 @@
 | 各平台剧场 | 迷雾/白夜/X/恋恋… 15 个剧场（已开播/即将） | `data/theater-data.json` |
 | 热门番剧 | bgm.tv 排名 + TMDB 匹配 | `data/bangumi-hot.json` |
 | FlixPatrol | 全球、美国、台湾、香港、新加坡、韩国、日本的流媒体每日 TOP 10 | `data/flixpatrol/*.json` |
-| 爱优腾看点 | 爱奇艺、腾讯、优酷三个平台剧集/电影/综艺/动漫的简短看点，每天北京时间 11:30 抓取（芒果由模块运行时现场抓取） | `data/qq-teaser.json` |
+| 爱优腾芒哔看点 | 爱奇艺、腾讯、优酷看点与哔哩哔哩国创榜，每天北京时间 11:30 抓取；B站只合入动漫，芒果由模块现场抓取 | `data/qq-teaser.json` |
 | 动画疯 | 通过仓库 Secret 中的台湾 SOCKS5 抓取月人气与年份榜，并匹配 TMDB ID | `data/anigamer-hot.json` |
 
 每个条目都经过 TMDB 匹配，自带 `title / rating / posterPath / mediaType / releaseDate` 等完整字段。
@@ -63,22 +63,25 @@ https://raw.githubusercontent.com/MakkaPakka518/List/main/widgets/daily-stamp.js
 node --test tests/daily-stamp.test.cjs
 ```
 
-## 爱优腾看点
+## 爱优腾芒哔看点
 
 `scripts/update_qq_teaser.py` 每天由 `.github/workflows/update-qq-teaser.yml` 在北京时间 11:30 抓取看点，写入 `data/qq-teaser.json`：
 
 - 腾讯：`second_title`，缺失时用 `actor_info_core_details`（电视剧、电影、动漫、综艺）。
 - 爱奇艺：`desc`，缺失时用 `kvs.featureSubTitle`（电视剧、电影、动漫、综艺）。
 - 优酷：当前片库采集取类型标签（如「悬疑 · 罪案」）作为看点补位；独播标记写成「优酷独播」，请求「中国内地」片库。签名和 Cookie 握手直接在脚本内完成，不需要 Worker。
+- **哔哩哔哩：只抓 Bilibili 热榜的国创榜**（`pgc/web/rank/list?day=3&season_type=4`），整榜候选只合入 `channels.anime`，不抓日漫，不合入电视剧、电影或综艺。再从 `pgc/view/web/season` 读取 `share_sub_title` 原生短看点、`styles` 类型和首播年份；不把播放量 `subtitle` 或长简介 `evaluate` 当作看点。B站条目 `source: "bili"`，标签含「国漫」「哔哩哔哩国创」，有独播／出品标记时同步保留。
 
-三个平台共用 `channels` 下的同名字段，每个频道按 `(mediaType, tmdbId)` 去重。有文案时优先腾讯、其次爱奇艺的一句话看点，优酷类型词补位；空文案不会压掉其他平台的有效看点。合并保留所有平台的 `tags`、`alsoOn` 和「优酷独播」，同一作品只输出一条。
+爱优腾哔共用 `channels` 下的同名字段，每个频道按 `(mediaType, tmdbId)` 去重。有文案时优先腾讯、其次爱奇艺、再用哔哩哔哩的一句话看点，优酷类型词补位；空文案不会压掉其他平台的有效看点。合并保留所有平台的 `tags`、`alsoOn`、独播和国创标签，同一作品只输出一条。
 
-数据只保留 TMDB 匹配成功且有海报或横图的条目。`displayTitle` 去掉语言版本、季数等后缀；`lastUpdateDate` 用 TMDB 的 `last_air_date`，缺失回退首播日期。平台剧场 2.0.1+ 的「愛優騰芒-看點」（`loadQqTeaserMerged`）读取该文件，与设备现场获取的芒果条目去重后，统一筛选、排序和分页。
+数据只保留 TMDB 匹配成功且有海报或横图的条目。哔哩哔哩只接受 TMDB `genre_ids` 含 `16`（动画）的候选，仍使用 TMDB 图片。`displayTitle` 去掉语言版本、季数等后缀；`lastUpdateDate` 用 TMDB 的 `last_air_date`，缺失回退首播日期。平台剧场 **2.1.0+「爱优腾芒哔-看点」**（`loadQqTeaserMerged`）读取该文件，与设备现场获取的芒果条目去重后，统一筛选、排序和分页。
+
+抓取脚本、工作流与数据继续使用 `update_qq_teaser.py`、`update-qq-teaser.yml`、`qq-teaser.json` 文件路径，现有模块和首页包可沿用原地址。
 
 芒果TV 片库列表按地区返回不同内容，因此由用户设备现场抓取和匹配，不走本仓库。抓取全部失败或全部无法匹配时保留旧文件；部分平台失败时本次仅包含成功获取的数据。
 
 ```sh
-node --test tests/qq-teaser-crawl.test.cjs tests/qq-teaser-yk.test.cjs
+node --test tests/qq-teaser-crawl.test.cjs tests/qq-teaser-yk.test.cjs tests/qq-teaser-bilibili.test.cjs
 ```
 
 ## 本地验证
