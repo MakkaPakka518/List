@@ -287,8 +287,8 @@ CN_REGIONS = {"CN", "HK", "MO", "TW"}
 
 
 def is_chinese_show(result):
-    """search/movie 对部分国产片返回空 origin_country；只在明确列出
-    非国产地区时才拒绝，空列表放行交给标题匹配兜底。"""
+    """search/movie 对部分国产片返回空 origin_country；空列表放行交给
+    标题匹配兜底，代价是少数缺字段的外语片可能漏进榜单。"""
     regions = set(result.get("origin_country") or [])
     if not regions:
         return True
