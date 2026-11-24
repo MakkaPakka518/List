@@ -416,7 +416,11 @@ def bili_tmdb_allows(hit, detail_genres=()):
     同时排除儿童、真人秀、新闻、脱口秀等明显不是剧情动画的类型。"""
     ids = set(hit.get("genre_ids") or [])
     names = {str(name or "").strip() for name in detail_genres or []}
-    if not (ids & BILI_ANIMATION_GENRES or names & {"动画", "Animation"}):
+    if ids and not (ids & BILI_ANIMATION_GENRES):
+        return False
+    if names and not (names & {"动画", "Animation"}):
+        return False
+    if not ids and not names:
         return False
     if ids & BILI_KIDS_GENRES or names & {"儿童", "Kids"}:
         return False
