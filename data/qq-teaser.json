@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:32:02+08:00",
+  "updatedAt": "2026-11-24T11:44:55+08:00",
   "source": "腾讯视频 + 爱奇艺 + 优酷片库列表 + 哔哩哔哩国创榜（仅动漫）",
   "channels": {
     "tv": [
@@ -274,7 +274,7 @@
         "lastUpdateDate": "2026-11-14",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 1.9001
+        "popularity": 2.0988
       },
       {
         "source": "qq",
@@ -304,27 +304,32 @@
       },
       {
         "source": "qq",
-        "cid": "mzc00200gif5djk",
-        "title": "贵妃欺人太甚",
-        "teaser": "弃妃为女复仇掀翻深宫",
+        "cid": "mzc00200xqdobf5",
+        "title": "美人余",
+        "teaser": "李一桐撕开好命女人糖衣",
         "year": "2026",
-        "genre": "古装",
+        "genre": "都市",
         "area": "内地",
         "episodeText": "全28集",
         "tags": [
-          "古装",
+          "都市",
+          "女性题材",
+          "婚姻生活",
+          "都市生活",
+          "女性成长",
+          "情感纠葛",
           "剧情"
         ],
-        "displayTitle": "贵妃欺人太甚",
-        "tmdbId": 340544,
+        "displayTitle": "美人余",
+        "tmdbId": 294446,
         "mediaType": "tv",
-        "posterPath": "/tgXiP9UW20yqPd1NtbS3g35YQA2.jpg",
-        "backdropPath": "",
-        "releaseDate": "2026-11-02",
-        "lastUpdateDate": "2026-11-16",
-        "rating": 8.0,
-        "voteCount": 1,
-        "popularity": 1.9546
+        "posterPath": "/gw7w4ssut616YOIRRMdy0d7JfkL.jpg",
+        "backdropPath": "/6Iha7gx0lTdrv6x7dECtjB8YnLA.jpg",
+        "releaseDate": "2026-10-09",
+        "lastUpdateDate": "2026-10-20",
+        "rating": 5.571,
+        "voteCount": 7,
+        "popularity": 5.1512
       },
       {
         "source": "iq",
@@ -466,29 +471,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq4262408502598901",
-        "title": "余红旧事",
-        "teaser": "人情弑故荒诞剧",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "34集全",
-        "tags": [
-          "犯罪"
-        ],
-        "displayTitle": "余红旧事",
-        "tmdbId": 301494,
-        "mediaType": "tv",
-        "posterPath": "/gQuFRZI5AhEpyuX93SvfY5sgGfP.jpg",
-        "backdropPath": "/6RKO6EX15uF0locEPHzvm4Za43n.jpg",
-        "releaseDate": "2026-09-29",
-        "lastUpdateDate": "2026-10-05",
-        "rating": 7.75,
-        "voteCount": 8,
-        "popularity": 3.8702
-      },
-      {
-        "source": "iq",
         "cid": "iq4222300210214001",
         "title": "成何体统",
         "teaser": "戏精联欢 胡闹开演",
@@ -511,6 +493,29 @@
         "rating": 7.9,
         "voteCount": 31,
         "popularity": 13.8835
+      },
+      {
+        "source": "iq",
+        "cid": "iq4262408502598901",
+        "title": "余红旧事",
+        "teaser": "人情弑故荒诞剧",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "34集全",
+        "tags": [
+          "犯罪"
+        ],
+        "displayTitle": "余红旧事",
+        "tmdbId": 301494,
+        "mediaType": "tv",
+        "posterPath": "/gQuFRZI5AhEpyuX93SvfY5sgGfP.jpg",
+        "backdropPath": "/6RKO6EX15uF0locEPHzvm4Za43n.jpg",
+        "releaseDate": "2026-09-29",
+        "lastUpdateDate": "2026-10-05",
+        "rating": 7.75,
+        "voteCount": 8,
+        "popularity": 3.8702
       },
       {
         "source": "iq",
@@ -632,7 +637,7 @@
         "lastUpdateDate": "2025-11-08",
         "rating": 7.0,
         "voteCount": 1,
-        "popularity": 2.3441
+        "popularity": 2.3522
       },
       {
         "source": "iq",
@@ -822,7 +827,7 @@
         "lastUpdateDate": "2022-12-09",
         "rating": 7.067,
         "voteCount": 30,
-        "popularity": 8.5072
+        "popularity": 8.3621
       },
       {
         "source": "iq",
@@ -1222,7 +1227,7 @@
         "lastUpdateDate": "2026-08-23",
         "rating": 7.2,
         "voteCount": 4,
-        "popularity": 4.3022
+        "popularity": 4.4108
       },
       {
         "source": "iq",
@@ -1293,7 +1298,7 @@
         "lastUpdateDate": "2024-02-25",
         "rating": 7.1,
         "voteCount": 14,
-        "popularity": 6.3723
+        "popularity": 5.9169
       },
       {
         "source": "iq",
@@ -1644,7 +1649,7 @@
         "lastUpdateDate": "2023-07-14",
         "rating": 7.4,
         "voteCount": 13,
-        "popularity": 7.5044
+        "popularity": 7.681
       },
       {
         "source": "iq",
@@ -1668,7 +1673,7 @@
         "lastUpdateDate": "2015-09-28",
         "rating": 8.3,
         "voteCount": 20,
-        "popularity": 5.9394
+        "popularity": 6.7329
       },
       {
         "source": "iq",
@@ -1738,7 +1743,7 @@
         "lastUpdateDate": "2014-05-18",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 1.6215
+        "popularity": 2.0592
       },
       {
         "source": "iq",
@@ -2383,8 +2388,8 @@
         "episodeText": "7.7",
         "tags": [
           "喜剧",
-          "时尚题材",
           "职场喜剧",
+          "时尚题材",
           "都市职场",
           "美国电影",
           "女性成长",
@@ -2447,10 +2452,10 @@
           "动作喜剧",
           "灾难事故",
           "极限运动",
-          "小人物逆袭",
           "爆笑囧事",
           "自救",
           "救援",
+          "小人物逆袭",
           "动作"
         ],
         "displayTitle": "极限逃生",
@@ -2568,8 +2573,8 @@
         "episodeText": "7.5",
         "tags": [
           "动作",
-          "古代战争",
           "动作题材",
+          "古代战争",
           "历史故事",
           "刀剑血拼",
           "保卫家园",
@@ -2986,7 +2991,7 @@
         "lastUpdateDate": "2021-05-01",
         "rating": 5.8,
         "voteCount": 23,
-        "popularity": 1.0055
+        "popularity": 0.845
       },
       {
         "source": "iq",
@@ -3415,30 +3420,6 @@
       },
       {
         "source": "iq",
-        "cid": "iq7639526724287400",
-        "title": "不留活口",
-        "teaser": "逃兵归来血洗匪窝",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "6.1",
-        "tags": [
-          "喜剧",
-          "犯罪"
-        ],
-        "displayTitle": "不留活口",
-        "tmdbId": 1709565,
-        "mediaType": "movie",
-        "posterPath": "/sePE65oFsMYz6z9MkYV3djRe7yo.jpg",
-        "backdropPath": "/kfBc4yh6DoaoxUCnJNNa4GWe0mI.jpg",
-        "releaseDate": "2026-06-06",
-        "lastUpdateDate": "2026-06-06",
-        "rating": 6.0,
-        "voteCount": 1,
-        "popularity": 0.4345
-      },
-      {
-        "source": "iq",
         "cid": "iq7990875365410400",
         "title": "年会不能停！2",
         "teaser": "张若昀白客闹翻职场",
@@ -3463,6 +3444,30 @@
       },
       {
         "source": "iq",
+        "cid": "iq7639526724287400",
+        "title": "不留活口",
+        "teaser": "逃兵归来血洗匪窝",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "6.1",
+        "tags": [
+          "喜剧",
+          "犯罪"
+        ],
+        "displayTitle": "不留活口",
+        "tmdbId": 1709565,
+        "mediaType": "movie",
+        "posterPath": "/sePE65oFsMYz6z9MkYV3djRe7yo.jpg",
+        "backdropPath": "/kfBc4yh6DoaoxUCnJNNa4GWe0mI.jpg",
+        "releaseDate": "2026-06-06",
+        "lastUpdateDate": "2026-06-06",
+        "rating": 6.0,
+        "voteCount": 1,
+        "popularity": 0.4345
+      },
+      {
+        "source": "iq",
         "cid": "iq1065777602848200",
         "title": "魔方小姐",
         "teaser": "杨紫琼刘昊然爆笑追梦",
@@ -3484,31 +3489,6 @@
         "rating": 6.2,
         "voteCount": 5,
         "popularity": 3.2321
-      },
-      {
-        "source": "iq",
-        "cid": "iq7553694978824100",
-        "title": "器子",
-        "teaser": "以暴制暴杀穿黑市",
-        "year": "2026",
-        "genre": "",
-        "area": "",
-        "episodeText": "7.4",
-        "tags": [
-          "动作",
-          "剧情",
-          "犯罪"
-        ],
-        "displayTitle": "器子",
-        "tmdbId": 1005985,
-        "mediaType": "movie",
-        "posterPath": "/prmdcWDzvhKiHKp6naKwADj9KU7.jpg",
-        "backdropPath": "/o0n8l6Itc3vjf9svwHGzC3uuQhZ.jpg",
-        "releaseDate": "2025-04-11",
-        "lastUpdateDate": "2025-04-11",
-        "rating": 6.0,
-        "voteCount": 38,
-        "popularity": 1.6415
       },
       {
         "source": "iq",
@@ -3537,6 +3517,31 @@
       },
       {
         "source": "iq",
+        "cid": "iq7553694978824100",
+        "title": "器子",
+        "teaser": "以暴制暴杀穿黑市",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "7.4",
+        "tags": [
+          "动作",
+          "剧情",
+          "犯罪"
+        ],
+        "displayTitle": "器子",
+        "tmdbId": 1005985,
+        "mediaType": "movie",
+        "posterPath": "/prmdcWDzvhKiHKp6naKwADj9KU7.jpg",
+        "backdropPath": "/o0n8l6Itc3vjf9svwHGzC3uuQhZ.jpg",
+        "releaseDate": "2025-04-11",
+        "lastUpdateDate": "2025-04-11",
+        "rating": 6.0,
+        "voteCount": 38,
+        "popularity": 1.6415
+      },
+      {
+        "source": "iq",
         "cid": "iq1667401988875900",
         "title": "诡岭迷窟",
         "teaser": "地宫迷雾暗藏杀机",
@@ -3554,7 +3559,7 @@
         "lastUpdateDate": "2026-11-12",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 0.1524
+        "popularity": 0.1891
       },
       {
         "source": "iq",
@@ -3602,32 +3607,7 @@
         "lastUpdateDate": "2025-03-14",
         "rating": 7.0,
         "voteCount": 4,
-        "popularity": 0.6864
-      },
-      {
-        "source": "iq",
-        "cid": "iq8535545975427500",
-        "title": "志愿军：存亡之战",
-        "teaser": "战争巨制铁血不灭",
-        "year": "2024",
-        "genre": "",
-        "area": "",
-        "episodeText": "8.5",
-        "tags": [
-          "剧情",
-          "战争",
-          "历史"
-        ],
-        "displayTitle": "志愿军：存亡之战",
-        "tmdbId": 1298727,
-        "mediaType": "movie",
-        "posterPath": "/r6HElBAywIPAVo8OFkOzCQYns6B.jpg",
-        "backdropPath": "/pU8pR29OYRTQqy5rEj387PdDGft.jpg",
-        "releaseDate": "2024-09-30",
-        "lastUpdateDate": "2024-09-30",
-        "rating": 6.842,
-        "voteCount": 19,
-        "popularity": 2.1304
+        "popularity": 0.6731
       },
       {
         "source": "iq",
@@ -3656,28 +3636,28 @@
       },
       {
         "source": "iq",
-        "cid": "iq2876265921208500",
-        "title": "战神戚继光之不让江山",
-        "teaser": "戚继光血战倭寇守横屿",
-        "year": "2026",
+        "cid": "iq8535545975427500",
+        "title": "志愿军：存亡之战",
+        "teaser": "战争巨制铁血不灭",
+        "year": "2024",
         "genre": "",
         "area": "",
-        "episodeText": "8.1",
+        "episodeText": "8.5",
         "tags": [
-          "历史",
+          "剧情",
           "战争",
-          "剧情"
+          "历史"
         ],
-        "displayTitle": "战神戚继光之不让江山",
-        "tmdbId": 1796449,
+        "displayTitle": "志愿军：存亡之战",
+        "tmdbId": 1298727,
         "mediaType": "movie",
-        "posterPath": "/2uZ52YvqH93DHFINIdtv4naPPZV.jpg",
-        "backdropPath": "/5t3zadhOtiFCiDKl8IeJisyKXj4.jpg",
-        "releaseDate": "2026-10-13",
-        "lastUpdateDate": "2026-10-13",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 0.1976
+        "posterPath": "/r6HElBAywIPAVo8OFkOzCQYns6B.jpg",
+        "backdropPath": "/pU8pR29OYRTQqy5rEj387PdDGft.jpg",
+        "releaseDate": "2024-09-30",
+        "lastUpdateDate": "2024-09-30",
+        "rating": 6.842,
+        "voteCount": 19,
+        "popularity": 2.1304
       },
       {
         "source": "iq",
@@ -3706,53 +3686,28 @@
       },
       {
         "source": "iq",
-        "cid": "iq7880978643944000",
-        "title": "蛇女",
-        "teaser": "触犯禁忌蛇女复仇",
-        "year": "2025",
-        "genre": "",
-        "area": "",
-        "episodeText": "7.3",
-        "tags": [
-          "奇幻",
-          "动作",
-          "恐怖"
-        ],
-        "displayTitle": "蛇女",
-        "tmdbId": 1478029,
-        "mediaType": "movie",
-        "posterPath": "/nAiJpgPEa97Ipeil0begvxsTvjf.jpg",
-        "backdropPath": "/pHcVdudHe9Hv0uZDHHPDtgXbaPx.jpg",
-        "releaseDate": "2025-05-09",
-        "lastUpdateDate": "2025-05-09",
-        "rating": 7.0,
-        "voteCount": 2,
-        "popularity": 1.4156
-      },
-      {
-        "source": "iq",
-        "cid": "iq1766870553276400",
-        "title": "火遮眼",
-        "teaser": "谢苗打爆全球高手",
+        "cid": "iq2876265921208500",
+        "title": "战神戚继光之不让江山",
+        "teaser": "戚继光血战倭寇守横屿",
         "year": "2026",
         "genre": "",
         "area": "",
-        "episodeText": "8.3",
+        "episodeText": "8.1",
         "tags": [
-          "动作",
-          "犯罪",
-          "惊悚"
+          "历史",
+          "战争",
+          "剧情"
         ],
-        "displayTitle": "火遮眼",
-        "tmdbId": 1280738,
+        "displayTitle": "战神戚继光之不让江山",
+        "tmdbId": 1796449,
         "mediaType": "movie",
-        "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
-        "backdropPath": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
-        "releaseDate": "2026-06-10",
-        "lastUpdateDate": "2026-06-10",
-        "rating": 8.197,
-        "voteCount": 910,
-        "popularity": 27.7082
+        "posterPath": "/2uZ52YvqH93DHFINIdtv4naPPZV.jpg",
+        "backdropPath": "/5t3zadhOtiFCiDKl8IeJisyKXj4.jpg",
+        "releaseDate": "2026-10-13",
+        "lastUpdateDate": "2026-10-13",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 0.1976
       },
       {
         "source": "iq",
@@ -3778,6 +3733,56 @@
         "rating": 6.9,
         "voteCount": 10,
         "popularity": 0.9283
+      },
+      {
+        "source": "iq",
+        "cid": "iq7880978643944000",
+        "title": "蛇女",
+        "teaser": "触犯禁忌蛇女复仇",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "7.3",
+        "tags": [
+          "奇幻",
+          "动作",
+          "恐怖"
+        ],
+        "displayTitle": "蛇女",
+        "tmdbId": 1478029,
+        "mediaType": "movie",
+        "posterPath": "/nAiJpgPEa97Ipeil0begvxsTvjf.jpg",
+        "backdropPath": "/pHcVdudHe9Hv0uZDHHPDtgXbaPx.jpg",
+        "releaseDate": "2025-05-09",
+        "lastUpdateDate": "2025-05-09",
+        "rating": 7.0,
+        "voteCount": 2,
+        "popularity": 1.2568
+      },
+      {
+        "source": "iq",
+        "cid": "iq1766870553276400",
+        "title": "火遮眼",
+        "teaser": "谢苗打爆全球高手",
+        "year": "2026",
+        "genre": "",
+        "area": "",
+        "episodeText": "8.3",
+        "tags": [
+          "动作",
+          "犯罪",
+          "惊悚"
+        ],
+        "displayTitle": "火遮眼",
+        "tmdbId": 1280738,
+        "mediaType": "movie",
+        "posterPath": "/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
+        "backdropPath": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
+        "releaseDate": "2026-06-10",
+        "lastUpdateDate": "2026-06-10",
+        "rating": 8.197,
+        "voteCount": 910,
+        "popularity": 27.7082
       },
       {
         "source": "iq",
@@ -3982,7 +3987,7 @@
         "lastUpdateDate": "2025-12-12",
         "rating": 5.7,
         "voteCount": 7,
-        "popularity": 39.5848
+        "popularity": 44.4099
       },
       {
         "source": "qq",
@@ -4317,7 +4322,7 @@
         "lastUpdateDate": "2025-12-25",
         "rating": 9.0,
         "voteCount": 1,
-        "popularity": 4.0011,
+        "popularity": 3.8569,
         "alsoOn": [
           "iq"
         ]
@@ -4366,10 +4371,7 @@
         "lastUpdateDate": "2026-08-20",
         "rating": 6.0,
         "voteCount": 2,
-        "popularity": 14.0678,
-        "alsoOn": [
-          "iq"
-        ]
+        "popularity": 14.0678
       },
       {
         "source": "iq",
@@ -4721,7 +4723,7 @@
         "lastUpdateDate": "2026-06-26",
         "rating": 10.0,
         "voteCount": 1,
-        "popularity": 3.2701
+        "popularity": 3.0722
       },
       {
         "source": "iq",
@@ -4768,6 +4770,29 @@
         "rating": 5.2,
         "voteCount": 6,
         "popularity": 23.6285
+      },
+      {
+        "source": "iq",
+        "cid": "iq1381028777658501",
+        "title": "乐队的夏天第3季",
+        "teaser": "乐夏初舞台TOP10",
+        "year": "2025",
+        "genre": "",
+        "area": "",
+        "episodeText": "2025-08-28期",
+        "tags": [
+          "真人秀"
+        ],
+        "displayTitle": "乐队的夏天",
+        "tmdbId": 90756,
+        "mediaType": "tv",
+        "posterPath": "/4b6nrG6QYTG3bYyrXpk1wOFoNVy.jpg",
+        "backdropPath": "/wzJD2DrSWiaM27NH7Guk578DFwl.jpg",
+        "releaseDate": "2019-05-25",
+        "lastUpdateDate": "2023-10-31",
+        "rating": 8.4,
+        "voteCount": 5,
+        "popularity": 6.5984
       },
       {
         "source": "yk",
@@ -5610,7 +5635,7 @@
         "lastUpdateDate": "2026-10-22",
         "rating": 8.571,
         "voteCount": 7,
-        "popularity": 7.4099
+        "popularity": 7.6472
       },
       {
         "source": "iq",
@@ -5745,7 +5770,7 @@
         "lastUpdateDate": "2025-05-23",
         "rating": 8.0,
         "voteCount": 5,
-        "popularity": 0.8934
+        "popularity": 0.6841
       },
       {
         "source": "iq",
@@ -6591,7 +6616,7 @@
         "lastUpdateDate": "2025-08-26",
         "rating": 8.5,
         "voteCount": 2,
-        "popularity": 4.0276
+        "popularity": 4.1122
       },
       {
         "source": "bili",
@@ -7116,7 +7141,7 @@
         "lastUpdateDate": "2018-07-07",
         "rating": 6.083,
         "voteCount": 24,
-        "popularity": 14.3232
+        "popularity": 12.5295
       },
       {
         "source": "bili",
