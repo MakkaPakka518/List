@@ -82,7 +82,7 @@ def get_tv(path, params):
     return {"results": [dict(base, id=1, genre_ids=[18], popularity=10000), dict(base, id=2, poster_path=""),
                         dict(base, id=3, origin_country=["JP"]), dict(base, id=4)]}
 m.tmdb_get = get_tv
-m.tmdb_detail = lambda kind, ident: (["动画", "科幻"], "2026-11-24")
+m.tmdb_detail = lambda kind, ident: (["动画", "科幻"], "2026-11-24", ["CN"])
 tv = m.resolve(entry, "tv")
 tv_calls = list(calls); calls.clear()
 def get_movie(path, params):

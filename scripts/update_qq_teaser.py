@@ -379,7 +379,7 @@ BILI_LOW_AGE_STYLES = ("少儿", "儿童", "亲子", "早教", "低幼", "幼儿
 BILI_LOW_AGE_TITLE = re.compile(
     r"(?:宝宝巴士|贝乐虎|儿歌|睡前故事|学龄前|亲子|早教|低幼|幼儿|启蒙|识字|"
     r"红小豆|开心锤锤|叶罗丽|熊出没|喜羊羊|京剧猫|熊猫和小鼹鼠|"
-    r"不白吃|哆啦A梦|蜡笔小新|海绵宝宝|小猪佩奇|汪汪队|超级飞侠|巴啦啦小魔仙)"
+    r"不白吃|哆啦A梦|蜡笔小新|海绵宝宝|小猪佩奇|汪汪队|超级飞侠|巴啦啦小魔仙|大神探诸葛九九|诸葛九九|U探泰拉)"
 )
 BILI_LOW_AGE_DESC = re.compile(r"(?:宝宝|幼儿|学龄前|亲子|早教|儿歌|睡前故事|低幼)")
 
@@ -409,6 +409,12 @@ def anime_low_age_entry(entry):
         return True
     tags = [str(tag or "").strip() for tag in entry.get("tags") or []]
     return any(marker in tag for tag in tags for marker in ("儿童", "Kids", "少儿"))
+
+
+def anime_foreign_origin(entry):
+    """TMDB 原产地明确不在中国大陆/港澳台时排除；空值放行，交给标题匹配兜底。"""
+    regions = {str(code).strip() for code in entry.get("originCountry") or [] if str(code).strip()}
+    return bool(regions) and not bool(regions & CN_REGIONS)
 
 
 def bili_tmdb_allows(hit, detail_genres=()):
@@ -606,11 +612,12 @@ def resolve(entry, media_type):
                 backdrop = hit.get("backdrop_path") or ""
                 if not poster and not backdrop:
                     continue
-                genres, last_update = tmdb_detail(kind, hit["id"])
+                genres, last_update, origin = tmdb_detail(kind, hit["id"])
                 if entry.get("source") == "bili" and not bili_tmdb_allows(hit, genres):
                     continue
                 date = str(hit.get("first_air_date") or hit.get("release_date") or "")
                 return {
+                    "originCountry": origin or list(hit.get("origin_country") or []),
                     "tmdbId": hit["id"],
                     "mediaType": kind,
                     "posterPath": poster,
@@ -632,18 +639,19 @@ DETAIL_CACHE = {}
 
 
 def tmdb_detail(kind, tmdb_id):
-    """类型名 + last_air_date（与豆瓣热榜的最近更新同源），一次请求两个都要。"""
+    """类型名 + last_air_date + 原产地，一次请求三个都要。"""
     key = f"{kind}:{tmdb_id}"
     if key in DETAIL_CACHE:
         return DETAIL_CACHE[key]
-    genres, last_update = [], ""
+    genres, last_update, origin = [], "", []
     try:
         detail = tmdb_get(f"{kind}/{tmdb_id}", {"language": "zh-CN"})
         genres = [str(genre.get("name") or "").strip() for genre in detail.get("genres") or []]
         last_update = str(detail.get("last_air_date") or "").strip()
+        origin = [str(code).strip() for code in detail.get("origin_country") or [] if str(code).strip()]
     except Exception:
         pass
-    DETAIL_CACHE[key] = (genres, last_update)
+    DETAIL_CACHE[key] = (genres, last_update, origin)
     return DETAIL_CACHE[key]
 
 
@@ -714,9 +722,11 @@ def enrich(channels):
                     tags.append(name)
             merged.append({**entry, "displayTitle": display_title(entry), **match, "tags": tags[:10]})
         channels[channel] = dedupe(merged)
-    # 动漫频道统一排除低龄向作品；其他频道不套用这条规则。
+    # 动漫频道统一排除低龄向和非中国大陆/港澳台原产地作品；其他频道不套用。
     if "anime" in channels:
-        channels["anime"] = [entry for entry in channels["anime"] if not anime_low_age_entry(entry)]
+        channels["anime"] = [entry for entry in channels["anime"]
+                             if not anime_low_age_entry(entry)
+                             and not anime_foreign_origin(entry)]
     # 无海报的条目在卡片上没有意义，统一丢弃。
     for channel, entries in channels.items():
         channels[channel] = [entry for entry in entries if entry.get("posterPath") or entry.get("backdropPath")]
