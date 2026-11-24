@@ -370,6 +370,19 @@ def collect_yk(channel, category):
 BILI_API = "https://api.bilibili.com"
 BILI_HEADERS = {"User-Agent": "Mozilla/5.0", "Referer": "https://www.bilibili.com/"}
 
+# 哔哩哔哩国创榜会混进短剧、漫剧、动态漫和少儿向作品；只保留 TMDB 明确标成动画的条目。
+BILI_ANIMATION_GENRES = {16}
+BILI_KIDS_GENRES = {10762}
+BILI_REJECT_GENRES = {10763, 10764, 10766, 10767}
+BILI_REJECT_GENRE_NAMES = {"新闻", "真人秀", "脱口秀", "肥皂剧", "News", "Reality", "Talk", "Soap"}
+BILI_LOW_AGE_STYLES = ("少儿", "儿童", "亲子", "早教", "低幼", "幼儿", "益智", "启蒙", "儿歌", "睡前")
+BILI_LOW_AGE_TITLE = re.compile(
+    r"(?:宝宝巴士|贝乐虎|儿歌|睡前故事|学龄前|亲子|早教|低幼|幼儿|启蒙|识字|"
+    r"请吃红小豆|开心锤锤|精灵梦叶罗丽|熊出没|喜羊羊与灰太狼|京剧猫|熊猫和小鼹鼠|"
+    r"我是不白吃|哆啦A梦|蜡笔小新|海绵宝宝|小猪佩奇|汪汪队|超级飞侠|巴啦啦小魔仙)"
+)
+BILI_LOW_AGE_DESC = re.compile(r"(?:宝宝|幼儿|学龄前|亲子|早教|儿歌|睡前故事|低幼)")
+
 
 def bili_get(path, params):
     request = Request(BILI_API + path + "?" + urlencode(params), headers=BILI_HEADERS)
@@ -378,6 +391,30 @@ def bili_get(path, params):
     if body.get("code") != 0:
         raise RuntimeError(f"Bilibili {path}: {body.get('code')} {body.get('message')}")
     return body.get("result") or body.get("data") or {}
+
+
+def bili_low_age_entry(title, styles=(), desc=""):
+    """标题、B 站风格标签和简介只要命中明显低幼特征，就不进国创榜。"""
+    text = str(title or "")
+    if BILI_LOW_AGE_TITLE.search(text):
+        return True
+    if any(marker in str(style or "") for style in styles for marker in BILI_LOW_AGE_STYLES):
+        return True
+    return bool(BILI_LOW_AGE_DESC.search(str(desc or "")))
+
+
+def bili_tmdb_allows(hit, detail_genres=()):
+    """国创只认 TMDB 动画类型：genre_ids 或详情类型至少一个明确为动画，
+    同时排除儿童、真人秀、新闻、脱口秀等明显不是剧情动画的类型。"""
+    ids = set(hit.get("genre_ids") or [])
+    names = {str(name or "").strip() for name in detail_genres or []}
+    if not (ids & BILI_ANIMATION_GENRES or names & {"动画", "Animation"}):
+        return False
+    if ids & BILI_KIDS_GENRES or names & {"儿童", "Kids"}:
+        return False
+    if ids & BILI_REJECT_GENRES or names & BILI_REJECT_GENRE_NAMES:
+        return False
+    return True
 
 
 def parse_bili(item, season=None):
@@ -389,6 +426,8 @@ def parse_bili(item, season=None):
     if str(season.get("type") or 4) != "4":
         return None
     styles = [str(style).strip() for style in season.get("styles") or [] if str(style).strip()]
+    if bili_low_age_entry(title, styles, season.get("evaluate") or season.get("desc") or ""):
+        return None
     tags = ["国漫", "动画", "哔哩哔哩国创"] + styles
     if item.get("copyright") == "dujia" or item.get("badge") in ("独家", "独播"):
         tags.append("哔哩哔哩独播")
@@ -551,14 +590,14 @@ def resolve(entry, media_type):
                 continue
             # 首位候选没图时继续试下一位，全部没图才算匹配失败。
             for hit in ranked_matches(data.get("results"), names, entry["year"]):
-                if entry.get("source") == "bili" and 16 not in (hit.get("genre_ids") or []):
-                    continue
                 poster = hit.get("poster_path") or ""
                 backdrop = hit.get("backdrop_path") or ""
                 if not poster and not backdrop:
                     continue
-                date = str(hit.get("first_air_date") or hit.get("release_date") or "")
                 genres, last_update = tmdb_detail(kind, hit["id"])
+                if entry.get("source") == "bili" and not bili_tmdb_allows(hit, genres):
+                    continue
+                date = str(hit.get("first_air_date") or hit.get("release_date") or "")
                 return {
                     "tmdbId": hit["id"],
                     "mediaType": kind,
