@@ -70,18 +70,23 @@ def tmdb_episode_text(detail, today):
     return f"更新至{episode}{unit}"
 
 
-def with_douban_progress(info, text):
-    # TMDB 缓存按剧共享；豆瓣的集数属于当前榜单条目，不能写回缓存。
+def with_douban_fields(info, item):
+    # 同一 TMDB 剧可能对应不同豆瓣季条目，评分和集数都不写回 TMDB 缓存。
+    rating = item.get("rating") or {}
+    score = rating.get("value") if isinstance(rating, dict) else None
+    rated = type(score) in (float, int) and 0 < score <= 10 and rating.get("count") != 0
+    info = {**info, "doubanRating": score if rated else "暂无评分"}
     fallback = info.get("episodeText", "")
     if fallback.startswith("S"):
         return info
-    text = re.sub(r"\s+", "", text or "")
+    text = re.sub(r"\s+", "", item.get("episodes_info") or "")
     text = re.sub(r"^(\d+)(集|期)全$", r"全\1\2", text)
     match = re.fullmatch(r"(更新至|更至|全|共)第?(0*[1-9]\d*)(集|期)", text)
     if not match or (match[1] == "共" and fallback):
         return info
     prefix = "更新至" if match[1] == "更至" else match[1]
-    return {**info, "episodeText": f"{prefix}{match[2]}{match[3]}"}
+    info["episodeText"] = f"{prefix}{match[2]}{match[3]}"
+    return info
 
 async def fetch_douban_list(session, region):
     """请求豆瓣隐藏API，获取基础列表"""
@@ -115,7 +120,7 @@ async def fetch_tmdb_detail(session, item, cache):
 
     cache_key = f"{db_title}_{db_year}"
     if cache_key in cache: 
-        return with_douban_progress(cache[cache_key], item.get("episodes_info"))
+        return with_douban_fields(cache[cache_key], item)
 
     url = "https://api.themoviedb.org/3/search/tv"
     headers = {"accept": "application/json"}
@@ -205,7 +210,7 @@ async def fetch_tmdb_detail(session, item, cache):
                     if episode_text:
                         info["episodeText"] = episode_text
                     cache[cache_key] = info
-                    return with_douban_progress(info, item.get("episodes_info"))
+                    return with_douban_fields(info, item)
     except: pass
     return None
 

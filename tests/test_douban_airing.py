@@ -17,7 +17,13 @@ class AiringTests(unittest.TestCase):
         single = dict(details, last_episode_to_air=dict(ep, season_number=1), genres=[{"id":10764}])
         self.assertEqual(db.tmdb_episode_text(single, today), "更新至4期")
         self.assertEqual(db.tmdb_episode_text(dict(single, status="Ended", number_of_episodes=4, next_episode_to_air=None), today), "全4期")
-        self.assertEqual(db.with_douban_progress({"episodeText":"S02E04"}, "共10集")["episodeText"], "S02E04")
+        self.assertEqual(db.with_douban_fields({"episodeText":"S02E04"}, {"episodes_info":"共10集"})["episodeText"], "S02E04")
+
+    def test_douban_rating_is_distinct_from_tmdb_even_without_episode_info(self):
+        base = {"rating":7.1, "episodeText":"S02E04"}
+        for value, expected in [({"value":8.6,"count":59833},8.6), ({"value":0,"count":0},"暂无评分"), (None,"暂无评分"), ({},"暂无评分")]:
+            self.assertEqual(db.with_douban_fields(base, {"rating":value}), {**base, "doubanRating":expected})
+        self.assertNotIn("doubanRating", base)
 
     def test_matching_preserves_fields_and_does_not_cache_row_progress(self):
         raw = {"title":"两京十五日", "episodes_info":"更新至16集", "card_subtitle":"2026 / 中国大陆 / 剧情 古装"}
@@ -37,8 +43,9 @@ class AiringTests(unittest.TestCase):
 
         with patch.object(db, 'TMDB_API_KEY', 'test'):
             cache, session = {}, Session()
-            def row(text): return asyncio.run(db.fetch_tmdb_detail(session, dict(raw, episodes_info=text), cache))
-            a, b, c = row("更新至16集"), row("24集全"), row("")
+            def row(text, rating=None): return asyncio.run(db.fetch_tmdb_detail(session, dict(raw, episodes_info=text, rating=rating), cache))
+            a, b, c = row("更新至16集"), row("24集全", {"value":7.9,"count":96602}), row("")
+        self.assertEqual([r.pop("doubanRating") for r in (a,b,c)], ["暂无评分", 7.9, "暂无评分"])
         self.assertEqual(a.pop("episodeText"), "更新至16集")
         self.assertEqual(b.pop("episodeText"), "全24集")
         self.assertNotIn("episodeText", c)
