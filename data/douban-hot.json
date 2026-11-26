@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27 02:11:59",
+  "last_updated": "2026-11-27 02:21:10",
   "tv": [
     {
       "id": "203483",
@@ -10,12 +10,13 @@
       "vote_count": 7,
       "popularity": 22.1017,
       "releaseDate": "2026-11-20",
-      "lastUpdateDate": "2026-11-23",
+      "lastUpdateDate": "2026-11-25",
       "posterPath": "/oqHkgdVFO9LpGnwTx0zXZcUJ82p.jpg",
       "backdropPath": "/pFTGCQ3oVhFkuOCjnvCPeVsQBaL.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至16集"
+      "episodeText": "更新至16集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "303745",
@@ -31,7 +32,8 @@
       "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,剧情,犯罪",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 8.6
     },
     {
       "id": "270429",
@@ -47,7 +49,8 @@
       "backdropPath": "/eE1mgVSWHndxnqxLnld517AAU4g.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑,犯罪",
-      "episodeText": "更新至9集"
+      "episodeText": "更新至9集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "307853",
@@ -63,7 +66,8 @@
       "backdropPath": "/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": 7.9
     },
     {
       "id": "279155",
@@ -79,7 +83,8 @@
       "backdropPath": "/o86BFQMuXs0v0eZpAhlzj81Gp6U.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全30集"
+      "episodeText": "全30集",
+      "doubanRating": 6.3
     },
     {
       "id": "285625",
@@ -95,7 +100,8 @@
       "backdropPath": "/nhQKKALP3SOi1Ft5MZU6KU05VcY.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全29集"
+      "episodeText": "全29集",
+      "doubanRating": 8.1
     },
     {
       "id": "300146",
@@ -111,7 +117,8 @@
       "backdropPath": "/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全30集"
+      "episodeText": "全30集",
+      "doubanRating": 6.7
     },
     {
       "id": "289080",
@@ -127,7 +134,8 @@
       "backdropPath": "/mj31Fi0rza3NfKhVRfBJDwRJy1w.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全22集"
+      "episodeText": "全22集",
+      "doubanRating": 7.8
     },
     {
       "id": "297253",
@@ -143,7 +151,8 @@
       "backdropPath": "/8G0SQhC1zwKIRbgaxx4HTRakVpO.jpg",
       "mediaType": "tv",
       "genreTitle": "战争政治",
-      "episodeText": "全60集"
+      "episodeText": "全60集",
+      "doubanRating": 8.8
     },
     {
       "id": "291507",
@@ -159,7 +168,8 @@
       "backdropPath": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.5
     },
     {
       "id": "318349",
@@ -175,7 +185,8 @@
       "backdropPath": "/4YguelPz6c9zzGfh29HYHVOsyyN.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至16集"
+      "episodeText": "更新至16集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "282326",
@@ -191,7 +202,8 @@
       "backdropPath": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,家庭",
-      "episodeText": "全47集"
+      "episodeText": "全47集",
+      "doubanRating": 7.6
     },
     {
       "id": "293610",
@@ -207,7 +219,8 @@
       "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,剧情,犯罪",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 8.0
     },
     {
       "id": "299276",
@@ -223,7 +236,8 @@
       "backdropPath": "/idx5Alvalsje6j85BueoQc3OwHj.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全25集"
+      "episodeText": "全25集",
+      "doubanRating": 7.0
     },
     {
       "id": "261315",
@@ -239,7 +253,8 @@
       "backdropPath": "/msJpPeZiqSxXXKJ0IiuOOOv7s9p.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至22集"
+      "episodeText": "更新至22集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "286171",
@@ -255,7 +270,8 @@
       "backdropPath": "/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全40集"
+      "episodeText": "全40集",
+      "doubanRating": 6.5
     },
     {
       "id": "279246",
@@ -271,7 +287,8 @@
       "backdropPath": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,科幻奇幻",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 6.0
     },
     {
       "id": "213375",
@@ -287,7 +304,8 @@
       "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "mediaType": "tv",
       "genreTitle": "科幻奇幻,剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 8.6
     },
     {
       "id": "275297",
@@ -303,7 +321,8 @@
       "backdropPath": "/rnv1xmBVexTmObJXWb0NuVsg4y9.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,喜剧",
-      "episodeText": "全40集"
+      "episodeText": "全40集",
+      "doubanRating": 6.6
     },
     {
       "id": "301494",
@@ -319,7 +338,8 @@
       "backdropPath": "/6RKO6EX15uF0locEPHzvm4Za43n.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪",
-      "episodeText": "全34集"
+      "episodeText": "全34集",
+      "doubanRating": 7.8
     },
     {
       "id": "283319",
@@ -335,7 +355,8 @@
       "backdropPath": "/woa9xtYfw1dib4JLnvQdLSZK0D2.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,犯罪",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 8.3
     },
     {
       "id": "279923",
@@ -351,7 +372,8 @@
       "backdropPath": "/sQi1ZDSvFEslAEKn5QHfx5zKbIt.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,犯罪",
-      "episodeText": "全18集"
+      "episodeText": "全18集",
+      "doubanRating": 7.4
     },
     {
       "id": "300523",
@@ -367,7 +389,8 @@
       "backdropPath": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,悬疑",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 6.6
     },
     {
       "id": "289517",
@@ -383,7 +406,8 @@
       "backdropPath": "/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 6.5
     },
     {
       "id": "289078",
@@ -399,7 +423,8 @@
       "backdropPath": "/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": 7.3
     },
     {
       "id": "299952",
@@ -415,7 +440,8 @@
       "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": 6.6
     },
     {
       "id": "294498",
@@ -431,7 +457,8 @@
       "backdropPath": "/4FvpXjrYGlzoVL2H4WP4iUaFMPm.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,家庭",
-      "episodeText": "更新至18集"
+      "episodeText": "更新至18集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "270431",
@@ -447,7 +474,8 @@
       "backdropPath": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全27集"
+      "episodeText": "全27集",
+      "doubanRating": 4.7
     },
     {
       "id": "304452",
@@ -463,7 +491,8 @@
       "backdropPath": "/vD84yLJVVd7cC2lKF8sEukQG2A3.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全40集"
+      "episodeText": "全40集",
+      "doubanRating": 6.5
     },
     {
       "id": "300527",
@@ -479,7 +508,8 @@
       "backdropPath": "/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 8.3
     },
     {
       "id": "330613",
@@ -495,7 +525,8 @@
       "backdropPath": "/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑,科幻奇幻",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 7.7
     },
     {
       "id": "299939",
@@ -511,7 +542,8 @@
       "backdropPath": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 7.3
     },
     {
       "id": "292044",
@@ -527,6 +559,7 @@
       "backdropPath": "/hTe2SoQZoKMzkxbUf2jp6dwuOU0.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
+      "doubanRating": "暂无评分",
       "episodeText": "更新至4集"
     },
     {
@@ -543,7 +576,8 @@
       "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,剧情",
-      "episodeText": "更新至14集"
+      "episodeText": "更新至14集",
+      "doubanRating": 8.0
     },
     {
       "id": "294446",
@@ -559,7 +593,8 @@
       "backdropPath": "/6Iha7gx0lTdrv6x7dECtjB8YnLA.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全28集"
+      "episodeText": "全28集",
+      "doubanRating": 6.5
     },
     {
       "id": "288673",
@@ -575,7 +610,8 @@
       "backdropPath": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,剧情,科幻奇幻",
-      "episodeText": "S01E08"
+      "episodeText": "S01E08",
+      "doubanRating": 7.8
     },
     {
       "id": "336198",
@@ -591,7 +627,8 @@
       "backdropPath": "/otAjrxhSbGWtJQFpVqkQPYfJxCw.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "303552",
@@ -607,7 +644,8 @@
       "backdropPath": "/uM1UWqjY4bGtiSRqYTVtAraRPnh.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,悬疑,剧情",
-      "episodeText": "更新至2集"
+      "episodeText": "更新至2集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "294486",
@@ -623,7 +661,8 @@
       "backdropPath": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全40集"
+      "episodeText": "全40集",
+      "doubanRating": 7.2
     },
     {
       "id": "307106",
@@ -639,7 +678,8 @@
       "backdropPath": "/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,喜剧",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 7.6
     },
     {
       "id": "298852",
@@ -655,7 +695,8 @@
       "backdropPath": "/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.5
     },
     {
       "id": "208929",
@@ -671,7 +712,8 @@
       "backdropPath": "/bx0rz8YsuZtNXiv6DDzkA9cPaeY.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 9.5
     },
     {
       "id": "294636",
@@ -687,7 +729,8 @@
       "backdropPath": "/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 8.0
     },
     {
       "id": "290863",
@@ -703,7 +746,8 @@
       "backdropPath": "/28u4q3fPzXmbyf3BoiWweUOuuzj.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪",
-      "episodeText": "全18集"
+      "episodeText": "全18集",
+      "doubanRating": 6.9
     },
     {
       "id": "312661",
@@ -719,7 +763,8 @@
       "backdropPath": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 6.1
     },
     {
       "id": "297982",
@@ -735,7 +780,8 @@
       "backdropPath": "/o91jmFILQk1UAqPbpEjT3D3OxoO.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全20集"
+      "episodeText": "全20集",
+      "doubanRating": 6.1
     },
     {
       "id": "301489",
@@ -751,7 +797,8 @@
       "backdropPath": "/s9YSQAJtXjimsjBVsqLtJNnIjEs.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,剧情,犯罪",
-      "episodeText": "全16集"
+      "episodeText": "全16集",
+      "doubanRating": 7.1
     },
     {
       "id": "259785",
@@ -767,7 +814,8 @@
       "backdropPath": "/zBO9dnA1APQHyWYkQrkmavu1oWk.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全48集"
+      "episodeText": "全48集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "311648",
@@ -783,7 +831,8 @@
       "backdropPath": "/4vqJTCRzckYrsqqaXCiN1ObJBNL.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,喜剧",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 7.5
     },
     {
       "id": "290826",
@@ -799,7 +848,8 @@
       "backdropPath": "/apHJDHRa0LMtZlcMvKK74InRMfc.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧",
-      "episodeText": "更新至10集"
+      "episodeText": "更新至10集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "335326",
@@ -815,7 +865,8 @@
       "backdropPath": "/se2W0UpEsTTkQuAqz7zI5eIB5ri.jpg",
       "mediaType": "tv",
       "genreTitle": "",
-      "episodeText": "S10E02"
+      "episodeText": "S10E02",
+      "doubanRating": 9.5
     },
     {
       "id": "213562",
@@ -831,7 +882,8 @@
       "backdropPath": "/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.2
     },
     {
       "id": "326247",
@@ -846,7 +898,8 @@
       "posterPath": "/id15rr4VKQOrxBBBgMe7MfITzTT.jpg",
       "backdropPath": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
       "mediaType": "tv",
-      "genreTitle": "动画,剧情,科幻奇幻,悬疑"
+      "genreTitle": "动画,剧情,科幻奇幻,悬疑",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "332683",
@@ -862,7 +915,8 @@
       "backdropPath": "/4Htao8kvzIdGVImpD614CCQgjDc.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 7.6
     },
     {
       "id": "339439",
@@ -878,7 +932,8 @@
       "backdropPath": "/fQcvCzc1ftR401QeUjprgEFS9oN.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "S06E06"
+      "episodeText": "S06E06",
+      "doubanRating": 8.7
     },
     {
       "id": "307176",
@@ -894,7 +949,8 @@
       "backdropPath": "/q7VXA2jZ88Dvp7TPbqNVWwR94ik.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,犯罪,剧情",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 8.4
     },
     {
       "id": "294990",
@@ -910,7 +966,8 @@
       "backdropPath": "/k3aKIWf48yCKnbCjk2b2Tea32Vk.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全30集"
+      "episodeText": "全30集",
+      "doubanRating": 5.4
     },
     {
       "id": "277910",
@@ -926,7 +983,8 @@
       "backdropPath": "/9BhaeMG3jNvRC9FrdpHAeDtboPN.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": 6.5
     },
     {
       "id": "290699",
@@ -942,7 +1000,8 @@
       "backdropPath": "/Amn1fw4akG9jOZNTP1J4Xadry4T.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全30集"
+      "episodeText": "全30集",
+      "doubanRating": 6.4
     },
     {
       "id": "288328",
@@ -958,7 +1017,8 @@
       "backdropPath": "/q48icceyDIuAZC9wL66ZEQF03oj.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 6.2
     },
     {
       "id": "308007",
@@ -974,7 +1034,8 @@
       "backdropPath": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "332911",
@@ -990,7 +1051,8 @@
       "backdropPath": "/ndewFqwioUF7o9iKoxtUm67Reum.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 7.2
     },
     {
       "id": "303044",
@@ -1006,7 +1068,8 @@
       "backdropPath": "/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 6.7
     },
     {
       "id": "283938",
@@ -1022,7 +1085,8 @@
       "backdropPath": "/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,喜剧",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 8.3
     },
     {
       "id": "272938",
@@ -1038,7 +1102,8 @@
       "backdropPath": "/8zsKL8gDjv7NI7HHk4POIBMl2jE.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,动作冒险,科幻奇幻",
-      "episodeText": "全30集"
+      "episodeText": "全30集",
+      "doubanRating": 5.9
     },
     {
       "id": "311842",
@@ -1054,7 +1119,8 @@
       "backdropPath": "/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,喜剧",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 8.1
     },
     {
       "id": "289423",
@@ -1070,7 +1136,8 @@
       "backdropPath": "/cnb3SelfQKewpo0bw4HCNRHjwY4.jpg",
       "mediaType": "tv",
       "genreTitle": "科幻奇幻,喜剧,剧情",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 7.1
     },
     {
       "id": "304862",
@@ -1086,7 +1153,8 @@
       "backdropPath": "/zK09u5Fp5vg0FWxRz2JGdkfUFZ6.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至14集"
+      "episodeText": "更新至14集",
+      "doubanRating": 7.2
     },
     {
       "id": "334323",
@@ -1102,7 +1170,8 @@
       "backdropPath": "/jb5b3OUZwer2bj26F1UVEtRLtBZ.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 7.5
     },
     {
       "id": "310209",
@@ -1118,7 +1187,8 @@
       "backdropPath": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,喜剧",
-      "episodeText": "更新至1集"
+      "episodeText": "更新至1集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "332261",
@@ -1134,7 +1204,8 @@
       "backdropPath": "/7xTvFsxac5k3xIH0cTOkNsEDcm1.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.3
     },
     {
       "id": "293607",
@@ -1150,7 +1221,8 @@
       "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,剧情",
-      "episodeText": "更新至14集"
+      "episodeText": "更新至14集",
+      "doubanRating": 7.2
     },
     {
       "id": "286988",
@@ -1166,7 +1238,8 @@
       "backdropPath": "/aYtWVJ5mUkPRFghrCHbc3I2v4WE.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,喜剧",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": 6.0
     },
     {
       "id": "275102",
@@ -1182,7 +1255,8 @@
       "backdropPath": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 5.5
     },
     {
       "id": "314939",
@@ -1198,7 +1272,8 @@
       "backdropPath": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全14集"
+      "episodeText": "全14集",
+      "doubanRating": 5.2
     },
     {
       "id": "298546",
@@ -1214,7 +1289,8 @@
       "backdropPath": "/8XzT2RtggYp9qfASQfEX83Os45P.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,科幻奇幻",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 6.8
     },
     {
       "id": "290720",
@@ -1230,7 +1306,8 @@
       "backdropPath": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,悬疑",
-      "episodeText": "全4集"
+      "episodeText": "全4集",
+      "doubanRating": 6.2
     },
     {
       "id": "330828",
@@ -1246,7 +1323,8 @@
       "backdropPath": "/jU6Tn28XPsqbY1dhPMnfSqt8R5X.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全35集"
+      "episodeText": "全35集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "254630",
@@ -1262,7 +1340,8 @@
       "backdropPath": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,犯罪,剧情",
-      "episodeText": "更新至3集"
+      "episodeText": "更新至3集",
+      "doubanRating": 6.7
     },
     {
       "id": "332713",
@@ -1278,7 +1357,8 @@
       "backdropPath": "/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 6.1
     },
     {
       "id": "289761",
@@ -1294,7 +1374,8 @@
       "backdropPath": "/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全22集"
+      "episodeText": "全22集",
+      "doubanRating": 6.5
     },
     {
       "id": "298008",
@@ -1310,7 +1391,8 @@
       "backdropPath": "/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 6.2
     },
     {
       "id": "329490",
@@ -1326,7 +1408,8 @@
       "backdropPath": "/blB4qv0LlOUriouoPqkFJlLe6Ki.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 7.1
     },
     {
       "id": "283428",
@@ -1342,7 +1425,8 @@
       "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,剧情",
-      "episodeText": "更新至22集"
+      "episodeText": "更新至22集",
+      "doubanRating": 8.5
     },
     {
       "id": "286686",
@@ -1358,7 +1442,8 @@
       "backdropPath": "/7HXIhc3aRr1v7KmOrCulszXf3YP.jpg",
       "mediaType": "tv",
       "genreTitle": "家庭,剧情",
-      "episodeText": "全26集"
+      "episodeText": "全26集",
+      "doubanRating": 6.1
     },
     {
       "id": "312663",
@@ -1374,7 +1459,8 @@
       "backdropPath": "/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,喜剧,犯罪",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 6.6
     },
     {
       "id": "303630",
@@ -1390,7 +1476,8 @@
       "backdropPath": "/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 8.5
     },
     {
       "id": "300507",
@@ -1406,7 +1493,8 @@
       "backdropPath": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 6.8
     },
     {
       "id": "294487",
@@ -1422,7 +1510,8 @@
       "backdropPath": "/xirWeEiatY915u837oq1l2t4oPP.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全13集"
+      "episodeText": "全13集",
+      "doubanRating": 6.8
     },
     {
       "id": "333359",
@@ -1438,7 +1527,8 @@
       "backdropPath": "/6oGPrA82ioCLQq9Jtg6SSGdYfNw.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 7.0
     },
     {
       "id": "284580",
@@ -1454,7 +1544,8 @@
       "backdropPath": "/dANKBnapgjG7QmXeRZ6xQg8czX0.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,动作冒险,悬疑,科幻奇幻",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 7.9
     },
     {
       "id": "334470",
@@ -1470,7 +1561,8 @@
       "backdropPath": "/c5nYh3atmgiUCpvVnS28lYxDopL.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,剧情",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 7.3
     },
     {
       "id": "195909",
@@ -1486,7 +1578,8 @@
       "backdropPath": "/2tXCjlUwsb7eAGh3ypnvAvQ3rCG.jpg",
       "mediaType": "tv",
       "genreTitle": "科幻奇幻,动作冒险",
-      "episodeText": "更新至13集"
+      "episodeText": "更新至13集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "305644",
@@ -1502,7 +1595,8 @@
       "backdropPath": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 7.4
     },
     {
       "id": "326202",
@@ -1518,6 +1612,7 @@
       "backdropPath": "/734t4vkmpONvvzVGniF5vavmaTM.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
+      "doubanRating": "暂无评分",
       "episodeText": "更新至8集"
     },
     {
@@ -1534,7 +1629,8 @@
       "backdropPath": "/4LG8B2AkdFNidV8EQn6J3GH68lF.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,剧情",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "249565",
@@ -1550,7 +1646,8 @@
       "backdropPath": "/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪,悬疑",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 7.4
     },
     {
       "id": "290193",
@@ -1566,7 +1663,8 @@
       "backdropPath": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情,悬疑",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 6.5
     },
     {
       "id": "321958",
@@ -1582,7 +1680,8 @@
       "backdropPath": "/wywNNHCRHJ129yTGTYBujnP4vRq.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪",
-      "episodeText": "更新至9集"
+      "episodeText": "更新至9集",
+      "doubanRating": 7.2
     },
     {
       "id": "339992",
@@ -1598,7 +1697,8 @@
       "backdropPath": "/hlGmzeIIExFrRQ0XUO4oXjTpFqM.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑,犯罪",
-      "episodeText": "更新至5集"
+      "episodeText": "更新至5集",
+      "doubanRating": 7.2
     },
     {
       "id": "336240",
@@ -1614,7 +1714,8 @@
       "backdropPath": "/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "全4集"
+      "episodeText": "全4集",
+      "doubanRating": 6.1
     },
     {
       "id": "303182",
@@ -1630,7 +1731,8 @@
       "backdropPath": "/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,悬疑,剧情",
-      "episodeText": "全3集"
+      "episodeText": "全3集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "336243",
@@ -1646,7 +1748,8 @@
       "backdropPath": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,犯罪",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "317331",
@@ -1662,7 +1765,8 @@
       "backdropPath": "/afJUPDQm4ZegjxGwNNGertKs2wo.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "全3集"
+      "episodeText": "全3集",
+      "doubanRating": 6.7
     },
     {
       "id": "331912",
@@ -1678,7 +1782,8 @@
       "backdropPath": "/vOcBrexR7gL1FTsJfziwQzb2ocr.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全25集"
+      "episodeText": "全25集",
+      "doubanRating": 6.4
     },
     {
       "id": "272130",
@@ -1694,7 +1799,8 @@
       "backdropPath": "/v72KNIc87dytEEC3EaZJvp5VPdr.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 6.0
     },
     {
       "id": "318445",
@@ -1710,7 +1816,8 @@
       "backdropPath": "/iAlEIgE5Tx56kzuaYpLPV63hJwN.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,科幻奇幻",
-      "episodeText": "更新至11集"
+      "episodeText": "更新至11集",
+      "doubanRating": 7.5
     },
     {
       "id": "319659",
@@ -1726,7 +1833,8 @@
       "backdropPath": "/nr1uqvJs4kqtGcBTwIAew5OiSXI.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "全26集"
+      "episodeText": "全26集",
+      "doubanRating": 4.4
     },
     {
       "id": "320513",
@@ -1742,7 +1850,8 @@
       "backdropPath": "/f2XoQ4503j04kyPFIA6qqweZaRE.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 5.3
     },
     {
       "id": "333533",
@@ -1758,7 +1867,8 @@
       "backdropPath": "/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全3集"
+      "episodeText": "全3集",
+      "doubanRating": 7.8
     },
     {
       "id": "314360",
@@ -1774,7 +1884,8 @@
       "backdropPath": "/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,科幻奇幻,悬疑",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 6.5
     },
     {
       "id": "201596",
@@ -1790,7 +1901,8 @@
       "backdropPath": "/zys6h8TehDtnL5YQSldSYlVkNY1.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至12集"
+      "episodeText": "更新至12集",
+      "doubanRating": 6.9
     },
     {
       "id": "292741",
@@ -1806,7 +1918,8 @@
       "backdropPath": "/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情,悬疑",
-      "episodeText": "更新至5集"
+      "episodeText": "更新至5集",
+      "doubanRating": 7.4
     },
     {
       "id": "333357",
@@ -1822,7 +1935,8 @@
       "backdropPath": "/v5RH4TCQSsvEahVqy3pGMFC0x12.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.5
     },
     {
       "id": "285322",
@@ -1838,7 +1952,8 @@
       "backdropPath": "/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 5.6
     },
     {
       "id": "314478",
@@ -1854,7 +1969,8 @@
       "backdropPath": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,喜剧",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.3
     },
     {
       "id": "285250",
@@ -1870,7 +1986,8 @@
       "backdropPath": "/32quYTPi9s0SUITI6xUVkYR1bwf.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全21集"
+      "episodeText": "全21集",
+      "doubanRating": 6.2
     },
     {
       "id": "316197",
@@ -1886,7 +2003,8 @@
       "backdropPath": "/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,剧情,科幻奇幻",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 5.5
     },
     {
       "id": "258230",
@@ -1902,7 +2020,8 @@
       "backdropPath": "/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情,悬疑",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 6.6
     },
     {
       "id": "273207",
@@ -1918,7 +2037,8 @@
       "backdropPath": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑,犯罪",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.6
     },
     {
       "id": "334689",
@@ -1934,7 +2054,8 @@
       "backdropPath": "/tTy21VBrZrjxtTNIpx8TY5QWlf2.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至1集"
+      "episodeText": "更新至1集",
+      "doubanRating": 6.5
     },
     {
       "id": "288385",
@@ -1950,7 +2071,8 @@
       "backdropPath": "/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,剧情",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 7.6
     },
     {
       "id": "284833",
@@ -1966,7 +2088,8 @@
       "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,动作冒险,科幻奇幻,家庭",
-      "episodeText": "S01E13"
+      "episodeText": "S01E13",
+      "doubanRating": 7.2
     },
     {
       "id": "239618",
@@ -1982,7 +2105,8 @@
       "backdropPath": "/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.1
     },
     {
       "id": "312523",
@@ -1998,7 +2122,8 @@
       "backdropPath": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全7集"
+      "episodeText": "全7集",
+      "doubanRating": 6.7
     },
     {
       "id": "314271",
@@ -2014,7 +2139,8 @@
       "backdropPath": "/ygjcwHWhhCaNPaPP965Du7eR2gO.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,西部,科幻奇幻",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "311955",
@@ -2030,7 +2156,8 @@
       "backdropPath": "/iWeUBHcVZANmKptWXAwm7BG2q5K.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 6.8
     },
     {
       "id": "301354",
@@ -2046,7 +2173,8 @@
       "backdropPath": "/ohxUMg44IaMTtdaSmPn1M1QW3Js.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,战争政治",
-      "episodeText": "更新至4集"
+      "episodeText": "更新至4集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "312359",
@@ -2062,7 +2190,8 @@
       "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,动作冒险,科幻奇幻",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 8.4
     },
     {
       "id": "330629",
@@ -2078,7 +2207,8 @@
       "backdropPath": "/qG4Bw5eEM7YkcvnfFbjrXYhbrhE.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "更新至3集"
+      "episodeText": "更新至3集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "285418",
@@ -2094,7 +2224,8 @@
       "backdropPath": "/iEISXRsDv8Q2PA6i9cAQd2DH9bN.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.3
     },
     {
       "id": "335536",
@@ -2110,7 +2241,8 @@
       "backdropPath": "/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全4集"
+      "episodeText": "全4集",
+      "doubanRating": 8.4
     },
     {
       "id": "283371",
@@ -2126,7 +2258,8 @@
       "backdropPath": "/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 6.5
     },
     {
       "id": "334678",
@@ -2142,7 +2275,8 @@
       "backdropPath": "/2Z8xvQTkrngX0xqwPoWxlKxVacZ.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 6.6
     },
     {
       "id": "319851",
@@ -2158,7 +2292,8 @@
       "backdropPath": "/s5LxNwZbxxAXzycv3EOCe1NeslO.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 7.3
     },
     {
       "id": "331616",
@@ -2174,7 +2309,8 @@
       "backdropPath": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片,犯罪",
-      "episodeText": "全3集"
+      "episodeText": "全3集",
+      "doubanRating": 7.2
     },
     {
       "id": "303351",
@@ -2190,7 +2326,8 @@
       "backdropPath": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪,悬疑",
-      "episodeText": "更新至5集"
+      "episodeText": "更新至5集",
+      "doubanRating": 6.4
     },
     {
       "id": "332637",
@@ -2206,7 +2343,8 @@
       "backdropPath": "/hIo7Czcpt5Y49t4pxFQzhvV61cj.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至1集"
+      "episodeText": "更新至1集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "321532",
@@ -2222,7 +2360,8 @@
       "backdropPath": "/fnogO4CrrkMX5YEr6iCN0eTUq2C.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,悬疑",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 7.0
     },
     {
       "id": "325755",
@@ -2238,7 +2377,8 @@
       "backdropPath": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "S01E07"
+      "episodeText": "S01E07",
+      "doubanRating": 6.5
     },
     {
       "id": "330628",
@@ -2254,7 +2394,8 @@
       "backdropPath": "/4poiW4klQUQvkNlCahw3Gj4s2Qq.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至4集"
+      "episodeText": "更新至4集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "318312",
@@ -2270,7 +2411,8 @@
       "backdropPath": "/aBbxjY4j3PmZaz3XCOx0pzeptE3.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 5.8
     },
     {
       "id": "284558",
@@ -2286,7 +2428,8 @@
       "backdropPath": "/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 6.6
     },
     {
       "id": "331312",
@@ -2302,7 +2445,8 @@
       "backdropPath": "/908qFMajEt5hHRLAq4azMutO5Rq.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪,动作冒险",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 5.5
     },
     {
       "id": "328010",
@@ -2318,7 +2462,8 @@
       "backdropPath": "/fA6eLsm6xEBK90IK3UNWoVPZBn7.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,科幻奇幻,动画",
-      "episodeText": "更新至4集"
+      "episodeText": "更新至4集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "301626",
@@ -2334,7 +2479,8 @@
       "backdropPath": "/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "全4集"
+      "episodeText": "全4集",
+      "doubanRating": 6.6
     },
     {
       "id": "262486",
@@ -2350,7 +2496,8 @@
       "backdropPath": "/oQvuolwM1lKpfXphNf2FTfFNL1c.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 7.2
     }
   ],
   "tv_domestic": [
@@ -2363,12 +2510,13 @@
       "vote_count": 7,
       "popularity": 22.1017,
       "releaseDate": "2026-11-20",
-      "lastUpdateDate": "2026-11-23",
+      "lastUpdateDate": "2026-11-25",
       "posterPath": "/oqHkgdVFO9LpGnwTx0zXZcUJ82p.jpg",
       "backdropPath": "/pFTGCQ3oVhFkuOCjnvCPeVsQBaL.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至16集"
+      "episodeText": "更新至16集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "307853",
@@ -2384,7 +2532,8 @@
       "backdropPath": "/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": 7.9
     },
     {
       "id": "270429",
@@ -2400,7 +2549,8 @@
       "backdropPath": "/eE1mgVSWHndxnqxLnld517AAU4g.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑,犯罪",
-      "episodeText": "更新至9集"
+      "episodeText": "更新至9集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "279155",
@@ -2416,7 +2566,8 @@
       "backdropPath": "/o86BFQMuXs0v0eZpAhlzj81Gp6U.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全30集"
+      "episodeText": "全30集",
+      "doubanRating": 6.3
     },
     {
       "id": "285625",
@@ -2432,7 +2583,8 @@
       "backdropPath": "/nhQKKALP3SOi1Ft5MZU6KU05VcY.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全29集"
+      "episodeText": "全29集",
+      "doubanRating": 8.1
     },
     {
       "id": "300146",
@@ -2448,7 +2600,8 @@
       "backdropPath": "/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全30集"
+      "episodeText": "全30集",
+      "doubanRating": 6.7
     },
     {
       "id": "289080",
@@ -2464,7 +2617,8 @@
       "backdropPath": "/mj31Fi0rza3NfKhVRfBJDwRJy1w.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全22集"
+      "episodeText": "全22集",
+      "doubanRating": 7.8
     },
     {
       "id": "297253",
@@ -2480,7 +2634,8 @@
       "backdropPath": "/8G0SQhC1zwKIRbgaxx4HTRakVpO.jpg",
       "mediaType": "tv",
       "genreTitle": "战争政治",
-      "episodeText": "全60集"
+      "episodeText": "全60集",
+      "doubanRating": 8.8
     },
     {
       "id": "318349",
@@ -2496,7 +2651,8 @@
       "backdropPath": "/4YguelPz6c9zzGfh29HYHVOsyyN.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至16集"
+      "episodeText": "更新至16集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "282326",
@@ -2512,7 +2668,8 @@
       "backdropPath": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,家庭",
-      "episodeText": "全47集"
+      "episodeText": "全47集",
+      "doubanRating": 7.6
     },
     {
       "id": "299276",
@@ -2528,7 +2685,8 @@
       "backdropPath": "/idx5Alvalsje6j85BueoQc3OwHj.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全25集"
+      "episodeText": "全25集",
+      "doubanRating": 7.0
     },
     {
       "id": "261315",
@@ -2544,7 +2702,8 @@
       "backdropPath": "/msJpPeZiqSxXXKJ0IiuOOOv7s9p.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至22集"
+      "episodeText": "更新至22集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "286171",
@@ -2560,7 +2719,8 @@
       "backdropPath": "/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全40集"
+      "episodeText": "全40集",
+      "doubanRating": 6.5
     },
     {
       "id": "275297",
@@ -2576,7 +2736,8 @@
       "backdropPath": "/rnv1xmBVexTmObJXWb0NuVsg4y9.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,喜剧",
-      "episodeText": "全40集"
+      "episodeText": "全40集",
+      "doubanRating": 6.6
     },
     {
       "id": "301494",
@@ -2592,7 +2753,8 @@
       "backdropPath": "/6RKO6EX15uF0locEPHzvm4Za43n.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪",
-      "episodeText": "全34集"
+      "episodeText": "全34集",
+      "doubanRating": 7.8
     },
     {
       "id": "279923",
@@ -2608,7 +2770,8 @@
       "backdropPath": "/sQi1ZDSvFEslAEKn5QHfx5zKbIt.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,犯罪",
-      "episodeText": "全18集"
+      "episodeText": "全18集",
+      "doubanRating": 7.4
     },
     {
       "id": "289078",
@@ -2624,7 +2787,8 @@
       "backdropPath": "/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": 7.3
     },
     {
       "id": "299952",
@@ -2640,7 +2804,8 @@
       "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": 6.6
     },
     {
       "id": "294498",
@@ -2656,7 +2821,8 @@
       "backdropPath": "/4FvpXjrYGlzoVL2H4WP4iUaFMPm.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,家庭",
-      "episodeText": "更新至18集"
+      "episodeText": "更新至18集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "270431",
@@ -2672,7 +2838,8 @@
       "backdropPath": "/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全27集"
+      "episodeText": "全27集",
+      "doubanRating": 4.7
     },
     {
       "id": "304452",
@@ -2688,7 +2855,8 @@
       "backdropPath": "/vD84yLJVVd7cC2lKF8sEukQG2A3.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全40集"
+      "episodeText": "全40集",
+      "doubanRating": 6.5
     },
     {
       "id": "292044",
@@ -2704,6 +2872,7 @@
       "backdropPath": "/hTe2SoQZoKMzkxbUf2jp6dwuOU0.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
+      "doubanRating": "暂无评分",
       "episodeText": "更新至4集"
     },
     {
@@ -2720,7 +2889,8 @@
       "backdropPath": "/6Iha7gx0lTdrv6x7dECtjB8YnLA.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全28集"
+      "episodeText": "全28集",
+      "doubanRating": 6.5
     },
     {
       "id": "336198",
@@ -2736,7 +2906,8 @@
       "backdropPath": "/otAjrxhSbGWtJQFpVqkQPYfJxCw.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "294486",
@@ -2752,7 +2923,8 @@
       "backdropPath": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全40集"
+      "episodeText": "全40集",
+      "doubanRating": 7.2
     },
     {
       "id": "290863",
@@ -2768,7 +2940,8 @@
       "backdropPath": "/28u4q3fPzXmbyf3BoiWweUOuuzj.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪",
-      "episodeText": "全18集"
+      "episodeText": "全18集",
+      "doubanRating": 6.9
     },
     {
       "id": "312661",
@@ -2784,7 +2957,8 @@
       "backdropPath": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 6.1
     },
     {
       "id": "297982",
@@ -2800,7 +2974,8 @@
       "backdropPath": "/o91jmFILQk1UAqPbpEjT3D3OxoO.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全20集"
+      "episodeText": "全20集",
+      "doubanRating": 6.1
     },
     {
       "id": "301489",
@@ -2816,7 +2991,8 @@
       "backdropPath": "/s9YSQAJtXjimsjBVsqLtJNnIjEs.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,剧情,犯罪",
-      "episodeText": "全16集"
+      "episodeText": "全16集",
+      "doubanRating": 7.1
     },
     {
       "id": "259785",
@@ -2832,7 +3008,8 @@
       "backdropPath": "/zBO9dnA1APQHyWYkQrkmavu1oWk.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全48集"
+      "episodeText": "全48集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "294990",
@@ -2848,7 +3025,8 @@
       "backdropPath": "/k3aKIWf48yCKnbCjk2b2Tea32Vk.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全30集"
+      "episodeText": "全30集",
+      "doubanRating": 5.4
     },
     {
       "id": "277910",
@@ -2864,7 +3042,8 @@
       "backdropPath": "/9BhaeMG3jNvRC9FrdpHAeDtboPN.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": 6.5
     },
     {
       "id": "290699",
@@ -2880,7 +3059,8 @@
       "backdropPath": "/Amn1fw4akG9jOZNTP1J4Xadry4T.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全30集"
+      "episodeText": "全30集",
+      "doubanRating": 6.4
     },
     {
       "id": "288328",
@@ -2896,7 +3076,8 @@
       "backdropPath": "/q48icceyDIuAZC9wL66ZEQF03oj.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 6.2
     },
     {
       "id": "332911",
@@ -2912,7 +3093,8 @@
       "backdropPath": "/ndewFqwioUF7o9iKoxtUm67Reum.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 7.2
     },
     {
       "id": "272938",
@@ -2928,7 +3110,8 @@
       "backdropPath": "/8zsKL8gDjv7NI7HHk4POIBMl2jE.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,动作冒险,科幻奇幻",
-      "episodeText": "全30集"
+      "episodeText": "全30集",
+      "doubanRating": 5.9
     },
     {
       "id": "304862",
@@ -2944,7 +3127,8 @@
       "backdropPath": "/zK09u5Fp5vg0FWxRz2JGdkfUFZ6.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至14集"
+      "episodeText": "更新至14集",
+      "doubanRating": 7.2
     },
     {
       "id": "286988",
@@ -2960,7 +3144,8 @@
       "backdropPath": "/aYtWVJ5mUkPRFghrCHbc3I2v4WE.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,喜剧",
-      "episodeText": "全24集"
+      "episodeText": "全24集",
+      "doubanRating": 6.0
     },
     {
       "id": "298546",
@@ -2976,7 +3161,8 @@
       "backdropPath": "/8XzT2RtggYp9qfASQfEX83Os45P.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,科幻奇幻",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 6.8
     },
     {
       "id": "330828",
@@ -2992,7 +3178,8 @@
       "backdropPath": "/jU6Tn28XPsqbY1dhPMnfSqt8R5X.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "全35集"
+      "episodeText": "全35集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "289761",
@@ -3008,7 +3195,8 @@
       "backdropPath": "/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全22集"
+      "episodeText": "全22集",
+      "doubanRating": 6.5
     },
     {
       "id": "286686",
@@ -3024,7 +3212,8 @@
       "backdropPath": "/7HXIhc3aRr1v7KmOrCulszXf3YP.jpg",
       "mediaType": "tv",
       "genreTitle": "家庭,剧情",
-      "episodeText": "全26集"
+      "episodeText": "全26集",
+      "doubanRating": 6.1
     },
     {
       "id": "312663",
@@ -3040,7 +3229,8 @@
       "backdropPath": "/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,喜剧,犯罪",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 6.6
     },
     {
       "id": "294487",
@@ -3056,7 +3246,8 @@
       "backdropPath": "/xirWeEiatY915u837oq1l2t4oPP.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全13集"
+      "episodeText": "全13集",
+      "doubanRating": 6.8
     },
     {
       "id": "195909",
@@ -3072,7 +3263,8 @@
       "backdropPath": "/2tXCjlUwsb7eAGh3ypnvAvQ3rCG.jpg",
       "mediaType": "tv",
       "genreTitle": "科幻奇幻,动作冒险",
-      "episodeText": "更新至13集"
+      "episodeText": "更新至13集",
+      "doubanRating": "暂无评分"
     }
   ],
   "tv_american": [
@@ -3090,7 +3282,8 @@
       "backdropPath": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.5
     },
     {
       "id": "213375",
@@ -3106,7 +3299,8 @@
       "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "mediaType": "tv",
       "genreTitle": "科幻奇幻,剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 8.6
     },
     {
       "id": "290826",
@@ -3122,7 +3316,8 @@
       "backdropPath": "/apHJDHRa0LMtZlcMvKK74InRMfc.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧",
-      "episodeText": "更新至10集"
+      "episodeText": "更新至10集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "283319",
@@ -3138,7 +3333,8 @@
       "backdropPath": "/woa9xtYfw1dib4JLnvQdLSZK0D2.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,犯罪",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 8.3
     },
     {
       "id": "299939",
@@ -3154,7 +3350,8 @@
       "backdropPath": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 7.3
     },
     {
       "id": "288673",
@@ -3170,7 +3367,8 @@
       "backdropPath": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,剧情,科幻奇幻",
-      "episodeText": "S01E08"
+      "episodeText": "S01E08",
+      "doubanRating": 7.8
     },
     {
       "id": "298852",
@@ -3186,7 +3384,8 @@
       "backdropPath": "/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.5
     },
     {
       "id": "208929",
@@ -3202,7 +3401,8 @@
       "backdropPath": "/bx0rz8YsuZtNXiv6DDzkA9cPaeY.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 9.5
     },
     {
       "id": "335326",
@@ -3218,7 +3418,8 @@
       "backdropPath": "/se2W0UpEsTTkQuAqz7zI5eIB5ri.jpg",
       "mediaType": "tv",
       "genreTitle": "",
-      "episodeText": "S10E02"
+      "episodeText": "S10E02",
+      "doubanRating": 9.5
     },
     {
       "id": "213562",
@@ -3234,7 +3435,8 @@
       "backdropPath": "/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.2
     },
     {
       "id": "308007",
@@ -3250,7 +3452,8 @@
       "backdropPath": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "303044",
@@ -3266,7 +3469,8 @@
       "backdropPath": "/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 6.7
     },
     {
       "id": "290720",
@@ -3282,7 +3486,8 @@
       "backdropPath": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,悬疑",
-      "episodeText": "全4集"
+      "episodeText": "全4集",
+      "doubanRating": 6.2
     },
     {
       "id": "254630",
@@ -3298,7 +3503,8 @@
       "backdropPath": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,犯罪,剧情",
-      "episodeText": "更新至3集"
+      "episodeText": "更新至3集",
+      "doubanRating": 6.7
     },
     {
       "id": "303630",
@@ -3314,7 +3520,8 @@
       "backdropPath": "/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 8.5
     },
     {
       "id": "300507",
@@ -3330,7 +3537,8 @@
       "backdropPath": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 6.8
     },
     {
       "id": "334470",
@@ -3346,7 +3554,8 @@
       "backdropPath": "/c5nYh3atmgiUCpvVnS28lYxDopL.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,剧情",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 7.3
     },
     {
       "id": "249565",
@@ -3362,7 +3571,8 @@
       "backdropPath": "/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪,悬疑",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 7.4
     },
     {
       "id": "321958",
@@ -3378,7 +3588,8 @@
       "backdropPath": "/wywNNHCRHJ129yTGTYBujnP4vRq.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪",
-      "episodeText": "更新至9集"
+      "episodeText": "更新至9集",
+      "doubanRating": 7.2
     },
     {
       "id": "339992",
@@ -3394,7 +3605,8 @@
       "backdropPath": "/hlGmzeIIExFrRQ0XUO4oXjTpFqM.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑,犯罪",
-      "episodeText": "更新至5集"
+      "episodeText": "更新至5集",
+      "doubanRating": 7.2
     },
     {
       "id": "336240",
@@ -3410,7 +3622,8 @@
       "backdropPath": "/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "全4集"
+      "episodeText": "全4集",
+      "doubanRating": 6.1
     },
     {
       "id": "303182",
@@ -3426,7 +3639,8 @@
       "backdropPath": "/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,悬疑,剧情",
-      "episodeText": "全3集"
+      "episodeText": "全3集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "336243",
@@ -3442,7 +3656,8 @@
       "backdropPath": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,犯罪",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "333533",
@@ -3458,7 +3673,8 @@
       "backdropPath": "/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全3集"
+      "episodeText": "全3集",
+      "doubanRating": 7.8
     },
     {
       "id": "314360",
@@ -3474,7 +3690,8 @@
       "backdropPath": "/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,科幻奇幻,悬疑",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 6.5
     },
     {
       "id": "292741",
@@ -3490,7 +3707,8 @@
       "backdropPath": "/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情,悬疑",
-      "episodeText": "更新至5集"
+      "episodeText": "更新至5集",
+      "doubanRating": 7.4
     }
   ],
   "tv_japanese": [
@@ -3508,7 +3726,8 @@
       "backdropPath": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,悬疑",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 6.6
     },
     {
       "id": "300527",
@@ -3524,7 +3743,8 @@
       "backdropPath": "/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 8.3
     },
     {
       "id": "332683",
@@ -3540,7 +3760,8 @@
       "backdropPath": "/4Htao8kvzIdGVImpD614CCQgjDc.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 7.6
     },
     {
       "id": "339439",
@@ -3556,7 +3777,8 @@
       "backdropPath": "/fQcvCzc1ftR401QeUjprgEFS9oN.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "S06E06"
+      "episodeText": "S06E06",
+      "doubanRating": 8.7
     },
     {
       "id": "334323",
@@ -3572,7 +3794,8 @@
       "backdropPath": "/jb5b3OUZwer2bj26F1UVEtRLtBZ.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 7.5
     },
     {
       "id": "332261",
@@ -3588,7 +3811,8 @@
       "backdropPath": "/7xTvFsxac5k3xIH0cTOkNsEDcm1.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,犯罪",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.3
     },
     {
       "id": "332713",
@@ -3604,7 +3828,8 @@
       "backdropPath": "/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 6.1
     },
     {
       "id": "298008",
@@ -3620,7 +3845,8 @@
       "backdropPath": "/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 6.2
     },
     {
       "id": "329490",
@@ -3636,7 +3862,8 @@
       "backdropPath": "/blB4qv0LlOUriouoPqkFJlLe6Ki.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": 7.1
     },
     {
       "id": "333359",
@@ -3652,7 +3879,8 @@
       "backdropPath": "/6oGPrA82ioCLQq9Jtg6SSGdYfNw.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 7.0
     },
     {
       "id": "318445",
@@ -3668,7 +3896,8 @@
       "backdropPath": "/iAlEIgE5Tx56kzuaYpLPV63hJwN.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,科幻奇幻",
-      "episodeText": "更新至11集"
+      "episodeText": "更新至11集",
+      "doubanRating": 7.5
     },
     {
       "id": "320513",
@@ -3684,7 +3913,8 @@
       "backdropPath": "/f2XoQ4503j04kyPFIA6qqweZaRE.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 5.3
     },
     {
       "id": "333357",
@@ -3700,7 +3930,8 @@
       "backdropPath": "/v5RH4TCQSsvEahVqy3pGMFC0x12.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.5
     },
     {
       "id": "334689",
@@ -3716,7 +3947,8 @@
       "backdropPath": "/tTy21VBrZrjxtTNIpx8TY5QWlf2.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至1集"
+      "episodeText": "更新至1集",
+      "doubanRating": 6.5
     },
     {
       "id": "312523",
@@ -3732,7 +3964,8 @@
       "backdropPath": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全7集"
+      "episodeText": "全7集",
+      "doubanRating": 6.7
     },
     {
       "id": "311955",
@@ -3748,7 +3981,8 @@
       "backdropPath": "/iWeUBHcVZANmKptWXAwm7BG2q5K.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 6.8
     },
     {
       "id": "330629",
@@ -3764,7 +3998,8 @@
       "backdropPath": "/qG4Bw5eEM7YkcvnfFbjrXYhbrhE.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑",
-      "episodeText": "更新至3集"
+      "episodeText": "更新至3集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "334678",
@@ -3780,7 +4015,8 @@
       "backdropPath": "/2Z8xvQTkrngX0xqwPoWxlKxVacZ.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 6.6
     },
     {
       "id": "332637",
@@ -3796,7 +4032,8 @@
       "backdropPath": "/hIo7Czcpt5Y49t4pxFQzhvV61cj.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至1集"
+      "episodeText": "更新至1集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "330628",
@@ -3812,7 +4049,8 @@
       "backdropPath": "/4poiW4klQUQvkNlCahw3Gj4s2Qq.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "更新至4集"
+      "episodeText": "更新至4集",
+      "doubanRating": "暂无评分"
     }
   ],
   "tv_korean": [
@@ -3830,7 +4068,8 @@
       "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,剧情,犯罪",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 8.6
     },
     {
       "id": "293610",
@@ -3846,7 +4085,8 @@
       "backdropPath": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,剧情,犯罪",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 8.0
     },
     {
       "id": "303552",
@@ -3862,7 +4102,8 @@
       "backdropPath": "/uM1UWqjY4bGtiSRqYTVtAraRPnh.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,悬疑,剧情",
-      "episodeText": "更新至2集"
+      "episodeText": "更新至2集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "279246",
@@ -3878,7 +4119,8 @@
       "backdropPath": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,科幻奇幻",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 6.0
     },
     {
       "id": "300523",
@@ -3894,7 +4136,8 @@
       "backdropPath": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,悬疑",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 6.6
     },
     {
       "id": "289517",
@@ -3910,7 +4153,8 @@
       "backdropPath": "/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
       "mediaType": "tv",
       "genreTitle": "悬疑,剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 6.5
     },
     {
       "id": "293607",
@@ -3926,7 +4170,8 @@
       "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,剧情",
-      "episodeText": "更新至14集"
+      "episodeText": "更新至14集",
+      "doubanRating": 8.0
     },
     {
       "id": "307106",
@@ -3942,7 +4187,8 @@
       "backdropPath": "/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,喜剧",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 7.6
     },
     {
       "id": "294636",
@@ -3958,7 +4204,8 @@
       "backdropPath": "/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 8.0
     },
     {
       "id": "311648",
@@ -3974,7 +4221,8 @@
       "backdropPath": "/4vqJTCRzckYrsqqaXCiN1ObJBNL.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,喜剧",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 7.5
     },
     {
       "id": "289423",
@@ -3990,7 +4238,8 @@
       "backdropPath": "/cnb3SelfQKewpo0bw4HCNRHjwY4.jpg",
       "mediaType": "tv",
       "genreTitle": "科幻奇幻,喜剧,剧情",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 7.1
     },
     {
       "id": "310209",
@@ -4006,7 +4255,8 @@
       "backdropPath": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,喜剧",
-      "episodeText": "更新至1集"
+      "episodeText": "更新至1集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "293607",
@@ -4022,7 +4272,8 @@
       "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,剧情",
-      "episodeText": "更新至14集"
+      "episodeText": "更新至14集",
+      "doubanRating": 7.2
     },
     {
       "id": "275102",
@@ -4038,7 +4289,8 @@
       "backdropPath": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 5.5
     },
     {
       "id": "314939",
@@ -4054,7 +4306,8 @@
       "backdropPath": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全14集"
+      "episodeText": "全14集",
+      "doubanRating": 5.2
     },
     {
       "id": "305644",
@@ -4070,7 +4323,8 @@
       "backdropPath": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 7.4
     },
     {
       "id": "313738",
@@ -4086,7 +4340,8 @@
       "backdropPath": "/4LG8B2AkdFNidV8EQn6J3GH68lF.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,剧情",
-      "episodeText": "更新至6集"
+      "episodeText": "更新至6集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "290193",
@@ -4102,7 +4357,8 @@
       "backdropPath": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情,悬疑",
-      "episodeText": "全10集"
+      "episodeText": "全10集",
+      "doubanRating": 6.5
     },
     {
       "id": "320513",
@@ -4118,7 +4374,8 @@
       "backdropPath": "/f2XoQ4503j04kyPFIA6qqweZaRE.jpg",
       "mediaType": "tv",
       "genreTitle": "犯罪,剧情",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 5.3
     },
     {
       "id": "316197",
@@ -4134,7 +4391,8 @@
       "backdropPath": "/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,剧情,科幻奇幻",
-      "episodeText": "全12集"
+      "episodeText": "全12集",
+      "doubanRating": 5.5
     },
     {
       "id": "301354",
@@ -4150,7 +4408,8 @@
       "backdropPath": "/ohxUMg44IaMTtdaSmPn1M1QW3Js.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,战争政治",
-      "episodeText": "更新至4集"
+      "episodeText": "更新至4集",
+      "doubanRating": "暂无评分"
     }
   ],
   "tv_animation": [
@@ -4167,7 +4426,8 @@
       "posterPath": "/id15rr4VKQOrxBBBgMe7MfITzTT.jpg",
       "backdropPath": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
       "mediaType": "tv",
-      "genreTitle": "动画,剧情,科幻奇幻,悬疑"
+      "genreTitle": "动画,剧情,科幻奇幻,悬疑",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "283938",
@@ -4183,7 +4443,8 @@
       "backdropPath": "/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,喜剧",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 8.3
     },
     {
       "id": "311842",
@@ -4199,7 +4460,8 @@
       "backdropPath": "/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,喜剧",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 8.1
     },
     {
       "id": "283428",
@@ -4215,7 +4477,8 @@
       "backdropPath": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,剧情",
-      "episodeText": "更新至22集"
+      "episodeText": "更新至22集",
+      "doubanRating": 8.5
     },
     {
       "id": "284580",
@@ -4231,7 +4494,8 @@
       "backdropPath": "/dANKBnapgjG7QmXeRZ6xQg8czX0.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,动作冒险,悬疑,科幻奇幻",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 7.9
     },
     {
       "id": "314478",
@@ -4247,7 +4511,8 @@
       "backdropPath": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,喜剧",
-      "episodeText": "更新至8集"
+      "episodeText": "更新至8集",
+      "doubanRating": 7.3
     },
     {
       "id": "284833",
@@ -4263,7 +4528,8 @@
       "backdropPath": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,动作冒险,科幻奇幻,家庭",
-      "episodeText": "S01E13"
+      "episodeText": "S01E13",
+      "doubanRating": 7.2
     },
     {
       "id": "314271",
@@ -4279,7 +4545,8 @@
       "backdropPath": "/ygjcwHWhhCaNPaPP965Du7eR2gO.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,西部,科幻奇幻",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": "暂无评分"
     },
     {
       "id": "312359",
@@ -4295,7 +4562,8 @@
       "backdropPath": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
       "mediaType": "tv",
       "genreTitle": "动画,动作冒险,科幻奇幻",
-      "episodeText": "更新至7集"
+      "episodeText": "更新至7集",
+      "doubanRating": 8.4
     },
     {
       "id": "328010",
@@ -4311,7 +4579,8 @@
       "backdropPath": "/fA6eLsm6xEBK90IK3UNWoVPZBn7.jpg",
       "mediaType": "tv",
       "genreTitle": "动作冒险,科幻奇幻,动画",
-      "episodeText": "更新至4集"
+      "episodeText": "更新至4集",
+      "doubanRating": "暂无评分"
     }
   ],
   "tv_documentary": [
@@ -4329,7 +4598,8 @@
       "backdropPath": "/bx0rz8YsuZtNXiv6DDzkA9cPaeY.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全6集"
+      "episodeText": "全6集",
+      "doubanRating": 9.5
     },
     {
       "id": "335326",
@@ -4345,7 +4615,8 @@
       "backdropPath": "/se2W0UpEsTTkQuAqz7zI5eIB5ri.jpg",
       "mediaType": "tv",
       "genreTitle": "",
-      "episodeText": "S10E02"
+      "episodeText": "S10E02",
+      "doubanRating": 9.5
     },
     {
       "id": "333533",
@@ -4361,7 +4632,8 @@
       "backdropPath": "/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全3集"
+      "episodeText": "全3集",
+      "doubanRating": 7.8
     },
     {
       "id": "335536",
@@ -4377,7 +4649,8 @@
       "backdropPath": "/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全4集"
+      "episodeText": "全4集",
+      "doubanRating": 8.4
     },
     {
       "id": "331616",
@@ -4393,7 +4666,8 @@
       "backdropPath": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片,犯罪",
-      "episodeText": "全3集"
+      "episodeText": "全3集",
+      "doubanRating": 7.2
     },
     {
       "id": "279884",
@@ -4409,7 +4683,8 @@
       "backdropPath": "/gHPr19knxIUckVn2r11Jjb4WvjM.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全4集"
+      "episodeText": "全4集",
+      "doubanRating": 9.1
     },
     {
       "id": "258899",
@@ -4425,7 +4700,8 @@
       "backdropPath": "/7t86NTgEu82yVM8fef1J9BAlrAe.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全5集"
+      "episodeText": "全5集",
+      "doubanRating": 8.5
     },
     {
       "id": "205002",
@@ -4441,7 +4717,8 @@
       "backdropPath": "/3ZXBYjKCc7OyG1d4BY0Qubzrf62.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全8集"
+      "episodeText": "全8集",
+      "doubanRating": 7.9
     },
     {
       "id": "316992",
@@ -4457,7 +4734,8 @@
       "backdropPath": "/xVN8rq2VM9cvFmM0grv1AFnhO6d.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全20集"
+      "episodeText": "全20集",
+      "doubanRating": 8.8
     },
     {
       "id": "329274",
@@ -4473,7 +4751,8 @@
       "backdropPath": "/ucEswoBdNxw3UchQ6WHxnGU4g1a.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全3集"
+      "episodeText": "全3集",
+      "doubanRating": 8.3
     },
     {
       "id": "323111",
@@ -4489,7 +4768,8 @@
       "backdropPath": "/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片",
-      "episodeText": "全3集"
+      "episodeText": "全3集",
+      "doubanRating": 6.0
     },
     {
       "id": "277640",
@@ -4505,7 +4785,8 @@
       "backdropPath": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg",
       "mediaType": "tv",
       "genreTitle": "纪录片,剧情",
-      "episodeText": "全3集"
+      "episodeText": "全3集",
+      "doubanRating": 7.5
     }
   ],
   "show_domestic": [
@@ -4523,7 +4804,8 @@
       "backdropPath": "/vOu2RYpWGGScdYpNw8WVmDbjdUs.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "更新至10期"
+      "episodeText": "更新至10期",
+      "doubanRating": 8.7
     },
     {
       "id": "322628",
@@ -4539,7 +4821,8 @@
       "backdropPath": "/sTGrqnuAaFDgZvvsrsA4UiPP4um.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "更新至6期"
+      "episodeText": "更新至6期",
+      "doubanRating": 4.0
     },
     {
       "id": "341851",
@@ -4555,7 +4838,8 @@
       "backdropPath": "/dsrLYLsoVJwrKP7h3tR3pvmCZId.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "全2期"
+      "episodeText": "全2期",
+      "doubanRating": "暂无评分"
     }
   ],
   "show_foreign": [
@@ -4573,7 +4857,8 @@
       "backdropPath": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
       "mediaType": "tv",
       "genreTitle": "喜剧,纪录片",
-      "episodeText": "更新至2集"
+      "episodeText": "更新至2集",
+      "doubanRating": 8.5
     },
     {
       "id": "325056",
@@ -4589,7 +4874,8 @@
       "backdropPath": "/6Cw6swnE9qTEvOwJ3XnXjQ4SeGU.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "全12期"
+      "episodeText": "全12期",
+      "doubanRating": 8.8
     },
     {
       "id": "325828",
@@ -4605,7 +4891,8 @@
       "backdropPath": "/gadfd2JM9gMnHLEk2HhxJS3zMKQ.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "全4期"
+      "episodeText": "全4期",
+      "doubanRating": 9.0
     },
     {
       "id": "327830",
@@ -4621,7 +4908,8 @@
       "backdropPath": "/v1DTZRkobEWloLKQ70xUA2sExTJ.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "全12期"
+      "episodeText": "全12期",
+      "doubanRating": 7.8
     },
     {
       "id": "327298",
@@ -4637,7 +4925,8 @@
       "backdropPath": "/db3I5k8izrdGnYCyegjyxUhiemy.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "更新至10期"
+      "episodeText": "更新至10期",
+      "doubanRating": 6.7
     },
     {
       "id": "323962",
@@ -4653,7 +4942,8 @@
       "backdropPath": "/e59plRzye9BXMqCsEzCtz6O67Am.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "全6期"
+      "episodeText": "全6期",
+      "doubanRating": 7.8
     },
     {
       "id": "323204",
@@ -4669,7 +4959,8 @@
       "backdropPath": "/tBe0NxZDFAsNftfhdT6O3SOR53K.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "S02E04"
+      "episodeText": "S02E04",
+      "doubanRating": 8.1
     },
     {
       "id": "332282",
@@ -4685,7 +4976,8 @@
       "backdropPath": "/hBBEXsg8odkVGUAJpxUTm2DiCcm.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "全9期"
+      "episodeText": "全9期",
+      "doubanRating": 8.1
     },
     {
       "id": "330932",
@@ -4701,7 +4993,8 @@
       "backdropPath": "/otMxoTaxvkj1hci9tJrgd1o51mq.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "全10期"
+      "episodeText": "全10期",
+      "doubanRating": 7.1
     },
     {
       "id": "324111",
@@ -4717,7 +5010,8 @@
       "backdropPath": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "全8期"
+      "episodeText": "全8期",
+      "doubanRating": 7.0
     },
     {
       "id": "329703",
@@ -4733,7 +5027,8 @@
       "backdropPath": "/sNJuYvCA5R1NrLJ4AqiJ7jjklAi.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "全8期"
+      "episodeText": "全8期",
+      "doubanRating": 7.3
     },
     {
       "id": "320462",
@@ -4749,7 +5044,8 @@
       "backdropPath": "/pqielbt45QnsLsraUC6U1BEnHU8.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "全12期"
+      "episodeText": "全12期",
+      "doubanRating": 7.0
     },
     {
       "id": "318167",
@@ -4765,7 +5061,8 @@
       "backdropPath": "/uHPtKoWjQNjRkbUJ0DNUj7kwtHO.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀,喜剧",
-      "episodeText": "全10期"
+      "episodeText": "全10期",
+      "doubanRating": 7.5
     },
     {
       "id": "325001",
@@ -4781,7 +5078,8 @@
       "backdropPath": "/skJakvxpq6I6LgNvhjNDswiY7Yd.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "全12期"
+      "episodeText": "全12期",
+      "doubanRating": 7.5
     },
     {
       "id": "322803",
@@ -4797,7 +5095,8 @@
       "backdropPath": "/vOQUiJ8sokhHTUzaH8VO0fDsEXk.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀",
-      "episodeText": "更新至8期"
+      "episodeText": "更新至8期",
+      "doubanRating": 7.9
     }
   ],
   "comments": {
@@ -4832,9 +5131,9 @@
       "rating": 4
     },
     "tv.300146": {
-      "text": "那个大伯母的演员演的太好了吧 情绪太好了好有感染力",
-      "author": "Abyss",
-      "rating": 4
+      "text": "真假魏娆认亲这part张力拉满了，几伙人不同立场的拉扯，真相不停反转又反转，好精彩",
+      "author": "怀瑾瑜兮⠀",
+      "rating": 5
     },
     "tv.289080": {
       "text": "韩东君太太太太帅了吧！！这样一个逼王角色居然没有一点油腻，太清爽了！！",
@@ -4892,9 +5191,9 @@
       "rating": 5
     },
     "tv.275297": {
-      "text": "让子弹溜达……粗溜……嘚瑟……一会",
-      "author": "空三",
-      "rating": 3
+      "text": "比任何一部流量明星演的剧都好看多了🤩",
+      "author": "蓉蓉酱",
+      "rating": 5
     },
     "tv.301494": {
       "text": "太逗了😆 如果马伊琍换成马苏 那得更好看…😂",
@@ -4932,9 +5231,9 @@
       "rating": 3
     },
     "tv.294498": {
-      "text": "闻佳音一个外女带着亲闺女照顾一大家爷们儿…",
-      "author": "cat",
-      "rating": 5
+      "text": "好吵好吵 除了蒋欣没一个人能看 梁冠华的角色人设是真差 杨采钰在里面格格不入",
+      "author": "桃桃🍫",
+      "rating": 1
     },
     "tv.270431": {
       "text": "职场部分确实很烂，但二人转部分还不错，罪不至4.7吧。",
@@ -4942,9 +5241,9 @@
       "rating": 3
     },
     "tv.304452": {
-      "text": "虞昶轩现在手段多狠，以后追妻的路就有多长，天道好轮回，编剧请成全",
-      "author": "鱼罐头",
-      "rating": 5
+      "text": "前期在平君面前有多强势，现在得不到平君的爱就有多嫉妒，虐虞昶轩是真爽啊，编剧会写。",
+      "author": "汉堡黄",
+      "rating": 4
     },
     "tv.292044": {
       "text": "节奏比较慢，一些人真是看剧的吗？随手就一星，三四集还不错。",
@@ -5222,9 +5521,9 @@
       "rating": 1
     },
     "tv.283938": {
-      "text": "75分。 根本没有这种剧情好不。",
-      "author": "懿生",
-      "rating": 4
+      "text": "没有黄段子的无聊世界后继有人，卖最多的竟是正太伪娘",
+      "author": "一颗小鱼圆",
+      "rating": 5
     },
     "tv.311842": {
       "text": "这是中年不宜的成人动画",
