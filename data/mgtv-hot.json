@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26 16:41:10",
+  "last_updated": "2026-11-27 05:46:45",
   "tv": [
     {
       "id": "285147",
@@ -1050,21 +1050,6 @@
       "backdropPath": "/1QI0AGTtjoCssnQx8Uf1mxuv1Ba.jpg",
       "mediaType": "tv",
       "genreTitle": "剧情,悬疑"
-    },
-    {
-      "id": "292084",
-      "type": "tmdb",
-      "title": "我们存在的理由",
-      "description": "周氏集团大公子周楠面临科研资金短缺之际，金主墨菲携投资从天而降入主周家。这位未来的弟媳，竟与自己的白月光沈默，长着同一张脸。周楠虽认定墨菲背后另有目的，却在与她的你来我往中不断回忆起昔日与沈默共同“追风”的青春时光。七年前让二人命运骤变的真相，也在与墨菲的拉锯战中逐渐浮出水面……",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 0.8473,
-      "releaseDate": "2025-07-10",
-      "lastUpdateDate": "2025-07-16",
-      "posterPath": "/pJj2yILsnwEVXj5Fm4qBesCgMvG.jpg",
-      "backdropPath": "/yK6kU63QOLHVpIgFtRuLXrffTEo.jpg",
-      "mediaType": "tv",
-      "genreTitle": "剧情"
     }
   ],
   "show": [
@@ -1257,7 +1242,7 @@
       "voteCount": 1,
       "popularity": 2.1874,
       "releaseDate": "2026-11-08",
-      "lastUpdateDate": "2026-11-15",
+      "lastUpdateDate": "2026-11-17",
       "posterPath": "/m6m7ER6bh6AuTPeqvzRoYbZwo6f.jpg",
       "backdropPath": "/4mI7g0drsd5Apitp0hs4cr34dtB.jpg",
       "mediaType": "tv",
