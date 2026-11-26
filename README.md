@@ -2,7 +2,6 @@
 
 一个用 **GitHub Actions 每日定时抓取**榜单数据并提交到仓库的工程，产出多类榜单 JSON，另附可直接加载的 fw/rex 聚合模块。
 
-> 本仓库只做数据抓取与聚合模块，**脚本（`scripts/`）未做改动**；`widget.js` 与 `README.md` 为新增。
 
 ## 抓取的 5 个源
 | 源 | 内容 | 数据文件 |
@@ -18,6 +17,8 @@
 | 动画疯 | 通过仓库 Secret 中的台湾 SOCKS5 抓取月人气与年份榜，并匹配 TMDB ID | `data/anigamer-hot.json` |
 
 每个条目都经过 TMDB 匹配，自带 `title / rating / posterPath / mediaType / releaseDate` 等完整字段。
+
+豆瓣热榜条目可另带 `episodeText`，如「更新至16集」「全24集」「S02E04」。抓取时读取豆瓣 `episodes_info`，并复用原有 TMDB 详情请求：多季取已播常规季集，单季可补连载或完结状态。`共N集` 只表示总数，缺依据则不写字段；`description`、`genreTitle`、原 ID、排序日期与 `comments` 保持原义。
 
 来源站只决定入榜范围、分类和默认顺序；模块展示的标题、简介、海报、背景图、日期、评分和类型均来自 TMDB，不返回来源热度、来源评分或排名字段。
 

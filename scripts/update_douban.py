@@ -1,5 +1,4 @@
 import asyncio
-import aiohttp
 import json
 import os
 import datetime
@@ -51,6 +50,39 @@ def clean_douban_title(raw_title):
     title = re.sub(r'\s+', ' ', title).strip()
     return title
 
+
+def tmdb_episode_text(detail, today):
+    """只用已到播出日的常规集；总集数不是最新已播集。"""
+    last = detail.get("last_episode_to_air") or {}
+    season, episode = last.get("season_number"), last.get("episode_number")
+    try:
+        aired = datetime.date.fromisoformat(last.get("air_date") or "") <= today
+    except ValueError:
+        aired = False
+    if not aired or type(season) is not int or type(episode) is not int or min(season, episode) < 1:
+        return ""
+    if season > 1 or (detail.get("number_of_seasons") or 0) > 1:
+        return f"S{season:02d}E{episode:02d}"
+    total = detail.get("number_of_episodes")
+    unit = "期" if any(g.get("id") in (10764, 10767) for g in detail.get("genres", [])) else "集"
+    if detail.get("status") == "Ended" and not detail.get("next_episode_to_air") and total == episode:
+        return f"全{episode}{unit}"
+    return f"更新至{episode}{unit}"
+
+
+def with_douban_progress(info, text):
+    # TMDB 缓存按剧共享；豆瓣的集数属于当前榜单条目，不能写回缓存。
+    fallback = info.get("episodeText", "")
+    if fallback.startswith("S"):
+        return info
+    text = re.sub(r"\s+", "", text or "")
+    text = re.sub(r"^(\d+)(集|期)全$", r"全\1\2", text)
+    match = re.fullmatch(r"(更新至|更至|全|共)第?(0*[1-9]\d*)(集|期)", text)
+    if not match or (match[1] == "共" and fallback):
+        return info
+    prefix = "更新至" if match[1] == "更至" else match[1]
+    return {**info, "episodeText": f"{prefix}{match[2]}{match[3]}"}
+
 async def fetch_douban_list(session, region):
     """请求豆瓣隐藏API，获取基础列表"""
     params = {"start": 0, "limit": region["limit"], "type": region["value"]}
@@ -83,7 +115,7 @@ async def fetch_tmdb_detail(session, item, cache):
 
     cache_key = f"{db_title}_{db_year}"
     if cache_key in cache: 
-        return cache[cache_key]
+        return with_douban_progress(cache[cache_key], item.get("episodes_info"))
 
     url = "https://api.themoviedb.org/3/search/tv"
     headers = {"accept": "application/json"}
@@ -140,12 +172,15 @@ async def fetch_tmdb_detail(session, item, cache):
                         detail_params["api_key"] = TMDB_API_KEY
                         
                     last_update_date = first_air # 默认用首播日期兜底
+                    episode_text = ""
                     try:
                         async with session.get(detail_url, params=detail_params, headers=headers) as d_resp:
                             if d_resp.status == 200:
                                 d_data = await d_resp.json()
                                 # 获取最新播出日期，如果没有则退回到首播日期
                                 last_update_date = d_data.get("last_air_date") or first_air
+                                today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).date()
+                                episode_text = tmdb_episode_text(d_data, today)
                     except Exception as e:
                         pass # 详情获取失败不影响主体逻辑
 
@@ -167,8 +202,10 @@ async def fetch_tmdb_detail(session, item, cache):
                         "mediaType": "tv",
                         "genreTitle": genre_names
                     }
+                    if episode_text:
+                        info["episodeText"] = episode_text
                     cache[cache_key] = info
-                    return info
+                    return with_douban_progress(info, item.get("episodes_info"))
     except: pass
     return None
 
@@ -220,6 +257,7 @@ async def batch_process(session, items, size, cache):
     return results
 
 async def main():
+    import aiohttp
     if not TMDB_API_KEY:
         print("❌ 错误: 未检测到 TMDB_API_KEY 环境变量！")
         return
@@ -260,6 +298,8 @@ async def main():
             print(f"   => 本榜新增热评 {added} 条，累计 {len([v for v in comments.values() if v])} 条")
 
     # 记录最后更新时间 (北京时间)
+    if not any(final_result[r["value"]] for r in REGIONS):
+        raise RuntimeError("本次没有匹配到任何作品，保留旧榜单")
     tz_bj = datetime.timezone(datetime.timedelta(hours=8))
     final_result["last_updated"] = datetime.datetime.now(tz_bj).strftime("%Y-%m-%d %H:%M:%S")
     # 独立数据组：键为 "mediaType.tmdbId"，只放简短热评，不掺进榜单条目字段
