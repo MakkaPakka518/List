@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27 16:52:19",
+  "last_updated": "2026-11-28 05:30:15",
   "tv": [
     {
       "id": "285147",
@@ -291,7 +291,7 @@
       "type": "tmdb",
       "title": "良陈美锦",
       "description": "顾家大姑娘顾锦朝自出生起便被寄养在外祖家。亲生父母的忽视、外祖母的宠爱，让顾锦朝开启了自己肆无忌惮的人生。回到顾家后，顾锦朝始终亮着利爪，应对各种人与事，与一般闺阁女子颇为不同。顾锦朝蓬勃的生命力直击内阁权臣陈三爷的心，也深深吸引着世子爷叶限、端方君子陈玄青。面对婚嫁问题，顾锦朝有自己的婚恋观。在她逐渐看清了自己内心之后，她坚定地选择了那个尊重她本性，容许她做自己的陈三爷。俩人婚后，她也逐渐成长为合格的重臣夫人，辅佐陈三爷一步步登上首辅之位，与陈三爷携手，将利国利民的一系列政策推行天下，解百姓之苦，成就太平盛世。\n\n本片根据沉香灰烬的同名小说改编。",
-      "rating": 7.8,
+      "rating": 7.818,
       "voteCount": 11,
       "popularity": 9.1884,
       "releaseDate": "2026-05-03",
@@ -1054,6 +1054,21 @@
   ],
   "show": [
     {
+      "id": "135286",
+      "type": "tmdb",
+      "title": "好好生活",
+      "description": "　　吴忧领证当天因为车祸放了男友鸽子，男友分手出国，吴忧伤心寄情工作，却与“大魔王”何西亚擦出火花，两人斗智斗勇成为欢喜冤家，吴忧发现他竟然是自己遭遇车祸时的救命恩人，勇敢追爱。",
+      "rating": 6.0,
+      "voteCount": 3,
+      "popularity": 3.389,
+      "releaseDate": "2021-10-14",
+      "lastUpdateDate": "2021-11-11",
+      "posterPath": "/n8iDqnNuUVSc4FUZsNDqyt2gsiJ.jpg",
+      "backdropPath": "/epWsNjvB0GJp2YxwA1uQ9PSVMPl.jpg",
+      "mediaType": "tv",
+      "genreTitle": "剧情,喜剧"
+    },
+    {
       "id": "341434",
       "type": "tmdb",
       "title": "后会友期 沉浸版",
@@ -1062,7 +1077,7 @@
       "voteCount": 0,
       "popularity": 1.285,
       "releaseDate": "2026-10-22",
-      "lastUpdateDate": "2026-11-06",
+      "lastUpdateDate": "2026-11-20",
       "posterPath": "/bNVRk1wQas6mHedxbfwVCqsNURF.jpg",
       "backdropPath": "/f7Nbj5FwSsoCqxE2ZWq1MMcu8Kd.jpg",
       "mediaType": "tv",
@@ -1077,7 +1092,7 @@
       "voteCount": 2,
       "popularity": 11.9847,
       "releaseDate": "2026-10-22",
-      "lastUpdateDate": "2026-11-19",
+      "lastUpdateDate": "2026-11-26",
       "posterPath": "/pH1zpLMuagE8wji4kg3SEJ1RB3.jpg",
       "backdropPath": "/vOu2RYpWGGScdYpNw8WVmDbjdUs.jpg",
       "mediaType": "tv",
@@ -1347,7 +1362,7 @@
       "voteCount": 3,
       "popularity": 4.6387,
       "releaseDate": "2022-10-30",
-      "lastUpdateDate": "2026-10-25",
+      "lastUpdateDate": "2026-11-08",
       "posterPath": "/Ae54oy5TD5YdLOqNv76Fpa7hbAG.jpg",
       "backdropPath": "/ullxyYDWmmAoNj7jdtnT4hOONcI.jpg",
       "mediaType": "tv",
@@ -1797,26 +1812,11 @@
       "voteCount": 3,
       "popularity": 4.6387,
       "releaseDate": "2022-10-30",
-      "lastUpdateDate": "2026-10-25",
+      "lastUpdateDate": "2026-11-08",
       "posterPath": "/Ae54oy5TD5YdLOqNv76Fpa7hbAG.jpg",
       "backdropPath": "/ullxyYDWmmAoNj7jdtnT4hOONcI.jpg",
       "mediaType": "tv",
       "genreTitle": "真人秀"
-    },
-    {
-      "id": "304080",
-      "type": "tmdb",
-      "title": "当家爸爸的聚会",
-      "description": "节目计划开启一年两季的寒暑假季番规划，每季10期。首季将由《爸爸当家·慢享季》中热度最高的王永鸿家庭作为“东道主”发起聚会邀请，邀约全职爸爸互助会中有时间聚会的几组家庭，开启一段以“来我家聚一聚”为主题的家乡团建和研学之旅。",
-      "rating": 0.0,
-      "voteCount": 0,
-      "popularity": 0.696,
-      "releaseDate": "2025-10-15",
-      "lastUpdateDate": "2026-10-25",
-      "posterPath": "/12LyvRx6OHbwx5DTnjOKSwWJRZ2.jpg",
-      "backdropPath": "/zIxgzMsXIOBSxHlkpbsHiKuBCyO.jpg",
-      "mediaType": "tv",
-      "genreTitle": "真人秀,家庭"
     }
   ]
 }
